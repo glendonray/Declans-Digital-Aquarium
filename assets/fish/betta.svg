@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="120" height="80">
+  <!-- Betta Fish - Flowing purple/pink fins -->
+  <defs>
+    <linearGradient id="bettaBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#A78BFA"/>
+      <stop offset="100%" style="stop-color:#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="bettaFin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899"/>
+      <stop offset="50%" style="stop-color:#8B5CF6"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Flowing tail -->
+  <path d="M15 40 Q-5 20 10 5 Q20 15 25 40 Q20 65 10 75 Q-5 60 15 40" 
+        fill="url(#bettaFin)" opacity="0.9"/>
+  <path d="M20 40 Q5 25 15 10 Q25 20 28 40 Q25 60 15 70 Q5 55 20 40" 
+        fill="url(#bettaFin)" opacity="0.7"/>
+  
+  <!-- Dorsal fin (flowing) -->
+  <path d="M40 20 Q35 5 50 2 Q60 5 65 15 Q55 18 45 20" 
+        fill="url(#bettaFin)" opacity="0.9"/>
+  
+  <!-- Ventral fins -->
+  <path d="M55 55 Q45 75 40 70 Q50 60 55 55" fill="url(#bettaFin)" opacity="0.8"/>
+  <path d="M60 55 Q55 72 50 68 Q58 58 60 55" fill="url(#bettaFin)" opacity="0.8"/>
+  
+  <!-- Body -->
+  <ellipse cx="60" cy="40" rx="30" ry="18" fill="url(#bettaBody)"/>
+  
+  <!-- Scales shimmer -->
+  <ellipse cx="50" cy="38" rx="3" ry="2" fill="#C4B5FD" opacity="0.5"/>
+  <ellipse cx="58" cy="42" rx="3" ry="2" fill="#C4B5FD" opacity="0.5"/>
+  <ellipse cx="66" cy="38" rx="3" ry="2" fill="#C4B5FD" opacity="0.5"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="70" cy="45" rx="10" ry="5" fill="url(#bettaFin)" opacity="0.7"/>
+  
+  <!-- Eye -->
+  <circle cx="80" cy="38" r="6" fill="#FFF"/>
+  <circle cx="82" cy="38" r="3.5" fill="#1E293B"/>
+  <circle cx="83" cy="36" r="1.2" fill="#FFF"/>
+  
+  <!-- Mouth -->
+  <path d="M92 42 Q96 44 92 46" stroke="#7C3AED" stroke-width="1.5" fill="none"/>
+  
+  <!-- Cute blush -->
+  <ellipse cx="85" cy="48" rx="4" ry="2" fill="#F9A8D4" opacity="0.5"/>
+</svg>

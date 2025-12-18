@@ -1,0 +1,138 @@
+// ============================================
+// DESIGN TOKENS - Source of Truth
+// Compiles to CSS Custom Properties
+// ============================================
+
+// --- Colors ---
+$colors: (
+  // Water & Environment
+  "water-light": #7dd3fc,
+  "water-mid": #0ea5e9,
+  "water-dark": #0369a1,
+  "sand": #fde68a,
+  "sand-dark": #fbbf24,
+  "plant": #22c55e,
+
+  // UI Colors
+  "surface": #ffffff,
+  "surface-glass": rgba(255, 255, 255, 0.15),
+  "text-primary": #1e293b,
+  "text-secondary": #64748b,
+  "text-inverse": #ffffff,
+
+  // Accent
+  "bubble": rgba(255, 255, 255, 0.6),
+  "speech-bg": #fffbeb,
+  "speech-border": #fcd34d,
+);
+
+// --- Spacing (8px base) ---
+$spacing: (
+  "xs": 0.25rem,
+  "sm": 0.5rem,
+  "md": 1rem,
+  "lg": 1.5rem,
+  "xl": 2rem,
+  "2xl": 3rem,
+);
+
+// --- Typography ---
+$font-families: (
+  "base": (
+    "Nunito",
+    system-ui,
+    sans-serif,
+  ),
+  "display": (
+    "Fredoka One",
+    cursive,
+  ),
+);
+
+$font-sizes: (
+  "xs": 0.75rem,
+  "sm": 0.875rem,
+  "base": 1rem,
+  "lg": 1.25rem,
+  "xl": 1.5rem,
+  "2xl": 2rem,
+);
+
+$font-weights: (
+  "normal": 400,
+  "medium": 500,
+  "bold": 700,
+);
+
+// --- Radii ---
+$radii: (
+  "sm": 0.25rem,
+  "md": 0.5rem,
+  "lg": 1rem,
+  "xl": 1.5rem,
+  "full": 9999px,
+  "bubble": 1rem 1rem 1rem 0.25rem,
+);
+
+// --- Shadows ---
+$shadows: (
+  "sm": 0 1px 2px rgba(0, 0, 0, 0.1),
+  "md": 0 4px 6px rgba(0, 0, 0, 0.1),
+  "lg": 0 10px 25px rgba(0, 0, 0, 0.15),
+  "glass": inset 0 1px 0 rgba(255, 255, 255, 0.2),
+  "tank": inset 0 0 60px rgba(0, 0, 0, 0.3),
+);
+
+// --- Animation ---
+$durations: (
+  "fast": 150ms,
+  "normal": 300ms,
+  "slow": 500ms,
+  "swim": 3s,
+  "bubble": 4s,
+);
+
+// ============================================
+// OUTPUT: CSS Custom Properties
+// ============================================
+:root {
+  // Colors
+  @each $name, $value in $colors {
+    --color-#{$name}: #{$value};
+  }
+
+  // Spacing
+  @each $name, $value in $spacing {
+    --spacing-#{$name}: #{$value};
+  }
+
+  // Font Families
+  @each $name, $value in $font-families {
+    --font-#{$name}: #{$value};
+  }
+
+  // Font Sizes
+  @each $name, $value in $font-sizes {
+    --text-#{$name}: #{$value};
+  }
+
+  // Font Weights
+  @each $name, $value in $font-weights {
+    --weight-#{$name}: #{$value};
+  }
+
+  // Radii
+  @each $name, $value in $radii {
+    --radius-#{$name}: #{$value};
+  }
+
+  // Shadows
+  @each $name, $value in $shadows {
+    --shadow-#{$name}: #{$value};
+  }
+
+  // Durations
+  @each $name, $value in $durations {
+    --duration-#{$name}: #{$value};
+  }
+}

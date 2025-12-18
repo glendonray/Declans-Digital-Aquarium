@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 60" width="100" height="60">
+  <!-- Blue Tang (Dory) - Vibrant blue with yellow tail -->
+  <defs>
+    <linearGradient id="tangBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#60A5FA"/>
+      <stop offset="100%" style="stop-color:#2563EB"/>
+    </linearGradient>
+    <linearGradient id="tangYellow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FDE047"/>
+      <stop offset="100%" style="stop-color:#FACC15"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Yellow tail -->
+  <path d="M8 30 Q0 15 8 8 Q12 20 15 30 Q12 40 8 52 Q0 45 8 30" 
+        fill="url(#tangYellow)"/>
+  
+  <!-- Body - oval shaped -->
+  <ellipse cx="50" cy="30" rx="38" ry="25" fill="url(#tangBody)"/>
+  
+  <!-- Dark blue/black pattern (the "6" or "P" shape) -->
+  <path d="M25 20 Q30 12 45 15 Q55 18 55 30 Q55 42 45 45 Q35 47 30 40 Q28 35 30 25 Q32 18 25 20" 
+        fill="#1E3A8A" opacity="0.8"/>
+  
+  <!-- Yellow accent on body -->
+  <path d="M15 25 Q18 30 15 35" stroke="#FDE047" stroke-width="3" fill="none"/>
+  
+  <!-- Dorsal fin -->
+  <path d="M30 8 Q50 0 70 8 Q65 12 55 12 Q40 12 30 8" 
+        fill="url(#tangBody)" stroke="#1E40AF" stroke-width="0.5"/>
+  
+  <!-- Ventral fin -->
+  <path d="M35 52 Q50 60 65 52 Q55 54 45 54 Q38 54 35 52" 
+        fill="url(#tangBody)" stroke="#1E40AF" stroke-width="0.5"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="55" cy="35" rx="8" ry="5" fill="#3B82F6" stroke="#1E40AF" stroke-width="0.5"/>
+  
+  <!-- Eye - big and cute -->
+  <circle cx="72" cy="28" r="9" fill="#FFF"/>
+  <circle cx="74" cy="28" r="5.5" fill="#1E293B"/>
+  <circle cx="76" cy="26" r="2" fill="#FFF"/>
+  
+  <!-- Yellow around eye -->
+  <path d="M63 28 Q65 22 72 20" stroke="#FDE047" stroke-width="2" fill="none"/>
+  
+  <!-- Cute smile -->
+  <path d="M82 33 Q87 37 84 40" stroke="#1E3A8A" stroke-width="1.5" fill="none"/>
+  
+  <!-- Blush -->
+  <ellipse cx="77" cy="38" rx="4" ry="2" fill="#93C5FD" opacity="0.6"/>
+  
+  <!-- Spine indicator (small yellow mark near tail) -->
+  <circle cx="18" cy="30" r="2" fill="#FDE047"/>
+</svg>

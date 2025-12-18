@@ -1,0 +1,67 @@
+// ============================================
+// BUBBLES COMPONENT
+// Ambient rising bubble animations
+// ============================================
+
+.bubbles {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 5;
+  overflow: hidden;
+}
+
+.bubble {
+  position: absolute;
+  bottom: 60px; // Start above sand
+  background: var(--color-bubble);
+  border-radius: var(--radius-full);
+  opacity: 0;
+  animation: rise var(--duration-bubble) ease-in infinite;
+
+  // Inner shine
+  &::before {
+    content: "";
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 30%;
+    height: 30%;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: var(--radius-full);
+  }
+
+  // Size variations
+  &--sm {
+    width: 8px;
+    height: 8px;
+  }
+
+  &--md {
+    width: 12px;
+    height: 12px;
+  }
+
+  &--lg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@keyframes rise {
+  0% {
+    opacity: 0;
+    transform: translateY(0) scale(0.5);
+  }
+  10% {
+    opacity: 0.8;
+    transform: translateY(-20px) scale(1);
+  }
+  90% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-400px) scale(0.8);
+  }
+}

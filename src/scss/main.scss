@@ -1,0 +1,17 @@
+// ============================================
+// MAIN SCSS - Entry Point
+// ============================================
+
+// Design Tokens (must be first)
+@use "tokens";
+
+// Base styles
+@use "base";
+
+// Components
+@use "components/tank";
+@use "components/water";
+@use "components/sand";
+@use "components/bubbles";
+@use "components/fish";
+@use "components/speech-bubble";

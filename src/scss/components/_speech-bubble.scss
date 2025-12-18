@@ -1,0 +1,142 @@
+// ============================================
+// SPEECH BUBBLE COMPONENT
+// Displays fish facts
+// ============================================
+
+.speech-bubble {
+  position: absolute;
+  background: var(--color-speech-bg);
+  border: 3px solid var(--color-speech-border);
+  border-radius: var(--radius-bubble);
+  padding: var(--spacing-md);
+  max-width: 280px;
+  min-width: 200px;
+  z-index: 100;
+  opacity: 0;
+  transform: scale(0.8) translateY(10px);
+  transition:
+    opacity var(--duration-normal) ease-out,
+    transform var(--duration-normal) ease-out;
+  pointer-events: none;
+  box-shadow: var(--shadow-md);
+
+  // Visible state
+  &--visible {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+    pointer-events: auto;
+  }
+
+  // Speech bubble tail
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: -12px;
+    left: 20px;
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid var(--color-speech-border);
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    left: 22px;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid var(--color-speech-bg);
+  }
+
+  &__header {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
+    padding-bottom: var(--spacing-sm);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  &__name {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    color: var(--color-text-primary);
+  }
+
+  &__scientific {
+    font-size: var(--text-xs);
+    color: var(--color-text-secondary);
+    font-style: italic;
+  }
+
+  &__text {
+    font-size: var(--text-base);
+    color: var(--color-text-primary);
+    line-height: 1.5;
+    margin-bottom: var(--spacing-sm);
+  }
+
+  &__source {
+    font-size: var(--text-xs);
+    color: var(--color-text-secondary);
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+
+    a {
+      color: var(--color-water-dark);
+      text-decoration: underline;
+
+      &:hover {
+        color: var(--color-water-mid);
+      }
+    }
+  }
+
+  &__close {
+    position: absolute;
+    top: var(--spacing-xs);
+    right: var(--spacing-xs);
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--text-lg);
+    color: var(--color-text-secondary);
+    border-radius: var(--radius-full);
+    transition: background-color var(--duration-fast);
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.1);
+      color: var(--color-text-primary);
+    }
+  }
+
+  &__nav {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-xs);
+    margin-top: var(--spacing-sm);
+    padding-top: var(--spacing-sm);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  &__dot {
+    width: 8px;
+    height: 8px;
+    border-radius: var(--radius-full);
+    background: var(--color-text-secondary);
+    opacity: 0.3;
+    transition: opacity var(--duration-fast);
+
+    &--active {
+      opacity: 1;
+      background: var(--color-speech-border);
+    }
+  }
+}

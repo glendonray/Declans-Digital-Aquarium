@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 65" width="100" height="65">
+  <!-- Goldfish - Classic orange fancy goldfish -->
+  <defs>
+    <linearGradient id="goldBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FDBA74"/>
+      <stop offset="100%" style="stop-color:#F97316"/>
+    </linearGradient>
+    <linearGradient id="goldFin" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FED7AA"/>
+      <stop offset="100%" style="stop-color:#FB923C"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Fancy flowing tail -->
+  <path d="M5 32 Q-8 15 5 5 Q15 18 18 32 Q15 46 5 60 Q-8 50 5 32" 
+        fill="url(#goldFin)" opacity="0.9"/>
+  <path d="M12 32 Q2 20 10 10 Q18 22 20 32 Q18 42 10 55 Q2 45 12 32" 
+        fill="url(#goldFin)" opacity="0.8"/>
+  
+  <!-- Dorsal fin -->
+  <path d="M35 12 Q40 2 55 5 Q55 12 50 15 Q42 14 35 12" 
+        fill="url(#goldFin)"/>
+  
+  <!-- Body -->
+  <ellipse cx="50" cy="32" rx="32" ry="22" fill="url(#goldBody)"/>
+  
+  <!-- Belly highlight -->
+  <ellipse cx="55" cy="40" rx="18" ry="10" fill="#FFEDD5" opacity="0.5"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="60" cy="42" rx="10" ry="6" fill="url(#goldFin)" opacity="0.8"/>
+  
+  <!-- Ventral fin -->
+  <path d="M45 50 Q40 62 35 58 Q42 52 45 50" fill="url(#goldFin)"/>
+  
+  <!-- Scales pattern -->
+  <path d="M35 28 Q38 30 35 32" stroke="#EA580C" stroke-width="0.5" fill="none" opacity="0.4"/>
+  <path d="M42 25 Q45 27 42 29" stroke="#EA580C" stroke-width="0.5" fill="none" opacity="0.4"/>
+  <path d="M50 28 Q53 30 50 32" stroke="#EA580C" stroke-width="0.5" fill="none" opacity="0.4"/>
+  <path d="M40 35 Q43 37 40 39" stroke="#EA580C" stroke-width="0.5" fill="none" opacity="0.4"/>
+  <path d="M48 35 Q51 37 48 39" stroke="#EA580C" stroke-width="0.5" fill="none" opacity="0.4"/>
+  
+  <!-- Eye -->
+  <circle cx="70" cy="28" r="8" fill="#FFF"/>
+  <circle cx="72" cy="28" r="5" fill="#1E293B"/>
+  <circle cx="74" cy="26" r="1.8" fill="#FFF"/>
+  
+  <!-- Cute smile -->
+  <path d="M78 36 Q84 40 80 42" stroke="#C2410C" stroke-width="1.5" fill="none"/>
+  
+  <!-- Blush -->
+  <ellipse cx="75" cy="40" rx="4" ry="2.5" fill="#FDBA74" opacity="0.6"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 80" width="90" height="80">
+  <!-- Pufferfish - Round and cute -->
+  <defs>
+    <linearGradient id="puffBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FDE68A"/>
+      <stop offset="100%" style="stop-color:#FCD34D"/>
+    </linearGradient>
+    <radialGradient id="puffBelly" cx="50%" cy="70%" r="50%">
+      <stop offset="0%" style="stop-color:#FFFBEB"/>
+      <stop offset="100%" style="stop-color:#FDE68A"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Small tail -->
+  <ellipse cx="12" cy="40" rx="8" ry="10" fill="#FCD34D"/>
+  
+  <!-- Main round body -->
+  <circle cx="45" cy="40" r="32" fill="url(#puffBody)"/>
+  
+  <!-- White belly -->
+  <ellipse cx="50" cy="50" rx="20" ry="15" fill="url(#puffBelly)"/>
+  
+  <!-- Spots/speckles -->
+  <circle cx="30" cy="30" r="3" fill="#D4A" opacity="0.3"/>
+  <circle cx="40" cy="22" r="2.5" fill="#A3A" opacity="0.3"/>
+  <circle cx="55" cy="25" r="3" fill="#D4A" opacity="0.3"/>
+  <circle cx="25" cy="45" r="2" fill="#A3A" opacity="0.3"/>
+  <circle cx="65" cy="35" r="2.5" fill="#D4A" opacity="0.3"/>
+  
+  <!-- Dorsal fin -->
+  <path d="M45 10 Q50 5 55 10" fill="#FCD34D" stroke="#E5B800" stroke-width="1"/>
+  
+  <!-- Side fins -->
+  <ellipse cx="75" cy="40" rx="8" ry="5" fill="#FCD34D" stroke="#E5B800" stroke-width="1"/>
+  
+  <!-- Left eye -->
+  <circle cx="55" cy="32" r="10" fill="#FFF"/>
+  <circle cx="58" cy="32" r="6" fill="#4A4A4A"/>
+  <circle cx="60" cy="30" r="2" fill="#FFF"/>
+  
+  <!-- Right eye (slightly visible) -->
+  <circle cx="35" cy="32" r="8" fill="#FFF"/>
+  <circle cx="33" cy="32" r="5" fill="#4A4A4A"/>
+  <circle cx="31" cy="30" r="1.5" fill="#FFF"/>
+  
+  <!-- Cute pouty mouth -->
+  <ellipse cx="70" cy="45" rx="5" ry="4" fill="#FBBF24" stroke="#D97706" stroke-width="1"/>
+  <path d="M68 45 L72 45" stroke="#D97706" stroke-width="1"/>
+  
+  <!-- Blush -->
+  <ellipse cx="60" cy="50" rx="5" ry="3" fill="#FDBA74" opacity="0.5"/>
+  <ellipse cx="40" cy="48" rx="4" ry="2.5" fill="#FDBA74" opacity="0.5"/>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "sources": {
+    "fishbase": {
+      "id": "fishbase",
+      "name": "FishBase",
+      "url": "https://www.fishbase.org",
+      "citation": "Froese, R. and D. Pauly. Editors. FishBase. World Wide Web electronic publication."
+    },
+    "noaa": {
+      "id": "noaa",
+      "name": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov",
+      "citation": "National Oceanic and Atmospheric Administration (NOAA)"
+    },
+    "eol": {
+      "id": "eol",
+      "name": "Encyclopedia of Life",
+      "url": "https://eol.org",
+      "citation": "Encyclopedia of Life. Available from https://eol.org"
+    }
+  }
+}
