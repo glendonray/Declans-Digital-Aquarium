@@ -3,7 +3,9 @@
  * Individual fish with movement and click handling
  */
 
-import { randomBetween, randomBool } from '../utils/random.js';
+import { randomBetween, randomBool } from "../utils/random.js";
+import { generateFishSVG } from "../services/FishSVGGenerator.js";
+import { getAvailableShapes } from "../templates/shapes/index.js";
 
 export class Fish {
   constructor(data, tankBounds, speechBubble, fishAPI) {
@@ -11,49 +13,76 @@ export class Fish {
     this.tankBounds = tankBounds;
     this.speechBubble = speechBubble;
     this.fishAPI = fishAPI;
-    
+
     // Position and movement
     this.x = randomBetween(100, tankBounds.width - 100);
     this.y = randomBetween(80, tankBounds.height - 120);
     this.speedX = randomBetween(0.3, 0.8) * (randomBool() ? 1 : -1);
     this.speedY = randomBetween(0.1, 0.3) * (randomBool() ? 1 : -1);
     this.flipped = this.speedX < 0;
-    
+
     // State
     this.isPaused = false;
     this.isActive = false;
     this.element = null;
     this.animationId = null;
-    
+
     // Create DOM element
     this.render();
     this.bindEvents();
   }
 
   /**
+   * Check if we can render this fish with templates
+   * @returns {boolean}
+   */
+  canUseTemplate() {
+    const { appearance = {} } = this.data;
+    const { bodyShape = "oval" } = appearance;
+    const availableShapes = getAvailableShapes();
+    return availableShapes.includes(bodyShape);
+  }
+
+  /**
    * Create the fish DOM element
    */
   render() {
-    this.element = document.createElement('button');
-    this.element.className = 'fish fish--swimming';
-    this.element.setAttribute('aria-label', `Click to learn about ${this.data.name}`);
+    this.element = document.createElement("button");
+    this.element.className = "fish fish--swimming";
+    this.element.setAttribute(
+      "aria-label",
+      `Click to learn about ${this.data.name}`
+    );
     this.element.dataset.fishId = this.data.id;
-    
-    // Create fish image
-    const img = document.createElement('img');
-    img.src = this.data.image;
-    img.alt = this.data.name;
-    img.className = 'fish__sprite';
-    img.draggable = false;
-    
-    this.element.appendChild(img);
-    
+
+    // Try to use template-based SVG, fall back to static image
+    if (this.canUseTemplate()) {
+      // Generate inline SVG from templates
+      const svgString = generateFishSVG(this.data);
+      this.element.innerHTML = svgString;
+
+      // Add sprite class to the SVG element
+      const svg = this.element.querySelector("svg");
+      if (svg) {
+        svg.classList.add("fish__sprite");
+        svg.setAttribute("draggable", "false");
+      }
+    } else {
+      // Fallback to static image
+      const img = document.createElement("img");
+      img.src = this.data.image;
+      img.alt = this.data.name;
+      img.className = "fish__sprite";
+      img.draggable = false;
+      this.element.appendChild(img);
+    }
+
     // Set initial position
     this.updatePosition();
-    
+
     // Set random animation delay for variety
     this.element.style.animationDelay = `${randomBetween(0, 2)}s`;
-    
+
     return this.element;
   }
 
@@ -61,13 +90,13 @@ export class Fish {
    * Bind event listeners
    */
   bindEvents() {
-    this.element.addEventListener('click', (e) => {
+    this.element.addEventListener("click", (e) => {
       e.stopPropagation();
       this.onClick();
     });
 
     // Listen for speech bubble hide event
-    document.addEventListener('speechbubble:hide', () => {
+    document.addEventListener("speechbubble:hide", () => {
       if (this.isActive) {
         this.resume();
       }
@@ -87,19 +116,19 @@ export class Fish {
     // Pause swimming
     this.pause();
     this.isActive = true;
-    this.element.classList.add('fish--active');
+    this.element.classList.add("fish--active");
 
     // Get a random fact
     const fact = this.fishAPI.getRandomFact(this.data);
-    
+
     if (fact) {
       // Show speech bubble
       const rect = this.element.getBoundingClientRect();
       const containerRect = this.element.parentElement.getBoundingClientRect();
-      
+
       this.speechBubble.show(this.data, fact, {
         x: rect.left - containerRect.left + rect.width / 2,
-        y: rect.top - containerRect.top
+        y: rect.top - containerRect.top,
       });
 
       // Set up fact change callback
@@ -117,7 +146,7 @@ export class Fish {
    */
   pause() {
     this.isPaused = true;
-    this.element.classList.add('fish--paused');
+    this.element.classList.add("fish--paused");
   }
 
   /**
@@ -126,7 +155,7 @@ export class Fish {
   resume() {
     this.isPaused = false;
     this.isActive = false;
-    this.element.classList.remove('fish--paused', 'fish--active');
+    this.element.classList.remove("fish--paused", "fish--active");
   }
 
   /**
@@ -135,11 +164,11 @@ export class Fish {
   updatePosition() {
     this.element.style.left = `${this.x}px`;
     this.element.style.top = `${this.y}px`;
-    
+
     if (this.flipped) {
-      this.element.classList.add('fish--flipped');
+      this.element.classList.add("fish--flipped");
     } else {
-      this.element.classList.remove('fish--flipped');
+      this.element.classList.remove("fish--flipped");
     }
   }
 
@@ -156,18 +185,18 @@ export class Fish {
     // Bounce off walls
     const margin = 50;
     const bottomMargin = 80; // Stay above sand
-    
+
     if (this.x <= margin || this.x >= this.tankBounds.width - margin) {
       this.speedX *= -1;
       this.flipped = this.speedX < 0;
-      
+
       // Add slight randomness on bounce
       this.speedY += randomBetween(-0.1, 0.1);
     }
-    
+
     if (this.y <= 60 || this.y >= this.tankBounds.height - bottomMargin) {
       this.speedY *= -1;
-      
+
       // Add slight randomness on bounce
       this.speedX += randomBetween(-0.1, 0.1) * (this.speedX > 0 ? 1 : -1);
     }
