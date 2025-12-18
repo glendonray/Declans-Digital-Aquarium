@@ -1,0 +1,46 @@
+{
+  "id": "tomini-tang",
+  "name": "Tomini Tang",
+  "scientificName": "Ctenochaetus tominiensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/tomini-tang.svg",
+  "colors": {
+    "primary": "#CD853F",
+    "secondary": "#FF6347",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the smallest tangs! I stay under 6 inches, making me perfect for smaller reef tanks.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail fin has a beautiful blue edge and orange center - like a tiny sunset!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after Tomini Bay in Indonesia where I was first discovered!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia",
+    "diet": "Film algae and detritus",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10+ years"
+  }
+}

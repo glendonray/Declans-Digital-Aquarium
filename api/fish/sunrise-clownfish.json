@@ -1,0 +1,46 @@
+{
+  "id": "sunrise-clownfish",
+  "name": "Sunrise Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/sunrise-clownfish.svg",
+  "colors": {
+    "primary": "#FF6347",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm colored like a beautiful sunrise! Warm reds and oranges fade into golden yellow.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My head is more red-orange while my tail area glows golden - just like the morning sun rising!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Every day I swim around looking like a little piece of the sunrise in your tank!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

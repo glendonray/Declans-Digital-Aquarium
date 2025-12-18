@@ -1,0 +1,46 @@
+{
+  "id": "red-sea-flasher-wrasse",
+  "name": "Red Sea Flasher Wrasse",
+  "scientificName": "Paracheilinus octotaenia",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/red-sea-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I have eight beautiful stripes running along my body - 'octotaenia' means eight bands!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm only found in the Red Sea - a special fish from a special place!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My red and yellow stripes make me one of the most striking flasher wrasses!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Red Sea",
+    "diet": "Zooplankton",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-7 years"
+  }
+}

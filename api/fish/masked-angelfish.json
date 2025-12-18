@@ -1,0 +1,46 @@
+{
+  "id": "masked-angelfish",
+  "name": "Masked Angelfish",
+  "scientificName": "Genicanthus personatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "masked"
+  },
+  "image": "assets/fish/masked-angelfish.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the rarest and most expensive angelfish in the world! I'm worth thousands of dollars.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm ghostly white with a black mask across my face - very mysterious looking!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I only live in the Northwestern Hawaiian Islands where it's hard for collectors to reach!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes of the Northwestern Hawaiian Islands",
+    "diet": "Zooplankton",
+    "size": "Up to 8 inches (21 cm)",
+    "lifespan": "15+ years"
+  }
+}

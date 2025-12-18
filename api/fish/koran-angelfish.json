@@ -1,0 +1,46 @@
+{
+  "id": "koran-angelfish",
+  "name": "Koran Angelfish",
+  "scientificName": "Pomacanthus semicirculatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "green",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/koran-angelfish.svg",
+  "colors": {
+    "primary": "#2E8B57",
+    "secondary": "#4169E1",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "When I'm young, I have curved white lines that look like Arabic writing from the Koran!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "As I grow up, I transform from blue and white stripes to green and gold spots - totally different!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Semicircle Angelfish because of the curved markings on juvenile fish!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Sponges, algae, and tunicates",
+    "size": "Up to 15 inches (40 cm)",
+    "lifespan": "20+ years"
+  }
+}

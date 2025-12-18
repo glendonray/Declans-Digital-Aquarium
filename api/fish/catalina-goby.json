@@ -1,0 +1,46 @@
+{
+  "id": "catalina-goby",
+  "name": "Catalina Goby",
+  "scientificName": "Lythrypnus dalli",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "eastern-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/catalina-goby.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#4169E1",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm bright red with blue stripes - one of the most colorful tiny fish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Catalina Island off California - a coldwater fish!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I prefer cooler water than most reef fish - around 65-70°F!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky reefs of California",
+    "diet": "Tiny invertebrates and plankton",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "2-3 years"
+  }
+}

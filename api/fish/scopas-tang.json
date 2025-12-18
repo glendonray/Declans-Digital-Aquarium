@@ -1,0 +1,46 @@
+{
+  "id": "scopas-tang",
+  "name": "Scopas Tang",
+  "scientificName": "Zebrasoma scopas",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/scopas-tang.svg",
+  "colors": {
+    "primary": "#6B8E23",
+    "secondary": "#808000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm sometimes called the Brown Tang, but I'm actually a beautiful olive-brown color that can change!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the hardiest tangs and great for beginner reef keepers!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love eating algae so much, I help keep aquarium tanks super clean!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae - I'm a great algae cleaner!",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "20+ years"
+  }
+}

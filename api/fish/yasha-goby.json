@@ -1,0 +1,46 @@
+{
+  "id": "yasha-goby",
+  "name": "Yasha Goby",
+  "scientificName": "Stonogobiops yasha",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/yasha-goby.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#DC143C",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I'm white with beautiful red and orange stripes - very elegant!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live with pistol shrimps and we're best friends who share a burrow!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a tall dorsal fin that I raise like a flag when I'm excited!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy and rubble areas of coral reefs",
+    "diet": "Small invertebrates and meaty foods",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

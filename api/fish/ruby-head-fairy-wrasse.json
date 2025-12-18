@@ -1,0 +1,46 @@
+{
+  "id": "ruby-head-fairy-wrasse",
+  "name": "Ruby Head Fairy Wrasse",
+  "scientificName": "Cirrhilabrus rubricephalus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "capped"
+  },
+  "image": "assets/fish/ruby-head-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#E0115F",
+    "secondary": "#FF69B4",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a brilliant ruby-red head that glows like a precious gem!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name means 'red head' - it's perfectly fitting!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Papua New Guinea and the Solomon Islands!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Papua New Guinea",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

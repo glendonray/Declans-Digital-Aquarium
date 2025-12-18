@@ -1,0 +1,46 @@
+{
+  "id": "madagascar-clownfish",
+  "name": "Madagascar Clownfish",
+  "scientificName": "Amphiprion latifasciatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/madagascar-clownfish.svg",
+  "colors": {
+    "primary": "#FF7F50",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm only found near Madagascar! My name 'latifasciatus' means 'wide-banded' because of my thick white stripes.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have dark coloring between my white bands that makes my stripes really stand out!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Madagascar has unique animals found nowhere else on Earth, and I'm one of them!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs around Madagascar",
+    "diet": "Algae, zooplankton, and small invertebrates",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "10-15 years"
+  }
+}

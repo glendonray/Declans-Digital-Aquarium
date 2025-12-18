@@ -1,0 +1,46 @@
+{
+  "id": "peppermint-angelfish",
+  "name": "Peppermint Angelfish",
+  "scientificName": "Centropyge boylei",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/peppermint-angelfish.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm the most expensive fish in the world! One sold for $30,000 because I'm so rare!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have red and white stripes like a peppermint candy - festive and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in very deep water around the Cook Islands - over 300 feet deep!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef caves near Rarotonga, Cook Islands",
+    "diet": "Small invertebrates and algae",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "10+ years"
+  }
+}

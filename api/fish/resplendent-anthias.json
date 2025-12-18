@@ -1,0 +1,46 @@
+{
+  "id": "resplendent-anthias",
+  "name": "Resplendent Anthias",
+  "scientificName": "Pseudanthias pulcherrimus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/resplendent-anthias.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFD700",
+    "accent": "#FF69B4"
+  },
+  "facts": [
+    {
+      "text": "My scientific name 'pulcherrimus' means 'most beautiful' - and I am!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm orange and pink with stunning coloration that lives up to my name!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm found in the Indian Ocean around the Maldives and East Africa!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Indian Ocean",
+    "diet": "Zooplankton",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-7 years"
+  }
+}

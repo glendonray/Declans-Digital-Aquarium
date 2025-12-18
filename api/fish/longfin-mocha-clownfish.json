@@ -1,0 +1,46 @@
+{
+  "id": "longfin-mocha-clownfish",
+  "name": "Longfin Mocha Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/longfin-mocha-clownfish.svg",
+  "colors": {
+    "primary": "#8B4513",
+    "secondary": "#FFFFFF",
+    "accent": "#D2691E"
+  },
+  "facts": [
+    {
+      "text": "I have extra-long, flowing fins that trail behind me like a beautiful gown!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My mocha coloring plus my elegant long fins make me a real showstopper in any aquarium!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Long fins are a special genetic trait that breeders carefully select for!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

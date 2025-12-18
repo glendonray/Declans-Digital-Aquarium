@@ -1,0 +1,46 @@
+{
+  "id": "blonde-naso-tang",
+  "name": "Blonde Naso Tang",
+  "scientificName": "Naso elegans",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/blonde-naso-tang.svg",
+  "colors": {
+    "primary": "#C9A227",
+    "secondary": "#000000",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I'm called 'blonde' because I have a beautiful golden-tan body color!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have bright orange lips that look like I'm wearing lipstick! Very stylish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'elegans' means elegant - and I really am a graceful swimmer!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean and Red Sea",
+    "diet": "Algae, especially brown macroalgae",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "20+ years"
+  }
+}

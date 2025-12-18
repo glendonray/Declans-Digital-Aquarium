@@ -1,0 +1,46 @@
+{
+  "id": "midas-blenny",
+  "name": "Midas Blenny",
+  "scientificName": "Ecsenius midas",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/midas-blenny.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FFA500",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm golden yellow like the mythical King Midas's gold touch!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in the water column mimicking anthias fish - unusual for a blenny!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a cute forked tail and swim with an undulating motion!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean and Red Sea",
+    "diet": "Plankton and small invertebrates",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-8 years"
+  }
+}

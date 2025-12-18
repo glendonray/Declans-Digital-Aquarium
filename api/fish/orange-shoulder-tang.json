@@ -1,0 +1,46 @@
+{
+  "id": "orange-shoulder-tang",
+  "name": "Orange Shoulder Tang",
+  "scientificName": "Acanthurus olivaceus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "marked"
+  },
+  "image": "assets/fish/orange-shoulder-tang.svg",
+  "colors": {
+    "primary": "#808080",
+    "secondary": "#FF8C00",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a bright orange patch on my shoulder - it's like wearing a badge!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm young, I'm completely yellow! I get my gray color and orange spot as I grow up.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Orange-Epaulette Surgeonfish because my orange mark looks like a military epaulette!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Hawaii to the Indo-Pacific",
+    "diet": "Algae and organic detritus",
+    "size": "Up to 14 inches (35 cm)",
+    "lifespan": "20+ years"
+  }
+}

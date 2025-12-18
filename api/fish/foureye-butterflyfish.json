@@ -1,0 +1,46 @@
+{
+  "id": "foureye-butterflyfish",
+  "name": "Foureye Butterflyfish",
+  "scientificName": "Chaetodon capistratus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "eyespot"
+  },
+  "image": "assets/fish/foureye-butterflyfish.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a fake eye spot near my tail - predators think my tail is my head!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean - one of the most common butterflyfish there!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My false eye confuses predators into attacking the wrong end of me!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Coral polyps, worms, and small invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "8-12 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "red-sea-clownfish",
+  "name": "Red Sea Clownfish",
+  "scientificName": "Amphiprion bicinctus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/red-sea-clownfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm the only clownfish that lives in the Red Sea! My scientific name 'bicinctus' means 'two-banded.'",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm golden yellow with two white stripes. Some people call me the Two-Band Anemonefish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "The Red Sea has very salty, warm water, and I've adapted perfectly to live there!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Red Sea and Gulf of Aden",
+    "diet": "Algae, zooplankton, and anemone leftovers",
+    "size": "Up to 5 inches (14 cm)",
+    "lifespan": "10-15 years"
+  }
+}

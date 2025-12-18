@@ -1,0 +1,46 @@
+{
+  "id": "kleins-butterflyfish",
+  "name": "Klein's Butterflyfish",
+  "scientificName": "Chaetodon kleinii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/kleins-butterflyfish.svg",
+  "colors": {
+    "primary": "#DAA520",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm golden-brown and one of the hardiest butterflyfish for aquariums!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat lots of different foods including pest aiptasia anemones!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after a German naturalist who studied fish in the 1800s!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Omnivore - coral, algae, and invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

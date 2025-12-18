@@ -1,0 +1,46 @@
+{
+  "id": "yellow-coris-wrasse",
+  "name": "Yellow Coris Wrasse",
+  "scientificName": "Halichoeres chrysus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/yellow-coris-wrasse.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#32CD32",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright canary yellow - like a swimming piece of sunshine!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to hunt for pests like pyramidellid snails and bristleworms!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "At night, I bury myself in the sand to sleep - cozy and safe!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Small invertebrates and worms",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "5-8 years"
+  }
+}

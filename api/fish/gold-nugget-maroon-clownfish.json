@@ -1,0 +1,46 @@
+{
+  "id": "gold-nugget-maroon-clownfish",
+  "name": "Gold Nugget Maroon Clownfish",
+  "scientificName": "Premnas biaculeatus (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/gold-nugget-maroon-clownfish.svg",
+  "colors": {
+    "primary": "#8B0000",
+    "secondary": "#FFD700",
+    "accent": "#DAA520"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in golden spots that look like little nuggets of gold scattered across my body!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My gold markings spread out from my stripes into dots and splashes - super unique!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm a designer fish bred from Gold Stripe Maroons to have even more gold coloring!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "15-20 years"
+  }
+}

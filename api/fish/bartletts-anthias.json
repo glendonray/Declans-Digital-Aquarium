@@ -1,0 +1,46 @@
+{
+  "id": "bartletts-anthias",
+  "name": "Bartlett's Anthias",
+  "scientificName": "Pseudanthias bartlettorum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/bartletts-anthias.svg",
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#FFD700",
+    "accent": "#9370DB"
+  },
+  "facts": [
+    {
+      "text": "I'm pink and yellow - like a beautiful sunset swimming through the water!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in groups with one male and many females - the male is in charge!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "If the male disappears, the dominant female will change into a male!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Pacific",
+    "diet": "Zooplankton",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-7 years"
+  }
+}

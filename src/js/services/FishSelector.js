@@ -8,6 +8,7 @@ import { shuffleArray } from "../utils/random.js";
 /**
  * Select a diverse set of fish from the index
  * Ensures variety in body shapes and colors
+ * Defaults to saltwater only (Declan's reef aquarium)
  *
  * @param {Array} index - Array of fish summary objects from index.json
  * @param {number} count - Number of fish to select (default: 8)
@@ -15,8 +16,10 @@ import { shuffleArray } from "../utils/random.js";
  * @returns {Array} Selected fish summaries
  */
 export function selectDiverseFish(index, count = 8, excludeIds = []) {
+  // Filter to saltwater only (Declan's reef aquarium)
+  const saltwaterOnly = index.filter((f) => f.waterType === "saltwater");
   // Filter out excluded fish
-  const available = index.filter((f) => !excludeIds.includes(f.id));
+  const available = saltwaterOnly.filter((f) => !excludeIds.includes(f.id));
 
   if (available.length === 0) {
     return [];

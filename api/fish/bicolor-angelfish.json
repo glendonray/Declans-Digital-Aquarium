@@ -1,0 +1,46 @@
+{
+  "id": "bicolor-angelfish",
+  "name": "Bicolor Angelfish",
+  "scientificName": "Centropyge bicolor",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/bicolor-angelfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#000080",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm split right down the middle - my front half is yellow and my back half is deep blue!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look like two different fish joined together - nature's coolest color block design!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a blue mask over my eyes that makes me look mysterious!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-12 years"
+  }
+}

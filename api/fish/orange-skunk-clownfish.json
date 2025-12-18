@@ -1,0 +1,46 @@
+{
+  "id": "orange-skunk-clownfish",
+  "name": "Orange Skunk Clownfish",
+  "scientificName": "Amphiprion sandaracinos",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/orange-skunk-clownfish.svg",
+  "colors": {
+    "primary": "#FFA500",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I only have one white stripe - it runs from my nose all the way down my back like a racing stripe!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm bright orange all over and one of the smallest clownfish species. Good things come in small packages!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super shy and gentle! I prefer calm tankmates and peaceful anemone homes.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from the Philippines to Australia",
+    "diet": "Algae, plankton, and tiny invertebrates",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "8-12 years"
+  }
+}

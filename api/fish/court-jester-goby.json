@@ -1,0 +1,46 @@
+{
+  "id": "court-jester-goby",
+  "name": "Court Jester Goby",
+  "scientificName": "Koumansetta rainfordi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/court-jester-goby.svg",
+  "colors": {
+    "primary": "#32CD32",
+    "secondary": "#FF8C00",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in colorful stripes like a jester's costume - very festive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat algae! I'm one of the few gobies that helps clean up green stuff.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called Rainford's Goby after the scientist who discovered me!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Western Pacific",
+    "diet": "Filamentous algae and small organisms",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "3-5 years"
+  }
+}

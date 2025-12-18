@@ -1,0 +1,46 @@
+{
+  "id": "misbar-clownfish",
+  "name": "Misbar Clownfish",
+  "scientificName": "Amphiprion ocellaris (variant)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "incomplete-bands"
+  },
+  "image": "assets/fish/misbar-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called a Misbar because my white stripes are 'missing' parts - they don't go all the way around!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My incomplete stripes make me unique! Some people think I look even cooler than regular clownfish.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Misbars can happen naturally, but breeders also select for this special look!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

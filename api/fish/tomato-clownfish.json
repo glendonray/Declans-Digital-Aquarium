@@ -1,0 +1,46 @@
+{
+  "id": "tomato-clownfish",
+  "name": "Tomato Clownfish",
+  "scientificName": "Amphiprion frenatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/tomato-clownfish.svg",
+  "colors": {
+    "primary": "#FF4136",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Tomato clownfish because I'm bright red like a ripe tomato! I only have one white stripe behind my eye.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm young, I have three stripes. But as I grow up, two of them fade away!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the hardiest clownfish! I can adapt to different types of anemones and aquarium conditions.",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Japan to Indonesia",
+    "diet": "Algae, zooplankton, and small crustaceans",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "10-15 years"
+  }
+}

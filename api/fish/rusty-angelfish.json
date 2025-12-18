@@ -1,0 +1,46 @@
+{
+  "id": "rusty-angelfish",
+  "name": "Rusty Angelfish",
+  "scientificName": "Centropyge ferrugata",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/rusty-angelfish.svg",
+  "colors": {
+    "primary": "#B7410E",
+    "secondary": "#1A1A1A",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Rusty Angelfish because my red-orange color looks like rusty metal!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have dark spots scattered on my body that add to my rustic look!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a hardy little fish that's great for reef keepers of all experience levels!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Western Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10+ years"
+  }
+}

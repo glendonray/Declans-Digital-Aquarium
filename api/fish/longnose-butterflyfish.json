@@ -1,0 +1,46 @@
+{
+  "id": "longnose-butterflyfish",
+  "name": "Longnose Butterflyfish",
+  "scientificName": "Forcipiger flavissimus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "masked"
+  },
+  "image": "assets/fish/longnose-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have a super long nose that helps me reach into cracks for tiny snacks!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use my long snout like tweezers to pick out tiny invertebrates!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm bright yellow with a black mask - like a superhero fish!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Tiny invertebrates and coral polyps",
+    "size": "Up to 9 inches (22 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "gem-tang",
+  "name": "Gem Tang",
+  "scientificName": "Zebrasoma gemmatum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/gem-tang.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in white spots that look like precious gems - that's why I'm called the Gem Tang!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the rarest and most expensive tangs in the world! I only live near Madagascar and Mauritius.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My spots are actually tiny white dots all over my jet black body - like a starry night sky!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reefs of the Western Indian Ocean",
+    "diet": "Algae and marine plants",
+    "size": "Up to 9 inches (22 cm)",
+    "lifespan": "20+ years"
+  }
+}

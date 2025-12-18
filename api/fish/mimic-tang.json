@@ -1,0 +1,46 @@
+{
+  "id": "mimic-tang",
+  "name": "Mimic Tang",
+  "scientificName": "Acanthurus pyroferus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "mimic"
+  },
+  "image": "assets/fish/mimic-tang.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "When I'm young, I'm a master of disguise! I look exactly like dwarf angelfish to fool predators.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can mimic Lemonpeel, Herald's, or Eibli Angelfish depending on where I live!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "As I grow up, I transform into a chocolate-brown colored adult - totally different look!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae and plant matter",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "15+ years"
+  }
+}

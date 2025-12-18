@@ -1,0 +1,46 @@
+{
+  "id": "purple-queen-anthias",
+  "name": "Purple Queen Anthias",
+  "scientificName": "Pseudanthias tuka",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/purple-queen-anthias.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm royal purple and yellow - truly fit for a queen!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a beautiful purple body with a yellow streak along my back!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I need to eat many times a day because I have such a fast metabolism!",
+      "category": "diet",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Indo-Pacific",
+    "diet": "Zooplankton - needs frequent feeding",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "5-7 years"
+  }
+}

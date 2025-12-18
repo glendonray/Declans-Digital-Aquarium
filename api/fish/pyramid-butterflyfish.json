@@ -1,0 +1,46 @@
+{
+  "id": "pyramid-butterflyfish",
+  "name": "Pyramid Butterflyfish",
+  "scientificName": "Hemitaurichthys polylepis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "pyramid"
+  },
+  "image": "assets/fish/pyramid-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FFFFFF",
+    "accent": "#8B4513"
+  },
+  "facts": [
+    {
+      "text": "I have a white pyramid shape on my side - nature's geometry!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the best butterflyfish for reef tanks - I eat plankton, not coral!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to swim in big schools above the reef picking plankton from the water!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Pacific",
+    "diet": "Zooplankton - reef safe!",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bird-wrasse",
+  "name": "Bird Wrasse",
+  "scientificName": "Gomphosus varius",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/bird-wrasse.svg",
+  "colors": {
+    "primary": "#00CED1",
+    "secondary": "#228B22",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a long snout like a bird's beak - that's why I'm called Bird Wrasse!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males are blue-green while females are brown - we look like different species!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use my long nose to pick tiny invertebrates from cracks in the reef!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Small crustaceans and invertebrates",
+    "size": "Up to 11 inches (28 cm)",
+    "lifespan": "8-10 years"
+  }
+}

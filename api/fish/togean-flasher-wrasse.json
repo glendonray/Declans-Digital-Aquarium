@@ -1,0 +1,46 @@
+{
+  "id": "togean-flasher-wrasse",
+  "name": "Togean Flasher Wrasse",
+  "scientificName": "Paracheilinus togeanensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/togean-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#FFD700",
+    "accent": "#DC143C"
+  },
+  "facts": [
+    {
+      "text": "I'm named after the Togean Islands in Indonesia where I was discovered!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have pink and yellow coloring that's perfect for my coral reef home!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of many flasher wrasses found only in Indonesian waters!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Togean Islands, Indonesia",
+    "diet": "Zooplankton",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-7 years"
+  }
+}

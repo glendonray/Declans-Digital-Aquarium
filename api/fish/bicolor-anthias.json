@@ -1,0 +1,46 @@
+{
+  "id": "bicolor-anthias",
+  "name": "Bicolor Anthias",
+  "scientificName": "Pseudanthias bicolor",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/bicolor-anthias.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FFD700",
+    "accent": "#FF69B4"
+  },
+  "facts": [
+    {
+      "text": "I'm half purple and half yellow - perfectly split in two colors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look like someone dipped my front half in purple paint!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in pretty schools above the reef, picking plankton from the water!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Pacific",
+    "diet": "Zooplankton",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-7 years"
+  }
+}

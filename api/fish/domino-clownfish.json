@@ -1,0 +1,46 @@
+{
+  "id": "domino-clownfish",
+  "name": "Domino Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/domino-clownfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named after domino game pieces! My black body has white spots like the dots on dominoes.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My white markings look like they were painted on with polka dots instead of stripes!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm a designer variation that took years of careful breeding to create!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

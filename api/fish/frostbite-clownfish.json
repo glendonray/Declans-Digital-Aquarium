@@ -1,0 +1,46 @@
+{
+  "id": "frostbite-clownfish",
+  "name": "Frostbite Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/frostbite-clownfish.svg",
+  "colors": {
+    "primary": "#FF6347",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in so much white it looks like frost! My icy pattern makes me one of the most striking designer clownfish.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Frostbite clownfish have extreme white coverage - sometimes up to 80% of my body is white!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Despite my cold-sounding name, I love warm tropical water just like all clownfish - around 76-82°F!",
+      "category": "habitat",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

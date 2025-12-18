@@ -1,0 +1,46 @@
+{
+  "id": "yellow-clown-goby",
+  "name": "Yellow Clown Goby",
+  "scientificName": "Gobiodon okinawae",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "tiny",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/yellow-clown-goby.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FFA500",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow and tiny - only about an inch long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live inside Acropora coral branches - the coral is my home and protector!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a special slimy coating that protects me from the coral's stings!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Branching coral colonies",
+    "diet": "Coral mucus and small invertebrates",
+    "size": "Up to 1.5 inches (3.5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

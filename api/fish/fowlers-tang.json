@@ -1,0 +1,46 @@
+{
+  "id": "fowlers-tang",
+  "name": "Fowler's Tang",
+  "scientificName": "Acanthurus fowleri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/fowlers-tang.svg",
+  "colors": {
+    "primary": "#696969",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm named after the famous fish scientist Henry Fowler who discovered many species!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a black spot at the base of my pectoral fin - it's like my fingerprint!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow pretty big - up to 18 inches! I need a large tank to swim around in.",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Western Pacific",
+    "diet": "Algae and detritus",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "20+ years"
+  }
+}

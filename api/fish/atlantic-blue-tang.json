@@ -1,0 +1,46 @@
+{
+  "id": "atlantic-blue-tang",
+  "name": "Atlantic Blue Tang",
+  "scientificName": "Acanthurus coeruleus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/atlantic-blue-tang.svg",
+  "colors": {
+    "primary": "#0047AB",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm the blue tang of the Caribbean! I'm different from the Pacific's 'Dory' blue tang.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm young, I'm bright yellow! As I grow, I transform to beautiful blue.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm sometimes called the Blue Doctor because of my sharp spine used for defense!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean and Western Atlantic",
+    "diet": "Algae - especially blue-green algae",
+    "size": "Up to 15 inches (39 cm)",
+    "lifespan": "20+ years"
+  }
+}

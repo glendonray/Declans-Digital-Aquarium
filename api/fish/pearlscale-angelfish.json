@@ -1,0 +1,46 @@
+{
+  "id": "pearlscale-angelfish",
+  "name": "Pearlscale Angelfish",
+  "scientificName": "Centropyge vrolikii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "pearlscale"
+  },
+  "image": "assets/fish/pearlscale-angelfish.svg",
+  "colors": {
+    "primary": "#E0E0E0",
+    "secondary": "#1A1A1A",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "My scales shimmer like pearls - that's why I'm called the Pearlscale Angelfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My back half is dark while my front shimmers pearly white - a beautiful contrast!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a hardy fish that adapts well to aquarium life!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "10+ years"
+  }
+}

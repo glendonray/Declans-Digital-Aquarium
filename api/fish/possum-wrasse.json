@@ -1,0 +1,46 @@
+{
+  "id": "possum-wrasse",
+  "name": "Possum Wrasse",
+  "scientificName": "Wetmorella nigropinnata",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/possum-wrasse.svg",
+  "colors": {
+    "primary": "#8B0000",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm tiny and shy - I hide in rock crevices like a possum in a tree!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful burgundy red coloring with white stripes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I only come out to grab food and then dart back to my hiding spot!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Tiny invertebrates",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-7 years"
+  }
+}

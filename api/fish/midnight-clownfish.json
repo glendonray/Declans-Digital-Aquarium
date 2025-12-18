@@ -1,0 +1,46 @@
+{
+  "id": "midnight-clownfish",
+  "name": "Midnight Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/midnight-clownfish.svg",
+  "colors": {
+    "primary": "#0D0D0D",
+    "secondary": "#1A1A1A",
+    "accent": "#333333"
+  },
+  "facts": [
+    {
+      "text": "I'm almost completely black, like the midnight sky! I might be the darkest clownfish ever created.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I have no white stripes at all - I'm pure velvety black from nose to tail!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "In the right light, you can see subtle dark maroon undertones in my black coloring.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "yellowfin-fairy-wrasse",
+  "name": "Yellowfin Fairy Wrasse",
+  "scientificName": "Cirrhilabrus flavidorsalis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/yellowfin-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#FFD700",
+    "accent": "#DC143C"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful yellow fins on a pink body - like wearing a yellow cape!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name means 'yellow back' because of my golden dorsal fin!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Indonesia and one of the most colorful fairy wrasses!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-8 years"
+  }
+}

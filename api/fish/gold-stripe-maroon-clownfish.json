@@ -1,0 +1,46 @@
+{
+  "id": "gold-stripe-maroon-clownfish",
+  "name": "Gold Stripe Maroon Clownfish",
+  "scientificName": "Premnas biaculeatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/gold-stripe-maroon-clownfish.svg",
+  "colors": {
+    "primary": "#8B0000",
+    "secondary": "#FFD700",
+    "accent": "#B8860B"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful golden yellow stripes instead of white! I'm found naturally in waters around Sumatra.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My gold stripes get even more golden as I grow older - like fine gold getting more valuable!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Gold Stripe Maroons are considered extra special and prized by fish keepers around the world!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Sumatra, Indonesia",
+    "diet": "Algae, zooplankton, and small invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "15-20 years"
+  }
+}

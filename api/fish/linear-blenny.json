@@ -1,0 +1,46 @@
+{
+  "id": "linear-blenny",
+  "name": "Linear Blenny",
+  "scientificName": "Ecsenius lineatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/linear-blenny.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have horizontal black lines running along my silvery body - very linear!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a peaceful blenny that gets along well with other fish!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to perch on coral and rocks with my pelvic fins like little feet!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and detritus",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "4-6 years"
+  }
+}

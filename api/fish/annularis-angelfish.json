@@ -1,0 +1,46 @@
+{
+  "id": "annularis-angelfish",
+  "name": "Annularis Angelfish",
+  "scientificName": "Pomacanthus annularis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "ringed"
+  },
+  "image": "assets/fish/annularis-angelfish.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FFD700",
+    "accent": "#000080"
+  },
+  "facts": [
+    {
+      "text": "I have a bright blue ring on my shoulder - 'annularis' means 'ringed' in Latin!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My body is covered in beautiful diagonal blue stripes on a golden-brown background!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Blue Ring Angelfish because of my distinctive shoulder marking!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from India to Japan",
+    "diet": "Sponges and algae",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "15+ years"
+  }
+}

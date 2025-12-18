@@ -1,0 +1,46 @@
+{
+  "id": "heralds-angelfish",
+  "name": "Herald's Angelfish",
+  "scientificName": "Centropyge heraldi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/heralds-angelfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FFA500",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm completely bright yellow - like a little swimming lemon drop!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look similar to the Lemonpeel but I don't have the blue eye ring!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after fish scientist Earl Herald from California Academy of Sciences!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Pacific Ocean",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10+ years"
+  }
+}

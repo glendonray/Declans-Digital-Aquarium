@@ -1,0 +1,46 @@
+{
+  "id": "dragon-wrasse",
+  "name": "Dragon Wrasse",
+  "scientificName": "Novaculichthys taeniourus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/dragon-wrasse.svg",
+  "colors": {
+    "primary": "#228B22",
+    "secondary": "#8B4513",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "When I'm young, I look like a piece of floating seaweed - great camouflage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I flip over rocks and coral rubble to find food - I'm very strong!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Rockmover Wrasse because I actually move rocks around!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Invertebrates found under rocks",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "8-10 years"
+  }
+}

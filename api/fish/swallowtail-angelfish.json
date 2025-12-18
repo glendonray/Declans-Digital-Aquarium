@@ -1,0 +1,46 @@
+{
+  "id": "swallowtail-angelfish",
+  "name": "Swallowtail Angelfish",
+  "scientificName": "Genicanthus lamarck",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/swallowtail-angelfish.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a forked tail that looks like a swallowtail butterfly - very graceful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Unlike most angelfish, I eat zooplankton instead of sponges - I'm a swimming filter!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males and females look different - males have more black stripes and yellow fins!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes throughout the Indo-Pacific",
+    "diet": "Zooplankton",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "15+ years"
+  }
+}

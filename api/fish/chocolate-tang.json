@@ -1,0 +1,46 @@
+{
+  "id": "chocolate-tang",
+  "name": "Chocolate Tang",
+  "scientificName": "Acanthurus pyroferus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/chocolate-tang.svg",
+  "colors": {
+    "primary": "#3D2314",
+    "secondary": "#FF8C00",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm the adult form of the Mimic Tang! I've changed from yellow to rich chocolate brown.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My orange spot near my eye and white tail spine make me easy to recognize!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named for my delicious chocolate-brown color - but I'm definitely not edible!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae and plant matter",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "15+ years"
+  }
+}

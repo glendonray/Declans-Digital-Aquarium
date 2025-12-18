@@ -1,0 +1,46 @@
+{
+  "id": "clown-tang",
+  "name": "Clown Tang",
+  "scientificName": "Acanthurus lineatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/clown-tang.svg",
+  "colors": {
+    "primary": "#1E90FF",
+    "secondary": "#FFD700",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have bold blue and yellow horizontal stripes - I look like I'm wearing a striped clown costume!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most aggressive tangs! I defend my territory fiercely with my tail spines.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My belly is bright orange-yellow, while my back is striped in blue, yellow, and black!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Surge zones on Indo-Pacific reefs",
+    "diet": "Filamentous algae",
+    "size": "Up to 15 inches (38 cm)",
+    "lifespan": "20+ years"
+  }
+}

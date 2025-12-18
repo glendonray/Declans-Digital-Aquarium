@@ -1,0 +1,46 @@
+{
+  "id": "extreme-picasso-clownfish",
+  "name": "Extreme Picasso Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/extreme-picasso-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm the wildest Picasso of all! My white pattern is so extreme it almost covers my whole body!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I might be almost all white with just splashes of orange - like an artist went crazy with white paint!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Extreme Picassos are super rare! Only a few fish in each batch have patterns extreme enough.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

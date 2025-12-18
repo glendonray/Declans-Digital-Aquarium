@@ -1,0 +1,46 @@
+{
+  "id": "teardrop-butterflyfish",
+  "name": "Teardrop Butterflyfish",
+  "scientificName": "Chaetodon unimaculatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "teardrop"
+  },
+  "image": "assets/fish/teardrop-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have a large teardrop-shaped spot on my side - like I'm crying from one eye!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My spot confuses predators - they don't know which end is my head!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm bright yellow with that distinctive teardrop marking!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Coral polyps and small invertebrates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "10-15 years"
+  }
+}

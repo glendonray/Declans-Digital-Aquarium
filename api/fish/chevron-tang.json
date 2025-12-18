@@ -1,0 +1,46 @@
+{
+  "id": "chevron-tang",
+  "name": "Chevron Tang",
+  "scientificName": "Ctenochaetus hawaiiensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "orange",
+    "pattern": "chevron"
+  },
+  "image": "assets/fish/chevron-tang.svg",
+  "colors": {
+    "primary": "#FF4500",
+    "secondary": "#8B0000",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "When I'm young, I'm bright orange with V-shaped chevron stripes - super colorful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "As I grow up, I change to a dark olive color. Juveniles and adults look totally different!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Hawaiian Bristletooth because I live around Hawaii!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii and the Central Pacific",
+    "diet": "Detritus and film algae",
+    "size": "Up to 11 inches (28 cm)",
+    "lifespan": "15+ years"
+  }
+}

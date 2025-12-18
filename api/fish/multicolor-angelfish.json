@@ -1,0 +1,46 @@
+{
+  "id": "multicolor-angelfish",
+  "name": "Multicolor Angelfish",
+  "scientificName": "Centropyge multicolor",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "multicolor"
+  },
+  "image": "assets/fish/multicolor-angelfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named Multicolor because I have so many colors - yellow, blue, black, and white!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have black bars on my face that look like dramatic eye makeup!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm found in deeper waters around Pacific islands - a treasure from the deep!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes in the Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "10+ years"
+  }
+}

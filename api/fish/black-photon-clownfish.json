@@ -1,0 +1,46 @@
+{
+  "id": "black-photon-clownfish",
+  "name": "Black Photon Clownfish",
+  "scientificName": "Amphiprion ocellaris x percula (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/black-photon-clownfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I'm a hybrid! My parents are an Ocellaris and a Percula clownfish - the best of both species!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I have jet black coloring with bright white stripes that really stand out!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Photon means 'light' - my white stripes glow bright against my dark body like beams of light!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "6-10 years"
+  }
+}

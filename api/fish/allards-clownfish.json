@@ -1,0 +1,46 @@
+{
+  "id": "allards-clownfish",
+  "name": "Allard's Clownfish",
+  "scientificName": "Amphiprion allardi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/allards-clownfish.svg",
+  "colors": {
+    "primary": "#FF7F00",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm from the coast of East Africa! I have two white bands and a dark belly that makes me look unique.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I was named after a famous marine biologist who studied clownfish in Africa!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the rarer clownfish in aquariums because I come from such a specific part of the ocean.",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of East Africa and Madagascar",
+    "diet": "Algae, zooplankton, and small crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

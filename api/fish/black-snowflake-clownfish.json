@@ -1,0 +1,46 @@
+{
+  "id": "black-snowflake-clownfish",
+  "name": "Black Snowflake Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "snowflake"
+  },
+  "image": "assets/fish/black-snowflake-clownfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#333333"
+  },
+  "facts": [
+    {
+      "text": "I combine two amazing traits - jet black coloring with beautiful snowflake white patterns!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My white markings really pop against my dark body - like snow falling at midnight!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm one of the most striking designer clownfish you can find!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

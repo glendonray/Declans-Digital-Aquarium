@@ -1,0 +1,46 @@
+{
+  "id": "raccoon-butterflyfish",
+  "name": "Raccoon Butterflyfish",
+  "scientificName": "Chaetodon lunula",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "masked"
+  },
+  "image": "assets/fish/raccoon-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have a black mask over my eyes like a raccoon - sneaky looking!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the hardiest butterflyfish and eat many different foods!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm active at night - a nocturnal butterfly!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Anemones, coral polyps, and algae",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "10-15 years"
+  }
+}

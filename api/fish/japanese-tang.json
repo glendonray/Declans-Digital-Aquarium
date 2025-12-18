@@ -1,0 +1,46 @@
+{
+  "id": "japanese-tang",
+  "name": "Japanese Tang",
+  "scientificName": "Acanthurus japonicus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "marked"
+  },
+  "image": "assets/fish/japanese-tang.svg",
+  "colors": {
+    "primary": "#708090",
+    "secondary": "#FF8C00",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have a white stripe on my face and orange markings near my tail - very distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look similar to the Powder Brown Tang but I come from the Western Pacific near Japan!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Philippines Surgeonfish or White-faced Tang!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Japan to the Philippines",
+    "diet": "Algae and marine plants",
+    "size": "Up to 8 inches (21 cm)",
+    "lifespan": "15+ years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "gladiator-clownfish",
+  "name": "Gladiator Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/gladiator-clownfish.svg",
+  "colors": {
+    "primary": "#FF5733",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named Gladiator because my bold, thick white bars look like warrior armor! Strong and striking!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My bars are much wider than regular clownfish - they almost connect to form a shield-like pattern.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Gladiator clownfish were developed by breeding fish with the widest bars together over many generations.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

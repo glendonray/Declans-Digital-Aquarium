@@ -1,0 +1,46 @@
+{
+  "id": "clarkii-clownfish",
+  "name": "Clarkii Clownfish",
+  "scientificName": "Amphiprion clarkii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/clarkii-clownfish.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm the most widespread clownfish in the world! You can find me from the Red Sea all the way to Japan and Australia.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can live with 10 different types of anemones - more than any other clownfish! I'm not picky about my home.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail is usually bright yellow, which helps other fish recognize me as a Clark's clownfish!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Omnivore - algae, zooplankton, and small invertebrates",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "10-15 years"
+  }
+}

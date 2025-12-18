@@ -1,0 +1,46 @@
+{
+  "id": "wyoming-white-clownfish",
+  "name": "Wyoming White Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/wyoming-white-clownfish.svg",
+  "colors": {
+    "primary": "#FFFAFA",
+    "secondary": "#FFFFFF",
+    "accent": "#FFA500"
+  },
+  "facts": [
+    {
+      "text": "I was first bred in Wyoming, USA - that's how I got my name! I'm a true American designer fish.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Wyoming Whites are one of the original designer clownfish varieties, starting the whole trend!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I still have a tiny bit of orange on my face and fins - like I'm blushing! It's my signature look.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

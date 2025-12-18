@@ -1,0 +1,2219 @@
+# Fish for Declan - Year of Fish
+
+A comprehensive list of ~2,920 fish species and variants for 8 unique fish per day for one year.
+Curated for aquarium hobbyists who love reef tanks, frag swaps, and the broader aquarium hobby.
+
+---
+
+# SALTWATER / REEF FISH (~1,000 entries)
+
+## Clownfish - Species
+
+- Ocellaris Clownfish
+- Percula Clownfish
+- Maroon Clownfish
+- Tomato Clownfish
+- Cinnamon Clownfish
+- Clarkii Clownfish
+- Saddleback Clownfish
+- Pink Skunk Clownfish
+- Orange Skunk Clownfish
+- Sebae Clownfish
+- Allard's Clownfish
+- Barrier Reef Clownfish
+- McCulloch's Clownfish
+- Oman Clownfish
+- Red Sea Clownfish
+- Two-Band Clownfish
+- Wide-Band Clownfish
+- Three-Band Clownfish
+- Madagascar Clownfish
+- Chagos Clownfish
+- Mauritian Clownfish
+- Seychelles Clownfish
+- Maldives Clownfish
+- Latezonatus Clownfish
+- Thiellei Clownfish
+
+## Clownfish - Designer Variants
+
+- Picasso Clownfish
+- Premium Picasso Clownfish
+- Extreme Picasso Clownfish
+- DaVinci Clownfish
+- Extreme DaVinci Clownfish
+- Snowflake Clownfish
+- Premium Snowflake Clownfish
+- Wyoming White Clownfish
+- Gladiator Clownfish
+- Frostbite Clownfish
+- Black Ice Clownfish
+- Mocha Clownfish
+- Mocha Storm Clownfish
+- Black Storm Clownfish
+- Phantom Clownfish
+- Midnight Clownfish
+- Domino Clownfish
+- Onyx Clownfish
+- Black Photon Clownfish
+- Naked Clownfish
+- Misbar Clownfish
+- Lightning Maroon Clownfish
+- Gold Stripe Maroon Clownfish
+- Gold Nugget Maroon Clownfish
+- Goldflake Maroon Clownfish
+- PNG Lightning Maroon Clownfish
+- Morse Code Maroon Clownfish
+- Nebula Clownfish
+- Black Snowflake Clownfish
+- Flurry Clownfish
+- Blizzard Clownfish
+- Longfin Clownfish
+- Longfin Mocha Clownfish
+- Longfin Black Storm Clownfish
+- Longfin Picasso Clownfish
+- Mai Tai Clownfish
+- Orange Storm Clownfish
+- Sunrise Clownfish
+- Sunset Clownfish
+- Blood Orange Clownfish
+- Tangerine Clownfish
+- Platinum Clownfish
+- Snow Onyx Clownfish
+- Fancy White Clownfish
+- Black Ocellaris Clownfish
+- Darwin Ocellaris Clownfish
+- Zombie Clownfish
+- Bullet Hole Clownfish
+- Spotcinctus Clownfish
+- Wide Bar Gladiator Clownfish
+- Deluxe Clownfish
+- Vivid Fancy Clownfish
+- Black DaVinci Clownfish
+- Caviar Clownfish
+- Midnight Lightning Clownfish
+- Galaxy Clownfish
+
+## Tangs / Surgeonfish
+
+- Yellow Tang
+- Purple Tang
+- Blue Tang (Hippo Tang)
+- Powder Blue Tang
+- Powder Brown Tang
+- Achilles Tang
+- Gem Tang
+- Naso Tang
+- Blonde Naso Tang
+- Unicorn Tang
+- Sailfin Tang
+- Desjardini Sailfin Tang
+- Scopas Tang
+- Kole Tang (Yellow Eye Tang)
+- Tomini Tang
+- Two Spot Bristletooth Tang
+- Chevron Tang
+- Black Tang
+- White Tang (leucistic)
+- Mimic Tang
+- Chocolate Tang
+- Clown Tang
+- Sohal Tang
+- Orange Shoulder Tang
+- Convict Tang
+- Lieutenant Tang
+- Striped Bristletooth Tang
+- Lavender Tang
+- Indian Ocean Mimic Tang
+- Thompson's Tang
+- Whitecheek Tang
+- Spotted Tang
+- Eyestripe Tang
+- Fowler's Tang
+- Blueline Tang
+- Japanese Tang
+- Whitefin Tang
+- Eibli Tang
+- Blackstripe Tang
+- Roundspot Tang
+- Yellow-dotted Tang
+- Atlantic Blue Tang
+- Gulf Surgeonfish
+- Doctorfish Tang
+- Ocean Surgeonfish
+- Ringtail Tang
+- Bluelined Surgeon
+- Brown Tang
+- Epaulette Tang
+- Whitespotted Tang
+- Vlamingi Tang
+
+## Large Angelfish
+
+- Emperor Angelfish
+- Juvenile Emperor Angelfish
+- Majestic Angelfish (Blue Girdled)
+- Queen Angelfish
+- Blue Angelfish
+- French Angelfish
+- Gray Angelfish
+- Passer Angelfish (King Angelfish)
+- Regal Angelfish
+- Blueface Angelfish
+- Annularis Angelfish
+- Koran Angelfish
+- Semicircle Angelfish
+- Six-Bar Angelfish
+- Asfur Angelfish
+- Maculosus Angelfish
+- Goldflake Angelfish
+- Scribbled Angelfish
+- Blue-ring Angelfish
+- Lamarck's Angelfish
+- Bellus Angelfish
+- Swallowtail Angelfish
+- Ornate Angelfish
+- Clarion Angelfish
+- Conspicuous Angelfish
+- Clipperton Angelfish
+- Bandit Angelfish
+- Black Velvet Angelfish
+- Tiger Angelfish
+- Vermiculated Angelfish
+- Masked Angelfish
+- Personifer Angelfish
+- Yellowbar Angelfish
+- Chrysurus Angelfish
+- Peppermint Angelfish
+- Nahacky's Angelfish
+- Japanese Swallow Angelfish
+- Indian Yellowtail Angelfish
+- Hybrid Emperor x Annularis
+- Hybrid Blue x Queen
+
+## Dwarf Angelfish
+
+- Flame Angelfish
+- Coral Beauty Angelfish
+- Lemonpeel Angelfish
+- Bicolor Angelfish
+- Half Black Angelfish
+- Eibli Angelfish
+- Fisher's Angelfish
+- Potter's Angelfish
+- Rusty Angelfish
+- Midnight Angelfish
+- Flameback Angelfish
+- African Flameback Angelfish
+- Brazilian Flameback Angelfish
+- Cherub Angelfish (Pygmy)
+- Colin's Angelfish
+- Multicolor Angelfish
+- Herald's Angelfish
+- Keyhole Angelfish
+- Japanese Pygmy Angelfish
+- Venustus Angelfish
+- Shepard's Angelfish
+- Pearlscale Angelfish
+- Golden Angelfish
+- Blackspot Angelfish
+- Narcosis Angelfish
+- Interruptus Angelfish
+- Abei Angelfish
+- Argi Angelfish
+- Debelius Angelfish
+- Hotumatua Angelfish
+- Joculator Angelfish
+- Multibar Angelfish
+- Nahackyi Angelfish
+- Resplendens Angelfish
+- Tigerpyge Angelfish
+- White-tail Pygmy Angelfish
+- Two-Spined Angelfish
+- Dusky Angelfish
+- Many-spined Angelfish
+- Blue Mauritius Angelfish
+- Hybrid Flame x Coral Beauty
+- Hybrid Lemonpeel x Half Black
+
+## Wrasses - Fairy Wrasses (Cirrhilabrus)
+
+- Exquisite Fairy Wrasse
+- Social Fairy Wrasse
+- Flame Fairy Wrasse
+- Lubbock's Fairy Wrasse
+- Scott's Fairy Wrasse
+- McCosker's Fairy Wrasse
+- Lineatus Fairy Wrasse
+- Rhomboid Fairy Wrasse
+- Red Velvet Fairy Wrasse
+- Blueside Fairy Wrasse
+- Laboute's Fairy Wrasse
+- Yellowfin Fairy Wrasse
+- Ruby Head Fairy Wrasse
+- Red-margined Fairy Wrasse
+- Lavender Fairy Wrasse
+- Rose-band Fairy Wrasse
+- Pylei Fairy Wrasse
+- Earlei Fairy Wrasse
+- Walton's Fairy Wrasse
+- Rosy-Fin Fairy Wrasse
+- Solar Fairy Wrasse
+- Sanguine Fairy Wrasse
+- Johnson's Fairy Wrasse
+- Katherine's Fairy Wrasse
+- Nahacky's Fairy Wrasse
+- Flame-back Fairy Wrasse
+- Sunset Fairy Wrasse
+- Pintail Fairy Wrasse
+- African Flame Fairy Wrasse
+- Tono's Fairy Wrasse
+- Humanni Fairy Wrasse
+- Randall's Fairy Wrasse
+- Lanceolatus Fairy Wrasse
+- Cyanogularis Fairy Wrasse
+- Blatteus Fairy Wrasse
+- Marjorie's Fairy Wrasse
+- Orangeback Fairy Wrasse
+- Claire's Fairy Wrasse
+- Splendid Fairy Wrasse
+- Red-finned Fairy Wrasse
+
+## Wrasses - Flasher Wrasses (Paracheilinus)
+
+- Carpenter's Flasher Wrasse
+- McCosker's Flasher Wrasse
+- Filamented Flasher Wrasse
+- Blue Flasher Wrasse
+- Red Sea Flasher Wrasse
+- Angular Flasher Wrasse
+- Yellowfin Flasher Wrasse
+- Dotted Flasher Wrasse
+- Nursalim Flasher Wrasse
+- Togean Flasher Wrasse
+- Walton's Flasher Wrasse
+- Lineopunctatus Flasher Wrasse
+- Attenuatus Flasher Wrasse
+- Bellae Flasher Wrasse
+- Alfiani Flasher Wrasse
+- Rennyae Flasher Wrasse
+- Eight-Line Flasher Wrasse
+- Ocellatus Flasher Wrasse
+- Rubricaudalis Flasher Wrasse
+- Hemitaeniatus Flasher Wrasse
+
+## Wrasses - Other Popular Species
+
+- Six Line Wrasse
+- Four Line Wrasse
+- Eight Line Wrasse
+- Mystery Wrasse
+- Melanurus Wrasse
+- Yellow Coris Wrasse
+- Red Coris Wrasse
+- African Clown Wrasse
+- Twin Spot Wrasse
+- Leopard Wrasse
+- Blue Star Leopard Wrasse
+- Ornate Leopard Wrasse
+- Vermiculate Leopard Wrasse
+- Dragon Wrasse
+- Rockmover Wrasse
+- Harlequin Tusk
+- Banana Wrasse
+- Sunset Wrasse
+- Moon Wrasse
+- Bluehead Wrasse
+- Formosa Wrasse
+- Cleaner Wrasse
+- Hawaiian Cleaner Wrasse
+- Bicolor Cleaner Wrasse
+- Bird Wrasse
+- Green Bird Wrasse
+- Pencil Wrasse
+- Pink-Streaked Wrasse
+- Checkerboard Wrasse
+- Exquisite Wrasse
+- Red-lined Wrasse
+- Radiant Wrasse
+- Christmas Wrasse
+- Ornate Wrasse
+- Cortez Rainbow Wrasse
+- Tubelip Wrasse
+- Possum Wrasse
+- Wetmorella Wrasse
+- Secretive Wrasse
+- Pintail Wrasse
+- Hoeven's Wrasse
+- Golden Wrasse
+- Red-tailed Tamarin Wrasse
+- Blue-sided Wrasse
+- Pastel-green Wrasse
+- Dusky Wrasse
+- Lyretail Wrasse
+- Goldbar Wrasse
+- Koi Wrasse
+- Adorned Wrasse
+
+## Gobies
+
+- Yellow Watchman Goby
+- Pink Watchman Goby
+- Orange Spotted Goby (Diamond)
+- Yellow Diamond Goby
+- Blue Spot Watchman Goby
+- Wheeler's Watchman Goby
+- Tangaroa Goby
+- Aurora Goby
+- Randall's Goby
+- Hi Fin Red Banded Goby
+- Yasha Goby
+- Dracula Goby
+- Stonogobiops Goby
+- Black Cap Basslet Goby
+- Firefish Goby
+- Purple Firefish Goby
+- Helfrichi Firefish
+- Scissortail Goby
+- Neon Goby
+- Sharknose Goby
+- Court Jester Goby
+- Rainford's Goby
+- Clown Goby Yellow
+- Clown Goby Green
+- Clown Goby Brown
+- Clown Goby Black
+- Clown Goby Citron
+- Two Spot Goby
+- Engineer Goby
+- Catalina Goby
+- Blue Neon Goby
+- Tiger Goby
+- Orangespot Goby
+- Sleeper Goby
+- Bullet Goby
+- Cave Goby
+- Panda Goby
+- Orange Line Goby
+- Decorated Goby
+- Barber Goby
+- Redhead Goby
+- Signal Goby
+- Twin Spot Signal Goby
+- Flaming Prawn Goby
+- Banded Prawn Goby
+
+## Dragonets
+
+- Mandarin Dragonet (Green)
+- Spotted Mandarin Dragonet
+- Red Mandarin Dragonet
+- Target Mandarin Dragonet
+- Picturesque Dragonet
+- Scooter Dragonet
+- Red Scooter Dragonet
+- Starry Dragonet
+- Ruby Red Dragonet
+- Ocellated Dragonet
+- Fingered Dragonet
+- Morrison's Dragonet
+- Lancer Dragonet
+- Exclamation Point Dragonet
+- Japanese Dragonet
+
+## Blennies
+
+- Midas Blenny
+- Bicolor Blenny
+- Lawnmower Blenny
+- Starry Blenny
+- Tailspot Blenny
+- Linear Blenny
+- Canary Blenny
+- Scooter Blenny
+- Ember Blenny
+- Flametail Blenny
+- Red-spotted Blenny
+- Black Combtooth Blenny
+- Striped Blenny
+- Barnacle Blenny
+- Seaweed Blenny
+- Highfin Blenny
+- Diamond Blenny
+- Two Spot Blenny
+- Segmented Blenny
+- Horned Blenny
+- Shortbodied Blenny
+- Sailfin Blenny
+- Red Sea Mimic Blenny
+- Piano Blenny
+- Floral Blenny
+- Orange Tailed Blenny
+- Yellowtail Fang Blenny
+- Striped Fang Blenny
+- Blackline Fang Blenny
+- Bundoon Blenny
+
+## Butterflyfish
+
+- Copperband Butterflyfish
+- Longnose Butterflyfish
+- Yellow Longnose Butterflyfish
+- Big Longnose Butterflyfish
+- Raccoon Butterflyfish
+- Threadfin Butterflyfish
+- Heniochus Butterflyfish (Bannerfish)
+- Singular Bannerfish
+- Phantom Bannerfish
+- Masked Bannerfish
+- Schooling Bannerfish
+- Pakistani Butterflyfish
+- Tinker's Butterflyfish
+- Lemon Butterflyfish
+- Pyramid Butterflyfish
+- Vagabond Butterflyfish
+- Black-backed Butterflyfish
+- Latticed Butterflyfish
+- Spot-banded Butterflyfish
+- Double-saddle Butterflyfish
+- Saddleback Butterflyfish
+- Lined Butterflyfish
+- Teardrop Butterflyfish
+- Sunburst Butterflyfish
+- Golden Butterflyfish
+- Millet Butterflyfish
+- Ornate Butterflyfish
+- Pearlscale Butterflyfish
+- Wrought Iron Butterflyfish
+- Margined Butterflyfish
+- Fourspot Butterflyfish
+- Klein's Butterflyfish
+- Merten's Butterflyfish
+- Philippine Butterflyfish
+- Dot Dash Butterflyfish
+- Declivis Butterflyfish
+- Bennett's Butterflyfish
+- Blueblotch Butterflyfish
+- Chevron Butterflyfish
+- Black Butterflyfish
+- Meyers Butterflyfish
+- Spotfin Butterflyfish
+- Spotband Butterflyfish
+- Bank Butterflyfish
+- Caribbean Longsnout
+- Foureye Butterflyfish
+- Banded Butterflyfish
+- Reef Butterflyfish
+
+## Anthias
+
+- Lyretail Anthias (Squamipinnis)
+- Bartlett's Anthias
+- Dispar Anthias
+- Evansi Anthias
+- Sunburst Anthias
+- Purple Queen Anthias
+- Bicolor Anthias
+- Fathead Anthias
+- Carberryi Anthias
+- Randall's Anthias
+- Stocky Anthias
+- Princess Anthias
+- Resplendent Anthias
+- Ventralis Anthias
+- Bimaculatus Anthias
+- Hawaiian Longfin Anthias
+- Red-belted Anthias
+- Yellowstripe Anthias
+- Threadfin Anthias
+- Tiger Queen Anthias
+- Ignitus Anthias
+- Cooperi Anthias
+- Borbonius Anthias
+- Square Anthias
+- Lori's Anthias
+- Parvirostris Anthias
+- Huchtii Anthias
+- Sunset Anthias
+- Flavoguttatus Anthias
+- Spotfin Anthias
+
+## Dottybacks and Basslets
+
+- Royal Gramma
+- Blackcap Gramma
+- Brazilian Gramma
+- Orchid Dottyback
+- Royal Dottyback
+- Neon Dottyback
+- Springer's Dottyback
+- Diadema Dottyback
+- Sankey's Dottyback
+- Strawberry Dottyback
+- Purple Dottyback
+- Magenta Dottyback
+- Bicolor Dottyback
+- Sunrise Dottyback
+- Splendid Dottyback
+- Indigo Dottyback
+- Yellowfin Dottyback
+- Striped Dottyback
+- Blue Assessor
+- Yellow Assessor
+- Candy Basslet
+- Chalk Bass
+- Lantern Bass
+- Swissguard Basslet
+- Peppermint Basslet
+- Harlequin Basslet
+- Yellowhead Basslet
+- Sunshinefish
+- Golden Fairy Basslet
+- Cave Basslet
+
+## Hawkfish
+
+- Flame Hawkfish
+- Longnose Hawkfish
+- Arc-Eye Hawkfish
+- Spotted Hawkfish (Pixy)
+- Falco Hawkfish
+- Golden Hawkfish
+- Geometric Hawkfish
+- Stocky Hawkfish
+- Coral Hawkfish
+- Swallowtail Hawkfish
+- Two-spot Hawkfish
+- Giant Hawkfish
+- Redbar Hawkfish
+- Whitespotted Hawkfish
+
+## Cardinalfish
+
+- Banggai Cardinalfish
+- Pajama Cardinalfish
+- Flame Cardinalfish
+- Orbic Cardinalfish
+- Threadfin Cardinalfish
+- Ring-tailed Cardinalfish
+- Spotted Cardinalfish
+- Yellow Cardinalfish
+- Blue-Eyed Cardinalfish
+- Ochre-Striped Cardinalfish
+- Intermediate Cardinalfish
+- Longspine Cardinalfish
+- Wolf Cardinalfish
+- Tiger Cardinalfish
+- Seale's Cardinalfish
+- Wassinki Cardinalfish
+- Bluestreak Cardinalfish
+- Five-lined Cardinalfish
+- Two-spot Cardinalfish
+- Coral Cardinalfish
+- Barred Cardinalfish
+- Copperstriped Cardinalfish
+- Ghost Cardinalfish
+- Moluccan Cardinalfish
+- Narrowstripe Cardinalfish
+
+## Triggerfish
+
+- Picasso Triggerfish
+- Clown Triggerfish
+- Niger Triggerfish
+- Blue Jaw Triggerfish
+- Pink Tail Triggerfish
+- Blueline Triggerfish
+- Crosshatch Triggerfish
+- Bursa Triggerfish
+- Undulated Triggerfish
+- Titan Triggerfish
+- Orange-lined Triggerfish
+- Yellowmargin Triggerfish
+- Starry Triggerfish
+- Boomerang Triggerfish
+- White Tail Triggerfish
+- Sargassum Triggerfish
+- Gray Triggerfish
+- Queen Triggerfish
+- Black Triggerfish
+- Hawaiian Black Triggerfish
+- Gilded Triggerfish
+- Halfmoon Triggerfish
+- Wedge-tail Triggerfish
+- Flagtail Triggerfish
+- Pinktail Triggerfish
+
+## Pufferfish
+
+- Porcupine Puffer
+- Dog Face Puffer
+- Stars and Stripes Puffer
+- Blue Spotted Puffer
+- Valentini Puffer (Saddled Toby)
+- White Spotted Puffer (Hawaiian)
+- Spotted Toby
+- Crowned Toby
+- Golden Puffer
+- Mappa Puffer
+- Guineafowl Puffer
+- Striped Burrfish
+- Web Burrfish
+- Bridled Burrfish
+- Canthigaster Coronata
+- Canthigaster Compressa
+- Canthigaster Solandri
+- Canthigaster Bennetti
+- Canthigaster Epilampra
+- Canthigaster Janthinoptera
+- Sharpnose Puffer
+- Bandtail Puffer
+- Immaculate Puffer
+- Papuan Toby
+- Blacksaddle Toby
+- Honeycomb Toby
+
+## Boxfish and Cowfish
+
+- Yellow Boxfish
+- Blue Boxfish (Spotted)
+- White Spotted Boxfish
+- Longhorn Cowfish
+- Scrawled Cowfish
+- Thornback Cowfish
+- Spotted Trunkfish
+- Buffalo Trunkfish
+- Smooth Trunkfish
+- Black Boxfish
+- Humpback Turretfish
+- Bluetail Trunkfish
+- Spiny Boxfish
+- Camel Cowfish
+
+## Filefish
+
+- Aiptasia-eating Filefish
+- Tasseled Filefish
+- Orange Spotted Filefish
+- Matted Filefish
+- Fantail Filefish
+- Orangetail Filefish
+- Longnose Filefish
+- Seagrass Filefish
+- Scrawled Filefish
+- Fringed Filefish
+- Redtail Filefish
+- Shy Filefish
+- Unicorn Filefish
+- Harlequin Filefish
+- Barred Filefish
+- Mimic Filefish
+- Whitespotted Filefish
+- Blackbar Filefish
+
+## Seahorses and Pipefish
+
+- Lined Seahorse
+- Dwarf Seahorse
+- Pot-bellied Seahorse
+- Kuda Seahorse
+- Erectus Seahorse
+- Tiger Tail Seahorse
+- Barbour's Seahorse
+- Brazilian Seahorse
+- Yellow Seahorse
+- Zebra Seahorse
+- Thorny Seahorse
+- Pacific Seahorse
+- Spotted Seahorse
+- Weedy Seadragon
+- Leafy Seadragon
+- Banded Pipefish
+- Bluestripe Pipefish
+- Janss' Pipefish
+- Dragonface Pipefish
+- Yellow Multibanded Pipefish
+- Flagtail Pipefish
+- Network Pipefish
+- Reeftop Pipefish
+- Harlequin Ghost Pipefish
+- Ornate Ghost Pipefish
+- Robust Ghost Pipefish
+- Pygmy Pipehorse
+
+## Eels
+
+- Snowflake Moray Eel
+- Zebra Moray Eel
+- Golden Dwarf Moray
+- Chainlink Moray
+- Whitemouth Moray
+- Honeycomb Moray
+- Spotted Moray
+- Green Moray
+- Dragon Moray (Japanese)
+- Fimbriated Moray
+- Jewel Moray
+- Ribbon Eel (Blue)
+- Ribbon Eel (Black)
+- Ribbon Eel (Yellow)
+- Ghost Eel
+- Garden Eel
+- Spotted Garden Eel
+- Splendid Garden Eel
+- Hass's Garden Eel
+- Gorgasia Garden Eel
+- Spaghetti Eel
+- Wolf Eel
+- Banded Snake Eel
+- Tiger Snake Eel
+- Marble Eel
+- Gymnothorax Melatremus
+- Kidako Moray
+
+## Damsels and Chromis
+
+- Blue Chromis
+- Green Chromis
+- Black Bar Chromis
+- Blue Reef Chromis
+- Purple Chromis
+- Vanderbilt Chromis
+- Yellow Chromis
+- Black Chromis
+- Bicolor Chromis
+- Yellowtail Damsel
+- Blue Damsel
+- Domino Damsel
+- Three Spot Damsel
+- Four Stripe Damsel
+- Sergeant Major
+- Indo-Pacific Sergeant
+- Yellow-belly Damsel
+- Neon Damsel
+- Springer's Damsel
+- Tuxedo Damsel
+- Starck's Damsel
+- Blue Sapphire Damsel
+- Allen's Damsel
+- Pink-throated Damsel
+- Fiji Blue Devil
+- Electric Blue Damsel
+- Azure Damselfish
+- Garibaldi Damsel
+- Blacktail Damsel
+- Rolland's Damsel
+
+## Lionfish and Scorpionfish
+
+- Volitan Lionfish (Red)
+- Volitan Lionfish (Black)
+- Dwarf Lionfish (Fuzzy)
+- Fu Manchu Lionfish
+- Antennata Lionfish
+- Radiata Lionfish
+- Mombasa Lionfish
+- Hawaiian Turkeyfish
+- African Lionfish
+- Clearfin Lionfish
+- Spotfin Lionfish
+- Shortfin Lionfish
+- Twinspot Lionfish
+- Rhinopias Scorpionfish
+- Weedy Scorpionfish
+- Leaf Scorpionfish
+- Devil Scorpionfish
+- Stonefish
+- Ambon Scorpionfish
+- Flasher Scorpionfish
+
+## Groupers and Basslets (Reef-Compatible)
+
+- Miniatus Grouper
+- V-Tail Grouper
+- Panther Grouper
+- Blue Line Grouper
+- Polleni Grouper
+- Marine Betta
+- Comet Grouper
+- Harlequin Bass
+- Soapfish
+- Golden Soapfish
+- Tobacco Bass
+- Chalk Bass
+- Orangeback Bass
+- Reef Bass
+- Longfin Grouper
+- Masked Grouper
+- Sixbar Grouper
+- Coral Hind
+- Strawberry Grouper
+- Red Flag Grouper
+- Golden Grouper
+- Whitespotted Grouper
+
+## Rabbitfish
+
+- Foxface Rabbitfish
+- One Spot Foxface
+- Two Barred Rabbitfish
+- Magnificent Rabbitfish
+- Blue-spotted Rabbitfish
+- Masked Rabbitfish
+- Gold-spotted Rabbitfish
+- Decorated Rabbitfish
+- Coral Rabbitfish
+- Streamlined Rabbitfish
+- Virgate Rabbitfish
+- Pencil-streaked Rabbitfish
+- Scribbled Rabbitfish
+- Java Rabbitfish
+- White-spotted Rabbitfish
+
+## Sharks and Rays (Home Aquarium)
+
+- Epaulette Shark
+- Brownbanded Bamboo Shark
+- Whitespotted Bamboo Shark
+- Coral Catshark
+- Marbled Catshark
+- Wobbegong Shark
+- Horn Shark
+- Port Jackson Shark
+- Blue Spotted Stingray
+- Cortez Round Ray
+- Yellow Stingray
+- California Round Ray
+- Haller's Round Ray
+- Banded Guitarfish
+
+## Frogfish and Anglers
+
+- Warty Frogfish
+- Painted Frogfish
+- Commerson's Frogfish
+- Giant Frogfish
+- Sargassum Frogfish
+- Hairy Frogfish
+- Clown Frogfish
+- Randall's Frogfish
+- Ocellated Frogfish
+- Striated Frogfish
+- Scarlet Frogfish
+- Longlure Frogfish
+- Bloody Frogfish
+- Hispid Frogfish
+- Dwarf Frogfish
+
+## Premium/Collector Saltwater
+
+- Peppermint Angelfish
+- Interruptus Angelfish
+- Conspicuous Angelfish
+- Narcosis Angelfish
+- Gem Tang
+- Wrought Iron Butterflyfish
+- Clarion Angelfish
+- Tiger Angelfish
+- Masked Angelfish
+- Japanese Dragon Eel
+- Crosshatch Triggerfish
+- Blue Assessor
+- Yellow Assessor
+- Helfrichi Firefish
+- Candycane Hogfish
+- Sunburst Anthias
+- Borbonius Anthias
+- Neptune Grouper
+- Golden Basslet
+- Bladefin Basslet
+- Multibar Angelfish
+- Centropyge Boylei
+- Colin's Angelfish
+- Pyle's Fairy Wrasse
+- Nahacky's Fairy Wrasse
+
+---
+
+# FRESHWATER COMMUNITY FISH (~600 entries)
+
+## Tetras
+
+- Neon Tetra
+- Cardinal Tetra
+- Green Neon Tetra
+- Black Neon Tetra
+- Rummy Nose Tetra
+- Ember Tetra
+- Serpae Tetra
+- Glowlight Tetra
+- Flame Tetra
+- Lemon Tetra
+- Diamond Tetra
+- Congo Tetra
+- Emperor Tetra
+- Black Phantom Tetra
+- Red Phantom Tetra
+- Bleeding Heart Tetra
+- Black Skirt Tetra (Black Widow)
+- White Skirt Tetra
+- GloFish Tetra (various colors)
+- Buenos Aires Tetra
+- Columbian Tetra
+- Red Eye Tetra
+- Silvertip Tetra
+- Pristella Tetra
+- Rosy Tetra
+- Bentosi Tetra
+- Roberts Tetra
+- Ornate Tetra
+- Loreto Tetra
+- Rainbow Tetra
+- Kitty Tetra
+- Coffee Bean Tetra
+- Cochu's Blue Tetra
+- Ruby Tetra
+- Bloodfin Tetra
+- Glass Bloodfin Tetra
+- Featherfin Tetra
+- Penguin Tetra
+- X-Ray Tetra
+- Head and Tail Light Tetra
+- Gold Tetra
+- Green Fire Tetra
+- Splashing Tetra
+- Splash Tetra
+- King Blue Tetra
+- Firehead Tetra
+- Dawn Tetra
+- Blue Tetra
+- Bucktooth Tetra
+- Swordtail Characin
+- Pink Tailed Chalceus
+- Panda Tetra
+- Amber Tetra
+- Amanda's Tetra
+- Tucano Tetra
+- Jelly Bean Tetra
+- Purple Emperor Tetra
+- Darter Tetra
+- Long Finned Black Tetra
+- Gold Widow Tetra
+- Long Finned Serpae
+- Arrowhead Tetra
+- Yellow Phantom Tetra
+- Disk Tetra
+- Silver Dollar
+- Red Hook Silver Dollar
+- Spotted Silver Dollar
+- Tiger Silver Dollar
+- Piranha (Red Belly)
+- Black Piranha
+- Ruby Red Piranha
+
+## Rasboras and Danios
+
+- Harlequin Rasbora
+- Lambchop Rasbora
+- Espei Rasbora
+- Phoenix Rasbora
+- Chili Rasbora
+- Strawberry Rasbora
+- Galaxy Rasbora (Celestial Pearl Danio)
+- Exclamation Point Rasbora
+- Scissortail Rasbora
+- Brilliant Rasbora
+- Dwarf Rasbora
+- Emerald Dwarf Rasbora
+- Clown Rasbora
+- Red Line Rasbora
+- Green Line Rasbora
+- Neon Green Rasbora
+- Blue Axelrodi Rasbora
+- Kubotai Rasbora
+- Merah Rasbora
+- Fire Rasbora
+- Zebra Danio
+- Leopard Danio
+- Pearl Danio
+- Giant Danio
+- Gold Zebra Danio
+- GloFish Danio (various colors)
+- Longfin Zebra Danio
+- Blue Danio
+- Spotted Danio
+- Orange Finned Danio
+- Glowlight Danio
+- Panther Danio
+- Celestial Pearl Danio
+- Emerald Dwarf Danio
+- Choprae Danio
+- Kyathit Danio
+- Fireline Danio
+- Hikari Danio
+- Myanmar Danio
+- Tinwini Danio
+- White Cloud Mountain Minnow
+- Golden White Cloud
+- Longfin White Cloud
+- Vietnamese Cardinal Minnow
+- Rosy Red Minnow
+
+## Barbs
+
+- Tiger Barb
+- Green Tiger Barb
+- Albino Tiger Barb
+- GloFish Tiger Barb
+- Cherry Barb
+- Super Red Cherry Barb
+- Rosy Barb
+- Longfin Rosy Barb
+- Gold Barb
+- Checker Barb
+- Black Ruby Barb
+- Ticto Barb
+- Odessa Barb
+- Denison Barb (Roseline Shark)
+- Pentazona Barb
+- Melon Barb
+- T-Barb
+- Snakeskin Barb
+- Filament Barb
+- Arulius Barb
+- Clown Barb
+- Tinfoil Barb
+- Albino Tinfoil Barb
+- Bala Shark
+- Albino Bala Shark
+- Spanner Barb
+- Pool Barb
+- Striped Barb
+- Golden Dwarf Barb
+- Drape Fin Barb
+- Phoenix Barb
+- Sawbwa Barb
+- Rhombo Barb
+- Mascara Barb
+- Black Line Torpedo Barb
+- Red Panda Barb
+- Curmuca Barb
+- Swamp Barb
+- Orange Fin Barb
+- Blue Pool Barb
+
+## Livebearers - Guppies
+
+- Fancy Guppy (Mixed)
+- Moscow Guppy (Blue)
+- Moscow Guppy (Purple)
+- Moscow Guppy (Black)
+- Dumbo Ear Guppy
+- Elephant Ear Guppy
+- Cobra Guppy
+- Snakeskin Guppy
+- Leopard Guppy
+- Tuxedo Guppy
+- Half Black Guppy
+- Dragon Guppy
+- Red Dragon Guppy
+- Platinum Guppy
+- Albino Guppy
+- Koi Guppy
+- Galaxy Guppy
+- Neon Guppy
+- Metal Guppy
+- Yellow Guppy
+- Sunrise Guppy
+- Sunset Guppy
+- Blue Grass Guppy
+- Red Grass Guppy
+- Green Grass Guppy
+- Flamingo Guppy
+- Full Red Guppy
+- Full Blue Guppy
+- Full Black Guppy
+- Japanese Blue Guppy
+- Vienna Emerald Guppy
+- Tiger Guppy
+- Lyretail Guppy
+- Ribbon Guppy
+- Swordtail Guppy
+- Pin Tail Guppy
+- Spade Tail Guppy
+- Round Tail Guppy
+- Double Sword Guppy
+- Top Sword Guppy
+- Bottom Sword Guppy
+- Endler's Livebearer
+- Tiger Endler
+- Black Bar Endler
+- Red Chest Endler
+- Flame Tail Endler
+- Santa Maria Endler
+- El Tigre Endler
+- Lime Green Endler
+
+## Livebearers - Mollies
+
+- Black Molly
+- Dalmatian Molly
+- Gold Dust Molly
+- Creamsicle Molly
+- Orange Molly
+- Silver Molly
+- Platinum Molly
+- White Molly
+- Red Sunset Molly
+- Golden Sailfin Molly
+- Black Sailfin Molly
+- Dalmatian Sailfin Molly
+- Green Sailfin Molly
+- Marble Molly
+- Harlequin Molly
+- Balloon Molly
+- Black Balloon Molly
+- Dalmatian Balloon Molly
+- Lyretail Molly
+- Black Lyretail Molly
+- Giant Sailfin Molly
+- Yucatan Molly
+- Atlantic Molly
+- Liberty Molly
+
+## Livebearers - Platies
+
+- Red Wag Platy
+- Blue Wag Platy
+- Sunset Platy
+- Sunburst Platy
+- Marigold Platy
+- Gold Platy
+- Mickey Mouse Platy
+- Tuxedo Platy
+- Salt and Pepper Platy
+- Panda Platy
+- Dalmatian Platy
+- Coral Platy
+- Bumblebee Platy
+- Neon Blue Platy
+- Painted Platy
+- Rainbow Platy
+- Red Coral Platy
+- Red Velvet Platy
+- Calico Platy
+- Twin Bar Platy
+- Pintail Platy
+- Highfin Platy
+- Variatus Platy
+- Golden Variatus
+
+## Livebearers - Swordtails
+
+- Red Swordtail
+- Pineapple Swordtail
+- Marigold Swordtail
+- Neon Swordtail
+- Tuxedo Swordtail
+- Black Swordtail
+- Green Swordtail
+- Red Wag Swordtail
+- Berlin Swordtail
+- Koi Swordtail
+- Painted Swordtail
+- Kohaku Swordtail
+- Sanke Swordtail
+- Brick Red Swordtail
+- Velvet Swordtail
+- Lyretail Swordtail
+- Highfin Swordtail
+- Double Sword
+- Montezuma Swordtail
+- Chiapas Swordtail
+
+## Rainbowfish
+
+- Boesemani Rainbowfish
+- Red Rainbowfish
+- Turquoise Rainbowfish
+- Lake Kutubu Rainbowfish
+- Parkinsoni Rainbowfish
+- Melanotaenia Praecox (Dwarf Neon)
+- Celebes Rainbowfish
+- Threadfin Rainbowfish
+- Forktail Blue Eye
+- Furcata Rainbowfish
+- Kamaka Rainbowfish
+- Goyder River Rainbowfish
+- Millenium Rainbowfish
+- Axelrod's Rainbowfish
+- Bleheri Rainbowfish
+- Australian Rainbowfish
+- Eastern Rainbowfish
+- Splendid Rainbowfish
+- Banded Rainbowfish
+- Checkered Rainbowfish
+- Western Rainbowfish
+- Red Salmon Rainbowfish
+- Trifasciata Rainbowfish
+- Madagascar Rainbowfish
+- Spotted Blue Eye
+- Pacific Blue Eye
+- Pseudomugil Gertrudae
+- Pseudomugil Luminatus
+- Pseudomugil Paskai (Red Neon)
+- Pseudomugil Cyanodorsalis
+
+## Killifish
+
+- Golden Wonder Killifish
+- Clown Killifish
+- Least Killifish
+- Gardneri Killifish
+- Blue Lyretail Killifish
+- Red Striped Killifish
+- Chocolate Lyretail
+- Lampeye Killifish
+- Norman's Lampeye
+- Poropanchax Normani
+- American Flagfish
+- Steel Blue Killifish
+- Blue Gularis
+- Golden Pheasant Killifish
+- Nothobranchius Rachovii
+- Nothobranchius Guentheri
+- Nothobranchius Eggersi
+- Austrolebias Nigripinnis
+- Simpsonichthys Killifish
+- Aphyosemion Australe
+- Aphyosemion Striatum
+- Aphyosemion Bivittatum
+- Epiplatys Annulatus (Clown)
+- Fundulopanchax Gardneri
+- Fundulopanchax Sjoestedti
+
+---
+
+# CICHLIDS (~500 entries)
+
+## African Cichlids - Lake Malawi Mbuna
+
+- Yellow Lab (Labidochromis Caeruleus)
+- Electric Blue Johanni
+- Red Zebra
+- Blue Zebra
+- Cobalt Blue Zebra
+- Red Top Zebra
+- Orange Blotch (OB) Zebra
+- Bumblebee Cichlid
+- Kenyi Cichlid
+- Auratus Cichlid
+- Pseudotropheus Demasoni
+- Pseudotropheus Acei
+- Pseudotropheus Socolofi
+- Pseudotropheus Elongatus
+- Pseudotropheus Crabro
+- Pseudotropheus Flavus
+- Tropheops Red Cheek
+- Tropheops Macrophthalmus
+- Melanochromis Auratus
+- Melanochromis Chipokae
+- Melanochromis Cyaneorhabdos
+- Labeotropheus Trewavasae
+- Labeotropheus Fuelleborni
+- Cynotilapia Afra
+- Cynotilapia Zebroides
+- Metriaclima Callainos
+- Metriaclima Estherae
+- Metriaclima Greshakei
+- Metriaclima Lombardoi
+- Metriaclima Msobo
+- Iodotropheus Sprengerae
+- Chindongo Saulosi
+
+## African Cichlids - Lake Malawi Haps
+
+- Electric Blue Hap
+- Taiwan Reef
+- Blue Dolphin (Cyrtocara Moorii)
+- Venustus Cichlid
+- Livingstoni Cichlid
+- Nimbochromis Polystigma
+- Red Empress
+- Deep Water Hap
+- Borleyi Cichlid
+- Kadango Red Fin
+- Fire Blue Hap
+- Copadichromis Azureus
+- Copadichromis Borleyi
+- Copadichromis Chrysonotus
+- Copadichromis Trewavasae
+- Placidochromis Electra
+- Placidochromis Milomo
+- Placidochromis Phenochilus
+- Protomelas Taeniolatus
+- Protomelas Steveni
+- Otopharynx Lithobates
+- Otopharynx Tetrastigma
+- Sciaenochromis Fryeri
+- Tyrannochromis Nigriventer
+- Aristochromis Christyi
+- Champsochromis Caeruleus
+- Dimidiochromis Compressiceps
+- Dimidiochromis Strigatus
+- Fossochromis Rostratus
+- Mylochromis Ericotaenia
+
+## African Cichlids - Lake Malawi Peacocks
+
+- Aulonocara Stuartgranti (Flavescent)
+- Aulonocara Maylandi
+- Aulonocara Jacobfreibergi
+- Aulonocara Baenschi (Yellow Regal)
+- Aulonocara Blue Neon
+- Aulonocara Ruby Red
+- Aulonocara Eureka Red
+- Aulonocara Red Flush
+- Aulonocara OB
+- Aulonocara Albino
+- Aulonocara Dragon Blood
+- Aulonocara Strawberry
+- Aulonocara German Red
+- Aulonocara Firefish
+- Aulonocara Sunshine
+- Aulonocara Lwanda
+- Aulonocara Ngara
+- Aulonocara Maleri
+- Aulonocara Maulana
+- Aulonocara Usisya
+- Aulonocara Chitande
+- Aulonocara Fort Maguire
+- Aulonocara Hansbaenschi
+- Aulonocara Korneliae
+- Aulonocara Aquilonium
+- Aulonocara Saulosi
+- Aulonocara Multicolor
+
+## African Cichlids - Lake Tanganyika
+
+- Frontosa Cichlid
+- Blue Zaire Frontosa
+- Burundi Frontosa
+- Kigoma Frontosa
+- Mpimbwe Frontosa
+- Tropheus Moorii
+- Tropheus Duboisi
+- Tropheus Ikola
+- Tropheus Bemba
+- Tropheus Red Rainbow
+- Neolamprologus Brichardi
+- Neolamprologus Pulcher
+- Neolamprologus Leleupi
+- Neolamprologus Tretocephalus
+- Neolamprologus Sexfasciatus
+- Neolamprologus Cylindricus
+- Neolamprologus Multifasciatus
+- Neolamprologus Similis
+- Neolamprologus Ocellatus
+- Julidochromis Dickfeldi
+- Julidochromis Marlieri
+- Julidochromis Ornatus
+- Julidochromis Transcriptus
+- Julidochromis Regani
+- Altolamprologus Calvus
+- Altolamprologus Compressiceps
+- Lamprologus Ocellatus
+- Lamprologus Signatus
+- Lamprologus Speciosus
+- Lamprologus Stappersi
+- Xenotilapia Flavipinnis
+- Xenotilapia Spiloptera
+- Cyprichromis Leptosoma
+- Cyprichromis Microlepidotus
+- Paracyprichromis Nigripinnis
+- Cyphotilapia Gibberosa
+- Enantiopus Melanogenys
+- Ophthalmotilapia Ventralis
+- Petrochromis Trewavasae
+- Callochromis Macrops
+- Eretmodus Cyanostictus
+- Tanganyicodus Irsacae
+
+## African Cichlids - Lake Victoria
+
+- Astatotilapia Latifasciata
+- Pundamilia Nyererei
+- Haplochromis Obliquidens
+- Haplochromis Thick Skin
+- Haplochromis CH44
+- Paralabidochromis Chromogynos
+- Paralabidochromis Chilotes
+- Yssichromis Laparogramma
+- Xystichromis Phytophagus
+- Mbipia Lutea
+- Lipochromis Melanopterus
+- Astatoreochromis Alluaudi
+- Neochromis Omnicaeruleus
+- Lithochromis Rubripinnis
+
+## Dwarf Cichlids - South American
+
+- German Blue Ram
+- Electric Blue Ram
+- Gold Ram
+- Balloon Ram
+- Bolivian Ram
+- Apistogramma Cacatuoides
+- Apistogramma Agassizii
+- Apistogramma Borellii
+- Apistogramma Hongsloi
+- Apistogramma Macmasteri
+- Apistogramma Panduro
+- Apistogramma Baenschi
+- Apistogramma Viejita
+- Apistogramma Bitaeniata
+- Apistogramma Trifasciata
+- Apistogramma Elizabethae
+- Apistogramma Nijsseni
+- Apistogramma Norberti
+- Apistogramma Eremnopyge
+- Apistogramma Allpahuayo
+- Apistogramma Mendezi
+- Apistogramma Cruzi
+- Apistogramma Erythrura
+- Dicrossus Filamentosus
+- Dicrossus Maculatus
+- Laetacara Curviceps
+- Laetacara Dorsigera
+- Nannacara Anomala
+- Nannacara Adoketa
+- Mikrogeophagus Altispinosus
+
+## South and Central American Cichlids
+
+- Oscar (Tiger)
+- Oscar (Albino)
+- Oscar (Red)
+- Oscar (Lemon)
+- Oscar (Longfin)
+- Jack Dempsey
+- Electric Blue Jack Dempsey
+- Green Terror
+- Gold Saum
+- Firemouth Cichlid
+- Convict Cichlid
+- Pink Convict
+- Blood Parrot Cichlid
+- Flowerhorn Cichlid
+- Severum (Green)
+- Severum (Gold)
+- Severum (Red)
+- Severum (Rotkeil)
+- Chocolate Cichlid
+- Uaru Cichlid
+- Blue Acara
+- Electric Blue Acara
+- Texas Cichlid
+- Rio Grande Cichlid
+- Salvini Cichlid
+- Jaguar Cichlid
+- Dovii Cichlid
+- Midas Cichlid
+- Red Devil Cichlid
+- Trimac Cichlid
+- Vieja Synspilus
+- Umbee Cichlid
+- Wolf Cichlid
+- Pike Cichlid (Crenicichla)
+- Jewel Cichlid
+- Kribensis
+- Rainbow Krib
+- Geophagus Brasiliensis
+- Geophagus Tapajos
+- Geophagus Altifrons
+- Geophagus Sveni
+- Satanoperca Jurupari
+- Satanoperca Leucosticta
+- Biotodoma Cupido
+- Acarichthys Heckelii
+- Discus (Turquoise)
+- Discus (Blue Diamond)
+- Discus (Red Melon)
+- Discus (Pigeon Blood)
+- Discus (Leopard)
+- Discus (Snakeskin)
+- Discus (Checkerboard)
+- Discus (Solid Blue)
+- Discus (White Butterfly)
+- Discus (Golden)
+- Discus (Marlboro Red)
+- Angelfish (Silver)
+- Angelfish (Marble)
+- Angelfish (Black)
+- Angelfish (Gold)
+- Angelfish (Koi)
+- Angelfish (Blue Zebra)
+- Angelfish (Platinum)
+- Angelfish (Albino)
+- Angelfish (Ghost)
+- Angelfish (Leopard)
+- Angelfish (Pearlscale)
+- Angelfish (Veil Tail)
+- Altum Angelfish
+
+---
+
+# LABYRINTH FISH (~200 entries)
+
+## Betta Species
+
+- Betta Splendens (Siamese Fighting Fish)
+- Betta Imbellis
+- Betta Smaragdina
+- Betta Mahachaiensis
+- Betta Stiktos
+- Betta Siamorientalis
+- Betta Simplex
+- Betta Bellica
+- Betta Coccina
+- Betta Persephone
+- Betta Brownorum
+- Betta Miniopinna
+- Betta Livida
+- Betta Rutilans
+- Betta Burdigala
+- Betta Uberis
+- Betta Albimarginata
+- Betta Channoides
+- Betta Macrostoma
+- Betta Unimaculata
+- Betta Patoti
+- Betta Ocellata
+- Betta Pallifina
+- Betta Foerschi
+- Betta Strohi
+- Betta Mandor
+- Betta Rubra
+- Betta Antuta
+- Betta Dimidiata
+- Betta Picta
+- Betta Edithae
+- Betta Enisae
+- Betta Falx
+- Betta Prima
+- Betta Fusca
+
+## Betta Splendens - Color Varieties
+
+- Betta Red
+- Betta Blue
+- Betta Royal Blue
+- Betta Steel Blue
+- Betta Turquoise
+- Betta Green
+- Betta Black
+- Betta Melano Black
+- Betta Black Lace
+- Betta Black Orchid
+- Betta White
+- Betta Opaque White
+- Betta Yellow
+- Betta Pineapple
+- Betta Orange
+- Betta Orange Dalmatian
+- Betta Purple
+- Betta Lavender
+- Betta Copper
+- Betta Gold
+- Betta Platinum
+- Betta Mustard Gas
+- Betta Chocolate
+- Betta Marble
+- Betta Koi
+- Betta Galaxy Koi
+- Betta Nemo Koi
+- Betta Candy Koi
+- Betta Fancy
+- Betta Butterfly
+- Betta Grizzle
+- Betta Dragon Scale
+- Betta Red Dragon
+- Betta Blue Dragon
+- Betta Black Dragon
+- Betta White Dragon
+- Betta Samurai
+- Betta Hellboy
+- Betta Avatar
+- Betta Alien
+- Betta Wild Type
+
+## Betta Splendens - Tail Types
+
+- Betta Veil Tail
+- Betta Crown Tail
+- Betta Half Moon
+- Betta Over Half Moon
+- Betta Rose Tail
+- Betta Feather Tail
+- Betta Double Tail
+- Betta Delta Tail
+- Betta Super Delta
+- Betta Plakat
+- Betta Half Moon Plakat
+- Betta Giant Plakat
+- Betta Dumbo (Elephant Ear)
+- Betta Half Sun
+- Betta Comb Tail
+- Betta Spade Tail
+- Betta Round Tail
+
+## Gouramis
+
+- Dwarf Gourami (Blue)
+- Dwarf Gourami (Red/Flame)
+- Dwarf Gourami (Powder Blue)
+- Dwarf Gourami (Neon Blue)
+- Dwarf Gourami (Sunset/Honey Red)
+- Dwarf Gourami (Robin)
+- Honey Gourami
+- Sunset Honey Gourami
+- Red Honey Gourami
+- Thick Lipped Gourami
+- Pearl Gourami
+- Opaline Gourami (Three Spot)
+- Blue Gourami
+- Gold Gourami
+- Platinum Gourami
+- Moonlight Gourami
+- Snakeskin Gourami
+- Kissing Gourami
+- Pink Kissing Gourami
+- Chocolate Gourami
+- Licorice Gourami
+- Sparkling Gourami
+- Croaking Gourami
+- Samurai Gourami
+- Giant Gourami
+- Osphronemus Goramy
+- Banded Gourami
+- Frail Gourami
+- Spiketail Gourami
+
+## Paradise Fish and Others
+
+- Paradise Fish (Blue)
+- Paradise Fish (Albino)
+- Black Paradise Fish
+- Spike-tailed Paradise Fish
+- Round-tailed Paradise Fish
+- Combtail
+- Climbing Perch
+- Giant Red Tail Gourami
+- Ctenopoma Acutirostre
+- Leopard Ctenopoma
+- Tailspot Ctenopoma
+- Banded Ctenopoma
+
+---
+
+# BOTTOM DWELLERS (~400 entries)
+
+## Corydoras Catfish
+
+- Bronze Corydoras
+- Albino Corydoras
+- Peppered Corydoras
+- Julii Corydoras
+- Three Line Corydoras
+- Panda Corydoras
+- Sterbai Corydoras
+- Pygmy Corydoras
+- Dwarf Corydoras
+- Habrosus Corydoras
+- Venezuelan Corydoras
+- Orange Venezuelan Cory
+- Adolfoi Corydoras
+- Duplicareus Corydoras
+- Elegans Corydoras
+- Melini Corydoras
+- Metae Corydoras
+- Arcuatus Corydoras
+- Schwartzi Corydoras
+- Similis Corydoras
+- Weitzmani Corydoras
+- Agassizii Corydoras
+- Ambiacus Corydoras
+- Axelrodi Corydoras
+- Burgessi Corydoras
+- Concolor Corydoras
+- Davidsandsi Corydoras
+- Delphax Corydoras
+- Ehrhardti Corydoras
+- Gossei Corydoras
+- Haraldschultzi Corydoras
+- Hastatus Corydoras
+- Imitator Corydoras
+- Leucomelas Corydoras
+- Loxozonus Corydoras
+- Napoensis Corydoras
+- Osteocarus Corydoras
+- Pinheiroi Corydoras
+- Rabauti Corydoras
+- Reticulatus Corydoras
+- Robineae Corydoras
+- Semiaquilus Corydoras
+- Seussi Corydoras
+- Sodalis Corydoras
+- Sychri Corydoras
+- Trilineatus Corydoras
+- Virginiae Corydoras
+- Xinguensis Corydoras
+- Zygatus Corydoras
+- Orange Laser Corydoras
+- Green Laser Corydoras
+- Gold Laser Corydoras
+- Super Parallelus Corydoras
+- Long Nose Brochis
+- Emerald Brochis
+- Hognose Brochis
+- Aspidoras Catfish
+- Scleromystax Catfish
+- Corydoras CW009
+- Corydoras CW010
+- Corydoras CW016
+- Corydoras CW021
+- Corydoras CW045
+- Corydoras CW051
+- Corydoras CW111
+
+## Plecos - Common Types
+
+- Common Pleco
+- Bristlenose Pleco
+- Albino Bristlenose Pleco
+- Super Red Bristlenose Pleco
+- Longfin Bristlenose Pleco
+- Starlight Bristlenose Pleco
+- Blue Eye Lemon Bristlenose
+- Green Dragon Bristlenose
+- Calico Bristlenose
+- Clown Pleco
+- Rubber Lip Pleco
+- Sailfin Pleco
+- Leopard Sailfin Pleco
+- Gold Nugget Pleco
+- Gold Nugget L018
+- Gold Nugget L081
+- Gold Nugget L177
+- Sunshine Pleco L014
+- Butterfly Pleco L168
+- Vampire Pleco L029
+- Galaxy Pleco L029
+- Blue Phantom Pleco L128
+- Green Phantom Pleco L200
+- Scarlet Pleco L025
+- Flash Pleco L204
+- Emperor Pleco L204
+- King Tiger Pleco L066
+- Queen Arabesque Pleco L260
+- Snowball Pleco L102
+- Sultan Pleco L264
+- Super Red Pleco L600
+- Royal Pleco L190
+- Orange Seam Pleco L106
+- Spotted Orange Seam L075
+- Titanic Pleco L273
+
+## Plecos - L Numbers
+
+- L001 Gold Spotted Pleco
+- L002 Tiger Pleco
+- L014 Sunshine Pleco
+- L018 Gold Nugget Pleco
+- L024 Red Fin Cactus Pleco
+- L025 Scarlet Pleco
+- L027 Thunder Line Pleco
+- L029 Galaxy Pleco
+- L031 Spotted Medusa Pleco
+- L034 Medusa Pleco
+- L046 Zebra Pleco
+- L047 Magnum Pleco
+- L052 Butterfly Pleco
+- L066 King Tiger Pleco
+- L075 Para Pleco
+- L081 Gold Nugget Small Spot
+- L082 Orange Seam Pleco
+- L091 Three Beacon Pleco
+- L095 Orange Cheek Pleco
+- L097 Polka Dot Pleco
+- L102 Snowball Pleco
+- L104 Clown Pleco
+- L106 Orange Seam Pleco
+- L128 Blue Phantom Pleco
+- L129 Colombian Zebra Pleco
+- L134 Leopard Frog Pleco
+- L136 Hypancistrus LDA05
+- L144 Blue Eye Bushynose
+- L147 Zombie Pleco
+- L155 Adonis Pleco
+- L168 Butterfly Pleco
+- L177 Gold Nugget Big Spot
+- L183 Starlight Bristlenose
+- L190 Royal Pleco
+- L191 Dull Eyed Royal Pleco
+- L200 Green Phantom Pleco
+- L201 Inspector Pleco
+- L204 Flash Pleco
+- L226 Galaxy Pleco
+- L236 Mega Clown Pleco
+- L239 Blue Panaque
+- L240 Vampire Pleco
+- L260 Queen Arabesque
+- L262 Stardust Pleco
+- L264 Sultan Pleco
+- L270 Chocolate Zebra
+- L273 Titanic Pleco
+- L316 Marble Sailfin Pleco
+- L330 Spotted Watermelon
+- L333 King Tiger Pleco Porto
+- L340 Mega Clown Pleco
+- L397 Alenquer Tiger Pleco
+- L400 Orinoco Angel Pleco
+- L411 Dwarf Clown Pleco
+- LDA25 Pitbull Pleco
+
+## Loaches
+
+- Clown Loach
+- Yoyo Loach
+- Kuhli Loach
+- Black Kuhli Loach
+- Silver Kuhli Loach
+- Java Loach
+- Giant Pangio Loach
+- Zebra Loach
+- Dwarf Chain Loach
+- Burmese Border Loach
+- Reticulated Hillstream Loach
+- Butterfly Hillstream Loach
+- Chinese Hillstream Loach
+- Hong Kong Pleco (Hillstream)
+- Tiger Hillstream Loach
+- Spotted Hillstream Loach
+- Blue Botia
+- Blue Botia Modesta
+- Skunk Loach
+- Bengal Loach
+- Queen Loach
+- Royal Clown Loach
+- Tiger Botia
+- Polka Dot Loach
+- Horse Face Loach
+- Weather Loach (Dojo)
+- Gold Dojo Loach
+- Albino Dojo Loach
+- Stone Loach
+- Spiny Loach
+- Rosy Loach
+- Sumo Loach
+- Hovering Zebra Loach
+- Panda Garra
+- Red Tail Garra
+
+## Other Catfish
+
+- Otocinclus
+- Zebra Otocinclus
+- Tiger Otocinclus
+- Giant Otocinclus
+- Farlowella Catfish (Twig)
+- Royal Farlowella
+- Whiptail Catfish
+- Red Lizard Whiptail
+- Spotted Raphael Catfish
+- Striped Raphael Catfish
+- Banjo Catfish
+- Bumblebee Catfish
+- South American Bumblebee
+- Asian Bumblebee
+- Upside Down Catfish
+- Featherfin Synodontis
+- Synodontis Petricola
+- Synodontis Lucipinnis
+- Synodontis Multipunctatus
+- Synodontis Eupterus
+- Synodontis Angelicus
+- Synodontis Nigriventris
+- Synodontis Decorus
+- Synodontis Ocellifer
+- Pictus Catfish
+- Spotted Pictus
+- Four Line Pictus
+- Asian Stone Catfish
+- Glass Catfish
+- African Glass Catfish
+- Sun Catfish
+- Gulper Catfish
+- Shovelnose Catfish
+- Tiger Shovelnose
+- Red Tail Catfish
+- Spotted Shovelnose
+- Zebra Shovelnose
+- Giraffe Catfish
+- Electric Catfish
+- Iridescent Shark
+- Albino Iridescent Shark
+- Chinese High Fin Banded Shark
+- Columbian Shark (Catfish)
+- Paroon Shark
+- Giant Mekong Catfish
+- Ripsaw Catfish
+- Woodcat
+- Mystus Catfish
+- Striped Mystus
+- Batik Catfish
+- Jaguar Catfish
+
+---
+
+# SPECIALTY / ODDBALL FISH (~220 entries)
+
+## Goldfish Varieties
+
+- Common Goldfish
+- Comet Goldfish
+- Sarasa Comet
+- Shubunkin
+- Fantail Goldfish
+- Calico Fantail
+- Ryukin
+- Calico Ryukin
+- Oranda
+- Red Cap Oranda
+- Blue Oranda
+- Black Oranda
+- Calico Oranda
+- Thai Oranda
+- Lionhead
+- Ranchu
+- Thai Ranchu
+- Lionchu
+- Buffalo Head Ranchu
+- Black Moor
+- Telescope Eye
+- Celestial Eye
+- Bubble Eye
+- Pom Pom
+- Pearlscale
+- Crown Pearlscale
+- Tosakin
+- Jikin
+- Wakin
+- Watonai
+- Veiltail Goldfish
+- Butterfly Telescope
+- Panda Moor
+- Red and White Oranda
+- Red and Black Oranda
+- Chocolate Oranda
+- Tri-Color Oranda
+- Albino Ranchu
+- Sakura Ranchu
+- Eggfish
+- Izumo Nankin
+
+## Koi Varieties
+
+- Kohaku Koi
+- Sanke Koi
+- Showa Koi
+- Tancho Koi
+- Tancho Kohaku
+- Tancho Sanke
+- Tancho Showa
+- Asagi Koi
+- Shusui Koi
+- Bekko Koi
+- Shiro Bekko
+- Ki Bekko
+- Aka Bekko
+- Utsurimono
+- Shiro Utsuri
+- Hi Utsuri
+- Ki Utsuri
+- Goshiki Koi
+- Koromo Koi
+- Ai Goromo
+- Budo Goromo
+- Sumi Goromo
+- Kawarimono
+- Chagoi
+- Ochiba Shigure
+- Soragoi
+- Kigoi
+- Benigoi
+- Ogon Koi
+- Yamabuki Ogon
+- Platinum Ogon
+- Orenji Ogon
+- Matsuba Koi
+- Gin Matsuba
+- Kin Matsuba
+- Kumonryu
+- Beni Kumonryu
+- Kin-Gin-Rin Koi
+- Doitsu Koi
+- Butterfly Koi
+- Butterfly Kohaku
+- Butterfly Showa
+- Ghost Koi
+- Karashi Koi
+
+## Arowanas
+
+- Silver Arowana
+- Black Arowana
+- Jardini Arowana
+- Leichardti Arowana
+- African Arowana
+- Asian Red Arowana
+- Super Red Arowana
+- Blood Red Arowana
+- Chili Red Arowana
+- Golden Arowana
+- Crossback Golden
+- Blue Base Golden
+- Green Arowana
+- Banjar Red Arowana
+- Yellow Tail Arowana
+- Platinum Arowana
+- Albino Silver Arowana
+- High Back Golden
+
+## Bichirs and Reedfish
+
+- Senegal Bichir
+- Albino Senegal Bichir
+- Delhezi Bichir
+- Ornate Bichir
+- Endlicheri Bichir
+- Saddled Bichir
+- Barred Bichir
+- Congicus Bichir
+- Weeksi Bichir
+- Teugelsi Bichir
+- Palmas Bichir
+- Palmas Buettikoferi
+- Lapradei Bichir
+- Ansorgii Bichir
+- Mokelembembe Bichir
+- Reedfish (Ropefish)
+- Albino Reedfish
+
+## Freshwater Pufferfish
+
+- Dwarf Puffer (Pea Puffer)
+- Amazon Puffer
+- South American Puffer
+- Congo Puffer
+- Mbu Puffer
+- Fahaka Puffer
+- Figure 8 Puffer
+- Green Spotted Puffer
+- Ceylon Puffer
+- Crested Puffer
+- Hairy Puffer
+- Imitator Puffer
+- Red Eye Puffer
+- Target Puffer
+- Humpback Puffer
+
+## Freshwater Stingrays
+
+- Motoro Stingray
+- Black Diamond Stingray
+- Leopoldi Stingray (Polka Dot)
+- Pearl Stingray
+- Hystrix Stingray
+- Scobina Stingray
+- Henlei Stingray
+- Reticulata Stingray
+- Otorongo Stingray
+- Tiger Stingray
+- Albino Motoro
+
+## Other Oddballs
+
+- Elephant Nose Fish
+- Baby Whale Fish
+- Axolotl (Wildtype)
+- Axolotl (Leucistic)
+- Axolotl (Albino)
+- Axolotl (Golden)
+- Axolotl (Melanoid)
+- Axolotl (GFP)
+- Axolotl (Copper)
+- Axolotl (Lavender)
+- Axolotl (Mosaic)
+- Axolotl (Chimera)
+- African Lungfish
+- Australian Lungfish
+- South American Lungfish
+- Spotted Lungfish
+- Marbled Lungfish
+- Gar (Spotted)
+- Gar (Florida)
+- Gar (Alligator)
+- Gar (Longnose)
+- Gar (Shortnose)
+- Gar (Tropical)
+- Gar (Cuban)
+- Bowfin
+- Arapaima
+- Peacock Bass
+- Butterfly Fish (African)
+- Datnoid (Tigerfish)
+- Indonesian Tiger (Datnoid)
+- Siamese Tiger
+- Silver Datnoid
+- Wolf Fish
+- Payara
+- Goliath Tigerfish
+- Snakehead (Channa)
+- Red Snakehead
+- Emperor Snakehead
+- Golden Cobra Snakehead
+- Blue Bleheri Snakehead
+- Fire and Ice Snakehead
+- Rainbow Snakehead
+- Dwarf Snakehead
+- Vampire Pleco Fish
+- Ghost Knifefish
+- Black Ghost Knife
+- Albino Black Ghost
+- Clown Knifefish
+- Royal Knifefish
+- African Knifefish
+- Glass Knifefish
+- Banded Knifefish
+- Spiny Eel
+- Fire Eel
+- Tire Track Eel
+- Peacock Eel
+- Zig Zag Eel
+- Half Banded Spiny Eel
+
+---
+
+## Summary
+
+**Total Fish Count: ~2,950 entries**
+
+- Saltwater/Reef: ~1,000
+- Freshwater Community: ~600
+- Cichlids: ~500
+- Labyrinth Fish: ~200
+- Bottom Dwellers: ~400
+- Specialty/Oddball: ~220
+
+This list provides 8 unique fish per day for one full year (365 days × 8 = 2,920 fish), with a small buffer for flexibility.

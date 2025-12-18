@@ -1,0 +1,46 @@
+{
+  "id": "platinum-clownfish",
+  "name": "Platinum Clownfish",
+  "scientificName": "Amphiprion percula (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/platinum-clownfish.svg",
+  "colors": {
+    "primary": "#F5F5F5",
+    "secondary": "#FFFFFF",
+    "accent": "#E8E8E8"
+  },
+  "facts": [
+    {
+      "text": "I'm almost entirely white - like a precious platinum gem swimming through your aquarium!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Platinum clownfish are one of the rarest designer variants. My all-white coloring is very difficult to breed!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I may look delicate, but I'm just as tough as my orange relatives. My white color doesn't mean I'm weak!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

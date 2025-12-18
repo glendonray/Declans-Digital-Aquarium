@@ -1,0 +1,46 @@
+{
+  "id": "majestic-angelfish",
+  "name": "Majestic Angelfish",
+  "scientificName": "Pomacanthus navarchus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "girdled"
+  },
+  "image": "assets/fish/majestic-angelfish.svg",
+  "colors": {
+    "primary": "#0047AB",
+    "secondary": "#FFD700",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Blue Girdled Angelfish because of the beautiful blue band around my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My face is bright yellow-orange while my body is deep blue and yellow - like a sunset and ocean combined!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in the coral triangle region - the most biodiverse marine area on Earth!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia and the Philippines",
+    "diet": "Sponges, tunicates, and algae",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "15+ years"
+  }
+}

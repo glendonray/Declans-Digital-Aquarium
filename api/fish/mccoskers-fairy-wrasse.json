@@ -1,0 +1,46 @@
+{
+  "id": "mccoskers-fairy-wrasse",
+  "name": "McCosker's Fairy Wrasse",
+  "scientificName": "Cirrhilabrus mccoskeri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/mccoskers-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#DC143C",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful red and orange stripes running along my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Indian Ocean - from East Africa to Sri Lanka!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males do an amazing color display during courtship - we practically glow!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

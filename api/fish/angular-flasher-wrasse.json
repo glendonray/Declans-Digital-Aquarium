@@ -1,0 +1,46 @@
+{
+  "id": "angular-flasher-wrasse",
+  "name": "Angular Flasher Wrasse",
+  "scientificName": "Paracheilinus angulatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "angular"
+  },
+  "image": "assets/fish/angular-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#DC143C",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I have angular markings on my face that look like tribal face paint!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Philippines and I'm popular in the aquarium trade!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My dorsal fin extends into a beautiful fan when I flash!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Philippines",
+    "diet": "Zooplankton",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-7 years"
+  }
+}

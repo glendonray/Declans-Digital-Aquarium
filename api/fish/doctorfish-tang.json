@@ -1,0 +1,46 @@
+{
+  "id": "doctorfish-tang",
+  "name": "Doctorfish Tang",
+  "scientificName": "Acanthurus chirurgus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "barred"
+  },
+  "image": "assets/fish/doctorfish-tang.svg",
+  "colors": {
+    "primary": "#808080",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Doctorfish because my tail spine is sharp like a surgeon's scalpel!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have about 10 dark vertical bars on my body - I'm one of the striped tangs of the Caribbean!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change my colors depending on my mood! I get darker when I'm stressed or aggressive.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral and rocky reefs of the Atlantic Ocean",
+    "diet": "Algae and plant matter",
+    "size": "Up to 14 inches (35 cm)",
+    "lifespan": "20+ years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nebula-clownfish",
+  "name": "Nebula Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "cosmic"
+  },
+  "image": "assets/fish/nebula-clownfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#4B0082"
+  },
+  "facts": [
+    {
+      "text": "I'm named after nebulas in outer space! My swirling white patterns look like cosmic clouds.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My markings are thick, bold, and flow across my body like star clusters in the galaxy!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Each Nebula clownfish has a unique pattern - like a different part of the universe!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

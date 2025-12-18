@@ -1,0 +1,46 @@
+{
+  "id": "black-tang",
+  "name": "Black Tang",
+  "scientificName": "Zebrasoma rostratum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/black-tang.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#333333",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm jet black like a shadow! I'm one of the only completely black tangs in the ocean.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a long snout compared to other tangs, which helps me reach algae in tight spots!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm rare and come from remote Pacific islands like Christmas Island and the Line Islands.",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Remote coral reefs of the Central Pacific",
+    "diet": "Filamentous algae",
+    "size": "Up to 8 inches (21 cm)",
+    "lifespan": "20+ years"
+  }
+}

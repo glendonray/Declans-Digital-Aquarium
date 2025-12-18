@@ -1,0 +1,46 @@
+{
+  "id": "flame-fairy-wrasse",
+  "name": "Flame Fairy Wrasse",
+  "scientificName": "Cirrhilabrus jordani",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "flame"
+  },
+  "image": "assets/fish/flame-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FF4500",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm bright red like a flame! I'm one of the most intensely colored fairy wrasses.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm endemic to Hawaii - you can only find me in Hawaiian waters!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called Jordan's Fairy Wrasse after the famous scientist David Starr Jordan!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes of Hawaii",
+    "diet": "Zooplankton and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

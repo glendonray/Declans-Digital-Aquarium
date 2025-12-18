@@ -1,0 +1,46 @@
+{
+  "id": "melanurus-wrasse",
+  "name": "Melanurus Wrasse",
+  "scientificName": "Halichoeres melanurus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/melanurus-wrasse.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#32CD32",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Tail Spot Wrasse because of the dark spot on my tail fin!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I help keep aquariums clean by eating pest flatworms and bristleworms!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful horizontal stripes of blue, green, and yellow!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Western Pacific",
+    "diet": "Small invertebrates, worms, and pests",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "5-8 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "longfin-clownfish",
+  "name": "Longfin Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/longfin-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "My fins are extra long and flowing - like I'm wearing a beautiful ballgown while I swim!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Longfin clownfish have fins that can be twice as long as regular clownfish. We look so elegant!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My long fins don't slow me down - I can still swim fast and dart into my anemone home when I want to!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "passer-angelfish",
+  "name": "Passer Angelfish",
+  "scientificName": "Holacanthus passer",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "eastern-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/passer-angelfish.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the King Angelfish because I'm the ruler of Eastern Pacific reefs!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a bold white bar running vertically down my body - my royal stripe!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Young fish of my species often work as cleaners, picking parasites off bigger fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky and coral reefs from California to Peru",
+    "diet": "Sponges, algae, and invertebrates",
+    "size": "Up to 14 inches (36 cm)",
+    "lifespan": "15+ years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "black-ice-clownfish",
+  "name": "Black Ice Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/black-ice-clownfish.svg",
+  "colors": {
+    "primary": "#1a1a2e",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm a stunning mix of jet black and bright white - like a tuxedo fish! My dramatic colors make me a show-stopper.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My black coloring comes from special genes that breeders selected over many generations. It takes years to create fish like me!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I may look different from Finding Nemo, but I still love hosting in anemones just like my orange cousins!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

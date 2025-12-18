@@ -1,0 +1,46 @@
+{
+  "id": "colins-angelfish",
+  "name": "Colin's Angelfish",
+  "scientificName": "Centropyge colini",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "capped"
+  },
+  "image": "assets/fish/colins-angelfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#0000CD",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm a rare deepwater angelfish with a stunning blue crown on my head!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in deep water around 300 feet down - that's why I'm so rare in aquariums!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My bright yellow body and blue head make me one of the most beautiful dwarf angels!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes in the Pacific",
+    "diet": "Sponges and small invertebrates",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "10+ years"
+  }
+}

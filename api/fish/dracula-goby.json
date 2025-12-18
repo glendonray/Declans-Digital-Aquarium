@@ -1,0 +1,46 @@
+{
+  "id": "dracula-goby",
+  "name": "Dracula Goby",
+  "scientificName": "Stonogobiops dracula",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "fanged"
+  },
+  "image": "assets/fish/dracula-goby.svg",
+  "colors": {
+    "primary": "#F5F5F5",
+    "secondary": "#DC143C",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have two fang-like teeth that stick out like vampire fangs - spooky!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm white with red stripes and a face that would make Dracula proud!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Don't worry - I use my fangs for catching tiny prey, not biting people!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep sandy areas near coral reefs",
+    "diet": "Small crustaceans and invertebrates",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

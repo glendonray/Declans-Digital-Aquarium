@@ -1,0 +1,46 @@
+{
+  "id": "golden-butterflyfish",
+  "name": "Golden Butterflyfish",
+  "scientificName": "Chaetodon semilarvatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "masked"
+  },
+  "image": "assets/fish/golden-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright gold with beautiful blue markings around my eyes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm found only in the Red Sea - a special fish from a special place!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I mate for life and you'll almost always see me swimming with my partner!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Red Sea",
+    "diet": "Coral polyps and small invertebrates",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "10-15 years"
+  }
+}

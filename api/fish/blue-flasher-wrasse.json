@@ -1,0 +1,46 @@
+{
+  "id": "blue-flasher-wrasse",
+  "name": "Blue Flasher Wrasse",
+  "scientificName": "Paracheilinus cyaneus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/blue-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FF4500",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most brilliantly blue flasher wrasses - I glow like neon!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'cyaneus' means blue - scientists knew my best feature!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Indonesia and I'm highly prized for my electric blue color!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia",
+    "diet": "Zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-7 years"
+  }
+}

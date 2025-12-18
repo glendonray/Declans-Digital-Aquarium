@@ -1,0 +1,46 @@
+{
+  "id": "borbonius-anthias",
+  "name": "Borbonius Anthias",
+  "scientificName": "Odontanthias borbonius",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/borbonius-anthias.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FF69B4",
+    "accent": "#DC143C"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the rarest and most expensive anthias - a true collector's fish!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm golden yellow and pink with beautiful flowing fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in very deep water - over 300 feet down - which makes me rare!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes of the Indo-Pacific",
+    "diet": "Meaty foods and zooplankton",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-10 years"
+  }
+}

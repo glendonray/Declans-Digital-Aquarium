@@ -1,0 +1,46 @@
+{
+  "id": "keyhole-angelfish",
+  "name": "Keyhole Angelfish",
+  "scientificName": "Centropyge tibicen",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "keyhole"
+  },
+  "image": "assets/fish/keyhole-angelfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a white marking on my side that looks exactly like a keyhole - mysterious!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm mostly black with yellow fins - sleek and elegant!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the larger dwarf angelfish and can be a bit feisty!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 7 inches (19 cm)",
+    "lifespan": "10+ years"
+  }
+}

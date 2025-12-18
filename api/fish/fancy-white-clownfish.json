@@ -1,0 +1,46 @@
+{
+  "id": "fancy-white-clownfish",
+  "name": "Fancy White Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "mostly-white"
+  },
+  "image": "assets/fish/fancy-white-clownfish.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#FFF5EE",
+    "accent": "#FF6B35"
+  },
+  "facts": [
+    {
+      "text": "I'm almost entirely white with just a little orange on my face - super fancy and elegant!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My white isn't plain - it has subtle pearly shimmers that make me look extra special!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm like a little white cloud with a sunny orange smile swimming through the water!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

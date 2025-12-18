@@ -1,0 +1,46 @@
+{
+  "id": "flaming-prawn-goby",
+  "name": "Flaming Prawn Goby",
+  "scientificName": "Discordipinna griessingeri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "red",
+    "pattern": "flame"
+  },
+  "image": "assets/fish/flaming-prawn-goby.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FF4500",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm tiny but I have a huge dorsal fin that looks like a flaming sail!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm red and orange like fire - my name is perfect!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live with snapping shrimps in their burrows - we're roommates!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs",
+    "diet": "Tiny invertebrates",
+    "size": "Up to 1 inch (2.5 cm)",
+    "lifespan": "2-4 years"
+  }
+}

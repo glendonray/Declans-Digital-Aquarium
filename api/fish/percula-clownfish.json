@@ -1,0 +1,46 @@
+{
+  "id": "percula-clownfish",
+  "name": "Percula Clownfish",
+  "scientificName": "Amphiprion percula",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/percula-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm the 'true' clownfish! I look a lot like my cousin the Ocellaris, but my black bands are thicker and bolder.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm Nemo's species! The famous movie fish was actually a Percula clownfish from the Great Barrier Reef.",
+      "category": "ecology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I live in a sea anemone! Its stinging tentacles don't hurt me because I have a special slimy coating on my skin.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Papua New Guinea and Great Barrier Reef",
+    "diet": "Algae, zooplankton, and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "6-10 years"
+  }
+}

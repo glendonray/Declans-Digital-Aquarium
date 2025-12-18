@@ -1,0 +1,46 @@
+{
+  "id": "blizzard-clownfish",
+  "name": "Blizzard Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "nearly-solid"
+  },
+  "image": "assets/fish/blizzard-clownfish.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#F5F5F5",
+    "accent": "#FF6B35"
+  },
+  "facts": [
+    {
+      "text": "I'm almost completely white like a blizzard snowstorm! Only tiny bits of orange peek through.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm the whitest designer clownfish you can get - like I rolled in fresh snow!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My eyes and maybe a tiny face patch might be the only orange you can see on me!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

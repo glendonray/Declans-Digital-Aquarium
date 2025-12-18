@@ -1,0 +1,46 @@
+{
+  "id": "kole-tang",
+  "name": "Kole Tang",
+  "scientificName": "Ctenochaetus strigosus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "lined"
+  },
+  "image": "assets/fish/kole-tang.svg",
+  "colors": {
+    "primary": "#8B4513",
+    "secondary": "#FFD700",
+    "accent": "#1E90FF"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Yellow Eye Tang because of my bright golden-yellow eye ring!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have special comb-like teeth that help me scrape algae off rocks - nature's toothbrush!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a bristletooth tang - my teeth are flexible bristles, not hard like other tangs!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii and the Pacific",
+    "diet": "Detritus and film algae",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "15+ years"
+  }
+}

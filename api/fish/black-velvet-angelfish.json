@@ -1,0 +1,46 @@
+{
+  "id": "black-velvet-angelfish",
+  "name": "Black Velvet Angelfish",
+  "scientificName": "Chaetodontoplus melanosoma",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/black-velvet-angelfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#C0C0C0",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "My body is velvety black like the night sky, with a contrasting gray face!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Black-and-White Angelfish because of my dramatic two-tone look!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in the Western Pacific around Indonesia and the Philippines!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia and the Philippines",
+    "diet": "Sponges, tunicates, and algae",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "15+ years"
+  }
+}

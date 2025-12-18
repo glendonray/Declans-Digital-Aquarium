@@ -17,6 +17,12 @@
       "name": "Encyclopedia of Life",
       "url": "https://eol.org",
       "citation": "Encyclopedia of Life. Available from https://eol.org"
+    },
+    "captive-bred": {
+      "id": "captive-bred",
+      "name": "Captive Bred",
+      "url": "https://www.reef2reef.com",
+      "citation": "Information about captive-bred marine fish from the reef aquarium hobby community"
     }
   }
 }

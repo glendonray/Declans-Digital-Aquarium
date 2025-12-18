@@ -1,0 +1,46 @@
+{
+  "id": "convict-tang",
+  "name": "Convict Tang",
+  "scientificName": "Acanthurus triostegus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "barred"
+  },
+  "image": "assets/fish/convict-tang.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#000000",
+    "accent": "#FFFFE0"
+  },
+  "facts": [
+    {
+      "text": "I have black and white stripes like a prisoner's uniform - that's why I'm called the Convict Tang!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I travel in huge schools! Sometimes hundreds of us swim together across the reef.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm found everywhere from Hawaii to the Red Sea to the coast of Mexico - I get around!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Shallow reefs throughout the Indo-Pacific",
+    "diet": "Filamentous algae",
+    "size": "Up to 10 inches (27 cm)",
+    "lifespan": "15+ years"
+  }
+}

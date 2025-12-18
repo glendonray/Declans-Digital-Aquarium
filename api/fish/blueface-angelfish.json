@@ -1,0 +1,46 @@
+{
+  "id": "blueface-angelfish",
+  "name": "Blueface Angelfish",
+  "scientificName": "Pomacanthus xanthometopon",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "masked"
+  },
+  "image": "assets/fish/blueface-angelfish.svg",
+  "colors": {
+    "primary": "#0047AB",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I have a beautiful blue mask on my face that makes it look like I'm going to a masquerade ball!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My body has yellow scales with blue edges creating a stunning pattern!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm young, I look completely different - dark blue with white and blue stripes!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Sponges, tunicates, and algae",
+    "size": "Up to 15 inches (38 cm)",
+    "lifespan": "20+ years"
+  }
+}

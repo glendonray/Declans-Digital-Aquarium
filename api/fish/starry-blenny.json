@@ -1,0 +1,46 @@
+{
+  "id": "starry-blenny",
+  "name": "Starry Blenny",
+  "scientificName": "Salarias ramosus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/starry-blenny.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm dark with white spots all over - like stars in the night sky!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a great algae eater! I spend my day munching on green stuff on rocks.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have cute branched appendages on my head called cirri!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Western Pacific",
+    "diet": "Algae and detritus",
+    "size": "Up to 5 inches (14 cm)",
+    "lifespan": "5-8 years"
+  }
+}

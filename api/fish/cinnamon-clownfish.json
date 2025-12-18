@@ -1,0 +1,46 @@
+{
+  "id": "cinnamon-clownfish",
+  "name": "Cinnamon Clownfish",
+  "scientificName": "Amphiprion melanopus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/cinnamon-clownfish.svg",
+  "colors": {
+    "primary": "#D2691E",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named after cinnamon spice because of my warm reddish-brown color! My belly is darker than my back.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a single white head bar and sometimes dark black sides that make me look like I'm wearing a mask!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Fire Clownfish because of my fiery coloration!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Indonesia to Fiji",
+    "diet": "Algae, zooplankton, and anemone scraps",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "10-15 years"
+  }
+}

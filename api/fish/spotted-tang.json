@@ -1,0 +1,46 @@
+{
+  "id": "spotted-tang",
+  "name": "Spotted Tang",
+  "scientificName": "Zebrasoma gemmatum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/spotted-tang.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm covered head to tail in tiny white spots on a velvety black background!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Each of my spots is perfectly round and evenly spaced - like someone painted me carefully!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the deep waters around Mauritius and Madagascar - a very special place!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep coral reefs of the Western Indian Ocean",
+    "diet": "Algae and marine plants",
+    "size": "Up to 9 inches (22 cm)",
+    "lifespan": "20+ years"
+  }
+}

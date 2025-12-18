@@ -1,0 +1,46 @@
+{
+  "id": "saddleback-clownfish",
+  "name": "Saddleback Clownfish",
+  "scientificName": "Amphiprion polymnus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "saddled"
+  },
+  "image": "assets/fish/saddleback-clownfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I have a white saddle marking on my back that looks like a horse's saddle - that's how I got my name!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm mostly dark brown or black with a white face and that special saddle marking. I look very different from orange clownfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I prefer to live in saddle carpet anemones - we're perfectly matched!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Japan to Australia",
+    "diet": "Algae, plankton, and small invertebrates",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "8-12 years"
+  }
+}

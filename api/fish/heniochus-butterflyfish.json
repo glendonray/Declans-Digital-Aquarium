@@ -1,0 +1,46 @@
+{
+  "id": "heniochus-butterflyfish",
+  "name": "Heniochus Butterflyfish",
+  "scientificName": "Heniochus acuminatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/heniochus-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Bannerfish because of my long, banner-like dorsal fin!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have bold black and white stripes - like an orca whale!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the few butterflyfish that does well in aquariums!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Zooplankton, small invertebrates, and algae",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}

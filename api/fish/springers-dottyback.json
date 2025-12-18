@@ -1,0 +1,46 @@
+{
+  "id": "springers-dottyback",
+  "name": "Springer's Dottyback",
+  "scientificName": "Pseudochromis springeri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Pseudochromidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/springers-dottyback.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm solid blue with a black head - like wearing a blue suit with a black mask!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come only from the Red Sea - a special fish from a special place!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after the famous fish scientist Victor Springer!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Red Sea",
+    "diet": "Small invertebrates and zooplankton",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

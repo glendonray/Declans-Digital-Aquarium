@@ -1,0 +1,46 @@
+{
+  "id": "fishers-angelfish",
+  "name": "Fisher's Angelfish",
+  "scientificName": "Centropyge fisheri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/fishers-angelfish.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm orange with beautiful sapphire blue markings on my fins - like wearing blue jewelry!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a Hawaiian fish - I live around the beautiful islands of Hawaii!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the smaller dwarf angels - perfect for smaller reef tanks!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "10+ years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "snowflake-clownfish",
+  "name": "Snowflake Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/snowflake-clownfish.svg",
+  "colors": {
+    "primary": "#FF8C42",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "My white bands are extra wide and jagged, like snowflakes! That's how I got my frosty name.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm one of the most popular designer clownfish at coral frag swaps. Hobbyists love my unique look!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Even though I look different, I'm just as hardy as regular clownfish. I'm perfect for beginners!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

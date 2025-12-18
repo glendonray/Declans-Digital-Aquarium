@@ -1,0 +1,46 @@
+{
+  "id": "threadfin-butterflyfish",
+  "name": "Threadfin Butterflyfish",
+  "scientificName": "Chaetodon auriga",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "chevron"
+  },
+  "image": "assets/fish/threadfin-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have a long thread-like extension on my dorsal fin - my special banner!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have diagonal lines across my body like a chevron pattern!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most common butterflyfish on Indo-Pacific reefs!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Coral polyps, anemones, and algae",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "10-15 years"
+  }
+}

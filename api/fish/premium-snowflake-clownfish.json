@@ -1,0 +1,46 @@
+{
+  "id": "premium-snowflake-clownfish",
+  "name": "Premium Snowflake Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "snowflake"
+  },
+  "image": "assets/fish/premium-snowflake-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "My white markings look like delicate snowflakes scattered across my orange body!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Premium Snowflakes have extra-thick, lacey white patterns - we're extra fancy!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Just like real snowflakes, no two of us have exactly the same pattern!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

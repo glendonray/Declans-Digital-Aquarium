@@ -1,0 +1,46 @@
+{
+  "id": "bandit-angelfish",
+  "name": "Bandit Angelfish",
+  "scientificName": "Apolemichthys arcuatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/bandit-angelfish.svg",
+  "colors": {
+    "primary": "#F5F5F5",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a black stripe across my eyes like a bandit's mask - I look like a little outlaw!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm pearly white with elegant black markings - simple but stunning!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I only live around Hawaii - I'm a Hawaiian endemic found nowhere else in the world!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes of the Hawaiian Islands",
+    "diet": "Sponges and tunicates",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "15+ years"
+  }
+}

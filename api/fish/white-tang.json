@@ -1,0 +1,46 @@
+{
+  "id": "white-tang",
+  "name": "White Tang",
+  "scientificName": "Zebrasoma flavescens (leucistic)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/white-tang.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#F5F5F5",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm an extremely rare leucistic Yellow Tang - I'm white instead of yellow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Leucistic means I have reduced pigment, so I'm ghostly white with normal-colored eyes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Only one in a million tangs might be born white like me - I'm super special!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii and the Pacific",
+    "diet": "Algae and seaweed",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "30+ years"
+  }
+}

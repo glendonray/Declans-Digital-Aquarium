@@ -1,0 +1,46 @@
+{
+  "id": "three-band-clownfish",
+  "name": "Three-Band Clownfish",
+  "scientificName": "Amphiprion tricinctus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/three-band-clownfish.svg",
+  "colors": {
+    "primary": "#FF6347",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have three white bands - one on my head, one in the middle, and one near my tail. It's easy to count!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I only live in the Marshall Islands in the Pacific Ocean. I'm a very rare find!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'tricinctus' means 'three bands' - scientists are good at naming things!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Marshall Islands",
+    "diet": "Algae, plankton, and small crustaceans",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "8-12 years"
+  }
+}

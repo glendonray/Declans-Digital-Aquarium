@@ -1,0 +1,46 @@
+{
+  "id": "cherub-angelfish",
+  "name": "Cherub Angelfish",
+  "scientificName": "Centropyge argi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "masked"
+  },
+  "image": "assets/fish/cherub-angelfish.svg",
+  "colors": {
+    "primary": "#0000CD",
+    "secondary": "#FFD700",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the smallest angelfish - only 3 inches! I'm also called the Pygmy Angelfish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a deep blue body with a bright yellow-orange face - like a little angel!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Caribbean Sea - a tiny tropical treasure!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "8-10 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "blue-assessor",
+  "name": "Blue Assessor",
+  "scientificName": "Assessor macneilli",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Plesiopidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/blue-assessor.svg",
+  "colors": {
+    "primary": "#0000CD",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm deep blue and I often swim upside down under ledges - I'm quirky!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a rare and beautiful fish from the Great Barrier Reef!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I hang out in small groups in caves and under overhangs!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Caves and ledges on Australian reefs",
+    "diet": "Zooplankton and small invertebrates",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "5-8 years"
+  }
+}

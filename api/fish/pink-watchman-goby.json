@@ -1,0 +1,46 @@
+{
+  "id": "pink-watchman-goby",
+  "name": "Pink Watchman Goby",
+  "scientificName": "Cryptocentrus leptocephalus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/pink-watchman-goby.svg",
+  "colors": {
+    "primary": "#FFB6C1",
+    "secondary": "#FF69B4",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I live with a pistol shrimp! The shrimp digs our burrow and I watch for danger.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm pink with beautiful blue spots - one of the prettiest watchman gobies!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I touch my shrimp friend with my tail to signal when predators are near!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy areas near coral reefs",
+    "diet": "Meaty foods and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

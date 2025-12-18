@@ -1,0 +1,46 @@
+{
+  "id": "pylei-fairy-wrasse",
+  "name": "Pylei Fairy Wrasse",
+  "scientificName": "Cirrhilabrus pylei",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "multicolor"
+  },
+  "image": "assets/fish/pylei-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the rarest fairy wrasses! I live in deep water and am hard to collect.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after Richard Pyle, a famous deep reef explorer and fish scientist!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have amazing red, yellow, and blue coloring that collectors go crazy for!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep coral reefs of the Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

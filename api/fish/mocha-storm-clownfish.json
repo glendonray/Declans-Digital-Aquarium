@@ -1,0 +1,46 @@
+{
+  "id": "mocha-storm-clownfish",
+  "name": "Mocha Storm Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "stormy"
+  },
+  "image": "assets/fish/mocha-storm-clownfish.svg",
+  "colors": {
+    "primary": "#8B4513",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm a mix of mocha brown and white that swirls together like a stormy sky!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My colors blend from warm brown to creamy white - like a mocha latte with extra foam!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Storm clownfish have wild, unpredictable patterns - that's why we're called storms!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

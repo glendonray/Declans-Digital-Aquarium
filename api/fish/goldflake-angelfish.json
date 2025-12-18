@@ -1,0 +1,46 @@
+{
+  "id": "goldflake-angelfish",
+  "name": "Goldflake Angelfish",
+  "scientificName": "Apolemichthys xanthopunctatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/goldflake-angelfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in beautiful golden spots that look like flakes of gold scattered on my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a rare fish from the Pacific islands and highly prized by collectors!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'xanthopunctatus' means 'yellow spotted' - perfectly describes me!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes in the Pacific Islands",
+    "diet": "Sponges and tunicates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "15+ years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "social-fairy-wrasse",
+  "name": "Social Fairy Wrasse",
+  "scientificName": "Cirrhilabrus rubriventralis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/social-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#FFD700",
+    "accent": "#FF4500"
+  },
+  "facts": [
+    {
+      "text": "I love hanging out with friends! I swim in large groups with other fairy wrasses.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Red Sea and have beautiful pink and yellow coloring!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Long-fin Fairy Wrasse because of my flowing fins!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Red Sea",
+    "diet": "Zooplankton and tiny crustaceans",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

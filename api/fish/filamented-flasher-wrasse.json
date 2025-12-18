@@ -1,0 +1,46 @@
+{
+  "id": "filamented-flasher-wrasse",
+  "name": "Filamented Flasher Wrasse",
+  "scientificName": "Paracheilinus filamentosus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "filaments"
+  },
+  "image": "assets/fish/filamented-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#DC143C",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have long, thread-like extensions on my fins called filaments - they trail behind me!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My filaments get longer as I get older - old males have the longest trailing fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I spread my filaments wide during my flashing display - it's quite a show!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia",
+    "diet": "Zooplankton",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-7 years"
+  }
+}

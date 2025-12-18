@@ -1,0 +1,46 @@
+{
+  "id": "sunburst-anthias",
+  "name": "Sunburst Anthias",
+  "scientificName": "Serranocirrhitus latus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/sunburst-anthias.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FF69B4",
+    "accent": "#FF4500"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most colorful anthias - pink, yellow, and orange like a sunburst!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a deepwater fish and can be rare and expensive in the aquarium trade!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Fathead Anthias because of my rounded head shape!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes of the Pacific",
+    "diet": "Zooplankton and meaty foods",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-10 years"
+  }
+}

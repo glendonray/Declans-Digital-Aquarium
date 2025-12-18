@@ -1,0 +1,46 @@
+{
+  "id": "canary-blenny",
+  "name": "Canary Blenny",
+  "scientificName": "Meiacanthus oualanensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/canary-blenny.svg",
+  "colors": {
+    "primary": "#FFFF00",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm bright canary yellow - like a little swimming songbird!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have venomous fangs! But don't worry - I only bite predators, not people.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My venom makes fish spit me out after they try to eat me!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Fiji and the Pacific",
+    "diet": "Zooplankton and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "4-6 years"
+  }
+}

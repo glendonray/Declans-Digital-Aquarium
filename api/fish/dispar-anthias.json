@@ -1,0 +1,46 @@
+{
+  "id": "dispar-anthias",
+  "name": "Dispar Anthias",
+  "scientificName": "Pseudanthias dispar",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/dispar-anthias.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFD700",
+    "accent": "#DC143C"
+  },
+  "facts": [
+    {
+      "text": "Males and females look very different - that's what 'dispar' means!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm orange and red with a beautiful red dorsal fin!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in schools picking plankton from the water current!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Pacific",
+    "diet": "Zooplankton",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-7 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "solar-fairy-wrasse",
+  "name": "Solar Fairy Wrasse",
+  "scientificName": "Cirrhilabrus solorensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/solar-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm named after the sun - my red and yellow colors blaze like solar flames!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Solor Island in Indonesia - that's where I get my name!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most brilliantly colored fairy wrasses you can find!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

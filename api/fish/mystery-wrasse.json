@@ -1,0 +1,46 @@
+{
+  "id": "mystery-wrasse",
+  "name": "Mystery Wrasse",
+  "scientificName": "Pseudocheilinus ocellatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/mystery-wrasse.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FFD700",
+    "accent": "#FF69B4"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Mystery Wrasse because I hide in rocks and am hard to find!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful purple and pink coloring with golden speckles!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a secretive fish who peeks out from rocky hiding spots!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Pacific Islands",
+    "diet": "Small invertebrates and crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

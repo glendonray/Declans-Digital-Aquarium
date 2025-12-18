@@ -1,0 +1,46 @@
+{
+  "id": "sailfin-blenny",
+  "name": "Sailfin Blenny",
+  "scientificName": "Emblemaria pandionis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Chaenopsidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "tiny",
+    "primaryColor": "purple",
+    "pattern": "sail"
+  },
+  "image": "assets/fish/sailfin-blenny.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FFD700",
+    "accent": "#DC143C"
+  },
+  "facts": [
+    {
+      "text": "Males have a huge dorsal fin that looks like a colorful sail when raised!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in tiny holes in coral and rocks - just my head pokes out!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I raise my sailfin to attract females and scare off rival males!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Zooplankton and small invertebrates",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "3-5 years"
+  }
+}

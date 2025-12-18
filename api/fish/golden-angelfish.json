@@ -1,0 +1,46 @@
+{
+  "id": "golden-angelfish",
+  "name": "Golden Angelfish",
+  "scientificName": "Centropyge aurantia",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/golden-angelfish.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFD700",
+    "accent": "#FF4500"
+  },
+  "facts": [
+    {
+      "text": "I'm a rare golden-orange color that glows like a piece of gold treasure!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'aurantia' means orange in Latin - I'm purely orange!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm quite rare in the aquarium hobby - a real collector's fish!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep coral reefs of the Western Pacific",
+    "diet": "Sponges and algae",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10+ years"
+  }
+}

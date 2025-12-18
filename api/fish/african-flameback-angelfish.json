@@ -1,0 +1,46 @@
+{
+  "id": "african-flameback-angelfish",
+  "name": "African Flameback Angelfish",
+  "scientificName": "Centropyge acanthops",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/african-flameback-angelfish.svg",
+  "colors": {
+    "primary": "#0047AB",
+    "secondary": "#FF4500",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm the true African Flameback from the Eastern African coast!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My bright orange dorsal area contrasts beautifully with my deep blue body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a tiny powerhouse - small but full of personality!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of East Africa and the Western Indian Ocean",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "10+ years"
+  }
+}

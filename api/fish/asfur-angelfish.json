@@ -1,0 +1,46 @@
+{
+  "id": "asfur-angelfish",
+  "name": "Asfur Angelfish",
+  "scientificName": "Pomacanthus asfur",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/asfur-angelfish.svg",
+  "colors": {
+    "primary": "#000080",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm from the Red Sea and I'm one of the most beautiful angelfish in the world!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a bright yellow crescent moon shape on my side - like wearing the moon!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My deep purple-blue color and yellow markings make me a prized fish among aquarists!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Red Sea and Gulf of Aden",
+    "diet": "Sponges and tunicates",
+    "size": "Up to 16 inches (40 cm)",
+    "lifespan": "20+ years"
+  }
+}

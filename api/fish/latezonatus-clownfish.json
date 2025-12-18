@@ -1,0 +1,46 @@
+{
+  "id": "latezonatus-clownfish",
+  "name": "Latezonatus Clownfish",
+  "scientificName": "Amphiprion latezonatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/latezonatus-clownfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the rarest clownfish! I only live in a small area near Lord Howe Island in Australia.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm dark blue-black with a wide white band in the middle. Some call me the Wide-Band Anemonefish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can handle cooler water than most clownfish because Lord Howe Island is in a subtropical zone.",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Subtropical reefs near Lord Howe Island, Australia",
+    "diet": "Algae, zooplankton, and small crustaceans",
+    "size": "Up to 5.5 inches (14 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "desjardini-sailfin-tang",
+  "name": "Desjardini Sailfin Tang",
+  "scientificName": "Zebrasoma desjardinii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/desjardini-sailfin-tang.svg",
+  "colors": {
+    "primary": "#708090",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I have giant sail-like fins that I spread wide to look impressive! My dorsal fin is huge!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm covered in beautiful stripes and spots - I look like a work of art!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Indian Ocean, while my cousin the Pacific Sailfin lives in the other direction!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean and Red Sea",
+    "diet": "Algae and seaweed",
+    "size": "Up to 16 inches (40 cm)",
+    "lifespan": "20+ years"
+  }
+}

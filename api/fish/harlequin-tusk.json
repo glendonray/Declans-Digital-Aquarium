@@ -1,0 +1,46 @@
+{
+  "id": "harlequin-tusk",
+  "name": "Harlequin Tusk",
+  "scientificName": "Choerodon fasciatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "barred"
+  },
+  "image": "assets/fish/harlequin-tusk.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FF4500",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have bright blue teeth that stick out like tusks - pretty cool, right?",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm covered in bold orange, blue, and white bars - like a colorful prison uniform!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use my tusks to flip over urchins and crunch through shells!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Australia and the Western Pacific",
+    "diet": "Sea urchins, crustaceans, and mollusks",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "10+ years"
+  }
+}

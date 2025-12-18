@@ -1,0 +1,46 @@
+{
+  "id": "strawberry-dottyback",
+  "name": "Strawberry Dottyback",
+  "scientificName": "Pseudochromis porphyreus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pseudochromidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/strawberry-dottyback.svg",
+  "colors": {
+    "primary": "#FF1493",
+    "secondary": "#DC143C",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm bright magenta-pink like a ripe strawberry!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Magenta Dottyback because of my vivid color!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm small but mighty - I'll protect my territory fiercely!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Pacific",
+    "diet": "Small invertebrates and meaty foods",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "5-8 years"
+  }
+}

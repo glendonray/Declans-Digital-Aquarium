@@ -1,0 +1,46 @@
+{
+  "id": "maroon-clownfish",
+  "name": "Maroon Clownfish",
+  "scientificName": "Premnas biaculeatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/maroon-clownfish.svg",
+  "colors": {
+    "primary": "#8B0000",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm the biggest clownfish! Female maroons can grow up to 6 inches - that's almost twice as big as other clownfish species.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have golden or white stripes depending on where I come from. Gold stripe maroons are extra special!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm known for being feisty! I'll defend my anemone home against fish much bigger than me.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Indonesia to Australia",
+    "diet": "Algae, zooplankton, and anemone leftovers",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "15-20 years"
+  }
+}

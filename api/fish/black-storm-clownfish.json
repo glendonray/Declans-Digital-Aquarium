@@ -1,0 +1,46 @@
+{
+  "id": "black-storm-clownfish",
+  "name": "Black Storm Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/black-storm-clownfish.svg",
+  "colors": {
+    "primary": "#0d0d0d",
+    "secondary": "#FFFFFF",
+    "accent": "#333333"
+  },
+  "facts": [
+    {
+      "text": "I look like a tiny storm cloud swimming through the reef! My swirling black and white pattern is totally unique.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Black Storm clownfish like me are highly sought after by collectors. Each of us has a slightly different pattern!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Despite my dramatic look, I'm peaceful and get along well with corals and other reef fish.",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

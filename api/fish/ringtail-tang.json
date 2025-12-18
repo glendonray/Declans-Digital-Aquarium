@@ -1,0 +1,46 @@
+{
+  "id": "ringtail-tang",
+  "name": "Ringtail Tang",
+  "scientificName": "Acanthurus blochii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "ringed"
+  },
+  "image": "assets/fish/ringtail-tang.svg",
+  "colors": {
+    "primary": "#696969",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a distinctive white ring around my tail - that's how I got my name!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the more peaceful tangs and can live with other fish quite happily!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love swimming in lagoons and shallow reef areas where there's lots of algae to munch on!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Lagoons and shallow reefs of the Indo-Pacific",
+    "diet": "Filamentous algae",
+    "size": "Up to 17 inches (43 cm)",
+    "lifespan": "20+ years"
+  }
+}

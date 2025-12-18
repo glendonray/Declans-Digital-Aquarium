@@ -1,0 +1,46 @@
+{
+  "id": "thompsons-tang",
+  "name": "Thompson's Tang",
+  "scientificName": "Acanthurus thompsoni",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/thompsons-tang.svg",
+  "colors": {
+    "primary": "#708090",
+    "secondary": "#FFFFFF",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm a planktivore - unlike most tangs, I eat tiny floating animals instead of algae!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in big groups high above the reef, picking food out of the water current!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My white tail fin stands out against my grayish body - it's my signature look!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes in the Indo-Pacific",
+    "diet": "Zooplankton - floating tiny animals",
+    "size": "Up to 10 inches (27 cm)",
+    "lifespan": "15+ years"
+  }
+}

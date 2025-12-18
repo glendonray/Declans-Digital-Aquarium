@@ -1,0 +1,46 @@
+{
+  "id": "flurry-clownfish",
+  "name": "Flurry Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "flurry"
+  },
+  "image": "assets/fish/flurry-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#FFF5EE"
+  },
+  "facts": [
+    {
+      "text": "I'm named after a snow flurry! My white patterns look like swirling snowflakes in a winter wind.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My white markings are thicker than regular Snowflakes and blend together more!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm mostly white with patches of orange showing through - like a blizzard clearing up!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

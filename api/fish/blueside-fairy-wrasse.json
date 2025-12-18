@@ -1,0 +1,46 @@
+{
+  "id": "blueside-fairy-wrasse",
+  "name": "Blueside Fairy Wrasse",
+  "scientificName": "Cirrhilabrus cyanopleura",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/blueside-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FFD700",
+    "accent": "#DC143C"
+  },
+  "facts": [
+    {
+      "text": "I have brilliant blue sides that shimmer in the light - my name says it all!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Blue Scaled Fairy Wrasse because of my bright blue scales!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Indonesia and the Philippines - the heart of the Coral Triangle!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Indonesia and Philippines",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

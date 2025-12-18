@@ -1,50 +1,32 @@
 {
-  "version": "2.0",
-  "totalFish": 143,
+  "totalFish": 344,
+  "lastUpdated": "2025-12-18",
   "fish": [
     {
-      "id": "clownfish",
-      "name": "Clownfish",
+      "id": "achilles-tang",
+      "name": "Achilles Tang",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "orange",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "betta",
-      "name": "Betta",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "purple",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "pufferfish",
-      "name": "Pufferfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "round",
-      "primaryColor": "yellow",
+      "primaryColor": "black",
       "sizeCategory": "medium"
     },
     {
-      "id": "goldfish",
-      "name": "Goldfish",
-      "waterType": "freshwater",
-      "habitat": "temperate",
-      "bodyShape": "oval",
-      "primaryColor": "orange",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "blue-tang",
-      "name": "Blue Tang",
+      "id": "african-flameback-angelfish",
+      "name": "African Flameback Angelfish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "allards-clownfish",
+      "name": "Allard's Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
       "sizeCategory": "medium"
     },
     {
@@ -57,121 +39,94 @@
       "sizeCategory": "small"
     },
     {
-      "id": "seahorse",
-      "name": "Seahorse",
+      "id": "anglerfish",
+      "name": "Anglerfish",
       "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "unusual",
-      "primaryColor": "yellow",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "lionfish",
-      "name": "Lionfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "neon-tetra",
-      "name": "Neon Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "tiny"
-    },
-    {
-      "id": "discus",
-      "name": "Discus",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "disc",
-      "primaryColor": "pink",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "moorish-idol",
-      "name": "Moorish Idol",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "yellow",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "mandarin-dragonet",
-      "name": "Mandarin Dragonet",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "multi",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "butterflyfish",
-      "name": "Butterflyfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "yellow",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "oscar",
-      "name": "Oscar",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
+      "habitat": "deep-sea",
+      "bodyShape": "round",
       "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "angular-flasher-wrasse",
+      "name": "Angular Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "annularis-angelfish",
+      "name": "Annularis Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "blue",
       "sizeCategory": "large"
     },
     {
-      "id": "whale-shark",
-      "name": "Whale Shark",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "silver",
-      "sizeCategory": "giant"
-    },
-    {
-      "id": "royal-gramma",
-      "name": "Royal Gramma",
+      "id": "anthias",
+      "name": "Lyretail Anthias",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "purple",
+      "primaryColor": "orange",
       "sizeCategory": "small"
     },
     {
-      "id": "yellow-tang",
-      "name": "Yellow Tang",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "yellow",
-      "sizeCategory": "medium"
+      "id": "arapaima",
+      "name": "Arapaima",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "elongated",
+      "primaryColor": "green",
+      "sizeCategory": "giant"
     },
     {
-      "id": "emperor-angelfish",
-      "name": "Emperor Angelfish",
+      "id": "arowana",
+      "name": "Asian Arowana",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "elongated",
+      "primaryColor": "red",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "asfur-angelfish",
+      "name": "Asfur Angelfish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "disc",
       "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "atlantic-blue-tang",
+      "name": "Atlantic Blue Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "medium"
     },
     {
-      "id": "flame-angelfish",
-      "name": "Flame Angelfish",
+      "id": "banana-wrasse",
+      "name": "Banana Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "bandit-angelfish",
+      "name": "Bandit Angelfish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "disc",
-      "primaryColor": "red",
-      "sizeCategory": "small"
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
     },
     {
       "id": "banggai-cardinalfish",
@@ -183,80 +138,17 @@
       "sizeCategory": "small"
     },
     {
-      "id": "powder-blue-tang",
-      "name": "Powder Blue Tang",
+      "id": "barracuda",
+      "name": "Barracuda",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "medium"
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
     },
     {
-      "id": "foxface-rabbitfish",
-      "name": "Foxface Rabbitfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "yellow",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "copperband-butterflyfish",
-      "name": "Copperband Butterflyfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "orange",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "picasso-triggerfish",
-      "name": "Picasso Triggerfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "multi",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "blue-damselfish",
-      "name": "Blue Damselfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "tiny"
-    },
-    {
-      "id": "firefish-goby",
-      "name": "Firefish Goby",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "yellow-watchman-goby",
-      "name": "Yellow Watchman Goby",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "yellow",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "six-line-wrasse",
-      "name": "Six Line Wrasse",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "purple",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "fairy-wrasse",
-      "name": "Fairy Wrasse",
+      "id": "bartletts-anthias",
+      "name": "Bartlett's Anthias",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
@@ -264,12 +156,48 @@
       "sizeCategory": "small"
     },
     {
-      "id": "green-chromis",
-      "name": "Green Chromis",
+      "id": "bass",
+      "name": "Largemouth Bass",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "batfish",
+      "name": "Batfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "betta",
+      "name": "Betta",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "bicolor-angelfish",
+      "name": "Bicolor Angelfish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "green",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "bicolor-anthias",
+      "name": "Bicolor Anthias",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
       "sizeCategory": "small"
     },
     {
@@ -282,134 +210,17 @@
       "sizeCategory": "small"
     },
     {
-      "id": "lawnmower-blenny",
-      "name": "Lawnmower Blenny",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "green",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "cleaner-wrasse",
-      "name": "Cleaner Wrasse",
+      "id": "bird-wrasse",
+      "name": "Bird Wrasse",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "blue",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "clown-triggerfish",
-      "name": "Clown Triggerfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "black",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "flame-hawkfish",
-      "name": "Flame Hawkfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "longnose-hawkfish",
-      "name": "Longnose Hawkfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "pajama-cardinalfish",
-      "name": "Pajama Cardinalfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "multi",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "royal-dottyback",
-      "name": "Royal Dottyback",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "purple",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "orchid-dottyback",
-      "name": "Orchid Dottyback",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "purple",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "purple-tang",
-      "name": "Purple Tang",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "purple",
       "sizeCategory": "medium"
     },
     {
-      "id": "sailfin-tang",
-      "name": "Sailfin Tang",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "yellow",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "achilles-tang",
-      "name": "Achilles Tang",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "black",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "unicorn-tang",
-      "name": "Unicorn Tang",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "naso-tang",
-      "name": "Naso Tang",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "silver",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "yellowtail-damsel",
-      "name": "Yellowtail Damsel",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "domino-damsel",
-      "name": "Domino Damsel",
+      "id": "black-ice-clownfish",
+      "name": "Black Ice Clownfish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
@@ -417,166 +228,13 @@
       "sizeCategory": "small"
     },
     {
-      "id": "guppy",
-      "name": "Guppy",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "multi",
-      "sizeCategory": "tiny"
-    },
-    {
-      "id": "platy",
-      "name": "Platy",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "orange",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "molly",
-      "name": "Molly",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "black-photon-clownfish",
+      "name": "Black Photon Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "black",
       "sizeCategory": "small"
-    },
-    {
-      "id": "swordtail",
-      "name": "Swordtail",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "ram-cichlid",
-      "name": "Ram Cichlid",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "electric-blue-acara",
-      "name": "Electric Blue Acara",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "kribensis",
-      "name": "Kribensis",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "pink",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "peacock-cichlid",
-      "name": "Peacock Cichlid",
-      "waterType": "freshwater",
-      "habitat": "lake",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "frontosa",
-      "name": "Frontosa",
-      "waterType": "freshwater",
-      "habitat": "lake",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "jewel-cichlid",
-      "name": "Jewel Cichlid",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "firemouth-cichlid",
-      "name": "Firemouth Cichlid",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "convict-cichlid",
-      "name": "Convict Cichlid",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "silver",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "jack-dempsey",
-      "name": "Jack Dempsey",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "green-terror",
-      "name": "Green Terror",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "green",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "blood-parrot",
-      "name": "Blood Parrot",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "round",
-      "primaryColor": "orange",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "flowerhorn",
-      "name": "Flowerhorn",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "cardinal-tetra",
-      "name": "Cardinal Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "tiny"
-    },
-    {
-      "id": "rummy-nose-tetra",
-      "name": "Rummy Nose Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "silver",
-      "sizeCategory": "tiny"
     },
     {
       "id": "black-skirt-tetra",
@@ -588,49 +246,58 @@
       "sizeCategory": "small"
     },
     {
-      "id": "serpae-tetra",
-      "name": "Serpae Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "black-snowflake-clownfish",
+      "name": "Black Snowflake Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "red",
-      "sizeCategory": "tiny"
-    },
-    {
-      "id": "congo-tetra",
-      "name": "Congo Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
+      "primaryColor": "black",
       "sizeCategory": "small"
     },
     {
-      "id": "emperor-tetra",
-      "name": "Emperor Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "black-storm-clownfish",
+      "name": "Black Storm Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "black-tang",
+      "name": "Black Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "black-velvet-angelfish",
+      "name": "Black Velvet Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "blackcap-gramma",
+      "name": "Blackcap Gramma",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "purple",
       "sizeCategory": "small"
     },
     {
-      "id": "diamond-tetra",
-      "name": "Diamond Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "disc",
+      "id": "blacktip-reef-shark",
+      "name": "Blacktip Reef Shark",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "streamlined",
       "primaryColor": "silver",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "lemon-tetra",
-      "name": "Lemon Tetra",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "yellow",
-      "sizeCategory": "tiny"
+      "sizeCategory": "large"
     },
     {
       "id": "bleeding-heart-tetra",
@@ -642,13 +309,229 @@
       "sizeCategory": "small"
     },
     {
-      "id": "harlequin-rasbora",
-      "name": "Harlequin Rasbora",
+      "id": "blizzard-clownfish",
+      "name": "Blizzard Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "blobfish",
+      "name": "Blobfish",
+      "waterType": "saltwater",
+      "habitat": "deep-sea",
+      "bodyShape": "round",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "blonde-naso-tang",
+      "name": "Blonde Naso Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "blood-orange-clownfish",
+      "name": "Blood Orange Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "blood-parrot",
+      "name": "Blood Parrot",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "round",
+      "primaryColor": "orange",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "blue-assessor",
+      "name": "Blue Assessor",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "blue-damselfish",
+      "name": "Blue Damselfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "blue-flasher-wrasse",
+      "name": "Blue Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "blue-shark",
+      "name": "Blue Shark",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "blue-tang",
+      "name": "Blue Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "blueface-angelfish",
+      "name": "Blueface Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "blueline-tang",
+      "name": "Blueline Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "bluering-angelfish",
+      "name": "Blue-ring Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "blueside-fairy-wrasse",
+      "name": "Blueside Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "borbonius-anthias",
+      "name": "Borbonius Anthias",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "boxfish",
+      "name": "Boxfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "bristlenose-pleco",
+      "name": "Bristlenose Pleco",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "flat",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "bronze-cory",
+      "name": "Bronze Cory",
       "waterType": "freshwater",
       "habitat": "tropical",
       "bodyShape": "oval",
       "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "butterflyfish",
+      "name": "Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "canary-blenny",
+      "name": "Canary Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "cardinal-tetra",
+      "name": "Cardinal Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "tiny"
+    },
+    {
+      "id": "carp",
+      "name": "Common Carp",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "carpenters-flasher-wrasse",
+      "name": "Carpenter's Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "catalina-goby",
+      "name": "Catalina Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "catfish",
+      "name": "Channel Catfish",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "elongated",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
     },
     {
       "id": "celestial-pearl-danio",
@@ -669,111 +552,75 @@
       "sizeCategory": "tiny"
     },
     {
-      "id": "tiger-barb",
-      "name": "Tiger Barb",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "orange",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "rosy-barb",
-      "name": "Rosy Barb",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "pink",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "zebra-danio",
-      "name": "Zebra Danio",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "cherub-angelfish",
+      "name": "Cherub Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "blue",
       "sizeCategory": "tiny"
     },
     {
-      "id": "pearl-gourami",
-      "name": "Pearl Gourami",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "chevron-tang",
+      "name": "Chevron Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "silver",
+      "primaryColor": "orange",
       "sizeCategory": "medium"
     },
     {
-      "id": "dwarf-gourami",
-      "name": "Dwarf Gourami",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "chocolate-tang",
+      "name": "Chocolate Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "paradise-fish",
-      "name": "Paradise Fish",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "bristlenose-pleco",
-      "name": "Bristlenose Pleco",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "flat",
       "primaryColor": "black",
       "sizeCategory": "medium"
     },
     {
-      "id": "common-pleco",
-      "name": "Common Pleco",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "flat",
-      "primaryColor": "black",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "otocinclus",
-      "name": "Otocinclus",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "christmas-wrasse",
+      "name": "Christmas Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "silver",
-      "sizeCategory": "tiny"
+      "primaryColor": "red",
+      "sizeCategory": "small"
     },
     {
-      "id": "bronze-cory",
-      "name": "Bronze Cory",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "cinnamon-clownfish",
+      "name": "Cinnamon Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "orange",
       "sizeCategory": "small"
     },
     {
-      "id": "panda-cory",
-      "name": "Panda Cory",
-      "waterType": "freshwater",
-      "habitat": "tropical",
+      "id": "clarion-angelfish",
+      "name": "Clarion Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "orange",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "clarkii-clownfish",
+      "name": "Clarkii Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "silver",
+      "primaryColor": "orange",
       "sizeCategory": "small"
     },
     {
-      "id": "kuhli-loach",
-      "name": "Kuhli Loach",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "elongated",
-      "primaryColor": "orange",
+      "id": "cleaner-wrasse",
+      "name": "Cleaner Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "small"
     },
     {
@@ -786,31 +633,616 @@
       "sizeCategory": "large"
     },
     {
-      "id": "yoyo-loach",
-      "name": "Yoyo Loach",
+      "id": "clown-tang",
+      "name": "Clown Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "clown-triggerfish",
+      "name": "Clown Triggerfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "clownfish",
+      "name": "Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "colins-angelfish",
+      "name": "Colin's Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "common-pleco",
+      "name": "Common Pleco",
       "waterType": "freshwater",
       "habitat": "tropical",
+      "bodyShape": "flat",
+      "primaryColor": "black",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "congo-tetra",
+      "name": "Congo Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "convict-cichlid",
+      "name": "Convict Cichlid",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "convict-tang",
+      "name": "Convict Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "silver",
       "sizeCategory": "medium"
     },
     {
-      "id": "weather-loach",
-      "name": "Weather Loach",
+      "id": "copperband-butterflyfish",
+      "name": "Copperband Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "orange",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "coral-beauty-angelfish",
+      "name": "Coral Beauty Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "court-jester-goby",
+      "name": "Court Jester Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "cowfish",
+      "name": "Cowfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "damselfish",
+      "name": "Sergeant Major Damselfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "davinci-clownfish",
+      "name": "DaVinci Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "desjardini-sailfin-tang",
+      "name": "Desjardini Sailfin Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "diamond-tetra",
+      "name": "Diamond Tetra",
       "waterType": "freshwater",
-      "habitat": "temperate",
-      "bodyShape": "elongated",
+      "habitat": "tropical",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "discus",
+      "name": "Discus",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "disc",
+      "primaryColor": "pink",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "dispar-anthias",
+      "name": "Dispar Anthias",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "doctorfish-tang",
+      "name": "Doctorfish Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
       "primaryColor": "silver",
       "sizeCategory": "medium"
     },
     {
-      "id": "hammerhead-shark",
-      "name": "Hammerhead Shark",
+      "id": "domino-clownfish",
+      "name": "Domino Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "domino-damsel",
+      "name": "Domino Damsel",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "dracula-goby",
+      "name": "Dracula Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "dragon-wrasse",
+      "name": "Dragon Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "dragonet",
+      "name": "Scooter Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "dwarf-gourami",
+      "name": "Dwarf Gourami",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "eibli-angelfish",
+      "name": "Eibli Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "electric-blue-acara",
+      "name": "Electric Blue Acara",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "electric-eel",
+      "name": "Electric Eel",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "elongated",
+      "primaryColor": "black",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "ember-blenny",
+      "name": "Ember Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "emperor-angelfish",
+      "name": "Emperor Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "emperor-tetra",
+      "name": "Emperor Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "engineer-goby",
+      "name": "Engineer Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "evansi-anthias",
+      "name": "Evansi Anthias",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "exquisite-fairy-wrasse",
+      "name": "Exquisite Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "extreme-picasso-clownfish",
+      "name": "Extreme Picasso Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "fairy-wrasse",
+      "name": "Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "fancy-white-clownfish",
+      "name": "Fancy White Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "filamented-flasher-wrasse",
+      "name": "Filamented Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "filefish",
+      "name": "Filefish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "firefish-goby",
+      "name": "Firefish Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "firemouth-cichlid",
+      "name": "Firemouth Cichlid",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "fishers-angelfish",
+      "name": "Fisher's Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "flame-angelfish",
+      "name": "Flame Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "flame-fairy-wrasse",
+      "name": "Flame Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "flame-hawkfish",
+      "name": "Flame Hawkfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "flameback-angelfish",
+      "name": "Flameback Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "flaming-prawn-goby",
+      "name": "Flaming Prawn Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "flowerhorn",
+      "name": "Flowerhorn",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "flurry-clownfish",
+      "name": "Flurry Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "flying-fish",
+      "name": "Flying Fish",
       "waterType": "saltwater",
       "habitat": "pelagic",
       "bodyShape": "streamlined",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "foureye-butterflyfish",
+      "name": "Foureye Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
       "primaryColor": "silver",
-      "sizeCategory": "giant"
+      "sizeCategory": "small"
+    },
+    {
+      "id": "fowlers-tang",
+      "name": "Fowler's Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "foxface-rabbitfish",
+      "name": "Foxface Rabbitfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "french-angelfish",
+      "name": "French Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "black",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "frogfish",
+      "name": "Frogfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "frontosa",
+      "name": "Frontosa",
+      "waterType": "freshwater",
+      "habitat": "lake",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "frostbite-clownfish",
+      "name": "Frostbite Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "garden-eel",
+      "name": "Garden Eel",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "gem-tang",
+      "name": "Gem Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "gladiator-clownfish",
+      "name": "Gladiator Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "goby",
+      "name": "Neon Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "gold-nugget-maroon-clownfish",
+      "name": "Gold Nugget Maroon Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "gold-stripe-maroon-clownfish",
+      "name": "Gold Stripe Maroon Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "golden-angelfish",
+      "name": "Golden Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "golden-butterflyfish",
+      "name": "Golden Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "goldfish",
+      "name": "Goldfish",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "goldflake-angelfish",
+      "name": "Goldflake Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "gray-angelfish",
+      "name": "Gray Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
     },
     {
       "id": "great-white-shark",
@@ -822,8 +1254,62 @@
       "sizeCategory": "giant"
     },
     {
-      "id": "tiger-shark",
-      "name": "Tiger Shark",
+      "id": "green-chromis",
+      "name": "Green Chromis",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "green-clown-goby",
+      "name": "Green Clown Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "green",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "green-terror",
+      "name": "Green Terror",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "grouper",
+      "name": "Goliath Grouper",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "giant"
+    },
+    {
+      "id": "guppy",
+      "name": "Guppy",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "multi",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "half-black-angelfish",
+      "name": "Half Black Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "hammerhead-shark",
+      "name": "Hammerhead Shark",
       "waterType": "saltwater",
       "habitat": "pelagic",
       "bodyShape": "streamlined",
@@ -831,22 +1317,211 @@
       "sizeCategory": "giant"
     },
     {
-      "id": "blacktip-reef-shark",
-      "name": "Blacktip Reef Shark",
+      "id": "harlequin-rasbora",
+      "name": "Harlequin Rasbora",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "harlequin-tusk",
+      "name": "Harlequin Tusk",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "streamlined",
-      "primaryColor": "silver",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "large"
     },
     {
-      "id": "nurse-shark",
-      "name": "Nurse Shark",
+      "id": "helfrichi-firefish",
+      "name": "Helfrichi Firefish",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "streamlined",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "heniochus-butterflyfish",
+      "name": "Heniochus Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
       "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "heralds-angelfish",
+      "name": "Herald's Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "highfin-blenny",
+      "name": "Highfin Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "jack-dempsey",
+      "name": "Jack Dempsey",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "large"
+    },
+    {
+      "id": "japanese-tang",
+      "name": "Japanese Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "jewel-cichlid",
+      "name": "Jewel Cichlid",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "joculator-angelfish",
+      "name": "Joculator Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "keyhole-angelfish",
+      "name": "Keyhole Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "kleins-butterflyfish",
+      "name": "Klein's Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "koi-wrasse",
+      "name": "Koi Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "koi",
+      "name": "Koi",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "kole-tang",
+      "name": "Kole Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "koran-angelfish",
+      "name": "Koran Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "green",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "kribensis",
+      "name": "Kribensis",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "kuhli-loach",
+      "name": "Kuhli Loach",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "elongated",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "laboutes-fairy-wrasse",
+      "name": "Laboute's Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "latezonatus-clownfish",
+      "name": "Latezonatus Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "lavender-tang",
+      "name": "Lavender Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "lawnmower-blenny",
+      "name": "Lawnmower Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "leafy-sea-dragon",
+      "name": "Leafy Sea Dragon",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "unusual",
+      "primaryColor": "green",
+      "sizeCategory": "medium"
     },
     {
       "id": "lemon-shark",
@@ -858,11 +1533,155 @@
       "sizeCategory": "large"
     },
     {
-      "id": "blue-shark",
-      "name": "Blue Shark",
+      "id": "lemon-tetra",
+      "name": "Lemon Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "lemonpeel-angelfish",
+      "name": "Lemonpeel Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "leopard-wrasse",
+      "name": "Leopard Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "lieutenant-tang",
+      "name": "Lieutenant Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "lightning-maroon-clownfish",
+      "name": "Lightning Maroon Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "linear-blenny",
+      "name": "Linear Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "lineatus-fairy-wrasse",
+      "name": "Lineatus Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "lionfish",
+      "name": "Lionfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "longfin-clownfish",
+      "name": "Longfin Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "longfin-mocha-clownfish",
+      "name": "Longfin Mocha Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "longnose-butterflyfish",
+      "name": "Longnose Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "longnose-hawkfish",
+      "name": "Longnose Hawkfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "lubbocks-fairy-wrasse",
+      "name": "Lubbock's Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "madagascar-clownfish",
+      "name": "Madagascar Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "mahi-mahi",
+      "name": "Mahi Mahi",
       "waterType": "saltwater",
       "habitat": "pelagic",
       "bodyShape": "streamlined",
+      "primaryColor": "green",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "mai-tai-clownfish",
+      "name": "Mai Tai Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "majestic-angelfish",
+      "name": "Majestic Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
       "primaryColor": "blue",
       "sizeCategory": "large"
     },
@@ -876,6 +1695,15 @@
       "sizeCategory": "large"
     },
     {
+      "id": "mandarin-dragonet",
+      "name": "Mandarin Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "multi",
+      "sizeCategory": "small"
+    },
+    {
       "id": "manta-ray",
       "name": "Manta Ray",
       "waterType": "saltwater",
@@ -885,58 +1713,148 @@
       "sizeCategory": "giant"
     },
     {
-      "id": "stingray",
-      "name": "Stingray",
+      "id": "marlin",
+      "name": "Marlin",
       "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "flat",
-      "primaryColor": "silver",
-      "sizeCategory": "medium"
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "blue",
+      "sizeCategory": "giant"
     },
     {
-      "id": "anglerfish",
-      "name": "Anglerfish",
-      "waterType": "saltwater",
-      "habitat": "deep-sea",
-      "bodyShape": "round",
-      "primaryColor": "black",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "leafy-sea-dragon",
-      "name": "Leafy Sea Dragon",
+      "id": "maroon-clownfish",
+      "name": "Maroon Clownfish",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "unusual",
-      "primaryColor": "green",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "weedy-sea-dragon",
-      "name": "Weedy Sea Dragon",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "unusual",
+      "bodyShape": "oval",
       "primaryColor": "red",
       "sizeCategory": "medium"
     },
     {
-      "id": "frogfish",
-      "name": "Frogfish",
+      "id": "masked-angelfish",
+      "name": "Masked Angelfish",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "round",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "mccoskers-fairy-wrasse",
+      "name": "McCosker's Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
       "primaryColor": "orange",
       "sizeCategory": "small"
     },
     {
-      "id": "pipefish",
-      "name": "Pipefish",
+      "id": "mccoskers-flasher-wrasse",
+      "name": "McCosker's Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "melanurus-wrasse",
+      "name": "Melanurus Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "midas-blenny",
+      "name": "Midas Blenny",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "elongated",
-      "primaryColor": "green",
+      "primaryColor": "yellow",
       "sizeCategory": "small"
+    },
+    {
+      "id": "midnight-angelfish",
+      "name": "Midnight Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "midnight-clownfish",
+      "name": "Midnight Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "mimic-tang",
+      "name": "Mimic Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "misbar-clownfish",
+      "name": "Misbar Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "mocha-clownfish",
+      "name": "Mocha Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "mocha-storm-clownfish",
+      "name": "Mocha Storm Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "molly",
+      "name": "Molly",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "moon-wrasse",
+      "name": "Moon Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "moorish-idol",
+      "name": "Moorish Idol",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
     },
     {
       "id": "moray-eel",
@@ -948,58 +1866,85 @@
       "sizeCategory": "large"
     },
     {
-      "id": "garden-eel",
-      "name": "Garden Eel",
+      "id": "multicolor-angelfish",
+      "name": "Multicolor Angelfish",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "elongated",
-      "primaryColor": "silver",
-      "sizeCategory": "small"
-    },
-    {
-      "id": "batfish",
-      "name": "Batfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "disc",
-      "primaryColor": "silver",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "boxfish",
-      "name": "Boxfish",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "round",
+      "bodyShape": "oval",
       "primaryColor": "yellow",
       "sizeCategory": "small"
     },
     {
-      "id": "cowfish",
-      "name": "Cowfish",
+      "id": "mystery-wrasse",
+      "name": "Mystery Wrasse",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "round",
-      "primaryColor": "yellow",
-      "sizeCategory": "medium"
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
     },
     {
-      "id": "filefish",
-      "name": "Filefish",
+      "id": "naked-clownfish",
+      "name": "Naked Clownfish",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "disc",
+      "bodyShape": "oval",
       "primaryColor": "orange",
       "sizeCategory": "small"
     },
     {
-      "id": "blobfish",
-      "name": "Blobfish",
+      "id": "naso-tang",
+      "name": "Naso Tang",
       "waterType": "saltwater",
-      "habitat": "deep-sea",
-      "bodyShape": "round",
-      "primaryColor": "pink",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "nebula-clownfish",
+      "name": "Nebula Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
       "sizeCategory": "small"
+    },
+    {
+      "id": "neon-dottyback",
+      "name": "Neon Dottyback",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "neon-tetra",
+      "name": "Neon Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "nursalim-flasher-wrasse",
+      "name": "Nursalim Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "nurse-shark",
+      "name": "Nurse Shark",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
     },
     {
       "id": "oarfish",
@@ -1020,173 +1965,101 @@
       "sizeCategory": "giant"
     },
     {
-      "id": "tuna",
-      "name": "Tuna",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "blue",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "marlin",
-      "name": "Marlin",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "blue",
-      "sizeCategory": "giant"
-    },
-    {
-      "id": "swordfish",
-      "name": "Swordfish",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "silver",
-      "sizeCategory": "giant"
-    },
-    {
-      "id": "sailfish",
-      "name": "Sailfish",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "blue",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "barracuda",
-      "name": "Barracuda",
+      "id": "onyx-clownfish",
+      "name": "Onyx Clownfish",
       "waterType": "saltwater",
       "habitat": "reef",
-      "bodyShape": "streamlined",
-      "primaryColor": "silver",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "tarpon",
-      "name": "Tarpon",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "streamlined",
-      "primaryColor": "silver",
-      "sizeCategory": "giant"
-    },
-    {
-      "id": "mahi-mahi",
-      "name": "Mahi Mahi",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "green",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "wahoo",
-      "name": "Wahoo",
-      "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
-      "primaryColor": "blue",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "rainbow-trout",
-      "name": "Rainbow Trout",
-      "waterType": "freshwater",
-      "habitat": "temperate",
-      "bodyShape": "streamlined",
-      "primaryColor": "pink",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "salmon",
-      "name": "Salmon",
-      "waterType": "freshwater",
-      "habitat": "temperate",
-      "bodyShape": "streamlined",
-      "primaryColor": "silver",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "bass",
-      "name": "Largemouth Bass",
-      "waterType": "freshwater",
-      "habitat": "temperate",
       "bodyShape": "oval",
-      "primaryColor": "green",
-      "sizeCategory": "medium"
+      "primaryColor": "black",
+      "sizeCategory": "small"
     },
     {
-      "id": "piranha",
-      "name": "Red-Bellied Piranha",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "disc",
+      "id": "orange-shoulder-tang",
+      "name": "Orange Shoulder Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
       "primaryColor": "silver",
-      "sizeCategory": "medium"
-    },
-    {
-      "id": "arowana",
-      "name": "Asian Arowana",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "elongated",
-      "primaryColor": "red",
       "sizeCategory": "large"
     },
     {
-      "id": "arapaima",
-      "name": "Arapaima",
-      "waterType": "freshwater",
-      "habitat": "tropical",
-      "bodyShape": "elongated",
-      "primaryColor": "green",
-      "sizeCategory": "giant"
+      "id": "orange-skunk-clownfish",
+      "name": "Orange Skunk Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
     },
     {
-      "id": "electric-eel",
-      "name": "Electric Eel",
+      "id": "orange-spotted-goby",
+      "name": "Orange Spotted Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "orange-storm-clownfish",
+      "name": "Orange Storm Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "orchid-dottyback",
+      "name": "Orchid Dottyback",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "oscar",
+      "name": "Oscar",
       "waterType": "freshwater",
       "habitat": "tropical",
-      "bodyShape": "elongated",
+      "bodyShape": "oval",
       "primaryColor": "black",
       "sizeCategory": "large"
     },
     {
-      "id": "catfish",
-      "name": "Channel Catfish",
+      "id": "otocinclus",
+      "name": "Otocinclus",
       "waterType": "freshwater",
-      "habitat": "temperate",
-      "bodyShape": "elongated",
-      "primaryColor": "silver",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "koi",
-      "name": "Koi",
-      "waterType": "freshwater",
-      "habitat": "temperate",
-      "bodyShape": "oval",
-      "primaryColor": "orange",
-      "sizeCategory": "large"
-    },
-    {
-      "id": "carp",
-      "name": "Common Carp",
-      "waterType": "freshwater",
-      "habitat": "temperate",
+      "habitat": "tropical",
       "bodyShape": "oval",
       "primaryColor": "silver",
-      "sizeCategory": "large"
+      "sizeCategory": "tiny"
     },
     {
-      "id": "flying-fish",
-      "name": "Flying Fish",
+      "id": "pajama-cardinalfish",
+      "name": "Pajama Cardinalfish",
       "waterType": "saltwater",
-      "habitat": "pelagic",
-      "bodyShape": "streamlined",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "multi",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "panda-cory",
+      "name": "Panda Cory",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "paradise-fish",
+      "name": "Paradise Fish",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
       "primaryColor": "blue",
       "sizeCategory": "small"
     },
@@ -1200,26 +2073,278 @@
       "sizeCategory": "large"
     },
     {
-      "id": "surgeonfish",
-      "name": "Yellow Surgeonfish",
+      "id": "passer-angelfish",
+      "name": "Passer Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "peacock-cichlid",
+      "name": "Peacock Cichlid",
+      "waterType": "freshwater",
+      "habitat": "lake",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "pearl-gourami",
+      "name": "Pearl Gourami",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "pearlscale-angelfish",
+      "name": "Pearlscale Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "peppermint-angelfish",
+      "name": "Peppermint Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "percula-clownfish",
+      "name": "Percula Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "phantom-clownfish",
+      "name": "Phantom Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "picasso-clownfish",
+      "name": "Picasso Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "picasso-triggerfish",
+      "name": "Picasso Triggerfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "multi",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "pink-skunk-clownfish",
+      "name": "Pink Skunk Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "pink-watchman-goby",
+      "name": "Pink Watchman Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "pipefish",
+      "name": "Pipefish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "piranha",
+      "name": "Red-Bellied Piranha",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "platinum-clownfish",
+      "name": "Platinum Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "platy",
+      "name": "Platy",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "possum-wrasse",
+      "name": "Possum Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "potters-angelfish",
+      "name": "Potter's Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "powder-blue-tang",
+      "name": "Powder Blue Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "premium-picasso-clownfish",
+      "name": "Premium Picasso Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "premium-snowflake-clownfish",
+      "name": "Premium Snowflake Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "pufferfish",
+      "name": "Pufferfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "purple-firefish",
+      "name": "Purple Firefish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "purple",
-      "sizeCategory": "medium"
+      "sizeCategory": "small"
     },
     {
-      "id": "grouper",
-      "name": "Goliath Grouper",
+      "id": "purple-queen-anthias",
+      "name": "Purple Queen Anthias",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "green",
-      "sizeCategory": "giant"
+      "primaryColor": "purple",
+      "sizeCategory": "small"
     },
     {
-      "id": "snapper",
-      "name": "Red Snapper",
+      "id": "purple-tang",
+      "name": "Purple Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "purple",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "pylei-fairy-wrasse",
+      "name": "Pylei Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "pyramid-butterflyfish",
+      "name": "Pyramid Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "queen-angelfish",
+      "name": "Queen Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "raccoon-butterflyfish",
+      "name": "Raccoon Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "rainbow-trout",
+      "name": "Rainbow Trout",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "streamlined",
+      "primaryColor": "pink",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "ram-cichlid",
+      "name": "Ram Cichlid",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "red-coris-wrasse",
+      "name": "Red Coris Wrasse",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
@@ -1227,21 +2352,39 @@
       "sizeCategory": "medium"
     },
     {
-      "id": "wrasse",
-      "name": "Napoleon Wrasse",
+      "id": "red-mandarin-dragonet",
+      "name": "Red Mandarin Dragonet",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "giant"
+      "primaryColor": "red",
+      "sizeCategory": "small"
     },
     {
-      "id": "damselfish",
-      "name": "Sergeant Major Damselfish",
+      "id": "red-sea-clownfish",
+      "name": "Red Sea Clownfish",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "red-sea-flasher-wrasse",
+      "name": "Red Sea Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "red-velvet-fairy-wrasse",
+      "name": "Red Velvet Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
       "sizeCategory": "small"
     },
     {
@@ -1254,21 +2397,291 @@
       "sizeCategory": "medium"
     },
     {
-      "id": "goby",
-      "name": "Neon Goby",
-      "waterType": "saltwater",
-      "habitat": "reef",
-      "bodyShape": "oval",
-      "primaryColor": "blue",
-      "sizeCategory": "tiny"
-    },
-    {
-      "id": "anthias",
-      "name": "Lyretail Anthias",
+      "id": "resplendent-anthias",
+      "name": "Resplendent Anthias",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "rhomboid-fairy-wrasse",
+      "name": "Rhomboid Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "ringtail-tang",
+      "name": "Ringtail Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "rosy-barb",
+      "name": "Rosy Barb",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "royal-dottyback",
+      "name": "Royal Dottyback",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "royal-gramma",
+      "name": "Royal Gramma",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "ruby-head-fairy-wrasse",
+      "name": "Ruby Head Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "ruby-red-dragonet",
+      "name": "Ruby Red Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "rummy-nose-tetra",
+      "name": "Rummy Nose Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "rusty-angelfish",
+      "name": "Rusty Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "saddleback-clownfish",
+      "name": "Saddleback Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "sailfin-blenny",
+      "name": "Sailfin Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "purple",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "sailfin-tang",
+      "name": "Sailfin Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "sailfish",
+      "name": "Sailfish",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "scooter-dragonet",
+      "name": "Scooter Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "scopas-tang",
+      "name": "Scopas Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "scotts-fairy-wrasse",
+      "name": "Scott's Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "scribbled-angelfish",
+      "name": "Scribbled Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "seahorse",
+      "name": "Seahorse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "unusual",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "sebae-clownfish",
+      "name": "Sebae Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "serpae-tetra",
+      "name": "Serpae Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "six-bar-angelfish",
+      "name": "Six-Bar Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "six-line-wrasse",
+      "name": "Six Line Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "snapper",
+      "name": "Red Snapper",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "snowflake-clownfish",
+      "name": "Snowflake Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "social-fairy-wrasse",
+      "name": "Social Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "sohal-tang",
+      "name": "Sohal Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "solar-fairy-wrasse",
+      "name": "Solar Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "spotted-mandarin-dragonet",
+      "name": "Spotted Mandarin Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "spotted-tang",
+      "name": "Spotted Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "springers-dottyback",
+      "name": "Springer's Dottyback",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "small"
     },
     {
@@ -1281,12 +2694,408 @@
       "sizeCategory": "medium"
     },
     {
-      "id": "dragonet",
-      "name": "Scooter Dragonet",
+      "id": "starry-blenny",
+      "name": "Starry Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "black",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "starry-dragonet",
+      "name": "Starry Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "stingray",
+      "name": "Stingray",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "flat",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "strawberry-dottyback",
+      "name": "Strawberry Dottyback",
       "waterType": "saltwater",
       "habitat": "reef",
       "bodyShape": "oval",
       "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "sunburst-anthias",
+      "name": "Sunburst Anthias",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "sunrise-clownfish",
+      "name": "Sunrise Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "surgeonfish",
+      "name": "Yellow Surgeonfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "swallowtail-angelfish",
+      "name": "Swallowtail Angelfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "swordfish",
+      "name": "Swordfish",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "giant"
+    },
+    {
+      "id": "swordtail",
+      "name": "Swordtail",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tailspot-blenny",
+      "name": "Tailspot Blenny",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "elongated",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "target-mandarin-dragonet",
+      "name": "Target Mandarin Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "green",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tarpon",
+      "name": "Tarpon",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "giant"
+    },
+    {
+      "id": "teardrop-butterflyfish",
+      "name": "Teardrop Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "thompsons-tang",
+      "name": "Thompson's Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "threadfin-butterflyfish",
+      "name": "Threadfin Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "three-band-clownfish",
+      "name": "Three-Band Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tiger-barb",
+      "name": "Tiger Barb",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tiger-shark",
+      "name": "Tiger Shark",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "giant"
+    },
+    {
+      "id": "togean-flasher-wrasse",
+      "name": "Togean Flasher Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tomato-clownfish",
+      "name": "Tomato Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tomini-tang",
+      "name": "Tomini Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "tuna",
+      "name": "Tuna",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "two-band-clownfish",
+      "name": "Two-Band Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "unicorn-tang",
+      "name": "Unicorn Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "vagabond-butterflyfish",
+      "name": "Vagabond Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "vlamingi-tang",
+      "name": "Vlamingi Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "wahoo",
+      "name": "Wahoo",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "blue",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "weather-loach",
+      "name": "Weather Loach",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "elongated",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "weedy-sea-dragon",
+      "name": "Weedy Sea Dragon",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "unusual",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "whale-shark",
+      "name": "Whale Shark",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "giant"
+    },
+    {
+      "id": "white-tang",
+      "name": "White Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "whitecheek-tang",
+      "name": "Whitecheek Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "wrasse",
+      "name": "Napoleon Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "giant"
+    },
+    {
+      "id": "wyoming-white-clownfish",
+      "name": "Wyoming White Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yasha-goby",
+      "name": "Yasha Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yellow-assessor",
+      "name": "Yellow Assessor",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yellow-clown-goby",
+      "name": "Yellow Clown Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "yellow",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "yellow-coris-wrasse",
+      "name": "Yellow Coris Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yellow-tang",
+      "name": "Yellow Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "yellow-watchman-goby",
+      "name": "Yellow Watchman Goby",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yellowfin-fairy-wrasse",
+      "name": "Yellowfin Fairy Wrasse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "pink",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yellowtail-damsel",
+      "name": "Yellowtail Damsel",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "yoyo-loach",
+      "name": "Yoyo Loach",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "silver",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "zebra-danio",
+      "name": "Zebra Danio",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
       "sizeCategory": "tiny"
     }
   ]

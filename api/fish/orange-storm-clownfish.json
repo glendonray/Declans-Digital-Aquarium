@@ -1,0 +1,46 @@
+{
+  "id": "orange-storm-clownfish",
+  "name": "Orange Storm Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "stormy"
+  },
+  "image": "assets/fish/orange-storm-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I keep my bright orange color unlike Black Storms! My white pattern swirls like a wild storm.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My Storm pattern means my white markings are wild and unpredictable - no two fish are alike!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm like a classic clownfish that got caught in a beautiful white blizzard!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

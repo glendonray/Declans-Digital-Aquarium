@@ -1,0 +1,46 @@
+{
+  "id": "blood-orange-clownfish",
+  "name": "Blood Orange Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/blood-orange-clownfish.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FFFFFF",
+    "accent": "#FF4500"
+  },
+  "facts": [
+    {
+      "text": "I'm named after the blood orange fruit! My color is deeper and redder than regular orange clownfish.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My rich red-orange color comes from special pigments that breeders select for over generations!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I look like a regular clownfish that turned up the color intensity to maximum!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

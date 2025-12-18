@@ -1,0 +1,46 @@
+{
+  "id": "coral-beauty-angelfish",
+  "name": "Coral Beauty Angelfish",
+  "scientificName": "Centropyge bispinosa",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/coral-beauty-angelfish.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FF8C00",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most popular dwarf angelfish! My purple and orange colors are stunning.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called the Two-spined Angelfish because of the two spines on my gill cover!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to graze on algae and pick at live rock all day long!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae, small invertebrates, and detritus",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lightning-maroon-clownfish",
+  "name": "Lightning Maroon Clownfish",
+  "scientificName": "Premnas biaculeatus (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/lightning-maroon-clownfish.svg",
+  "colors": {
+    "primary": "#8B0000",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most famous designer clownfish ever! My lightning bolt pattern started from a single wild-caught fish in Papua New Guinea.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "The original Lightning Maroon was caught in 2010 and breeders worked for years to reproduce my electric pattern!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I can be more feisty than other clownfish - maroons are known for our big personalities and we can be a bit territorial!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "6-10 years"
+  }
+}

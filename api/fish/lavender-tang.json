@@ -1,0 +1,46 @@
+{
+  "id": "lavender-tang",
+  "name": "Lavender Tang",
+  "scientificName": "Acanthurus nigrofuscus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "purple",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/lavender-tang.svg",
+  "colors": {
+    "primary": "#E6E6FA",
+    "secondary": "#9370DB",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful lavender-purple coloring with orange spots near my tail!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most common tangs on Indo-Pacific reefs - you'll see me everywhere!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in large schools and we all graze on algae together like a lawn-mowing team!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Filamentous algae",
+    "size": "Up to 8 inches (21 cm)",
+    "lifespan": "15+ years"
+  }
+}

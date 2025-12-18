@@ -1,0 +1,46 @@
+{
+  "id": "neon-dottyback",
+  "name": "Neon Dottyback",
+  "scientificName": "Pseudochromis aldabraensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pseudochromidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/neon-dottyback.svg",
+  "colors": {
+    "primary": "#00BFFF",
+    "secondary": "#FF8C00",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have an electric blue stripe that glows like neon!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm orange with a brilliant blue racing stripe down my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm feisty and will defend my cave from fish much bigger than me!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Small invertebrates and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}

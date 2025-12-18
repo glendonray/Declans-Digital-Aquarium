@@ -1,0 +1,46 @@
+{
+  "id": "french-angelfish",
+  "name": "French Angelfish",
+  "scientificName": "Pomacanthus paru",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "black",
+    "pattern": "scaled"
+  },
+  "image": "assets/fish/french-angelfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "Each of my black scales has a golden yellow edge - I look like I'm wearing golden chainmail!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm young, I have bright yellow stripes! I change completely as I grow up.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "French angelfish mate for life! Pairs stay together and defend their territory as a team.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean and Gulf of Mexico",
+    "diet": "Sponges, algae, and soft corals",
+    "size": "Up to 16 inches (41 cm)",
+    "lifespan": "15+ years"
+  }
+}

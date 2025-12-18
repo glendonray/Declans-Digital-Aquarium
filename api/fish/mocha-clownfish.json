@@ -1,0 +1,46 @@
+{
+  "id": "mocha-clownfish",
+  "name": "Mocha Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/mocha-clownfish.svg",
+  "colors": {
+    "primary": "#8B4513",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named after mocha coffee because of my warm brown and orange tones. Sweet and beautiful!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My unique coloring is a blend between orange and black clownfish genetics. I'm like a delicious swirl!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "Mocha clownfish like me were first bred by Sea & Reef Aquaculture. Now we're loved by hobbyists worldwide!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

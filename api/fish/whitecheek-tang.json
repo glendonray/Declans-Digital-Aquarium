@@ -1,0 +1,46 @@
+{
+  "id": "whitecheek-tang",
+  "name": "Whitecheek Tang",
+  "scientificName": "Acanthurus nigricans",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "marked"
+  },
+  "image": "assets/fish/whitecheek-tang.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a bold white teardrop marking under my eye - that's my white cheek!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My body is dark with a yellow stripe at the base of my tail fin - very stylish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Gold-rimmed Tang or Powder Brown Tang depending on who you ask!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Pacific Ocean",
+    "diet": "Algae and plant material",
+    "size": "Up to 8 inches (21 cm)",
+    "lifespan": "15+ years"
+  }
+}

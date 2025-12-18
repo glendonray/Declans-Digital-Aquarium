@@ -1,0 +1,46 @@
+{
+  "id": "starry-dragonet",
+  "name": "Starry Dragonet",
+  "scientificName": "Synchiropus stellatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/starry-dragonet.svg",
+  "colors": {
+    "primary": "#CD5C5C",
+    "secondary": "#FFFFFF",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in white spots that look like stars in the night sky!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'stellatus' means 'starry' - perfectly named!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Indian Ocean and I'm a rare find in aquariums!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Tiny copepods and amphipods",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "5-8 years"
+  }
+}

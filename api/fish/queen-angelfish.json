@@ -1,0 +1,46 @@
+{
+  "id": "queen-angelfish",
+  "name": "Queen Angelfish",
+  "scientificName": "Holacanthus ciliaris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "crowned"
+  },
+  "image": "assets/fish/queen-angelfish.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FFD700",
+    "accent": "#00CED1"
+  },
+  "facts": [
+    {
+      "text": "I have a dark blue spot on my forehead that looks like a crown - that's why I'm the Queen!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My entire body is covered in beautiful blue and yellow scales edged in brilliant aqua!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most beautiful fish in the Caribbean Sea - royalty of the reef!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean and Western Atlantic",
+    "diet": "Sponges and algae",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "15-20 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lemonpeel-angelfish",
+  "name": "Lemonpeel Angelfish",
+  "scientificName": "Centropyge flavissima",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "ringed"
+  },
+  "image": "assets/fish/lemonpeel-angelfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#4169E1",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow like a lemon! I have a beautiful blue ring around my eye and blue-edged fins.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'flavissima' means 'very yellow' - that describes me perfectly!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a sunshine fish that brightens up any reef tank with my glowing color!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Central and Western Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 5.5 inches (14 cm)",
+    "lifespan": "10-12 years"
+  }
+}

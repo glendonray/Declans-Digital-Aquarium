@@ -1,0 +1,46 @@
+{
+  "id": "vlamingi-tang",
+  "name": "Vlamingi Tang",
+  "scientificName": "Naso vlamingii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "marked"
+  },
+  "image": "assets/fish/vlamingi-tang.svg",
+  "colors": {
+    "primary": "#4682B4",
+    "secondary": "#00CED1",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Bignose Unicornfish because I grow a large nose bump as I age!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can flash amazing neon blue patterns when I get excited or want to communicate!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow over 2 feet long! I'm one of the biggest fish in the tang family.",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes throughout the Indo-Pacific",
+    "diet": "Zooplankton and algae",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "25+ years"
+  }
+}

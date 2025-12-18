@@ -1,0 +1,46 @@
+{
+  "id": "six-bar-angelfish",
+  "name": "Six-Bar Angelfish",
+  "scientificName": "Pomacanthus sexstriatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "barred"
+  },
+  "image": "assets/fish/six-bar-angelfish.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#000000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have six bold black bars running down my silver body - easy to count!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail is bright yellow with a blue edge - a beautiful contrast to my striped body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'sexstriatus' means 'six stripes' - scientists named me after my bars!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Australia to Japan",
+    "diet": "Sponges, tunicates, and algae",
+    "size": "Up to 18 inches (46 cm)",
+    "lifespan": "20+ years"
+  }
+}

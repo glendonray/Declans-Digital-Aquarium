@@ -1,0 +1,46 @@
+{
+  "id": "purple-firefish",
+  "name": "Purple Firefish",
+  "scientificName": "Nemateleotris decora",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/purple-firefish.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FF4500",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm purple, red, and yellow - like a tiny flame dancing in the water!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I hover above the sand and dart into my burrow when scared!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scientific name 'decora' means decorated - I'm a fancy fish!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-7 years"
+  }
+}

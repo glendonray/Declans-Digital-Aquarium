@@ -1,0 +1,46 @@
+{
+  "id": "sebae-clownfish",
+  "name": "Sebae Clownfish",
+  "scientificName": "Amphiprion sebae",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/sebae-clownfish.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm golden yellow to brown with two wide white bands! My colors can change based on where I live.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm found only in the Indian Ocean, from India to Sri Lanka. I'm a special find!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I almost always live with Sebae anemones - we're best friends and share the same name!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the northern Indian Ocean",
+    "diet": "Algae, zooplankton, and small invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

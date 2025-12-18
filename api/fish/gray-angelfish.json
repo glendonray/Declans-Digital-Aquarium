@@ -1,0 +1,46 @@
+{
+  "id": "gray-angelfish",
+  "name": "Gray Angelfish",
+  "scientificName": "Pomacanthus arcuatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/gray-angelfish.svg",
+  "colors": {
+    "primary": "#708090",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I may look plain gray, but in the right light my scales shimmer with hidden colors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a pale chin and bright yellow inside my pectoral fins - subtle but stylish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the largest Atlantic angelfish - I can weigh up to 4 pounds!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean and Western Atlantic",
+    "diet": "Sponges and algae",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "20+ years"
+  }
+}

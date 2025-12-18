@@ -1,0 +1,46 @@
+{
+  "id": "scribbled-angelfish",
+  "name": "Scribbled Angelfish",
+  "scientificName": "Chaetodontoplus duboulayi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "scribbled"
+  },
+  "image": "assets/fish/scribbled-angelfish.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FFD700",
+    "accent": "#000080"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful squiggly blue lines on my body that look like someone scribbled on me!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Australia and nearby waters - a special fish from Down Under!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My patterns are so intricate, no two Scribbled Angelfish look exactly the same!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Australia and Papua New Guinea",
+    "diet": "Sponges, tunicates, and algae",
+    "size": "Up to 11 inches (28 cm)",
+    "lifespan": "15+ years"
+  }
+}

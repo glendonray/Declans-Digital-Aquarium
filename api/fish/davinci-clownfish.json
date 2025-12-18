@@ -1,0 +1,46 @@
+{
+  "id": "davinci-clownfish",
+  "name": "DaVinci Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/davinci-clownfish.svg",
+  "colors": {
+    "primary": "#FF7F50",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named after Leonardo da Vinci because my white patterns look like artistic brushstrokes on an orange canvas!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My pattern is even more extreme than Picasso clownfish - I have more white coverage creating a true masterpiece!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "DaVinci clownfish are created by selecting the most extreme Picasso patterns over many generations.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

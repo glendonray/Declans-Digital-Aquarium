@@ -1,0 +1,46 @@
+{
+  "id": "orange-spotted-goby",
+  "name": "Orange Spotted Goby",
+  "scientificName": "Amblyeleotris guttata",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/orange-spotted-goby.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#FF8C00",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Diamond Goby because I sparkle like a gem!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I sift through the sand looking for food - I'm like a living vacuum cleaner!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I help keep the aquarium sand clean and stirred up!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs",
+    "diet": "Microorganisms and detritus in sand",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-7 years"
+  }
+}

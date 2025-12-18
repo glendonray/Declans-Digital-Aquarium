@@ -1,0 +1,46 @@
+{
+  "id": "spotted-mandarin-dragonet",
+  "name": "Spotted Mandarin Dragonet",
+  "scientificName": "Synchiropus picturatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/spotted-mandarin-dragonet.svg",
+  "colors": {
+    "primary": "#228B22",
+    "secondary": "#FF8C00",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in psychedelic spots instead of swirls - like a polka-dot masterpiece!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Picturesque Dragonet because I look like a painting!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Like my cousin the Green Mandarin, I produce smelly slime to keep predators away!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral rubble and lagoons",
+    "diet": "Tiny copepods and amphipods",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "10-15 years"
+  }
+}

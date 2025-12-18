@@ -1,0 +1,46 @@
+{
+  "id": "pink-skunk-clownfish",
+  "name": "Pink Skunk Clownfish",
+  "scientificName": "Amphiprion perideraion",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/pink-skunk-clownfish.svg",
+  "colors": {
+    "primary": "#FFB6C1",
+    "secondary": "#FFFFFF",
+    "accent": "#FF69B4"
+  },
+  "facts": [
+    {
+      "text": "I'm called a skunk clownfish because I have a white stripe running down my back, just like a skunk!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most peaceful clownfish! I get along well with other fish and rarely pick fights.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My pink color comes from the food I eat! If I don't get the right diet, I might turn more orange.",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Thailand to Samoa",
+    "diet": "Algae, zooplankton, and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "8-12 years"
+  }
+}

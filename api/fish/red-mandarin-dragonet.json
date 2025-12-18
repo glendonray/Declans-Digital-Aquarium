@@ -1,0 +1,46 @@
+{
+  "id": "red-mandarin-dragonet",
+  "name": "Red Mandarin Dragonet",
+  "scientificName": "Synchiropus cf. splendidus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "swirled"
+  },
+  "image": "assets/fish/red-mandarin-dragonet.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#4169E1",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm a rare color variation with red replacing the usual green - super special!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Red Mandarins are much rarer than green ones - a true collector's fish!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I do the same sunset mating dance as other mandarins - we spiral up together!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral rubble and lagoons",
+    "diet": "Tiny copepods and amphipods",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "10-15 years"
+  }
+}

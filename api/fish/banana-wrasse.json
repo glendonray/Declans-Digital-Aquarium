@@ -1,0 +1,46 @@
+{
+  "id": "banana-wrasse",
+  "name": "Banana Wrasse",
+  "scientificName": "Thalassoma lutescens",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/banana-wrasse.svg",
+  "colors": {
+    "primary": "#FFD700",
+    "secondary": "#32CD32",
+    "accent": "#FF69B4"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow like a banana - and I'm shaped a bit like one too!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a super active swimmer - I zoom around the reef all day long!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change from female to male if there's no male in my group!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Small invertebrates and fish eggs",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-10 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mccoskers-flasher-wrasse",
+  "name": "McCosker's Flasher Wrasse",
+  "scientificName": "Paracheilinus mccoskeri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/mccoskers-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most popular flasher wrasses in the aquarium hobby!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful red and orange stripes with blue accents!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Indian Ocean - from the Maldives to East Africa!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Zooplankton",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-7 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "green-clown-goby",
+  "name": "Green Clown Goby",
+  "scientificName": "Gobiodon histrio",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "tiny",
+    "primaryColor": "green",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/green-clown-goby.svg",
+  "colors": {
+    "primary": "#32CD32",
+    "secondary": "#FF8C00",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm lime green with orange stripes on my face - like a tiny clown!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I hang out in branching coral all day - it's my little apartment!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change gender! If there's no male around, a female can become one.",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Branching coral colonies",
+    "diet": "Coral mucus and tiny invertebrates",
+    "size": "Up to 1.5 inches (3.5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

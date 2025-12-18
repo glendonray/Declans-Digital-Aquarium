@@ -1,0 +1,46 @@
+{
+  "id": "mai-tai-clownfish",
+  "name": "Mai Tai Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/mai-tai-clownfish.svg",
+  "colors": {
+    "primary": "#FF4500",
+    "secondary": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm named after the tropical drink! My colors blend from orange to yellow like a sunset in a glass.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My gradient coloring makes me look like I'm glowing with warm tropical colors!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm one of the most beautifully colored designer clownfish varieties!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

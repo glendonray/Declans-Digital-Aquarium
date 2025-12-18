@@ -1,0 +1,46 @@
+{
+  "id": "target-mandarin-dragonet",
+  "name": "Target Mandarin Dragonet",
+  "scientificName": "Synchiropus picturatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "target"
+  },
+  "image": "assets/fish/target-mandarin-dragonet.svg",
+  "colors": {
+    "primary": "#32CD32",
+    "secondary": "#000000",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "I have circular patterns that look like bullseye targets all over my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Each of my spots has multiple rings like a target - nature's art!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm just as shy as other mandarins and prefer lots of live rock to hide in!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral rubble and lagoons",
+    "diet": "Tiny copepods and amphipods",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tailspot-blenny",
+  "name": "Tailspot Blenny",
+  "scientificName": "Ecsenius stigmatura",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/tailspot-blenny.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#000000",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I have a distinctive black spot at the base of my tail - my signature mark!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm peachy orange with a cute face and big eyes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to perch on rocks and peek out at what's happening in the tank!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Philippines",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "4-6 years"
+  }
+}

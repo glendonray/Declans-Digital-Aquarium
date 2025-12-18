@@ -1,0 +1,46 @@
+{
+  "id": "bluering-angelfish",
+  "name": "Blue-ring Angelfish",
+  "scientificName": "Pomacanthus annularis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "yellow",
+    "pattern": "ringed"
+  },
+  "image": "assets/fish/bluering-angelfish.svg",
+  "colors": {
+    "primary": "#DAA520",
+    "secondary": "#4169E1",
+    "accent": "#000080"
+  },
+  "facts": [
+    {
+      "text": "I have a glowing blue ring on my shoulder that looks like it's made of neon light!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My golden-brown body has beautiful diagonal blue stripes running across it!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Juvenile Blue-rings look totally different - they have curved white and blue stripes!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Sri Lanka to Japan",
+    "diet": "Sponges, algae, and small invertebrates",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "15+ years"
+  }
+}

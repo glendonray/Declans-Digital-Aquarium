@@ -1,0 +1,46 @@
+{
+  "id": "evansi-anthias",
+  "name": "Evansi Anthias",
+  "scientificName": "Pseudanthias evansi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/evansi-anthias.svg",
+  "colors": {
+    "primary": "#9370DB",
+    "secondary": "#FF8C00",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a purple body with a gorgeous orange stripe running along my back!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Indian Ocean - the Maldives and East Africa are my home!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in large schools that shimmer purple and orange!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Outer reef slopes of the Indian Ocean",
+    "diet": "Zooplankton",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-7 years"
+  }
+}

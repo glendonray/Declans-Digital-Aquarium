@@ -1,0 +1,46 @@
+{
+  "id": "joculator-angelfish",
+  "name": "Joculator Angelfish",
+  "scientificName": "Centropyge joculator",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/joculator-angelfish.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFD700",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I'm a super rare fish found only at Christmas Island and Cocos-Keeling Islands!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a black body with bold yellow and blue markings - incredibly striking!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My name 'joculator' means 'joker' - I'm a playful fish full of personality!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reefs of Christmas Island and Cocos Islands",
+    "diet": "Sponges and tunicates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10+ years"
+  }
+}

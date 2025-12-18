@@ -1,0 +1,46 @@
+{
+  "id": "eibli-angelfish",
+  "name": "Eibli Angelfish",
+  "scientificName": "Centropyge eibli",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/eibli-angelfish.svg",
+  "colors": {
+    "primary": "#D3D3D3",
+    "secondary": "#FF8C00",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful vertical stripes in gray, orange, and black - like a tiger angelfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail fin has a gorgeous orange color with a black edge!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after the ichthyologist Eibl-Eibesfeldt who studied fish behavior!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4.5 inches (11 cm)",
+    "lifespan": "10+ years"
+  }
+}

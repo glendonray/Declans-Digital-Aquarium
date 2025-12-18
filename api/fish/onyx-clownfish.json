@@ -1,0 +1,46 @@
+{
+  "id": "onyx-clownfish",
+  "name": "Onyx Clownfish",
+  "scientificName": "Amphiprion percula (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/onyx-clownfish.svg",
+  "colors": {
+    "primary": "#0a0a0a",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm named after onyx, the beautiful black gemstone. My jet-black body with crisp white bars is truly striking!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "True Onyx clownfish come from a line originally bred from wild Darwin clownfish from Australia.",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My black coloring actually develops more as I grow - baby Onyx clownfish start out more orange!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

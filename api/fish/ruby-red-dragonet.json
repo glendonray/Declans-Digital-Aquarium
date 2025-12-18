@@ -1,0 +1,46 @@
+{
+  "id": "ruby-red-dragonet",
+  "name": "Ruby Red Dragonet",
+  "scientificName": "Synchiropus sycorax",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/ruby-red-dragonet.svg",
+  "colors": {
+    "primary": "#DC143C",
+    "secondary": "#8B0000",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm deep ruby red all over - one of the reddest fish you'll ever see!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I was only scientifically described in 2015 - I'm a newly discovered species!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm found in deeper waters around the Philippines!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep reef slopes",
+    "diet": "Tiny copepods and invertebrates",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "5-8 years"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "picasso-clownfish",
+  "name": "Picasso Clownfish",
+  "scientificName": "Amphiprion ocellaris (designer)",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "captive-bred",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/picasso-clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm a designer clownfish! Breeders carefully selected my parents to create my unique Picasso pattern - no two of us look exactly alike!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "My name comes from the famous artist Pablo Picasso because my white markings look like abstract art splashed across my body!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm 100% captive-bred, which means I was born in an aquarium, not caught from the ocean. This helps protect wild reefs!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Captive-bred for home aquariums",
+    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "6-10 years"
+  }
+}

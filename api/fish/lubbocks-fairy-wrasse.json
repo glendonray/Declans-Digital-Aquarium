@@ -1,0 +1,46 @@
+{
+  "id": "lubbocks-fairy-wrasse",
+  "name": "Lubbock's Fairy Wrasse",
+  "scientificName": "Cirrhilabrus lubbocki",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/lubbocks-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#FF69B4",
+    "secondary": "#FFD700",
+    "accent": "#FF4500"
+  },
+  "facts": [
+    {
+      "text": "I'm a beautiful pink and yellow fairy wrasse from the Philippines!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after the fish scientist Roger Lubbock who studied wrasses!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males get even more colorful when they're trying to impress females!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Philippines",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

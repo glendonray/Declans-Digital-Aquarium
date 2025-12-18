@@ -1,0 +1,46 @@
+{
+  "id": "blueline-tang",
+  "name": "Blueline Tang",
+  "scientificName": "Acanthurus nigroris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "lined"
+  },
+  "image": "assets/fish/blueline-tang.svg",
+  "colors": {
+    "primary": "#2F4F4F",
+    "secondary": "#4169E1",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful blue lines running along my dark gray body - they shimmer as I swim!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Blue-lined Surgeonfish because of my distinctive markings!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to graze on algae growing on rocks and coral rubble!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii and the Pacific",
+    "diet": "Filamentous algae",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "15+ years"
+  }
+}

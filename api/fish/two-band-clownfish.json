@@ -1,0 +1,46 @@
+{
+  "id": "two-band-clownfish",
+  "name": "Two-Band Clownfish",
+  "scientificName": "Amphiprion chrysopterus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/two-band-clownfish.svg",
+  "colors": {
+    "primary": "#FF8C00",
+    "secondary": "#FFFFFF",
+    "accent": "#4169E1"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful blue on my fins and around my face! Not many clownfish have blue coloring like me.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My name 'chrysopterus' means 'golden fin' in Greek because of my bright yellow-orange fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in the South Pacific islands like Fiji and Samoa - tropical paradise!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the South Pacific",
+    "diet": "Algae, zooplankton, and small invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

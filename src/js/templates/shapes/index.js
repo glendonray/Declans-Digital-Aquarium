@@ -8,6 +8,8 @@ import { discShape } from "./disc.js";
 import { roundShape } from "./round.js";
 import { streamlinedShape } from "./streamlined.js";
 import { unusualShape } from "./unusual.js";
+import { flatShape } from "./flat.js";
+import { elongatedShape } from "./elongated.js";
 
 // Shape registry - maps shape names to template functions
 const shapeRegistry = {
@@ -16,7 +18,8 @@ const shapeRegistry = {
   round: roundShape,
   streamlined: streamlinedShape,
   unusual: unusualShape,
-  // elongated, flat can be added later
+  flat: flatShape,
+  elongated: elongatedShape,
 };
 
 /**

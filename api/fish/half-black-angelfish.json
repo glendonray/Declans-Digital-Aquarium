@@ -1,0 +1,46 @@
+{
+  "id": "half-black-angelfish",
+  "name": "Half Black Angelfish",
+  "scientificName": "Centropyge vroliki",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "half-dark"
+  },
+  "image": "assets/fish/half-black-angelfish.svg",
+  "colors": {
+    "primary": "#C0C0C0",
+    "secondary": "#1A1A1A",
+    "accent": "#FF8C00"
+  },
+  "facts": [
+    {
+      "text": "My front half is pearly gray and my back half is black - I'm half and half!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have orange edges on my tail fin that add a pop of warm color!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Pearlscale Angelfish because my front scales shimmer like pearls!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs from Indonesia to Fiji",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10+ years"
+  }
+}

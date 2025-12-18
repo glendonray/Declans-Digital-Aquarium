@@ -1,0 +1,46 @@
+{
+  "id": "leopard-wrasse",
+  "name": "Leopard Wrasse",
+  "scientificName": "Macropharyngodon meleagris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "leopard"
+  },
+  "image": "assets/fish/leopard-wrasse.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#32CD32",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in spots like a leopard - my pattern is amazing camouflage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Females are white with black spots, males have green and orange colors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I sleep buried in the sand at night - completely hidden!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Small invertebrates from the sand",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-8 years"
+  }
+}

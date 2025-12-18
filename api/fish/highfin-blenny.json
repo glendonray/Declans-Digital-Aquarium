@@ -1,0 +1,46 @@
+{
+  "id": "highfin-blenny",
+  "name": "Highfin Blenny",
+  "scientificName": "Atrosalarias fuscus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/highfin-blenny.svg",
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a tall dorsal fin that I raise up high like a sail!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Brown Coral Blenny - I blend in with dark rocks!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the best algae eaters in the blenny family!",
+      "category": "ecology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae and detritus",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-8 years"
+  }
+}

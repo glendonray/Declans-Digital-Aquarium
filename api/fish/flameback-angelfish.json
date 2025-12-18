@@ -1,0 +1,46 @@
+{
+  "id": "flameback-angelfish",
+  "name": "Flameback Angelfish",
+  "scientificName": "Centropyge acanthops",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "bicolor"
+  },
+  "image": "assets/fish/flameback-angelfish.svg",
+  "colors": {
+    "primary": "#4169E1",
+    "secondary": "#FF8C00",
+    "accent": "#FFD700"
+  },
+  "facts": [
+    {
+      "text": "I have a bright orange-yellow back that looks like flames on a blue body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the African coast - the Indian Ocean side of Africa is my home!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm sometimes confused with the Brazilian Flameback but we're different species!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of East Africa",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "10+ years"
+  }
+}
