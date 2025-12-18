@@ -3,10 +3,10 @@
  * Handles caching for offline support
  */
 
-const CACHE_NAME = "aquarium-v1";
+const CACHE_NAME = "aquarium-v2";
 
 // Core assets to precache
-const PRECACHE_ASSETS = ["/", "/index.html", "/css/main.css", "/src/js/main.js", "/manifest.json", "/assets/icons/icon-192.svg", "/assets/icons/icon-512.svg", "/api/index.json"];
+const PRECACHE_ASSETS = ["./", "./index.html", "./css/main.css", "./src/js/main.js", "./manifest.json", "./assets/icons/icon-192.svg", "./assets/icons/icon-512.svg", "./api/index.json"];
 
 // Install event - precache core assets
 self.addEventListener("install", (event) => {
@@ -63,7 +63,7 @@ self.addEventListener("fetch", (event) => {
   }
 
   // Fish JSON files - network first, cache fallback
-  if (url.pathname.startsWith("/api/fish/") && url.pathname.endsWith(".json")) {
+  if (url.pathname.includes("/api/fish/") && url.pathname.endsWith(".json")) {
     event.respondWith(networkFirstWithCache(event.request));
     return;
   }
