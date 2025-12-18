@@ -444,6 +444,32 @@ a {
 .speech-bubble__source a:hover {
   color: var(--color-water-mid);
 }
+.speech-bubble__profile {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  margin: 0;
+  margin-top: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: var(--text-xs);
+}
+.speech-bubble__profile-item {
+  display: flex;
+  gap: var(--spacing-xs);
+}
+.speech-bubble__profile-item dt {
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  min-width: 55px;
+}
+.speech-bubble__profile-item dt::after {
+  content: ":";
+}
+.speech-bubble__profile-item dd {
+  margin: 0;
+  color: var(--color-text-primary);
+}
 .speech-bubble__close {
   position: absolute;
   top: var(--spacing-xs);

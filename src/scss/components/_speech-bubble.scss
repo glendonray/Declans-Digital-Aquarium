@@ -14,9 +14,7 @@
   z-index: 100;
   opacity: 0;
   transform: scale(0.8) translateY(10px);
-  transition:
-    opacity var(--duration-normal) ease-out,
-    transform var(--duration-normal) ease-out;
+  transition: opacity var(--duration-normal) ease-out, transform var(--duration-normal) ease-out;
   pointer-events: none;
   box-shadow: var(--shadow-md);
 
@@ -94,6 +92,37 @@
       &:hover {
         color: var(--color-water-mid);
       }
+    }
+  }
+
+  &__profile {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+    margin: 0;
+    margin-top: var(--spacing-sm);
+    padding-top: var(--spacing-sm);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: var(--text-xs);
+  }
+
+  &__profile-item {
+    display: flex;
+    gap: var(--spacing-xs);
+
+    dt {
+      font-weight: 600;
+      color: var(--color-text-secondary);
+      min-width: 55px;
+
+      &::after {
+        content: ":";
+      }
+    }
+
+    dd {
+      margin: 0;
+      color: var(--color-text-primary);
     }
   }
 
