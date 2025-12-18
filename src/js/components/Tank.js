@@ -8,6 +8,7 @@ import { Bubbles } from "./Bubbles.js";
 import { SpeechBubble } from "./SpeechBubble.js";
 import { config } from "../config.js";
 import { selectDiverseFish } from "../services/FishSelector.js";
+import { selectDailyFish } from "../services/DailyFishService.js";
 
 export class Tank {
   constructor(containerEl, fishAPI) {
@@ -80,6 +81,9 @@ export class Tank {
     if (config.displayMode === "all") {
       // Show all fish
       selectedFish = index;
+    } else if (config.displayMode === "daily") {
+      // Use daily date-seeded selection (same fish for everyone each day)
+      selectedFish = selectDailyFish(index, config.maxFish);
     } else {
       // Use diverse selection for limited/rotate modes
       if (config.enableDiverseSelection) {

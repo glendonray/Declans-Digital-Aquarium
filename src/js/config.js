@@ -7,10 +7,11 @@ export const config = {
   /**
    * Display mode for fish:
    * - 'all': Show every fish in the JSON
-   * - 'limited': Show maxFish from the pool on page load (default)
+   * - 'limited': Show maxFish from the pool on page load
    * - 'rotate': Show maxFish at a time, swap one fish every rotateInterval
+   * - 'daily': Show same maxFish for everyone each day (date-seeded)
    */
-  displayMode: "limited",
+  displayMode: "daily",
 
   /**
    * Maximum fish to show at once

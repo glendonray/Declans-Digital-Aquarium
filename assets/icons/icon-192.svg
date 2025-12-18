@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <!-- Background -->
+  <rect width="192" height="192" rx="24" fill="#2980b9"/>
+  
+  <!-- Water waves (subtle) -->
+  <path d="M0 130 Q48 115 96 130 T192 130 V192 H0 Z" fill="#1a5276" opacity="0.3"/>
+  
+  <!-- Fish body -->
+  <ellipse cx="96" cy="96" rx="48" ry="32" fill="#f39c12"/>
+  
+  <!-- Fish tail -->
+  <path d="M144 96 L176 72 L176 120 Z" fill="#f39c12"/>
+  
+  <!-- Fish fin (top) -->
+  <path d="M80 64 Q96 48 112 64 L96 76 Z" fill="#e67e22"/>
+  
+  <!-- Fish fin (bottom) -->
+  <path d="M88 120 Q96 136 104 120 L96 112 Z" fill="#e67e22"/>
+  
+  <!-- Fish eye -->
+  <circle cx="64" cy="92" r="10" fill="white"/>
+  <circle cx="66" cy="90" r="5" fill="#2c3e50"/>
+  
+  <!-- Fish mouth -->
+  <path d="M48 98 Q44 96 48 94" stroke="#e67e22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Bubbles -->
+  <circle cx="36" cy="80" r="4" fill="white" opacity="0.6"/>
+  <circle cx="28" cy="68" r="3" fill="white" opacity="0.5"/>
+  <circle cx="40" cy="60" r="2" fill="white" opacity="0.4"/>
+</svg>

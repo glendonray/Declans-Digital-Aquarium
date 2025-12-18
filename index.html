@@ -5,6 +5,18 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Declan's Digital Aquarium</title>
+
+	<!-- PWA Meta Tags -->
+	<meta name="description" content="Meet 8 new saltwater fish every day!" />
+	<meta name="theme-color" content="#2980b9" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="apple-mobile-web-app-title" content="Aquarium" />
+	<link rel="apple-touch-icon" href="/assets/icons/icon-192.svg" />
+
+	<!-- PWA Manifest -->
+	<link rel="manifest" href="/manifest.json" />
+
 	<link rel="stylesheet" href="css/main.css" />
 </head>
 
@@ -26,9 +38,6 @@
 				❤️ My Fish
 				<span class="my-list-button__count" id="my-list-count"></span>
 			</button>
-
-			<!-- Swap fish button -->
-			<button id="swap-fish" class="swap-button">🐠 Meet New Fish</button>
 
 			<!-- Speech bubble for facts -->
 			<div class="speech-bubble" id="speech-bubble">
@@ -53,6 +62,13 @@
 
 	<!-- My Fish Panel (slide-out) -->
 	<div id="my-list-panel" class="my-list-panel" aria-hidden="true"></div>
+
+	<!-- PWA Install Banner -->
+	<div id="install-banner" class="install-banner" hidden>
+		<span class="install-banner__text">Install Declan's Aquarium for the best experience!</span>
+		<button id="install-btn" class="install-banner__btn">Install</button>
+		<button id="install-dismiss" class="install-banner__dismiss" aria-label="Dismiss">&times;</button>
+	</div>
 
 	<script type="module" src="src/js/main.js"></script>
 </body>

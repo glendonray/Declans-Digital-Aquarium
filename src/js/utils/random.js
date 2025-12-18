@@ -53,3 +53,46 @@ export function shuffleArray(array) {
   }
   return shuffled;
 }
+
+/**
+ * Hash a string to a numeric seed
+ * @param {string} str - String to hash
+ * @returns {number} Positive integer hash
+ */
+export function hashString(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash << 5) - hash + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash);
+}
+
+/**
+ * Seeded random number generator (mulberry32)
+ * @param {number} seed - Numeric seed
+ * @returns {number} Random number between 0 and 1
+ */
+export function seededRandom(seed) {
+  let t = seed + 0x6d2b79f5;
+  t = Math.imul(t ^ (t >>> 15), t | 1);
+  t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+  return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+}
+
+/**
+ * Shuffle an array deterministically using a seed
+ * @param {Array} array - Array to shuffle
+ * @param {number} seed - Numeric seed for deterministic shuffle
+ * @returns {Array} New shuffled array
+ */
+export function seededShuffleArray(array, seed) {
+  const shuffled = [...array];
+  let currentSeed = seed;
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    currentSeed = hashString(String(currentSeed + i));
+    const j = Math.floor(seededRandom(currentSeed) * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}

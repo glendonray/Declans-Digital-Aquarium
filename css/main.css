@@ -750,4 +750,89 @@ a {
   text-overflow: ellipsis;
 }
 
+/**
+ * Install Banner Component
+ * PWA install prompt banner
+ */
+.install-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: linear-gradient(135deg, #1a5276 0%, #2980b9 100%);
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+  font-size: 1rem;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  transform: translateY(100%);
+  transition: transform 0.3s ease-out;
+}
+.install-banner--visible {
+  transform: translateY(0);
+}
+.install-banner__text {
+  flex: 1;
+  text-align: center;
+}
+.install-banner__btn {
+  padding: 0.5rem 1.25rem;
+  background: #f39c12;
+  border: none;
+  border-radius: 2rem;
+  color: white;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+.install-banner__btn:hover {
+  background: #e67e22;
+  transform: scale(1.05);
+}
+.install-banner__btn:active {
+  transform: scale(0.98);
+}
+.install-banner__dismiss {
+  padding: 0.25rem 0.75rem;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  color: white;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+.install-banner__dismiss:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: white;
+}
+
+@media (max-width: 480px) {
+  .install-banner {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+  }
+  .install-banner__text {
+    width: 100%;
+    order: 1;
+  }
+  .install-banner__btn {
+    order: 2;
+    flex: 1;
+  }
+  .install-banner__dismiss {
+    order: 3;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
