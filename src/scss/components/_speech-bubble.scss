@@ -63,6 +63,40 @@
     font-family: var(--font-display);
     font-size: var(--text-lg);
     color: var(--color-text-primary);
+    flex: 1;
+  }
+
+  &__save {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: var(--radius-full);
+    cursor: pointer;
+    margin-right: var(--spacing-lg);
+    transition: background-color var(--duration-fast), transform var(--duration-fast);
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.1);
+      transform: scale(1.1);
+    }
+
+    &:active {
+      transform: scale(0.95);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--color-water-dark);
+      outline-offset: 2px;
+    }
+
+    // Animation when saving
+    &--saved {
+      animation: heartPop var(--duration-normal) ease-out;
+    }
   }
 
   &__scientific {

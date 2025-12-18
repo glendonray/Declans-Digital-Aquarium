@@ -3,6 +3,8 @@
  * Displays fish facts in a speech bubble
  */
 
+import { myListService } from "../services/MyListService.js";
+
 export class SpeechBubble {
   constructor() {
     this.element = document.getElementById("speech-bubble");
@@ -12,6 +14,7 @@ export class SpeechBubble {
     this.sourceEl = this.element.querySelector(".speech-bubble__source a");
     this.navEl = document.getElementById("fact-nav");
     this.closeBtn = this.element.querySelector(".speech-bubble__close");
+    this.saveBtn = this.element.querySelector(".speech-bubble__save");
 
     // Profile elements
     this.dietEl = this.element.querySelector(".speech-bubble__diet");
@@ -35,9 +38,17 @@ export class SpeechBubble {
       this.hide();
     });
 
+    // Save button click
+    this.saveBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      if (this.currentFish) {
+        myListService.toggle(this.currentFish.id);
+      }
+    });
+
     // Click on bubble to cycle facts
     this.element.addEventListener("click", (e) => {
-      if (e.target !== this.closeBtn && this.currentFish) {
+      if (e.target !== this.closeBtn && e.target !== this.saveBtn && this.currentFish) {
         this.nextFact();
       }
     });
@@ -48,6 +59,24 @@ export class SpeechBubble {
         this.hide();
       }
     });
+
+    // Listen for mylist changes to update save button state
+    document.addEventListener("mylist:change", (e) => {
+      if (this.currentFish && e.detail && e.detail.fishId === this.currentFish.id) {
+        this.updateSaveButton();
+      }
+    });
+  }
+
+  /**
+   * Update save button state based on myListService
+   */
+  updateSaveButton() {
+    if (!this.currentFish) return;
+    const isSaved = myListService.has(this.currentFish.id);
+    this.saveBtn.innerHTML = isSaved ? "❤️" : "🤍";
+    this.saveBtn.setAttribute("aria-label", isSaved ? `Remove ${this.currentFish.name} from my fish` : `Add ${this.currentFish.name} to my fish`);
+    this.saveBtn.classList.toggle("speech-bubble__save--saved", isSaved);
   }
 
   /**
@@ -72,6 +101,9 @@ export class SpeechBubble {
     this.dietEl.textContent = profile.diet || "Unknown";
     this.sizeEl.textContent = profile.size || "Unknown";
     this.lifespanEl.textContent = profile.lifespan || "Unknown";
+
+    // Update save button state
+    this.updateSaveButton();
 
     // Update navigation dots
     this.updateNav(fact.index, fact.total);
