@@ -27,11 +27,9 @@ body {
   color: var(--color-text-primary);
   background: linear-gradient(180deg, #1e3a5f 0%, #0f172a 100%);
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: var(--spacing-lg);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 // Remove default button styles

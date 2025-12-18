@@ -4,16 +4,11 @@
 // ============================================
 
 .tank {
-  position: relative;
-  width: 100%;
-  max-width: 900px;
-  height: 500px;
-  border-radius: var(--radius-xl);
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
-  box-shadow:
-    var(--shadow-lg),
-    var(--shadow-tank),
-    0 0 0 4px rgba(255, 255, 255, 0.1);
 
   &__inner {
     position: relative;

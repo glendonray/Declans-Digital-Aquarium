@@ -70,11 +70,9 @@ body {
   color: var(--color-text-primary);
   background: linear-gradient(180deg, #1e3a5f 0%, #0f172a 100%);
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: var(--spacing-lg);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 button {
@@ -119,13 +117,11 @@ a {
 }
 
 .tank {
-  position: relative;
-  width: 100%;
-  max-width: 900px;
-  height: 500px;
-  border-radius: var(--radius-xl);
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
-  box-shadow: var(--shadow-lg), var(--shadow-tank), 0 0 0 4px rgba(255, 255, 255, 0.1);
 }
 .tank__inner {
   position: relative;
