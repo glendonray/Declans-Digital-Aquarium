@@ -1,0 +1,56 @@
+{
+  "id": "emperor-angelfish",
+  "name": "Emperor Angelfish",
+  "scientificName": "Pomacanthus imperator",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/emperor-angelfish.svg",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#FACC15",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I look completely different as a baby! Young emperors have blue and white circles instead of stripes.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after emperors because I look so royal with my beautiful stripes!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I make a thumping sound when I'm scared! It warns other fish that danger is near.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can live for over 20 years! That's a really long time for a fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to eat sponges! They're my favorite food even though they don't taste good to other fish.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Sponges, algae, and small invertebrates",
+    "size": "Up to 15 inches (38 cm)",
+    "lifespan": "20+ years"
+  }
+}

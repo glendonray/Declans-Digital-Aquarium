@@ -1,0 +1,56 @@
+{
+  "id": "manta-ray",
+  "name": "Manta Ray",
+  "scientificName": "Mobula birostris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Mobulidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "giant",
+    "primaryColor": "black",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/manta-ray.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#FFFFFF",
+    "accent": "#64748B"
+  },
+  "facts": [
+    {
+      "text": "I can have a wingspan of over 20 feet! I'm like an underwater airplane.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I have the biggest brain of any fish! I'm super smart.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I do flips and somersaults in the water! I love to play.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I filter tiny plankton through special plates in my mouth!",
+      "category": "diet",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "Each manta ray has a unique spot pattern like a fingerprint!",
+      "category": "biology",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Tropical and subtropical oceans",
+    "diet": "Plankton, small fish, and tiny crustaceans",
+    "size": "Up to 23 feet wingspan (7 meters)",
+    "lifespan": "40-50 years"
+  }
+}

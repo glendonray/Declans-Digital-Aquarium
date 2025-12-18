@@ -1,0 +1,56 @@
+{
+  "id": "flowerhorn",
+  "name": "Flowerhorn",
+  "scientificName": "Hybrid cichlid",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "hybrid",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/flowerhorn.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#3B82F6",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a giant bump on my head called a nuchal hump! It's like a big forehead.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm considered lucky in some cultures! People believe I bring good fortune.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm covered in flower-like patterns that give me my pretty name!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have a big personality and can recognize my owner!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I was created by breeding different cichlid species together!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Only found in aquariums (hybrid species)",
+    "diet": "Pellets, shrimp, and small fish",
+    "size": "Up to 16 inches (40 cm)",
+    "lifespan": "10-12 years"
+  }
+}

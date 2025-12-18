@@ -1,0 +1,56 @@
+{
+  "id": "surgeonfish",
+  "name": "Yellow Surgeonfish",
+  "scientificName": "Acanthurus xanthopterus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "purple",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/surgeonfish.svg",
+  "colors": {
+    "primary": "#7C3AED",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a sharp blade near my tail like a surgeon's scalpel!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scalpel is so sharp it can slice through skin! I use it for defense.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I travel in large schools eating algae off the reef!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm related to tangs! We're in the same family.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I help keep coral reefs clean by eating lots of algae!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Algae and seaweed",
+    "size": "Up to 22 inches (56 cm)",
+    "lifespan": "10+ years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "electric-blue-acara",
+  "name": "Electric Blue Acara",
+  "scientificName": "Andinoacara pulcher",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/electric-blue-acara.svg",
+  "colors": {
+    "primary": "#0EA5E9",
+    "secondary": "#22D3EE",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I glow electric blue like a neon light! I'm one of the brightest blue fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a gentle giant! I rarely bother other fish even though I'm a cichlid.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I like to dig in the sand looking for yummy things to eat!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My parents take care of me together! Both mom and dad protect the babies.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I originally come from South America but now I'm loved worldwide!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Slow-moving rivers in Central and South America",
+    "diet": "Worms, insects, and small crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10+ years"
+  }
+}

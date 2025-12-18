@@ -1,0 +1,56 @@
+{
+  "id": "carp",
+  "name": "Common Carp",
+  "scientificName": "Cyprinus carpio",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "worldwide",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/carp.svg",
+  "colors": {
+    "primary": "#78716C",
+    "secondary": "#D4A574",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm the ancestor of koi fish! We're closely related.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can survive in almost any freshwater! I'm super adaptable.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I suck up mud and spit out what I don't want to eat!",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I've been farmed for food for thousands of years!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can jump several feet out of the water!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Lakes, rivers, and ponds worldwide",
+    "diet": "Plants, insects, crustaceans, and worms",
+    "size": "Up to 4 feet (1.2 meters)",
+    "lifespan": "20-40 years"
+  }
+}

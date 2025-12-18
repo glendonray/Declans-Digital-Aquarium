@@ -1,0 +1,56 @@
+{
+  "id": "pearl-gourami",
+  "name": "Pearl Gourami",
+  "scientificName": "Trichopodus leerii",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Osphronemidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/pearl-gourami.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#F97316",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in pearly white spots that sparkle like jewels!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a special organ that lets me breathe air! I gulp from the surface.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males have orange chests that glow brightly when they want to impress females!",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I build bubble nests at the water's surface to hold my eggs!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and graceful - I float elegantly through the water!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Slow-moving waters in Southeast Asia",
+    "diet": "Insects, algae, and plant matter",
+    "size": "Up to 5 inches (12 cm)",
+    "lifespan": "5-8 years"
+  }
+}

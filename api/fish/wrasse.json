@@ -1,0 +1,56 @@
+{
+  "id": "wrasse",
+  "name": "Napoleon Wrasse",
+  "scientificName": "Cheilinus undulatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "giant",
+    "primaryColor": "blue",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/wrasse.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#22C55E",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a big bump on my forehead like Napoleon's hat!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the largest reef fish! I can be over 6 feet long.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super friendly and curious about divers!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can eat poisonous creatures like crown-of-thorns starfish!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I start as a female and can become male later in life!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Shellfish, sea urchins, and starfish",
+    "size": "Up to 6 feet (2 meters)",
+    "lifespan": "30+ years"
+  }
+}

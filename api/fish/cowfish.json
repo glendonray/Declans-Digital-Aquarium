@@ -1,0 +1,56 @@
+{
+  "id": "cowfish",
+  "name": "Cowfish",
+  "scientificName": "Lactoria cornuta",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Ostraciidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/cowfish.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#3B82F6",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have two horns on my head like a cow! That's my nickname.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have horns on my back end too! Four horns total.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can release toxic mucus if I'm stressed!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have big cute eyes and pouty lips! I'm adorable.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My body is covered in a bony box, so I can't bend!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and lagoons",
+    "diet": "Algae, sponges, and small invertebrates",
+    "size": "Up to 18 inches (46 cm)",
+    "lifespan": "8-10 years"
+  }
+}

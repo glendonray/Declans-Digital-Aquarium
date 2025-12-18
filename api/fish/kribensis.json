@@ -1,0 +1,56 @@
+{
+  "id": "kribensis",
+  "name": "Kribensis",
+  "scientificName": "Pelvicachromis pulcher",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "africa",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/kribensis.svg",
+  "colors": {
+    "primary": "#EC4899",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a bright pink belly, especially when I'm ready to have babies!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Nigeria in Africa! I live in rivers and streams there.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to hide in caves! I'll make any small space my cozy home.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Mom turns super bright pink when she's protecting her babies!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Rainbow Krib because of all my pretty colors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and streams in Nigeria",
+    "diet": "Insects, worms, and plant matter",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5 years"
+  }
+}

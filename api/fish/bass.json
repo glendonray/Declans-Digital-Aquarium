@@ -1,0 +1,56 @@
+{
+  "id": "bass",
+  "name": "Largemouth Bass",
+  "scientificName": "Micropterus salmoides",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "north-america",
+    "family": "Centrarchidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/bass.svg",
+  "colors": {
+    "primary": "#65A30D",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "I have a super big mouth! I can swallow prey almost my own size.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the most popular game fish in North America!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I ambush my prey! I hide in weeds and then ATTACK!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Dad guards the nest and babies! He doesn't eat for weeks.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat almost anything - fish, frogs, crayfish, even small birds!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Lakes, ponds, and slow rivers",
+    "diet": "Fish, crayfish, frogs, and insects",
+    "size": "Up to 29 inches (75 cm)",
+    "lifespan": "10-16 years"
+  }
+}

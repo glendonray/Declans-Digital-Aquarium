@@ -1,0 +1,56 @@
+{
+  "id": "frontosa",
+  "name": "Frontosa",
+  "scientificName": "Cyphotilapia frontosa",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "lake",
+    "region": "africa",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/frontosa.svg",
+  "colors": {
+    "primary": "#60A5FA",
+    "secondary": "#FFFFFF",
+    "accent": "#1E3A8A"
+  },
+  "facts": [
+    {
+      "text": "I have a big bump on my forehead! It gets bigger as I grow older.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in the deep parts of Lake Tanganyika in Africa!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called the King of Tanganyika because I'm so majestic!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm a slow swimmer and prefer to take life easy!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat other fish while they're sleeping! I sneak up on them at night.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep waters of Lake Tanganyika",
+    "diet": "Small fish and shellfish",
+    "size": "Up to 14 inches (35 cm)",
+    "lifespan": "25+ years"
+  }
+}

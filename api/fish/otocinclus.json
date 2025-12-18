@@ -1,0 +1,56 @@
+{
+  "id": "otocinclus",
+  "name": "Otocinclus",
+  "scientificName": "Otocinclus vittatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Loricariidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/otocinclus.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#1E293B",
+    "accent": "#78716C"
+  },
+  "facts": [
+    {
+      "text": "I'm like a tiny vacuum cleaner! I eat algae all day long.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called an 'Oto' for short! I'm one of the smallest plecos.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a sucker mouth to grip onto plants and glass!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super peaceful! I never bother any other fish.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love hanging out in groups! Otos are happiest with friends.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and streams in South America",
+    "diet": "Soft algae and biofilm",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "nurse-shark",
+  "name": "Nurse Shark",
+  "scientificName": "Ginglymostoma cirratum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Ginglymostomatidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/nurse-shark.svg",
+  "colors": {
+    "primary": "#A8A29E",
+    "secondary": "#78716C",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm super lazy during the day! I love to rest on the ocean floor.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can suck prey right out of their hiding spots like a vacuum!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have whisker-like barbels that help me find food!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I don't need to keep swimming to breathe! I can rest on the bottom.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very gentle and rarely bother people!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Shallow reefs in the Atlantic and Caribbean",
+    "diet": "Shellfish, small fish, and crustaceans",
+    "size": "Up to 10 feet (3 meters)",
+    "lifespan": "25+ years"
+  }
+}

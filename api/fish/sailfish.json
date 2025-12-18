@@ -1,0 +1,56 @@
+{
+  "id": "sailfish",
+  "name": "Sailfish",
+  "scientificName": "Istiophorus platypterus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Istiophoridae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/sailfish.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "I'm the FASTEST fish in the ocean! I can swim up to 68 mph!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a huge sail-like dorsal fin! I can raise it up to look bigger.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I change colors rapidly when hunting! My stripes flash and glow.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I work with other sailfish to herd schools of fish!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use my bill to slash at prey and stun them!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Warm surface waters worldwide",
+    "diet": "Small fish, squid, and crustaceans",
+    "size": "Up to 10 feet (3 meters)",
+    "lifespan": "4-5 years"
+  }
+}

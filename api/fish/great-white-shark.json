@@ -1,0 +1,56 @@
+{
+  "id": "great-white-shark",
+  "name": "Great White Shark",
+  "scientificName": "Carcharodon carcharias",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Lamnidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/great-white-shark.svg",
+  "colors": {
+    "primary": "#475569",
+    "secondary": "#FFFFFF",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have about 300 super sharp teeth arranged in rows! When one falls out, another moves up.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I can sense a drop of blood from 3 miles away! My nose is amazing.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm gray on top and white on my belly! It's called countershading.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can jump completely out of the water when hunting! It's called breaching.",
+      "category": "behavior",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm actually pretty curious and smart! I investigate things carefully.",
+      "category": "behavior",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Coastal waters worldwide",
+    "diet": "Seals, fish, and other marine mammals",
+    "size": "Up to 20 feet (6 meters)",
+    "lifespan": "70+ years"
+  }
+}

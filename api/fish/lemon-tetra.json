@@ -1,0 +1,56 @@
+{
+  "id": "lemon-tetra",
+  "name": "Lemon Tetra",
+  "scientificName": "Hyphessobrycon pulchripinnis",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/lemon-tetra.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm lemony yellow with pretty red eyes! I look like sunshine.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm really healthy, I glow bright yellow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My dorsal fin has a flash of bright yellow and black!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super peaceful and get along with almost everyone!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the clear waters of Brazil!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in Brazil",
+    "diet": "Insects, worms, and plant matter",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

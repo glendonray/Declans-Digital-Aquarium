@@ -1,0 +1,56 @@
+{
+  "id": "koi",
+  "name": "Koi",
+  "scientificName": "Cyprinus rubrofuscus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "orange",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/koi.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I can live for over 100 years! Some koi in Japan are ancient.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come in over 100 different color varieties! Red, white, gold, and more.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm considered a symbol of good luck in Japan!",
+      "category": "ecology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I recognize my owner and will swim up to be fed!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Some rare koi sell for millions of dollars!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Ponds and gardens worldwide",
+    "diet": "Plants, insects, and fish food",
+    "size": "Up to 3 feet (90 cm)",
+    "lifespan": "25-35 years, sometimes 100+"
+  }
+}

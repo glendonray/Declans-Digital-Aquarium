@@ -1,0 +1,56 @@
+{
+  "id": "royal-dottyback",
+  "name": "Royal Dottyback",
+  "scientificName": "Pictichromis paccagnellae",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pseudochromidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/royal-dottyback.svg",
+  "colors": {
+    "primary": "#9333EA",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm half purple and half yellow, split right down the middle!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called royal because my colors look like a king's robe!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm tiny but fierce! I'll defend my cave from much bigger fish.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I live in small caves and crevices in the reef!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change gender! If there's no male around, a female can become one.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky caves in coral reefs",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "5-7 years"
+  }
+}

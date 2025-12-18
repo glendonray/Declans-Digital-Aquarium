@@ -1,0 +1,56 @@
+{
+  "id": "damselfish",
+  "name": "Sergeant Major Damselfish",
+  "scientificName": "Abudefduf saxatilis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/damselfish.svg",
+  "colors": {
+    "primary": "#FACC15",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "I have five black stripes like a sergeant's stripes! That's my rank.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most common reef fish in the Atlantic!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Dads turn blue-purple when guarding eggs! They're very protective.",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super brave! I'll charge at divers to protect my territory.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat almost anything! Algae, plankton, and tiny crustaceans.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas in the Atlantic",
+    "diet": "Algae, plankton, and small invertebrates",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "6-8 years"
+  }
+}

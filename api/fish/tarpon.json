@@ -1,0 +1,56 @@
+{
+  "id": "tarpon",
+  "name": "Tarpon",
+  "scientificName": "Megalops atlanticus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Megalopidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/tarpon.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#3B82F6",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Silver King! My scales shine like mirrors.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can breathe air by gulping it at the surface! It helps in low-oxygen water.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I jump high out of the water when hooked! I'm a famous fighting fish.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My scales are so big they were used as decorations!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow over 8 feet long and weigh 280 pounds!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coastal waters and estuaries",
+    "diet": "Fish, crabs, and shrimp",
+    "size": "Up to 8 feet (2.5 meters)",
+    "lifespan": "50+ years"
+  }
+}

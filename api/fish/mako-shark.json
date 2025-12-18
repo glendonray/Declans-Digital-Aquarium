@@ -1,0 +1,56 @@
+{
+  "id": "mako-shark",
+  "name": "Mako Shark",
+  "scientificName": "Isurus oxyrinchus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Lamnidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/mako-shark.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm the fastest shark in the ocean! I can swim up to 45 mph!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can jump up to 20 feet out of the water! I love to leap.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm warm-blooded unlike most sharks! It helps me swim faster.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My teeth are visible even when my mouth is closed!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat tuna, swordfish, and other fast-swimming fish!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open ocean worldwide",
+    "diet": "Fast-swimming fish, squid, and other sharks",
+    "size": "Up to 12 feet (3.8 meters)",
+    "lifespan": "28-35 years"
+  }
+}

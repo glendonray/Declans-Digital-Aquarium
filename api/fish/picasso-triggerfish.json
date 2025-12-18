@@ -1,0 +1,56 @@
+{
+  "id": "picasso-triggerfish",
+  "name": "Picasso Triggerfish",
+  "scientificName": "Rhinecanthus aculeatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Balistidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/picasso-triggerfish.svg",
+  "colors": {
+    "primary": "#F5DEB3",
+    "secondary": "#1E40AF",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "I look like a painting by the artist Picasso! My patterns are wild and colorful.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a special spine that locks into place when I hide in holes! Predators can't pull me out.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My Hawaiian name is 'humuhumunukunukuapua'a'! It's one of the longest fish names ever.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I blow jets of water at the sand to uncover hidden snacks like crabs and urchins!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the state fish of Hawaii! The locals love me.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific and Hawaii",
+    "diet": "Crustaceans, sea urchins, and mollusks",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-10 years"
+  }
+}

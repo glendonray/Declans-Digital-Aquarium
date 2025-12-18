@@ -1,0 +1,56 @@
+{
+  "id": "rosy-barb",
+  "name": "Rosy Barb",
+  "scientificName": "Pethia conchonius",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/rosy-barb.svg",
+  "colors": {
+    "primary": "#FB7185",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "Males turn rosy pink when they're ready to find a mate!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the hardiest barbs! I can handle cooler water too.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from India and Bangladesh!",
+      "category": "habitat",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to school with my friends and swim together!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My fins can be black or red depending on my variety!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and streams in India and Bangladesh",
+    "diet": "Insects, algae, and plant matter",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-7 years"
+  }
+}

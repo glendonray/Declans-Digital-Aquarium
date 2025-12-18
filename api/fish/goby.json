@@ -1,0 +1,56 @@
+{
+  "id": "goby",
+  "name": "Neon Goby",
+  "scientificName": "Elacatinus oceanops",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/goby.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#000000",
+    "accent": "#22D3EE"
+  },
+  "facts": [
+    {
+      "text": "I'm a cleaner fish! Big fish line up for me to eat their parasites.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a neon blue stripe that glows against my black body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the first marine fish ever bred in captivity!",
+      "category": "ecology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super tiny - only about 2 inches long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I set up cleaning stations where big fish come to visit!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral heads in the Caribbean",
+    "diet": "Parasites and small crustaceans",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "1-2 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "moray-eel",
+  "name": "Moray Eel",
+  "scientificName": "Gymnothorax javanicus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "large",
+    "primaryColor": "green",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/moray-eel.svg",
+  "colors": {
+    "primary": "#65A30D",
+    "secondary": "#1E293B",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "I have TWO sets of jaws! My second jaw shoots forward to grab prey.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look scary but I'm mostly shy! I open my mouth to breathe, not to threaten.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I don't have scales! My skin is covered in protective mucus.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I hide in holes and crevices during the day and hunt at night!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I work together with octopuses to hunt! We make a great team.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas",
+    "diet": "Fish, octopus, and crustaceans",
+    "size": "Up to 10 feet (3 meters)",
+    "lifespan": "10-30 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fairy-wrasse",
+  "name": "Fairy Wrasse",
+  "scientificName": "Cirrhilabrus solorensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/fairy-wrasse.svg",
+  "colors": {
+    "primary": "#EC4899",
+    "secondary": "#FBBF24",
+    "accent": "#7C3AED"
+  },
+  "facts": [
+    {
+      "text": "I'm so colorful, I look like a fairy! Males are especially bright and flashy.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I want to impress a lady fish, I flash even brighter colors!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to jump! In the wild, I leap out of the water to escape predators.",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm peaceful and gentle, unlike some of my wrasse cousins who can be bullies!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I dart around catching tiny zooplankton floating in the current!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Zooplankton and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

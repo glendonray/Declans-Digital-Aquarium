@@ -1,0 +1,56 @@
+{
+  "id": "domino-damsel",
+  "name": "Domino Damsel",
+  "scientificName": "Dascyllus trimaculatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/domino-damsel.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have three white spots like dots on a domino! That's how I got my name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm young, I live inside sea anemones just like clownfish!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My spots fade as I grow up. Adult dominos are almost all black!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm pretty feisty! I'll defend my territory against much bigger fish.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I make clicking sounds to communicate with other fish!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and lagoons in the Indo-Pacific",
+    "diet": "Plankton, algae, and small invertebrates",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-8 years"
+  }
+}

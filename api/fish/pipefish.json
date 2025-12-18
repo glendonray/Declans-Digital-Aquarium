@@ -1,0 +1,56 @@
+{
+  "id": "pipefish",
+  "name": "Pipefish",
+  "scientificName": "Syngnathus acus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/pipefish.svg",
+  "colors": {
+    "primary": "#22C55E",
+    "secondary": "#A8A29E",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I look like a stretched-out seahorse! We're actually cousins.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Dad carries the babies! Males have a special pouch for eggs.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I blend in perfectly with seagrass! I float upright like a blade of grass.",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have a tiny mouth at the end of my long snout for slurping tiny food!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a slow swimmer and prefer hiding in seagrass beds!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and coastal waters",
+    "diet": "Tiny crustaceans and plankton",
+    "size": "Up to 18 inches (46 cm)",
+    "lifespan": "3-5 years"
+  }
+}

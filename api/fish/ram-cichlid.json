@@ -1,0 +1,56 @@
+{
+  "id": "ram-cichlid",
+  "name": "Ram Cichlid",
+  "scientificName": "Mikrogeophagus ramirezi",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/ram-cichlid.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#FACC15",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in sparkly blue and gold spots! I shimmer like a jewel.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a black stripe through my eye and a big black spot on my side!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Both mom and dad guard the eggs and babies together! We're great parents.",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from the warm rivers of Venezuela and Colombia!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm shy and gentle, unlike many of my aggressive cichlid cousins!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Slow-moving rivers in Venezuela and Colombia",
+    "diet": "Small invertebrates, worms, and plant matter",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "3-4 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "snapper",
+  "name": "Red Snapper",
+  "scientificName": "Lutjanus campechanus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Lutjanidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/snapper.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#FDA4AF",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm bright pinkish-red all over! I'm one of the prettiest snappers.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have sharp canine teeth! They help me catch my slippery prey.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can live for over 50 years! I'm a very old fish.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love hanging around shipwrecks and artificial reefs!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Baby snappers are pink with a dark spot on their side!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky reefs and structures in the Gulf of Mexico",
+    "diet": "Fish, shrimp, crabs, and squid",
+    "size": "Up to 40 inches (100 cm)",
+    "lifespan": "50+ years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "weedy-sea-dragon",
+  "name": "Weedy Sea Dragon",
+  "scientificName": "Phyllopteryx taeniolatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "australia",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/weedy-sea-dragon.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#FACC15",
+    "accent": "#7C3AED"
+  },
+  "facts": [
+    {
+      "text": "I have weedy appendages that help me blend into seaweed!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the marine emblem of the state of Victoria in Australia!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Male sea dragons carry the eggs on their tails!",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I slurp up tiny shrimp through my long snout!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can be red, purple, or orange with yellow spots!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky reefs and kelp beds in Australia",
+    "diet": "Tiny crustaceans and plankton",
+    "size": "Up to 18 inches (46 cm)",
+    "lifespan": "5-10 years"
+  }
+}

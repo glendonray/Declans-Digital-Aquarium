@@ -1,0 +1,56 @@
+{
+  "id": "rainbow-trout",
+  "name": "Rainbow Trout",
+  "scientificName": "Oncorhynchus mykiss",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "north-america",
+    "family": "Salmonidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "medium",
+    "primaryColor": "pink",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/rainbow-trout.svg",
+  "colors": {
+    "primary": "#FB7185",
+    "secondary": "#22C55E",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a beautiful pink stripe down my side like a rainbow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can leap out of the water to catch flying insects!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm covered in tiny black spots from head to tail!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can live in rivers or the ocean! The ocean ones are called steelhead.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I need cold, clean, oxygen-rich water to survive!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Cool streams, rivers, and lakes",
+    "diet": "Insects, small fish, and crustaceans",
+    "size": "Up to 4 feet (1.2 meters)",
+    "lifespan": "4-6 years"
+  }
+}

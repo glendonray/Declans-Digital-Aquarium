@@ -1,0 +1,56 @@
+{
+  "id": "wahoo",
+  "name": "Wahoo",
+  "scientificName": "Acanthocybium solandri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Scombridae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/wahoo.svg",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the fastest fish in the ocean! I can swim up to 60 mph!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful blue tiger stripes on my sides!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My teeth are razor-sharp and triangular! I bite clean through prey.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm also called Ono in Hawaii, which means 'delicious'!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm related to tuna and mackerel! We're all super fast swimmers.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open tropical and subtropical oceans",
+    "diet": "Fish and squid",
+    "size": "Up to 8 feet (2.5 meters)",
+    "lifespan": "5-6 years"
+  }
+}

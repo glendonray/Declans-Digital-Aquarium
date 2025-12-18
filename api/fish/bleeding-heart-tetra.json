@@ -1,0 +1,56 @@
+{
+  "id": "bleeding-heart-tetra",
+  "name": "Bleeding Heart Tetra",
+  "scientificName": "Hyphessobrycon erythrostigma",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/bleeding-heart-tetra.svg",
+  "colors": {
+    "primary": "#FDA4AF",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a red heart-shaped spot on my side! That's my bleeding heart.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My body shimmers pink and silver like a pearl!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males have super long, flowing dorsal fins!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from the Amazon River in South America!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the bigger tetras and need room to swim!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Upper Amazon basin",
+    "diet": "Insects, worms, and small crustaceans",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-7 years"
+  }
+}

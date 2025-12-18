@@ -1,0 +1,56 @@
+{
+  "id": "blobfish",
+  "name": "Blobfish",
+  "scientificName": "Psychrolutes marcidus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "deep-sea",
+    "region": "australia",
+    "family": "Psychrolutidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "small",
+    "primaryColor": "pink",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/blobfish.svg",
+  "colors": {
+    "primary": "#FDA4AF",
+    "secondary": "#FECDD3",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I was voted the world's ugliest animal! But I'm cute in my own way.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I only look blobby when I'm out of water! Down deep, I look like a normal fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live so deep that the pressure is over 100 times stronger than at the surface!",
+      "category": "habitat",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I don't have a swim bladder! I'm mostly jelly to survive the pressure.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I just float around waiting for food to come to me! I'm super lazy.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep waters off Australia and New Zealand",
+    "diet": "Sea urchins, crabs, and shellfish",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "Unknown"
+  }
+}

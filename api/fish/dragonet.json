@@ -1,0 +1,56 @@
+{
+  "id": "dragonet",
+  "name": "Scooter Dragonet",
+  "scientificName": "Synchiropus ocellatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "pink",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/dragonet.svg",
+  "colors": {
+    "primary": "#FB7185",
+    "secondary": "#22D3EE",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I scoot along the bottom on my fins like a little car!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful peacock-like patterns on my fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have big googly eyes that move independently!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I hunt for tiny crustaceans called copepods!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm related to the Mandarin Dragonet! We're cousins.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy and rubble areas near reefs",
+    "diet": "Tiny copepods and amphipods",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "2-4 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "green-terror",
+  "name": "Green Terror",
+  "scientificName": "Andinoacara rivulatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "green",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/green-terror.svg",
+  "colors": {
+    "primary": "#22C55E",
+    "secondary": "#F97316",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful metallic green and blue scales that sparkle!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My name sounds scary, but I'm not always a terror! It depends on my mood.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males develop a big bump on their forehead as they get older!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from Ecuador and Peru in South America!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My fins have bright orange edges that look like flames!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in Ecuador and Peru",
+    "diet": "Fish, insects, worms, and crustaceans",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "12-15 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "stingray",
+  "name": "Stingray",
+  "scientificName": "Dasyatis americana",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Dasyatidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/stingray.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a sharp stinger on my tail! I only use it if I'm stepped on.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I bury myself in the sand to hide! Only my eyes poke out.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use electricity to sense prey hiding in the sand!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I flap my fins like wings to swim! I look like I'm flying underwater.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm actually very gentle and curious about humans!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms in coastal waters",
+    "diet": "Clams, shrimp, crabs, and small fish",
+    "size": "Up to 6 feet wide (2 meters)",
+    "lifespan": "15-25 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "batfish",
+  "name": "Batfish",
+  "scientificName": "Platax orbicularis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Ephippidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/batfish.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#1E293B",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "Baby batfish look like dead leaves! They float on their sides to hide.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have super tall fins when I'm young that shrink as I grow up!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very curious and friendly! I often approach divers.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I help clean up the reef by eating jellyfish and algae!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow really big - over 2 feet long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and lagoons",
+    "diet": "Algae, jellyfish, and small invertebrates",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "10-15 years"
+  }
+}

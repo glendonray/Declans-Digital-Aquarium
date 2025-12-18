@@ -1,0 +1,56 @@
+{
+  "id": "cardinal-tetra",
+  "name": "Cardinal Tetra",
+  "scientificName": "Paracheirodon axelrodi",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/cardinal-tetra.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a neon blue stripe AND a bright red belly! I'm even more colorful than neon tetras.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the dark waters of the Amazon rainforest!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love swimming in big groups called schools! We move together like one big fish.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My red stripe goes all the way from head to tail, unlike neon tetras!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I glow even brighter in dark water because of special cells in my skin!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Blackwater streams in the Amazon basin",
+    "diet": "Small insects, worms, and plankton",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "4-5 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leafy-sea-dragon",
+  "name": "Leafy Sea Dragon",
+  "scientificName": "Phycodurus eques",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "australia",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/leafy-sea-dragon.svg",
+  "colors": {
+    "primary": "#84CC16",
+    "secondary": "#FACC15",
+    "accent": "#F97316"
+  },
+  "facts": [
+    {
+      "text": "I look exactly like floating seaweed! Predators swim right past me.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm related to seahorses! Dad carries the eggs like seahorse dads.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I only live in the waters around southern Australia!",
+      "category": "habitat",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can't curl my tail like seahorses! I just float with the current.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have tiny fins that are almost invisible! I look like I'm floating.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Kelp forests in southern Australia",
+    "diet": "Tiny shrimp and plankton",
+    "size": "Up to 14 inches (35 cm)",
+    "lifespan": "5-10 years"
+  }
+}

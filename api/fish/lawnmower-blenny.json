@@ -1,0 +1,56 @@
+{
+  "id": "lawnmower-blenny",
+  "name": "Lawnmower Blenny",
+  "scientificName": "Salarias fasciatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/lawnmower-blenny.svg",
+  "colors": {
+    "primary": "#84CC16",
+    "secondary": "#A16207",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm called a lawnmower because I mow down algae all day long!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have fuzzy eyebrows called cirri! They make me look like a wise old fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change my color to blend in with the rocks I'm sitting on!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm not a strong swimmer, so I prefer hopping from rock to rock!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have comb-like teeth that are perfect for scraping algae off rocks!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky areas and coral reefs",
+    "diet": "Algae and microorganisms",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "2-4 years"
+  }
+}

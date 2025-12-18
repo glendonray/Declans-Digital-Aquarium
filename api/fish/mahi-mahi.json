@@ -1,0 +1,56 @@
+{
+  "id": "mahi-mahi",
+  "name": "Mahi Mahi",
+  "scientificName": "Coryphaena hippurus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Coryphaenidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "green",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/mahi-mahi.svg",
+  "colors": {
+    "primary": "#22C55E",
+    "secondary": "#FACC15",
+    "accent": "#3B82F6"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most colorful fish in the ocean! Gold, green, and blue!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called Dorado! That means golden in Spanish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My colors fade quickly after I'm caught. In the water, I'm dazzling!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm the fastest-growing fish! I can grow 4 feet in just one year.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males have a big square forehead! It's how you tell us apart from females.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open tropical oceans",
+    "diet": "Flying fish, squid, and crustaceans",
+    "size": "Up to 6 feet (2 meters)",
+    "lifespan": "4-5 years"
+  }
+}

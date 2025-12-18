@@ -1,0 +1,56 @@
+{
+  "id": "yellowtail-damsel",
+  "name": "Yellowtail Damsel",
+  "scientificName": "Chrysiptera parasema",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/yellowtail-damsel.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm bright blue with a sunny yellow tail! It's like I dipped my tail in gold paint.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the friendliest damselfish! I don't pick on other fish like my cousins do.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super hardy and can handle less-than-perfect water!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love darting in and out of coral branches to find food!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm excited or showing off, my colors get even brighter!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Western Pacific",
+    "diet": "Plankton, algae, and small invertebrates",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "5-8 years"
+  }
+}

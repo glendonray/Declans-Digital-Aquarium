@@ -1,0 +1,56 @@
+{
+  "id": "naso-tang",
+  "name": "Naso Tang",
+  "scientificName": "Naso lituratus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/naso-tang.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#F97316",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "I have bright orange lips like I'm wearing lipstick! It's my signature look.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Blonde Naso because of my yellow forehead!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have two orange scalpels near my tail that are super sharp!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love hanging out in groups with my tang friends!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a small horn on my forehead that gets bigger as I age!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reef slopes in the Indo-Pacific",
+    "diet": "Brown algae and zooplankton",
+    "size": "Up to 18 inches (46 cm)",
+    "lifespan": "30+ years"
+  }
+}

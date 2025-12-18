@@ -1,0 +1,56 @@
+{
+  "id": "bronze-cory",
+  "name": "Bronze Cory",
+  "scientificName": "Corydoras aeneus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Callichthyidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/bronze-cory.svg",
+  "colors": {
+    "primary": "#D97706",
+    "secondary": "#78716C",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have cute little whiskers called barbels that help me find food!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm armored with bony plates instead of scales!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can make squeaking sounds when I'm scared or excited!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to dig in the sand looking for yummy bits of food!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a bottom-dweller! I clean up all the food other fish miss.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and streams in South America",
+    "diet": "Sinking pellets, worms, and leftover food",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "10+ years"
+  }
+}

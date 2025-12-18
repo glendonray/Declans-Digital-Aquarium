@@ -1,0 +1,56 @@
+{
+  "id": "jewel-cichlid",
+  "name": "Jewel Cichlid",
+  "scientificName": "Hemichromis bimaculatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "africa",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/jewel-cichlid.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#22D3EE",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in sparkly blue-green spots like little jewels!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I turn super bright red when I'm ready to have babies or feeling feisty!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Both mom and dad work together to protect our babies!",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from rivers in West and Central Africa!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can be pretty aggressive! I'll defend my territory fiercely.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and streams in West and Central Africa",
+    "diet": "Insects, worms, and small fish",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-7 years"
+  }
+}

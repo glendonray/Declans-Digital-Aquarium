@@ -1,0 +1,56 @@
+{
+  "id": "platy",
+  "name": "Platy",
+  "scientificName": "Xiphophorus maculatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "central-america",
+    "family": "Poeciliidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/platy.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I come in so many colors! Red, orange, yellow, blue, and even rainbow patterns.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super friendly and get along with almost everyone in the tank!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I give birth to live babies! A mom platy can have 20-80 babies at once.",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I originally come from Mexico and Central America!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love nibbling on algae, which helps keep the tank clean!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Freshwater streams and canals in Central America",
+    "diet": "Algae, plants, and small invertebrates",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "3-5 years"
+  }
+}

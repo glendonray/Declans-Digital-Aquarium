@@ -1,0 +1,56 @@
+{
+  "id": "regal-angelfish",
+  "name": "Regal Angelfish",
+  "scientificName": "Pygoplites diacanthus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/regal-angelfish.svg",
+  "colors": {
+    "primary": "#FACC15",
+    "secondary": "#1E40AF",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful orange, white, and blue stripes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most striking angelfish on the reef!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to eat sponges! They're my favorite food.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm shy and hide in caves during the day!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Red Sea regals have a bright yellow chest instead of gray!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific and Red Sea",
+    "diet": "Sponges, tunicates, and algae",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}

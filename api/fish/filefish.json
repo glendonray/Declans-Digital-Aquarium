@@ -1,0 +1,56 @@
+{
+  "id": "filefish",
+  "name": "Filefish",
+  "scientificName": "Pervagor spilosoma",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Monacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/filefish.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#1E293B",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "My skin feels rough like a file! That's how I got my scratchy name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a cool spike on my head that I can raise up!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change color to blend in with my surroundings!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm related to triggerfish! We're cousins.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Some filefish eat only coral polyps! They're super picky eaters.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Pacific",
+    "diet": "Algae, coral, and small invertebrates",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "5-8 years"
+  }
+}

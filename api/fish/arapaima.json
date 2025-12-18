@@ -1,0 +1,56 @@
+{
+  "id": "arapaima",
+  "name": "Arapaima",
+  "scientificName": "Arapaima gigas",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Arapaimidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "giant",
+    "primaryColor": "green",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/arapaima.svg",
+  "colors": {
+    "primary": "#65A30D",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the largest freshwater fish in the world! I can be 10 feet long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have to breathe air every 10-20 minutes! I come to the surface to gulp.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My scales are so tough that piranhas can't bite through them!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I've been around since the time of the dinosaurs!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in the Amazon River and its floodplains!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Amazon River basin floodplains",
+    "diet": "Fish, birds, and small mammals",
+    "size": "Up to 10 feet (3 meters)",
+    "lifespan": "15-20 years"
+  }
+}

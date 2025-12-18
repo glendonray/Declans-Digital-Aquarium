@@ -1,0 +1,56 @@
+{
+  "id": "zebra-danio",
+  "name": "Zebra Danio",
+  "scientificName": "Danio rerio",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/zebra-danio.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#FBBF24",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have blue and silver stripes like a zebra!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Scientists love studying me! My genes helped them understand human diseases.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can regenerate my heart! If part is damaged, it grows back.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super fast and active! I zoom around all day long.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from India and Bangladesh where I live in rice paddies!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rice paddies and streams in India and Bangladesh",
+    "diet": "Insects, worms, and algae",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "3-5 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "copperband-butterflyfish",
+  "name": "Copperband Butterflyfish",
+  "scientificName": "Chelmon rostratus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/copperband-butterflyfish.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have a super long snout! It helps me reach into tiny cracks to find yummy food.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a fake eye spot near my tail! Predators think my tail is my head.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the few fish that eats aiptasia anemones! They're a pesky reef pest.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My copper stripes shine like pennies! That's how I got my name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I mate for life! Once I find my partner, we swim together forever.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Small invertebrates, worms, and anemones",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "10+ years"
+  }
+}

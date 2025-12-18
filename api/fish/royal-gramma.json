@@ -1,0 +1,56 @@
+{
+  "id": "royal-gramma",
+  "name": "Royal Gramma",
+  "scientificName": "Gramma loreto",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Grammatidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/royal-gramma.svg",
+  "colors": {
+    "primary": "#9333EA",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm half purple and half yellow! My colors fade into each other like a beautiful sunset.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I like to swim upside down under rock ledges! It confuses predators about which way is up.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a cleaner fish! Bigger fish visit me so I can eat parasites off their skin.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I live in caves and crevices in coral reefs. My home is my castle!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very territorial! I'll chase away any fish that comes too close to my favorite hiding spot.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Caribbean Sea",
+    "diet": "Zooplankton and parasites from other fish",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-6 years"
+  }
+}

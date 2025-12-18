@@ -1,0 +1,56 @@
+{
+  "id": "firefish-goby",
+  "name": "Firefish Goby",
+  "scientificName": "Nemateleotris magnifica",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Ptereleotridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/firefish-goby.svg",
+  "colors": {
+    "primary": "#EF4444",
+    "secondary": "#FBBF24",
+    "accent": "#7C3AED"
+  },
+  "facts": [
+    {
+      "text": "I hover in the water like a hummingbird! I flick my long dorsal fin back and forth.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I fade from white to orange to red! I look like a little flame.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm scared, I dart into my burrow lightning fast! Blink and you'll miss me.",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm also called the Fire Dartfish because I dart around so quickly!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use my big eyes to spot tiny zooplankton floating by for snacking!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reef slopes in the Indo-Pacific",
+    "diet": "Zooplankton and tiny crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "3-5 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "achilles-tang",
+  "name": "Achilles Tang",
+  "scientificName": "Acanthurus achilles",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/achilles-tang.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#F97316",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm named after the Greek hero Achilles because of my bold appearance!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a bright orange teardrop near my tail that stands out against my dark body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to surf in the waves! I'm found where the water crashes against the reef.",
+      "category": "habitat",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My tail spine is razor sharp and outlined in bright orange as a warning!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most beautiful tangs but also one of the most difficult to keep healthy!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Surge zones in Pacific coral reefs",
+    "diet": "Algae, especially filamentous types",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "20+ years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "dwarf-gourami",
+  "name": "Dwarf Gourami",
+  "scientificName": "Trichogaster lalius",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Osphronemidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/dwarf-gourami.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#F97316",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful red and blue stripes that alternate like a rainbow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can breathe air! I have a special labyrinth organ like bettas.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from India, Bangladesh, and Pakistan!",
+      "category": "habitat",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm shy and peaceful! I like hiding in plants.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males build bubble nests to attract females!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Slow-moving waters in South Asia",
+    "diet": "Insects, algae, and small invertebrates",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "4-6 years"
+  }
+}

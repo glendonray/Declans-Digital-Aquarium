@@ -1,0 +1,56 @@
+{
+  "id": "purple-tang",
+  "name": "Purple Tang",
+  "scientificName": "Zebrasoma xanthurum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "purple",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/purple-tang.svg",
+  "colors": {
+    "primary": "#7C3AED",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm a beautiful deep purple with a bright yellow tail!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Red Sea and the Arabian Gulf!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a sharp scalpel near my tail for self-defense!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to graze on algae all day like a little underwater cow!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My color gets more intense as I grow older!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Red Sea and Arabian Gulf",
+    "diet": "Algae and seaweed",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "30+ years"
+  }
+}

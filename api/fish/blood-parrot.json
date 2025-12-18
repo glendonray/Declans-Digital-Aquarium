@@ -1,0 +1,56 @@
+{
+  "id": "blood-parrot",
+  "name": "Blood Parrot",
+  "scientificName": "Amphilophus citrinellus x Paraneetroplus synspilus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "hybrid",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/blood-parrot.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#FBBF24",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm a hybrid fish! I was created by crossing two different cichlid species.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a cute round body and a beak-like mouth that always looks like I'm smiling!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can live for many years and become a beloved pet!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I recognize my owner and will wiggle excitedly when they come near!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come in bright orange, red, and even purple colors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Only found in aquariums (hybrid species)",
+    "diet": "Pellets, worms, and small crustaceans",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "10-15 years"
+  }
+}

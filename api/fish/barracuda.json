@@ -1,0 +1,56 @@
+{
+  "id": "barracuda",
+  "name": "Barracuda",
+  "scientificName": "Sphyraena barracuda",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "tropical-worldwide",
+    "family": "Sphyraenidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/barracuda.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "I have razor-sharp teeth! They're like little daggers in my mouth.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can burst to 35 mph when hunting! I'm lightning fast.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm curious about shiny things! Sparkly jewelry catches my eye.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I often hover motionless in the water watching everything around me!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My body is built for speed! I'm like a torpedo.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and coastal waters",
+    "diet": "Fish, squid, and shrimp",
+    "size": "Up to 6 feet (2 meters)",
+    "lifespan": "14 years"
+  }
+}

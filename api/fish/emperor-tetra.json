@@ -1,0 +1,56 @@
+{
+  "id": "emperor-tetra",
+  "name": "Emperor Tetra",
+  "scientificName": "Nematobrycon palmeri",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/emperor-tetra.svg",
+  "colors": {
+    "primary": "#7C3AED",
+    "secondary": "#1E293B",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "I have beautiful purple-blue scales and bright blue eyes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Male emperor tetras have a crown-like spike on their tail!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My eyes are stunning blue-green and really stand out!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from Colombia in South America!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named emperor because I look so regal and majestic!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in Colombia",
+    "diet": "Insects, worms, and small crustaceans",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "5-6 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "green-chromis",
+  "name": "Green Chromis",
+  "scientificName": "Chromis viridis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/green-chromis.svg",
+  "colors": {
+    "primary": "#4ADE80",
+    "secondary": "#22D3EE",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I shimmer blue-green like a little jewel swimming through the water!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love hanging out in big groups! We swim together in beautiful sparkling schools.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Unlike my damselfish cousins, I'm super peaceful and friendly!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I hide in branching corals at night and when danger is near!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I pick tiny plankton out of the water column all day long!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Zooplankton and algae",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "8-15 years"
+  }
+}

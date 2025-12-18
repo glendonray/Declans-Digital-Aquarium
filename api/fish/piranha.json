@@ -1,0 +1,56 @@
+{
+  "id": "piranha",
+  "name": "Red-Bellied Piranha",
+  "scientificName": "Pygocentrus nattereri",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Serrasalmidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/piranha.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have super sharp triangular teeth that interlock like scissors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a bright red belly that gives me my name!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm actually pretty shy! Movies make me scarier than I really am.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I live in the Amazon River! I'm famous in Brazil.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I bark like a dog to communicate! I can make three different sounds.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in the Amazon basin",
+    "diet": "Fish, insects, and plant matter",
+    "size": "Up to 13 inches (33 cm)",
+    "lifespan": "10+ years"
+  }
+}

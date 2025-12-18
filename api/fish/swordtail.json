@@ -1,0 +1,56 @@
+{
+  "id": "swordtail",
+  "name": "Swordtail",
+  "scientificName": "Xiphophorus hellerii",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "central-america",
+    "family": "Poeciliidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/swordtail.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#22C55E",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "Male swordtails have a long sword-shaped tail! It can be half their body length.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Sometimes female swordtails turn into males! It's called sex reversal.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a strong swimmer and love to jump! Watch out, I might leap right out!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Lady swordtails prefer males with longer swords - the longer the better!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Mexico and Central America originally!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Freshwater streams and rivers in Central America",
+    "diet": "Algae, insects, and plant matter",
+    "size": "Up to 5.5 inches (14 cm)",
+    "lifespan": "3-5 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "unicorn-tang",
+  "name": "Unicorn Tang",
+  "scientificName": "Naso unicornis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/unicorn-tang.svg",
+  "colors": {
+    "primary": "#64748B",
+    "secondary": "#3B82F6",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a horn on my forehead like a unicorn! That's how I got my magical name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My horn grows longer as I get older! Baby unicorn tangs don't have one yet.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have two sharp blades near my tail instead of just one like other tangs!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love eating brown seaweed! It's my absolute favorite food.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow pretty big - over two feet long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Brown leafy algae and seaweed",
+    "size": "Up to 27 inches (70 cm)",
+    "lifespan": "30+ years"
+  }
+}

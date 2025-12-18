@@ -1,0 +1,56 @@
+{
+  "id": "parrotfish",
+  "name": "Parrotfish",
+  "scientificName": "Scarus vetula",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Scaridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/parrotfish.svg",
+  "colors": {
+    "primary": "#22D3EE",
+    "secondary": "#F97316",
+    "accent": "#22C55E"
+  },
+  "facts": [
+    {
+      "text": "I have a beak like a parrot! I use it to crunch coral.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I poop out sand! The white sand on beaches is partly parrotfish poop.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I make a mucus sleeping bag at night to hide my smell from predators!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can change from female to male! And I change colors too.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super important for keeping coral reefs healthy!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Caribbean",
+    "diet": "Algae on coral and coral itself",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "5-7 years"
+  }
+}

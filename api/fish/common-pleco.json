@@ -1,0 +1,56 @@
+{
+  "id": "common-pleco",
+  "name": "Common Pleco",
+  "scientificName": "Hypostomus plecostomus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Loricariidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "large",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/common-pleco.svg",
+  "colors": {
+    "primary": "#292524",
+    "secondary": "#78716C",
+    "accent": "#A8A29E"
+  },
+  "facts": [
+    {
+      "text": "I can grow HUGE - over 2 feet long! People don't expect that.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have armored plates instead of scales! I'm like a little tank.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can survive out of water for hours by breathing air!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love eating wood! I need driftwood to help me digest food.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm nocturnal and hide during the day!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers throughout South America",
+    "diet": "Algae, driftwood, and plant matter",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "peacock-cichlid",
+  "name": "Peacock Cichlid",
+  "scientificName": "Aulonocara nyassae",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "lake",
+    "region": "africa",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/peacock-cichlid.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#F97316",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm named after peacocks because males are super colorful like peacock feathers!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Lake Malawi in Africa! It's one of the biggest lakes in the world.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use special sensors to detect tiny vibrations from prey hiding in the sand!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Males are bright blue, orange, or yellow, but females are plain gray!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Mom holds all the babies in her mouth to keep them safe! It's called mouthbrooding.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Lake Malawi in Africa",
+    "diet": "Small invertebrates and insect larvae",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "8-10 years"
+  }
+}

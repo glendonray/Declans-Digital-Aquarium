@@ -1,0 +1,56 @@
+{
+  "id": "bristlenose-pleco",
+  "name": "Bristlenose Pleco",
+  "scientificName": "Ancistrus cirrhosus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Loricariidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/bristlenose-pleco.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#78716C",
+    "accent": "#A8A29E"
+  },
+  "facts": [
+    {
+      "text": "Males have bushy bristles on their nose like a mustache!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the ultimate algae eater! I munch on it all day and night.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a sucker mouth that lets me stick to glass and rocks!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from the Amazon River in South America!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm mostly active at night! During the day, I hide in my favorite spot.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in the Amazon basin",
+    "diet": "Algae, driftwood, and vegetables",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "10-15 years"
+  }
+}

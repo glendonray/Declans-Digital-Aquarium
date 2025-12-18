@@ -1,0 +1,56 @@
+{
+  "id": "orchid-dottyback",
+  "name": "Orchid Dottyback",
+  "scientificName": "Pseudochromis fridmani",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "red-sea",
+    "family": "Pseudochromidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/orchid-dottyback.svg",
+  "colors": {
+    "primary": "#A855F7",
+    "secondary": "#C084FC",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm the prettiest shade of purple, just like an orchid flower!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come only from the Red Sea! It's my special home.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a black stripe through my eye like a little mask!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm one of the first reef fish to be successfully bred in captivity!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm shy but curious! I'll peek out of my cave to see what's going on.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Red Sea",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "5-7 years"
+  }
+}

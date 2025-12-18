@@ -1,0 +1,56 @@
+{
+  "id": "yellow-tang",
+  "name": "Yellow Tang",
+  "scientificName": "Zebrasoma flavescens",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/yellow-tang.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#FBBF24",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow like a lemon! My color helps me blend in with the sunny coral reefs.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a secret weapon! There's a sharp spine near my tail that I use for defense.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a vegetarian! I spend my days munching on algae growing on rocks and coral.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "At night, my yellow color fades and I get a brown patch! It helps me hide while sleeping.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to hang out in big groups! We swim together looking for the tastiest algae.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii and the Pacific",
+    "diet": "Algae and seaweed",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "30+ years"
+  }
+}

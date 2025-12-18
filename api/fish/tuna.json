@@ -1,0 +1,56 @@
+{
+  "id": "tuna",
+  "name": "Tuna",
+  "scientificName": "Thunnus thynnus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Scombridae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/tuna.svg",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#E2E8F0",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the fastest fish in the ocean! I can swim up to 45 mph!",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm warm-blooded like mammals! It helps me swim in cold water.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I never stop swimming! If I stop, I can't breathe.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can retract my fins into slots on my body to go even faster!",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I migrate across entire oceans! I've been tracked swimming thousands of miles.",
+      "category": "behavior",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Open ocean worldwide",
+    "diet": "Fish, squid, and crustaceans",
+    "size": "Up to 10 feet (3 meters)",
+    "lifespan": "15-40 years"
+  }
+}

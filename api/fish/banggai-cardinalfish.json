@@ -1,0 +1,56 @@
+{
+  "id": "banggai-cardinalfish",
+  "name": "Banggai Cardinalfish",
+  "scientificName": "Pterapogon kauderni",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Apogonidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/banggai-cardinalfish.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "Dad carries the babies in his mouth! He doesn't eat for weeks while protecting the eggs.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from one tiny island group in Indonesia called the Banggai Islands!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My long, flowy fins make me look like I'm wearing a fancy dress!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I like to hang out near sea urchins! Their spines protect me from predators.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm nocturnal, which means I'm most active at night when I hunt for tiny shrimp!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Shallow waters of the Banggai Islands, Indonesia",
+    "diet": "Small crustaceans and plankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "2-5 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cherry-barb",
+  "name": "Cherry Barb",
+  "scientificName": "Puntius titteya",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "red",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/cherry-barb.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#1E293B",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "Males turn bright cherry red when they're happy or showing off!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Sri Lanka where I live in shady streams!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most peaceful barbs! I never nip fins.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm endangered in the wild, but I'm very popular in aquariums!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Females are more golden-brown than bright red!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Shaded streams in Sri Lanka",
+    "diet": "Insects, algae, and plant matter",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "5-7 years"
+  }
+}

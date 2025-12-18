@@ -1,0 +1,56 @@
+{
+  "id": "weather-loach",
+  "name": "Weather Loach",
+  "scientificName": "Misgurnus anguillicaudatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "asia",
+    "family": "Cobitidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/weather-loach.svg",
+  "colors": {
+    "primary": "#A8A29E",
+    "secondary": "#78716C",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I can predict the weather! I get super active before storms.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called a dojo loach! I'm very friendly and curious.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I like to bury myself in the sand with just my face poking out!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can survive in cold water! I'm very hardy.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love being petted! I'm one of the friendliest fish.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Ponds and streams in East Asia",
+    "diet": "Worms, insects, and sinking foods",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "10+ years"
+  }
+}

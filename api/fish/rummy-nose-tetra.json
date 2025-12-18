@@ -1,0 +1,56 @@
+{
+  "id": "rummy-nose-tetra",
+  "name": "Rummy Nose Tetra",
+  "scientificName": "Hemigrammus rhodostomus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/rummy-nose-tetra.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "My nose and head are bright red! That's why I'm called rummy nose.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail has bold black and white stripes like a zebra!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm healthy and happy, my red nose gets even brighter!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm one of the tightest-schooling tetras! My group swims together perfectly.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Amazon River in South America!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Amazon River basin in South America",
+    "diet": "Small insects, worms, and plant matter",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "5-6 years"
+  }
+}

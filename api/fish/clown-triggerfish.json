@@ -1,0 +1,56 @@
+{
+  "id": "clown-triggerfish",
+  "name": "Clown Triggerfish",
+  "scientificName": "Balistoides conspicillum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Balistidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/clown-triggerfish.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#FFFFFF",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "I have big white polka dots on my belly! They make me look like a clown.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have super strong teeth that can crack open sea urchins and crabs!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My lips are bright orange like I'm wearing lipstick!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can lock my first spine to wedge myself into holes so predators can't pull me out!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm known for having a grumpy personality! I guard my territory fiercely.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Sea urchins, crabs, mollusks, and coral",
+    "size": "Up to 20 inches (50 cm)",
+    "lifespan": "8-12 years"
+  }
+}

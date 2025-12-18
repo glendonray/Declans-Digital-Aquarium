@@ -1,0 +1,56 @@
+{
+  "id": "yoyo-loach",
+  "name": "Yoyo Loach",
+  "scientificName": "Botia almorhae",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Botiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "silver",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/yoyo-loach.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#1E293B",
+    "accent": "#78716C"
+  },
+  "facts": [
+    {
+      "text": "My pattern looks like the letters Y-O-Y-O! That's how I got my name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from rivers in India and Pakistan!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a snail hunter! I slurp them right out of their shells.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I make clicking sounds when I'm happy or excited!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to play! I'm one of the most active loaches.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in India and Pakistan",
+    "diet": "Snails, worms, and sinking foods",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "arowana",
+  "name": "Asian Arowana",
+  "scientificName": "Scleropages formosus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Osteoglossidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "large",
+    "primaryColor": "red",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/arowana.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#FACC15",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Dragon Fish because I look like a Chinese dragon!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm considered super lucky! Some people pay thousands of dollars for me.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can jump 6 feet out of the water to catch prey!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have giant shiny scales that sparkle like coins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Dad carries all the babies in his mouth for weeks!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Slow-moving rivers in Southeast Asia",
+    "diet": "Insects, fish, and small animals",
+    "size": "Up to 3 feet (90 cm)",
+    "lifespan": "20+ years"
+  }
+}

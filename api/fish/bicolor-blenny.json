@@ -1,0 +1,56 @@
+{
+  "id": "bicolor-blenny",
+  "name": "Bicolor Blenny",
+  "scientificName": "Ecsenius bicolor",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Blenniidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/bicolor-blenny.svg",
+  "colors": {
+    "primary": "#1E3A8A",
+    "secondary": "#F97316",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm two colors! My front half is dark blue and my back half is bright orange.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a funny personality! I perch on rocks and peek out with my big googly eyes.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love eating algae! I'm like a tiny lawnmower for the reef.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super curious and will watch everything that happens in my territory!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I hop from rock to rock! I use my fins like little legs to scoot around.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rocky areas on coral reefs",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "2-4 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cleaner-wrasse",
+  "name": "Cleaner Wrasse",
+  "scientificName": "Labroides dimidiatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/cleaner-wrasse.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#000000",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "I run a cleaning station! Big fish line up and wait for me to pick off their parasites.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Even sharks and moray eels let me clean inside their mouths! They never eat me.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I do a special dance to tell fish I'm ready to clean them!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can clean over 2,000 fish in a single day! I'm a very busy fish.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Without me, many reef fish would get sick from parasites!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Parasites, dead skin, and mucus from other fish",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "4 years"
+  }
+}

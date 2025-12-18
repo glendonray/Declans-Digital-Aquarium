@@ -1,0 +1,56 @@
+{
+  "id": "sailfin-tang",
+  "name": "Sailfin Tang",
+  "scientificName": "Zebrasoma veliferum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/sailfin-tang.svg",
+  "colors": {
+    "primary": "#FACC15",
+    "secondary": "#1E3A8A",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "My fins are HUGE! When I spread them out, I look like a sailboat!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have beautiful zebra stripes all over my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I feel threatened, I raise all my fins to look twice my size!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm an algae-eating machine that helps keep the reef clean!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Baby sailfins look very different from adults - they're mostly yellow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "diet": "Algae, seaweed, and plant matter",
+    "size": "Up to 16 inches (40 cm)",
+    "lifespan": "30+ years"
+  }
+}

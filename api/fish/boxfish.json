@@ -1,0 +1,56 @@
+{
+  "id": "boxfish",
+  "name": "Boxfish",
+  "scientificName": "Ostracion cubicus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Ostraciidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/boxfish.svg",
+  "colors": {
+    "primary": "#FACC15",
+    "secondary": "#1E293B",
+    "accent": "#3B82F6"
+  },
+  "facts": [
+    {
+      "text": "I'm shaped like a little yellow box! I'm one of the cutest fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I release poison when I'm scared! It can harm other fish around me.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have fused scales that form a bony shell like armor!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I paddle around with my tiny fins! I'm a slow, clumsy swimmer.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Car designers studied my shape! It inspired an aerodynamic car.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific",
+    "diet": "Algae, sponges, and small invertebrates",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "5-8 years"
+  }
+}

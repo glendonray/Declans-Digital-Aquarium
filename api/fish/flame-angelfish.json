@@ -1,0 +1,56 @@
+{
+  "id": "flame-angelfish",
+  "name": "Flame Angelfish",
+  "scientificName": "Centropyge loricula",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/flame-angelfish.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#F97316",
+    "accent": "#1E3A8A"
+  },
+  "facts": [
+    {
+      "text": "I look like a little ball of fire! My bright red and orange colors make me one of the prettiest fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a dwarf angelfish! I stay small and cute my whole life.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to hide in coral and rocks! You might see me peeking out from my favorite spot.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I eat algae and tiny animals called tunicates. I'm always nibbling on something!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm shy at first, but once I feel safe, I'll swim around exploring everywhere!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Pacific Ocean",
+    "diet": "Algae, small invertebrates, and tunicates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-7 years"
+  }
+}

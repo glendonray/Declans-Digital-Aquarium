@@ -1,0 +1,56 @@
+{
+  "id": "grouper",
+  "name": "Goliath Grouper",
+  "scientificName": "Epinephelus itajara",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "giant",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/grouper.svg",
+  "colors": {
+    "primary": "#65A30D",
+    "secondary": "#78716C",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I can grow to 800 pounds! I'm one of the biggest reef fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I make a booming sound to defend my territory! It's super loud.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swallow my prey whole! My mouth is like a giant vacuum.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm curious and friendly toward divers! I like to investigate.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I was almost endangered, but now I'm protected and recovering!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and wrecks in the Atlantic",
+    "diet": "Crustaceans, fish, and octopus",
+    "size": "Up to 8 feet (2.5 meters)",
+    "lifespan": "37+ years"
+  }
+}

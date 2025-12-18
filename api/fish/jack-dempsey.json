@@ -1,0 +1,56 @@
+{
+  "id": "jack-dempsey",
+  "name": "Jack Dempsey",
+  "scientificName": "Rocio octofasciata",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "central-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/jack-dempsey.svg",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#22D3EE",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm named after a famous boxer because I'm tough and aggressive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm covered in sparkly blue and green spots that shimmer in the light!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm happy, my colors get super bright and beautiful!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can recognize my owner's face and will come to greet them!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a great parent! Both mom and dad protect the babies fiercely.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and swamps in Mexico and Central America",
+    "diet": "Insects, worms, fish, and crustaceans",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}

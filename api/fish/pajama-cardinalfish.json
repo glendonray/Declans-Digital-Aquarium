@@ -1,0 +1,56 @@
+{
+  "id": "pajama-cardinalfish",
+  "name": "Pajama Cardinalfish",
+  "scientificName": "Sphaeramia nematoptera",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Apogonidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/pajama-cardinalfish.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#DC2626",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "I look like I'm wearing polka dot pajamas! That's how I got my silly name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have huge orange eyes that help me see in the dark!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm nocturnal! I sleep during the day and hunt at night.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I hide in long-spined sea urchins during the day for protection!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Dad holds all the eggs in his mouth until they hatch! He doesn't eat for weeks.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs near sea urchins",
+    "diet": "Small crustaceans and plankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "3-5 years"
+  }
+}

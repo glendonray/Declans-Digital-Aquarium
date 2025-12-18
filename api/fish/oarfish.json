@@ -1,0 +1,56 @@
+{
+  "id": "oarfish",
+  "name": "Oarfish",
+  "scientificName": "Regalecus glesne",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "deep-sea",
+    "region": "worldwide",
+    "family": "Regalecidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/oarfish.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm the longest bony fish in the world! I can be over 30 feet long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I probably inspired legends of sea serpents and sea monsters!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a bright red crest on my head like a crown!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I swim by rippling my long dorsal fin like a ribbon!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in deep water and am rarely seen by humans!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep ocean waters worldwide",
+    "diet": "Plankton, small fish, and squid",
+    "size": "Up to 36 feet (11 meters)",
+    "lifespan": "Unknown"
+  }
+}

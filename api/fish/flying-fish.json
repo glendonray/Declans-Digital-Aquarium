@@ -1,0 +1,56 @@
+{
+  "id": "flying-fish",
+  "name": "Flying Fish",
+  "scientificName": "Exocoetus volitans",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Exocoetidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/flying-fish.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I can glide over 600 feet through the air! I look like I'm really flying.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I leap out of the water to escape predators like tuna and dolphins!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My pectoral fins spread out like wings!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can stay in the air for up to 45 seconds!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can reach heights of 20 feet above the water!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open tropical and subtropical oceans",
+    "diet": "Plankton and small crustaceans",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "5 years"
+  }
+}

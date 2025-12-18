@@ -1,0 +1,56 @@
+{
+  "id": "tiger-barb",
+  "name": "Tiger Barb",
+  "scientificName": "Puntigrus tetrazona",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/tiger-barb.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#000000",
+    "accent": "#DC2626"
+  },
+  "facts": [
+    {
+      "text": "I have black stripes like a tiger! That's how I got my fierce name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm known for being a fin nipper! I just can't resist flowy fins.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super active and zoom around the tank all day!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm much nicer when I'm in a big group of 6 or more!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Indonesia and Malaysia!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in Indonesia and Malaysia",
+    "diet": "Insects, worms, and plant matter",
+    "size": "Up to 3 inches (7 cm)",
+    "lifespan": "5-7 years"
+  }
+}

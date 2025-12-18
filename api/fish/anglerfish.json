@@ -1,0 +1,56 @@
+{
+  "id": "anglerfish",
+  "name": "Anglerfish",
+  "scientificName": "Lophius piscatorius",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "deep-sea",
+    "region": "atlantic",
+    "family": "Lophiidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/anglerfish.svg",
+  "colors": {
+    "primary": "#292524",
+    "secondary": "#78716C",
+    "accent": "#22D3EE"
+  },
+  "facts": [
+    {
+      "text": "I have a glowing lure on my head! It attracts prey in the dark deep sea.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in complete darkness thousands of feet underwater!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can swallow fish twice my size! My mouth is enormous.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Male anglerfish are tiny and attach to females permanently!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My lure glows because of special bacteria that live inside it!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep ocean waters",
+    "diet": "Fish, crustaceans, and anything it can catch",
+    "size": "Up to 3 feet (1 meter)",
+    "lifespan": "20+ years"
+  }
+}

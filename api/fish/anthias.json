@@ -1,0 +1,56 @@
+{
+  "id": "anthias",
+  "name": "Lyretail Anthias",
+  "scientificName": "Pseudanthias squamipinnis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/anthias.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#A855F7",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "We live in big groups with one male and many females!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "If the male disappears, the biggest female becomes a male!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males are bright orange-pink, females are golden orange!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "We hover above the reef in clouds picking plankton!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail fin is shaped like a lyre - a type of harp!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reef walls in the Indo-Pacific",
+    "diet": "Zooplankton floating in the current",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-7 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "catfish",
+  "name": "Channel Catfish",
+  "scientificName": "Ictalurus punctatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "north-america",
+    "family": "Ictaluridae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/catfish.svg",
+  "colors": {
+    "primary": "#64748B",
+    "secondary": "#1E293B",
+    "accent": "#94A3B8"
+  },
+  "facts": [
+    {
+      "text": "I have whiskers called barbels! They help me taste and feel for food.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can taste with my whole body! I have taste buds all over my skin.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I don't have scales! My skin is smooth and slippery.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I hunt mostly at night using my super senses!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Dad guards the eggs and fans them with his fins!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Lakes, rivers, and ponds",
+    "diet": "Fish, crayfish, insects, and plants",
+    "size": "Up to 4 feet (1.2 meters)",
+    "lifespan": "15-20 years"
+  }
+}

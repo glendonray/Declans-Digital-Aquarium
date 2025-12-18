@@ -1,0 +1,56 @@
+{
+  "id": "lemon-shark",
+  "name": "Lemon Shark",
+  "scientificName": "Negaprion brevirostris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Carcharhinidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/lemon-shark.svg",
+  "colors": {
+    "primary": "#D4A574",
+    "secondary": "#FDE68A",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow-brown colored like a lemon! It helps me blend in with sandy bottoms.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most studied sharks! Scientists love learning about me.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I hang out in groups and can recognize my shark friends!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I like shallow water and mangroves as a baby shark!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm pretty chill and not aggressive toward people!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Shallow coastal waters and mangroves",
+    "diet": "Fish, rays, crustaceans, and mollusks",
+    "size": "Up to 11 feet (3.4 meters)",
+    "lifespan": "25-30 years"
+  }
+}

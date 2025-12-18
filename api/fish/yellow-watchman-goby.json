@@ -1,0 +1,56 @@
+{
+  "id": "yellow-watchman-goby",
+  "name": "Yellow Watchman Goby",
+  "scientificName": "Cryptocentrus cinctus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/yellow-watchman-goby.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#38BDF8",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I live with a shrimp roommate! The shrimp digs our burrow and I watch for danger.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I got my name because I stand guard like a watchman outside my burrow!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "The shrimp is nearly blind, so I tap my tail to signal when it's safe to come out!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have pretty blue spots on my face that sparkle in the light!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When scared, my shrimp and I both dive into our burrow together!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy areas near coral reefs",
+    "diet": "Small invertebrates and plankton",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "3-5 years"
+  }
+}

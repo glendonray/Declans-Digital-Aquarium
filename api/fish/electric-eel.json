@@ -1,0 +1,56 @@
+{
+  "id": "electric-eel",
+  "name": "Electric Eel",
+  "scientificName": "Electrophorus electricus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Gymnotidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "large",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/electric-eel.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#F97316",
+    "accent": "#FACC15"
+  },
+  "facts": [
+    {
+      "text": "I can generate up to 860 volts of electricity! That's enough to stun a horse!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm not really an eel! I'm more closely related to catfish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use electricity to see in murky water like radar!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have to come up for air every 10 minutes! I breathe air like a dolphin.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "80% of my body is the electricity-making organ!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Murky Amazon waters",
+    "diet": "Fish, amphibians, and small mammals",
+    "size": "Up to 8 feet (2.5 meters)",
+    "lifespan": "15-22 years"
+  }
+}

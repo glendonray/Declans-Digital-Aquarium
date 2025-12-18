@@ -1,0 +1,56 @@
+{
+  "id": "celestial-pearl-danio",
+  "name": "Celestial Pearl Danio",
+  "scientificName": "Danio margaritatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/celestial-pearl-danio.svg",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#FDE047",
+    "accent": "#F97316"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in golden spots like stars in a night sky!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I was only discovered in 2006 in Myanmar! I'm pretty new to science.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called Galaxy Rasbora because I look like a tiny galaxy!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm super tiny - only about an inch long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My fins have bright orange stripes that flash when I swim!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Small ponds in Myanmar",
+    "diet": "Tiny insects, worms, and algae",
+    "size": "Up to 1 inch (2.5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

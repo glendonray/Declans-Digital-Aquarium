@@ -1,0 +1,56 @@
+{
+  "id": "salmon",
+  "name": "Salmon",
+  "scientificName": "Oncorhynchus kisutch",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "north-pacific",
+    "family": "Salmonidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/salmon.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I swim thousands of miles to return to the stream where I was born!",
+      "category": "behavior",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I can smell my home river! That's how I find my way back.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I jump up waterfalls on my way home! Bears try to catch me.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I turn red when I'm ready to spawn! My whole body changes color.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I live in the ocean but return to freshwater rivers to have babies!",
+      "category": "reproduction",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Ocean and freshwater rivers",
+    "diet": "Small fish, shrimp, and krill",
+    "size": "Up to 5 feet (1.5 meters)",
+    "lifespan": "3-8 years"
+  }
+}

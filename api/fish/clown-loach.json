@@ -1,0 +1,56 @@
+{
+  "id": "clown-loach",
+  "name": "Clown Loach",
+  "scientificName": "Chromobotia macracanthus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Botiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/clown-loach.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#000000",
+    "accent": "#DC2626"
+  },
+  "facts": [
+    {
+      "text": "I have bright orange and black stripes like a clown!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow over a foot long! People don't expect that.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I like to lie on my side! It looks like I'm dead, but I'm just relaxing.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm a snail's worst nightmare! I love eating pest snails.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a sharp spine under my eye for defense!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in Indonesia",
+    "diet": "Snails, worms, and sinking foods",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "20+ years"
+  }
+}

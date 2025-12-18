@@ -1,0 +1,56 @@
+{
+  "id": "longnose-hawkfish",
+  "name": "Longnose Hawkfish",
+  "scientificName": "Oxycirrhites typus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Cirrhitidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/longnose-hawkfish.svg",
+  "colors": {
+    "primary": "#EF4444",
+    "secondary": "#FFFFFF",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a super long pointy snout! It helps me pick tiny prey from coral crevices.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love sitting on sea fans and black coral! I blend in with my red stripes.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look like I'm wearing a red checkered shirt!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I stay very still, then suddenly POUNCE on tiny shrimp!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change from male to female! Most hawkfish start as females.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Deep coral reefs with sea fans",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-7 years"
+  }
+}

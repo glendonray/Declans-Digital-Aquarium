@@ -1,0 +1,56 @@
+{
+  "id": "frogfish",
+  "name": "Frogfish",
+  "scientificName": "Antennarius striatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Antennariidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/frogfish.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#DC2626",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a fishing rod on my head with a lure! I wiggle it to attract prey.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can swallow prey in just 6 milliseconds! That's faster than you can blink.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I walk on my fins like little legs! I'm a terrible swimmer.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can change colors to match my surroundings perfectly!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look like a lumpy sponge or rock! Prey never sees me coming.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas",
+    "diet": "Fish and shrimp",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "3-5 years"
+  }
+}

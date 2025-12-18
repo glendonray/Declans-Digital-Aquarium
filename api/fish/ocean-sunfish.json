@@ -1,0 +1,56 @@
+{
+  "id": "ocean-sunfish",
+  "name": "Ocean Sunfish",
+  "scientificName": "Mola mola",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Molidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/ocean-sunfish.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm the heaviest bony fish in the world! I can weigh over 5,000 pounds!",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I look like half a fish! My back end looks cut off.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I love to float sideways at the surface and sunbathe! That's why I'm called sunfish.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I eat jellyfish! It takes a LOT of jellyfish to feed me.",
+      "category": "diet",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "Baby sunfish are tiny and spiky! They look nothing like adults.",
+      "category": "biology",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Open ocean worldwide",
+    "diet": "Jellyfish, squid, and small fish",
+    "size": "Up to 10 feet (3 meters)",
+    "lifespan": "20-25 years"
+  }
+}

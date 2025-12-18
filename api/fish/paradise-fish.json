@@ -1,0 +1,56 @@
+{
+  "id": "paradise-fish",
+  "name": "Paradise Fish",
+  "scientificName": "Macropodus opercularis",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Osphronemidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/paradise-fish.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#DC2626",
+    "accent": "#F97316"
+  },
+  "facts": [
+    {
+      "text": "I was one of the first tropical fish ever kept in aquariums!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have stunning blue and red stripes with long flowing fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can survive in cold water and even slightly brackish water!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm related to bettas and can be just as feisty!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from East Asia and have been popular for over 150 years!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rice paddies and ditches in East Asia",
+    "diet": "Insects, larvae, and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "6-8 years"
+  }
+}

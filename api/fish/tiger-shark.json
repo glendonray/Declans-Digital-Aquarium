@@ -1,0 +1,56 @@
+{
+  "id": "tiger-shark",
+  "name": "Tiger Shark",
+  "scientificName": "Galeocerdo cuvier",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Carcharhinidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/tiger-shark.svg",
+  "colors": {
+    "primary": "#64748B",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "I have dark stripes on my sides like a tiger! They fade as I grow up.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'll eat almost anything! License plates and tires have been found in my stomach.",
+      "category": "diet",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I have super sharp teeth that can crack turtle shells!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can grow up to 14 feet long! I'm one of the largest sharks.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm most active at night when I hunt for food!",
+      "category": "behavior",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Warm coastal and open waters worldwide",
+    "diet": "Fish, turtles, seabirds, and almost anything",
+    "size": "Up to 14 feet (4.3 meters)",
+    "lifespan": "15-20 years"
+  }
+}

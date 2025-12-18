@@ -1,0 +1,56 @@
+{
+  "id": "molly",
+  "name": "Molly",
+  "scientificName": "Poecilia sphenops",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "central-america",
+    "family": "Poeciliidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/molly.svg",
+  "colors": {
+    "primary": "#1E293B",
+    "secondary": "#FBBF24",
+    "accent": "#475569"
+  },
+  "facts": [
+    {
+      "text": "I can live in freshwater AND saltwater! I'm very adaptable.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come in black, white, orange, dalmatian spots, and even balloon shapes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I give birth to live babies! They're ready to swim and eat right away.",
+      "category": "reproduction",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to munch on algae! I help keep the tank sparkly clean.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a peaceful fish who enjoys swimming with friends!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Freshwater and brackish waters in Central America",
+    "diet": "Algae, plants, and small invertebrates",
+    "size": "Up to 4.5 inches (12 cm)",
+    "lifespan": "3-5 years"
+  }
+}

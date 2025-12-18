@@ -1,0 +1,56 @@
+{
+  "id": "diamond-tetra",
+  "name": "Diamond Tetra",
+  "scientificName": "Moenkhausia pittieri",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/diamond-tetra.svg",
+  "colors": {
+    "primary": "#E2E8F0",
+    "secondary": "#22D3EE",
+    "accent": "#A855F7"
+  },
+  "facts": [
+    {
+      "text": "My scales sparkle like tiny diamonds! I'm one of the shiniest fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When light hits me, I flash rainbow colors - it's magical!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males have longer, more flowy fins than females!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from Lake Valencia in Venezuela!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I look plain when I'm stressed but dazzling when I'm happy!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Lake Valencia in Venezuela",
+    "diet": "Insects, worms, and plant matter",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "5-6 years"
+  }
+}

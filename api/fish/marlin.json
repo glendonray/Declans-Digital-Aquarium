@@ -1,0 +1,56 @@
+{
+  "id": "marlin",
+  "name": "Marlin",
+  "scientificName": "Makaira nigricans",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Istiophoridae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/marlin.svg",
+  "colors": {
+    "primary": "#1E40AF",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have a long spear on my face called a bill! I use it to stun fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change color when I hunt! My stripes light up bright blue.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the fastest fish in the ocean! I can swim over 50 mph.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can weigh over 1,000 pounds! I'm a really big fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm famous in the story 'The Old Man and the Sea'!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open tropical and temperate oceans",
+    "diet": "Fish, squid, and crustaceans",
+    "size": "Up to 16 feet (5 meters)",
+    "lifespan": "20-30 years"
+  }
+}

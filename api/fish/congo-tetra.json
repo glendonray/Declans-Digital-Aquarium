@@ -1,0 +1,56 @@
+{
+  "id": "congo-tetra",
+  "name": "Congo Tetra",
+  "scientificName": "Phenacogrammus interruptus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "africa",
+    "family": "Alestidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/congo-tetra.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#F97316",
+    "accent": "#22C55E"
+  },
+  "facts": [
+    {
+      "text": "I shimmer with rainbow colors - blue, orange, yellow, and green!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Congo River in Africa, not South America like most tetras!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Males have beautiful long, flowing fins with white edges!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm one of the biggest tetras! I can grow up to 3 inches long.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm peaceful and love to swim in groups with my friends!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Congo River basin in Central Africa",
+    "diet": "Insects, worms, and plant matter",
+    "size": "Up to 3.5 inches (9 cm)",
+    "lifespan": "5-8 years"
+  }
+}

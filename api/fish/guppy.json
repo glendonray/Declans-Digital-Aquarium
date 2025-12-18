@@ -1,0 +1,56 @@
+{
+  "id": "guppy",
+  "name": "Guppy",
+  "scientificName": "Poecilia reticulata",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Poeciliidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "multi",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/guppy.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#3B82F6",
+    "accent": "#22C55E"
+  },
+  "facts": [
+    {
+      "text": "I come in every color of the rainbow! People have bred us in hundreds of varieties.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I give birth to live babies instead of laying eggs! They can swim right away.",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after Robert John Lechmere Guppy who discovered me in Trinidad!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I help control mosquitoes by eating their larvae! I'm a tiny superhero.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Male guppies have bigger, fancier tails to impress the lady guppies!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Freshwater streams in South America and the Caribbean",
+    "diet": "Insects, larvae, and algae",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "2-3 years"
+  }
+}

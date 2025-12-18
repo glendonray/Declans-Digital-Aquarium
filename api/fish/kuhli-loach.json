@@ -1,0 +1,56 @@
+{
+  "id": "kuhli-loach",
+  "name": "Kuhli Loach",
+  "scientificName": "Pangio kuhlii",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cobitidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/kuhli-loach.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#1E293B",
+    "accent": "#FBBF24"
+  },
+  "facts": [
+    {
+      "text": "I look like a tiny striped snake! But I'm actually a fish.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to hide! I'll squeeze into any tiny space I can find.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come out at night to look for food! I'm nocturnal.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I have tiny whiskers to help me find food in the dark!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Indonesia and Malaysia!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Slow-moving streams in Southeast Asia",
+    "diet": "Worms, insect larvae, and sinking foods",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10+ years"
+  }
+}

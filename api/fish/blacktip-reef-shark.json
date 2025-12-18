@@ -1,0 +1,56 @@
+{
+  "id": "blacktip-reef-shark",
+  "name": "Blacktip Reef Shark",
+  "scientificName": "Carcharhinus melanopterus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Carcharhinidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/blacktip-reef-shark.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "My fins have black tips! That's how I got my name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most common sharks on coral reefs!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I swim in super shallow water - sometimes my fin pokes out!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm shy around people and usually swim away if they come close!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I help keep the reef healthy by eating sick and weak fish!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Shallow coral reefs in the Indo-Pacific",
+    "diet": "Small fish, crustaceans, and squid",
+    "size": "Up to 6 feet (1.8 meters)",
+    "lifespan": "12-15 years"
+  }
+}

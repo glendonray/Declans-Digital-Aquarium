@@ -1,0 +1,56 @@
+{
+  "id": "firemouth-cichlid",
+  "name": "Firemouth Cichlid",
+  "scientificName": "Thorichthys meeki",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "central-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/firemouth-cichlid.svg",
+  "colors": {
+    "primary": "#EF4444",
+    "secondary": "#64748B",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "My throat and belly are bright red like fire! That's how I got my name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I'm angry, I puff out my red throat to look bigger and scarier!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from Mexico and Central America where it's nice and warm!",
+      "category": "habitat",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm actually more bark than bite! I look tough but I'm not too aggressive.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Both parents take care of the babies and move them to safe spots!",
+      "category": "reproduction",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers and lagoons in Central America",
+    "diet": "Insects, worms, and small crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

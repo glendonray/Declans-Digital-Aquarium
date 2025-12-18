@@ -1,0 +1,56 @@
+{
+  "id": "hammerhead-shark",
+  "name": "Hammerhead Shark",
+  "scientificName": "Sphyrna mokarran",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Sphyrnidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/hammerhead-shark.svg",
+  "colors": {
+    "primary": "#64748B",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "My head is shaped like a hammer! It helps me see in all directions.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I can sense the heartbeats of fish hiding in the sand!",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I love to eat stingrays! Their stings don't bother me at all.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I can grow up to 20 feet long! I'm one of the biggest sharks.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I swim in big schools sometimes with hundreds of other hammerheads!",
+      "category": "behavior",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Warm coastal waters worldwide",
+    "diet": "Stingrays, fish, squid, and crustaceans",
+    "size": "Up to 20 feet (6 meters)",
+    "lifespan": "20-30 years"
+  }
+}

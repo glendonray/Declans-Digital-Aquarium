@@ -1,0 +1,56 @@
+{
+  "id": "swordfish",
+  "name": "Swordfish",
+  "scientificName": "Xiphias gladius",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Xiphiidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/swordfish.svg",
+  "colors": {
+    "primary": "#64748B",
+    "secondary": "#1E293B",
+    "accent": "#E2E8F0"
+  },
+  "facts": [
+    {
+      "text": "I have a flat bill shaped like a sword! It can be a third of my body length.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I slash my sword through schools of fish to stun them, then eat them!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can heat up my eyes and brain! It helps me see better in cold deep water.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I lose all my teeth and scales as an adult!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I dive super deep during the day - over 2,000 feet down!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open ocean worldwide",
+    "diet": "Fish and squid",
+    "size": "Up to 15 feet (4.5 meters)",
+    "lifespan": "9-15 years"
+  }
+}

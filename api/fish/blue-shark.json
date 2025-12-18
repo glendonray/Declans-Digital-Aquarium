@@ -1,0 +1,56 @@
+{
+  "id": "blue-shark",
+  "name": "Blue Shark",
+  "scientificName": "Prionace glauca",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "worldwide",
+    "family": "Carcharhinidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/blue-shark.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#E2E8F0",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm one of the most beautiful sharks! My back is bright blue.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can travel over 5,000 miles in a single trip across the ocean!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have super long pectoral fins that help me glide through water!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm one of the most common sharks in the open ocean!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I eat squid and small fish in the deep ocean!",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Open ocean worldwide",
+    "diet": "Squid, fish, and small sharks",
+    "size": "Up to 12 feet (3.8 meters)",
+    "lifespan": "15-20 years"
+  }
+}

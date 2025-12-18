@@ -1,0 +1,56 @@
+{
+  "id": "squirrelfish",
+  "name": "Squirrelfish",
+  "scientificName": "Holocentrus adscensionis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "atlantic",
+    "family": "Holocentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/squirrelfish.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#FFFFFF",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I have huge eyes like a squirrel! They help me see in the dark.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm nocturnal! I hide in caves during the day and hunt at night.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I make grunting and clicking sounds to communicate!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm bright red with silver stripes that shimmer!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a sharp spine near my gill that can hurt predators!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas in the Atlantic",
+    "diet": "Small crabs, shrimp, and fish",
+    "size": "Up to 14 inches (35 cm)",
+    "lifespan": "10+ years"
+  }
+}

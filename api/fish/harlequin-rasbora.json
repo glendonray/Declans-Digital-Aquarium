@@ -1,0 +1,56 @@
+{
+  "id": "harlequin-rasbora",
+  "name": "Harlequin Rasbora",
+  "scientificName": "Trigonostigma heteromorpha",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/harlequin-rasbora.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#1E293B",
+    "accent": "#FB923C"
+  },
+  "facts": [
+    {
+      "text": "I have a black triangle on my side that looks like a harlequin's costume!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm peachy-orange and shimmer beautifully in groups!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love swimming in big schools! We look like a dancing orange cloud.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I come from Malaysia, Singapore, and Thailand!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super peaceful and never bother other fish!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Blackwater streams in Southeast Asia",
+    "diet": "Small insects, worms, and plant matter",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "5-8 years"
+  }
+}

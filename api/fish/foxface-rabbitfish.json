@@ -1,0 +1,56 @@
+{
+  "id": "foxface-rabbitfish",
+  "name": "Foxface Rabbitfish",
+  "scientificName": "Siganus vulpinus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Siganidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/foxface-rabbitfish.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#1E293B",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called foxface because my face looks like a fox! See my pointy snout?",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My spines are venomous! If a predator tries to eat me, they get a painful poke.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I change color when I'm stressed or sleeping! I turn blotchy brown to hide.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm an algae-eating machine! I help keep the reef clean and healthy.",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a cute rabbit-like mouth that's perfect for nibbling on plants!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Western Pacific",
+    "diet": "Algae, seaweed, and marine plants",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "5-10 years"
+  }
+}

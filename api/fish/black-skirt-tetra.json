@@ -1,0 +1,56 @@
+{
+  "id": "black-skirt-tetra",
+  "name": "Black Skirt Tetra",
+  "scientificName": "Gymnocorymbus ternetzi",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/black-skirt-tetra.svg",
+  "colors": {
+    "primary": "#94A3B8",
+    "secondary": "#1E293B",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "My anal fin flows like a long black skirt! That's how I got my fancy name.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have two black stripes behind my head like I'm wearing a jersey!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "When I get older, my black color fades to gray!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love nipping at long flowy fins! Sorry, bettas and angelfish!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from rivers in Paraguay and Brazil!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rivers in Paraguay and Brazil",
+    "diet": "Insects, worms, and plant matter",
+    "size": "Up to 3 inches (7.5 cm)",
+    "lifespan": "5-7 years"
+  }
+}
