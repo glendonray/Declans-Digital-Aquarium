@@ -6,6 +6,7 @@
 import { randomBetween, randomBool } from "../utils/random.js";
 import { generateFishSVG } from "../services/FishSVGGenerator.js";
 import { getAvailableShapes } from "../templates/shapes/index.js";
+import { myListService } from "../services/MyListService.js";
 
 export class Fish {
   constructor(data, tankBounds, speechBubble, fishAPI) {
@@ -25,6 +26,7 @@ export class Fish {
     this.isPaused = false;
     this.isActive = false;
     this.element = null;
+    this.saveButton = null;
     this.animationId = null;
 
     // Create DOM element
@@ -49,10 +51,7 @@ export class Fish {
   render() {
     this.element = document.createElement("button");
     this.element.className = "fish fish--swimming";
-    this.element.setAttribute(
-      "aria-label",
-      `Click to learn about ${this.data.name}`
-    );
+    this.element.setAttribute("aria-label", `Click to learn about ${this.data.name}`);
     this.element.dataset.fishId = this.data.id;
 
     // Try to use template-based SVG, fall back to static image
@@ -77,6 +76,14 @@ export class Fish {
       this.element.appendChild(img);
     }
 
+    // Add save button (heart icon)
+    this.saveButton = document.createElement("span");
+    this.saveButton.className = "fish__save";
+    this.saveButton.setAttribute("role", "button");
+    this.saveButton.setAttribute("tabindex", "0");
+    this.updateSaveButton();
+    this.element.appendChild(this.saveButton);
+
     // Set initial position
     this.updatePosition();
 
@@ -84,6 +91,16 @@ export class Fish {
     this.element.style.animationDelay = `${randomBetween(0, 2)}s`;
 
     return this.element;
+  }
+
+  /**
+   * Update save button state based on myListService
+   */
+  updateSaveButton() {
+    const isSaved = myListService.has(this.data.id);
+    this.saveButton.innerHTML = isSaved ? "❤️" : "🤍";
+    this.saveButton.setAttribute("aria-label", isSaved ? `Remove ${this.data.name} from my fish` : `Add ${this.data.name} to my fish`);
+    this.saveButton.classList.toggle("fish__save--saved", isSaved);
   }
 
   /**
@@ -95,12 +112,41 @@ export class Fish {
       this.onClick();
     });
 
+    // Handle save button click
+    this.saveButton.addEventListener("click", (e) => {
+      e.stopPropagation();
+      this.onSaveClick();
+    });
+
+    // Handle keyboard activation on save button
+    this.saveButton.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        e.stopPropagation();
+        this.onSaveClick();
+      }
+    });
+
     // Listen for speech bubble hide event
     document.addEventListener("speechbubble:hide", () => {
       if (this.isActive) {
         this.resume();
       }
     });
+
+    // Listen for mylist changes to update button state
+    document.addEventListener("mylist:change", (e) => {
+      if (e.detail && e.detail.fishId === this.data.id) {
+        this.updateSaveButton();
+      }
+    });
+  }
+
+  /**
+   * Handle save button click
+   */
+  onSaveClick() {
+    myListService.toggle(this.data.id);
   }
 
   /**

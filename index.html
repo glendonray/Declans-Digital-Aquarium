@@ -1,48 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Declan's Digital Aquarium</title>
-    <link rel="stylesheet" href="css/main.css" />
-  </head>
-  <body>
-    <div id="aquarium" class="tank">
-      <h1 class="tank__title">Declan's Aquarium</h1>
-      <div class="tank__inner">
-        <!-- Water background -->
-        <div class="water"></div>
 
-        <!-- Ambient bubbles container -->
-        <div class="bubbles" id="bubbles"></div>
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Declan's Digital Aquarium</title>
+	<link rel="stylesheet" href="css/main.css" />
+</head>
 
-        <!-- Fish will be spawned here by JavaScript -->
-        <div id="fish-container"></div>
+<body>
+	<div id="aquarium" class="tank">
+		<h1 class="tank__title">Declan's Aquarium</h1>
+		<div class="tank__inner">
+			<!-- Water background -->
+			<div class="water"></div>
 
-        <!-- Swap fish button -->
-        <button id="swap-fish" class="swap-button">🐠 Meet New Fish</button>
+			<!-- Ambient bubbles container -->
+			<div class="bubbles" id="bubbles"></div>
 
-        <!-- Speech bubble for facts -->
-        <div class="speech-bubble" id="speech-bubble">
-          <button class="speech-bubble__close" aria-label="Close">
-            &times;
-          </button>
-          <div class="speech-bubble__header">
-            <span class="speech-bubble__name"></span>
-          </div>
-          <p class="speech-bubble__scientific"></p>
-          <p class="speech-bubble__text"></p>
-          <p class="speech-bubble__source">
-            Source: <a href="" target="_blank" rel="noopener"></a>
-          </p>
-          <div class="speech-bubble__nav" id="fact-nav"></div>
-        </div>
+			<!-- Fish will be spawned here by JavaScript -->
+			<div id="fish-container"></div>
 
-        <!-- Sand at bottom -->
-        <div class="sand"></div>
-      </div>
-    </div>
+			<!-- My Fish button -->
+			<button id="my-list-button" class="my-list-button">
+				❤️ My Fish
+				<span class="my-list-button__count" id="my-list-count"></span>
+			</button>
 
-    <script type="module" src="src/js/main.js"></script>
-  </body>
+			<!-- Swap fish button -->
+			<button id="swap-fish" class="swap-button">🐠 Meet New Fish</button>
+
+			<!-- Speech bubble for facts -->
+			<div class="speech-bubble" id="speech-bubble">
+				<button class="speech-bubble__close" aria-label="Close">
+					&times;
+				</button>
+				<div class="speech-bubble__header">
+					<span class="speech-bubble__name"></span>
+				</div>
+				<p class="speech-bubble__scientific"></p>
+				<p class="speech-bubble__text"></p>
+				<p class="speech-bubble__source">
+					Source: <a href="" target="_blank" rel="noopener"></a>
+				</p>
+				<div class="speech-bubble__nav" id="fact-nav"></div>
+			</div>
+
+			<!-- Sand at bottom -->
+			<div class="sand"></div>
+		</div>
+	</div>
+
+	<!-- My Fish Panel (slide-out) -->
+	<div id="my-list-panel" class="my-list-panel" aria-hidden="true"></div>
+
+	<script type="module" src="src/js/main.js"></script>
+</body>
+
 </html>

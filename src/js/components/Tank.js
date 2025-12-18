@@ -51,12 +51,7 @@ export class Tank {
 
     // Click anywhere to close speech bubble
     this.container.addEventListener("click", (e) => {
-      if (
-        e.target === this.container ||
-        e.target === this.innerContainer ||
-        e.target.classList.contains("water") ||
-        e.target.classList.contains("sand")
-      ) {
+      if (e.target === this.container || e.target === this.innerContainer || e.target.classList.contains("water") || e.target.classList.contains("sand")) {
         this.speechBubble.hide();
       }
     });
@@ -220,8 +215,7 @@ export class Tank {
     const fishToRemove = this.fish[removeIndex];
 
     // Pick a random new fish to add
-    const newFishSummary =
-      availableFish[Math.floor(Math.random() * availableFish.length)];
+    const newFishSummary = availableFish[Math.floor(Math.random() * availableFish.length)];
     const newFishData = await this.fishAPI.getFishById(newFishSummary.id);
 
     if (newFishData) {
@@ -250,6 +244,28 @@ export class Tank {
    */
   resumeAll() {
     this.fish.forEach((fish) => fish.resume());
+  }
+
+  /**
+   * Show a fish from the user's list in the tank
+   * If the fish is already in the tank, highlight it; otherwise add it
+   * @param {Object} fishData - Full fish data object
+   */
+  showFishFromList(fishData) {
+    // Check if fish is already in tank
+    const existingFish = this.fish.find((f) => f.data.id === fishData.id);
+
+    if (existingFish) {
+      // Fish is already in tank, trigger its click to show facts
+      existingFish.onClick();
+    } else {
+      // Add the fish to the tank and show its facts
+      const newFish = this.addFish(fishData);
+      // Small delay to let it render, then show facts
+      setTimeout(() => {
+        newFish.onClick();
+      }, 100);
+    }
   }
 
   /**

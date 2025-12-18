@@ -1,0 +1,71 @@
+// ============================================
+// FISH SAVE BUTTON COMPONENT
+// Heart icon to save/unsave fish
+// ============================================
+
+.fish__save {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: var(--radius-full);
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity var(--duration-fast), transform var(--duration-fast), background-color var(--duration-fast);
+  z-index: 10;
+
+  // Show on fish hover
+  .fish:hover &,
+  .fish--active &,
+  .fish--paused & {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  // Always show when saved
+  &--saved {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  &:hover {
+    background: #fff;
+    transform: scale(1.15);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &:focus-visible {
+    opacity: 1;
+    transform: scale(1);
+    outline: 2px solid var(--color-water-dark);
+    outline-offset: 2px;
+  }
+
+  // Animation when saving
+  &--saved {
+    animation: heartPop var(--duration-normal) ease-out;
+  }
+}
+
+@keyframes heartPop {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

@@ -1,0 +1,213 @@
+// ============================================
+// MY LIST PANEL COMPONENT
+// Slide-out panel for saved fish collection
+// ============================================
+
+.my-list-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity var(--duration-normal), visibility var(--duration-normal);
+  display: flex;
+  justify-content: flex-start;
+
+  &--visible {
+    opacity: 1;
+    visibility: visible;
+
+    .my-list-panel__content,
+    .my-list-panel__header {
+      transform: translateX(0);
+    }
+  }
+
+  // Panel container (slides from left)
+  &__header,
+  &__content {
+    background: var(--color-speech-bg);
+  }
+
+  &__header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 320px;
+    max-width: 90vw;
+    padding: var(--spacing-lg);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--color-speech-border);
+    transform: translateX(-100%);
+    transition: transform var(--duration-normal) ease-out;
+    z-index: 1002;
+
+    @media (max-width: 400px) {
+      width: 100%;
+      max-width: 100%;
+    }
+  }
+
+  &__title {
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    color: var(--color-text-primary);
+    margin: 0;
+  }
+
+  &__close {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--text-xl);
+    color: var(--color-text-secondary);
+    background: transparent;
+    border: none;
+    border-radius: var(--radius-full);
+    cursor: pointer;
+    transition: background-color var(--duration-fast), color var(--duration-fast);
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.1);
+      color: var(--color-text-primary);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--color-water-dark);
+      outline-offset: 2px;
+    }
+  }
+
+  &__content {
+    position: fixed;
+    top: 64px; // Below header
+    left: 0;
+    width: 320px;
+    max-width: 90vw;
+    height: calc(100% - 64px);
+    overflow-y: auto;
+    padding: var(--spacing-lg);
+    transform: translateX(-100%);
+    transition: transform var(--duration-normal) ease-out;
+    z-index: 1001;
+
+    @media (max-width: 400px) {
+      width: 100%;
+      max-width: 100%;
+    }
+  }
+
+  // Fish card grid
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-md);
+  }
+
+  // Empty state
+  &__empty {
+    text-align: center;
+    padding: var(--spacing-2xl) var(--spacing-lg);
+    color: var(--color-text-secondary);
+
+    p {
+      margin: 0 0 var(--spacing-sm);
+      line-height: 1.5;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  // Individual fish card
+  &__card {
+    position: relative;
+    background: #fff;
+    border: 2px solid var(--color-speech-border);
+    border-radius: var(--radius-lg);
+    padding: var(--spacing-sm);
+    cursor: pointer;
+    transition: transform var(--duration-fast), box-shadow var(--duration-fast);
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+
+    &:active {
+      transform: translateY(0);
+    }
+  }
+
+  &__card-remove {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--text-base);
+    color: #fff;
+    background: #e74c3c;
+    border: 2px solid #fff;
+    border-radius: var(--radius-full);
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity var(--duration-fast), transform var(--duration-fast);
+    z-index: 1;
+
+    .my-list-panel__card:hover & {
+      opacity: 1;
+    }
+
+    &:hover {
+      transform: scale(1.1);
+      background: #c0392b;
+    }
+
+    &:focus-visible {
+      opacity: 1;
+      outline: 2px solid var(--color-water-dark);
+      outline-offset: 2px;
+    }
+  }
+
+  &__card-image {
+    width: 100%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(180deg, var(--color-water-light) 0%, var(--color-water-mid) 100%);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    margin-bottom: var(--spacing-xs);
+
+    svg {
+      width: 80%;
+      height: 80%;
+      object-fit: contain;
+    }
+  }
+
+  &__card-name {
+    font-family: var(--font-display);
+    font-size: var(--text-sm);
+    color: var(--color-text-primary);
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}

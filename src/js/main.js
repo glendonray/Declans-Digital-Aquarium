@@ -4,7 +4,9 @@
  */
 
 import { Tank } from "./components/Tank.js";
+import { MyListPanel } from "./components/MyListPanel.js";
 import { fishAPI } from "./services/FishAPI.js";
+import { myListService } from "./services/MyListService.js";
 
 /**
  * Initialize the aquarium
@@ -19,6 +21,36 @@ async function init() {
 
   // Create the tank
   const tank = new Tank(aquariumEl, fishAPI);
+
+  // Create My List Panel
+  const myListPanel = new MyListPanel(fishAPI, (fishData) => {
+    // When a fish is clicked in the panel, show it in the tank
+    tank.showFishFromList(fishData);
+  });
+
+  // Wire up My Fish button
+  const myListButton = document.getElementById("my-list-button");
+  const myListCount = document.getElementById("my-list-count");
+
+  if (myListButton) {
+    myListButton.addEventListener("click", () => {
+      myListPanel.toggle();
+    });
+  }
+
+  // Update count badge
+  function updateMyListCount() {
+    const count = myListService.count();
+    if (myListCount) {
+      myListCount.textContent = count > 0 ? count : "";
+    }
+  }
+
+  // Initial count update
+  updateMyListCount();
+
+  // Listen for list changes to update count
+  document.addEventListener("mylist:change", updateMyListCount);
 
   // Wire up swap button
   const swapButton = document.getElementById("swap-fish");
