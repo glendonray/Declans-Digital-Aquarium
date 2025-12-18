@@ -1,0 +1,56 @@
+{
+  "id": "neon-tetra",
+  "name": "Neon Tetra",
+  "scientificName": "Paracheirodon innesi",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Characidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/neon-tetra.svg",
+  "colors": {
+    "primary": "#22D3EE",
+    "secondary": "#EF4444",
+    "accent": "#94A3B8"
+  },
+  "facts": [
+    {
+      "text": "My blue stripe actually glows! Special crystals in my skin reflect light to make my neon shine.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can turn my glow on and off! At night or when I'm scared, my bright colors fade to help me hide.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love having friends! I swim in big groups called schools, and we move together like one giant fish.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Amazon's dark waters! My bright colors help my friends find me in the murky streams.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm tiny but mighty! Even though I'm only about an inch long, I can live for 5-8 years.",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Blackwater streams in the Amazon Basin",
+    "diet": "Tiny insects, worms, and plant matter",
+    "size": "Up to 1.5 inches (4 cm)",
+    "lifespan": "5-8 years"
+  }
+}

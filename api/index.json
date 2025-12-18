@@ -1,0 +1,141 @@
+{
+  "version": "2.0",
+  "totalFish": 15,
+  "fish": [
+    {
+      "id": "clownfish",
+      "name": "Clownfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "betta",
+      "name": "Betta",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "purple",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "pufferfish",
+      "name": "Pufferfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "round",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "goldfish",
+      "name": "Goldfish",
+      "waterType": "freshwater",
+      "habitat": "temperate",
+      "bodyShape": "oval",
+      "primaryColor": "orange",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "blue-tang",
+      "name": "Blue Tang",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "angelfish",
+      "name": "Angelfish",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "disc",
+      "primaryColor": "silver",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "seahorse",
+      "name": "Seahorse",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "unusual",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "lionfish",
+      "name": "Lionfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "red",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "neon-tetra",
+      "name": "Neon Tetra",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "blue",
+      "sizeCategory": "tiny"
+    },
+    {
+      "id": "discus",
+      "name": "Discus",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "disc",
+      "primaryColor": "pink",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "moorish-idol",
+      "name": "Moorish Idol",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "medium"
+    },
+    {
+      "id": "mandarin-dragonet",
+      "name": "Mandarin Dragonet",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "oval",
+      "primaryColor": "multi",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "butterflyfish",
+      "name": "Butterflyfish",
+      "waterType": "saltwater",
+      "habitat": "reef",
+      "bodyShape": "disc",
+      "primaryColor": "yellow",
+      "sizeCategory": "small"
+    },
+    {
+      "id": "oscar",
+      "name": "Oscar",
+      "waterType": "freshwater",
+      "habitat": "tropical",
+      "bodyShape": "oval",
+      "primaryColor": "black",
+      "sizeCategory": "large"
+    },
+    {
+      "id": "whale-shark",
+      "name": "Whale Shark",
+      "waterType": "saltwater",
+      "habitat": "pelagic",
+      "bodyShape": "streamlined",
+      "primaryColor": "silver",
+      "sizeCategory": "giant"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "butterflyfish",
+  "name": "Butterflyfish",
+  "scientificName": "Chaetodon capistratus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/butterflyfish.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#1E293B",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I have a fake eye near my tail! The dark spot tricks predators into attacking the wrong end, so I can escape.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "A black stripe hides my real eye! This makes it hard for predators to know which way I'm looking.",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I mate for life! Butterflyfish couples stay together and swim side by side around the reef.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My long snout is perfect for reaching into coral! I can pick out tiny food that other fish can't reach.",
+      "category": "diet",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I help scientists check if reefs are healthy! When there are lots of us around, it means the coral is doing well.",
+      "category": "ecology",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Caribbean and Atlantic",
+    "diet": "Coral polyps, worms, and small invertebrates",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-10 years"
+  }
+}

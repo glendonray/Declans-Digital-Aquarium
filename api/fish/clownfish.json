@@ -1,0 +1,56 @@
+{
+  "id": "clownfish",
+  "name": "Clownfish",
+  "scientificName": "Amphiprion ocellaris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacentridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/clownfish.svg",
+  "colors": {
+    "primary": "#FF6B35",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm born as a boy, but I can become a girl! All clownfish start as males, and the biggest one in the group becomes female.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live inside sea anemones that would sting other fish! I have a special slimy coating that protects me.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I help my anemone friend by cleaning off parasites and bringing it food scraps. We're best buddies!",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My family can double in size in less than 15 months! That's why there are so many of us in the ocean.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Dad does most of the babysitting! Male clownfish guard the eggs and fan them with their fins to give them oxygen.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific Ocean",
+    "diet": "Zooplankton, small invertebrates, and algae",
+    "size": "Up to 4.3 inches (11 cm)",
+    "lifespan": "6-10 years"
+  }
+}

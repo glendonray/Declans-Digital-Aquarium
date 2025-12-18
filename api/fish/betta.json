@@ -1,0 +1,56 @@
+{
+  "id": "betta",
+  "name": "Betta",
+  "scientificName": "Betta splendens",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "southeast-asia",
+    "family": "Osphronemidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/betta.svg",
+  "colors": {
+    "primary": "#8B5CF6",
+    "secondary": "#EC4899",
+    "accent": "#06B6D4"
+  },
+  "facts": [
+    {
+      "text": "I can breathe air! I have a special organ called a labyrinth that lets me gulp air from the surface.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I build bubble nests to protect my babies! I blow bubbles at the surface and stick my eggs inside them.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called the Siamese fighting fish because males like me are very protective of our territory.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from rice paddies and canals in Thailand where the water has very little oxygen. That's why I learned to breathe air!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to eat mosquito babies! In the wild, I help control mosquito populations by eating their larvae.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Rice paddies, floodplains, and canals in Southeast Asia",
+    "diet": "Mosquito larvae, zooplankton, and small insects",
+    "size": "Up to 2.8 inches (7 cm)",
+    "lifespan": "2-5 years"
+  }
+}

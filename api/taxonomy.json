@@ -1,0 +1,43 @@
+{
+  "waterType": ["freshwater", "saltwater", "brackish"],
+  "habitat": [
+    "reef",
+    "tropical",
+    "temperate",
+    "deep-sea",
+    "river",
+    "lake",
+    "pelagic"
+  ],
+  "bodyShape": [
+    "oval",
+    "disc",
+    "elongated",
+    "round",
+    "flat",
+    "unusual",
+    "streamlined"
+  ],
+  "sizeCategory": ["tiny", "small", "medium", "large", "giant"],
+  "primaryColor": [
+    "red",
+    "orange",
+    "yellow",
+    "blue",
+    "green",
+    "purple",
+    "silver",
+    "black",
+    "pink",
+    "multi"
+  ],
+  "pattern": [
+    "solid",
+    "striped",
+    "spotted",
+    "mottled",
+    "gradient",
+    "banded",
+    "swirled"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "discus",
+  "name": "Discus",
+  "scientificName": "Symphysodon",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "pink",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/discus.svg",
+  "colors": {
+    "primary": "#EC4899",
+    "secondary": "#06B6D4",
+    "accent": "#BE185D"
+  },
+  "facts": [
+    {
+      "text": "I feed my babies with my own skin! Parent discus make a special nutritious slime that our babies eat.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called the King of the Aquarium! People love my beautiful round shape and amazing colors.",
+      "category": "culture",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Both Mom and Dad take care of us! My parents take turns letting babies feed from their skin slime.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm shaped like a disc so I can slip between plants and hide from predators in the Amazon.",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm picky about my water! I need warm, soft, clean water to stay healthy and show my best colors.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Amazon River basin, slow-moving waters",
+    "diet": "Insects, worms, and small crustaceans",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "10-15 years"
+  }
+}

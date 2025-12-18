@@ -1,0 +1,56 @@
+{
+  "id": "pufferfish",
+  "name": "Pufferfish",
+  "scientificName": "Tetraodontidae family",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "tropical-worldwide",
+    "family": "Tetraodontidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/pufferfish.svg",
+  "colors": {
+    "primary": "#FCD34D",
+    "secondary": "#FFFFFF",
+    "accent": "#78716C"
+  },
+  "facts": [
+    {
+      "text": "I can puff up to twice my size! When I'm scared, I swallow water super fast to become a big spiky ball.",
+      "category": "defense",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I have a secret weapon called tetrodotoxin - it's one of the most powerful poisons in nature! It keeps predators away.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I don't have scales like other fish. Instead, I have thick, rough skin that's really tough!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My teeth never stop growing! They're fused together like a beak, and I use them to crack open shellfish and coral.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Some of my relatives are artists! Male pufferfish create beautiful circular patterns in the sand to attract females.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Tropical and subtropical ocean waters worldwide",
+    "diet": "Shellfish, crustaceans, and algae",
+    "size": "1 inch to 2 feet depending on species",
+    "lifespan": "Up to 10 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "lionfish",
+  "name": "Lionfish",
+  "scientificName": "Pterois volitans",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Scorpaenidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/lionfish.svg",
+  "colors": {
+    "primary": "#DC2626",
+    "secondary": "#FFFFFF",
+    "accent": "#FCA5A5"
+  },
+  "facts": [
+    {
+      "text": "My beautiful spines are actually venomous! They can give a very painful sting to anything that touches them.",
+      "category": "defense",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm an invader! I'm not supposed to live in the Atlantic Ocean, but people released me and now I'm causing problems.",
+      "category": "ecology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I can eat fish more than half my own size! My stretchy stomach lets me swallow really big meals.",
+      "category": "diet",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I have no natural predators in the Atlantic! That's why scientists are teaching sharks and groupers to eat us.",
+      "category": "ecology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "A single female like me can release 2 million eggs per year! That's why there are so many of us now.",
+      "category": "biology",
+      "sourceId": "noaa"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs (native to Indo-Pacific, invasive in Atlantic)",
+    "diet": "Fish, shrimp, and crabs",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "10-15 years"
+  }
+}

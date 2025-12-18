@@ -1,0 +1,56 @@
+{
+  "id": "seahorse",
+  "name": "Seahorse",
+  "scientificName": "Hippocampus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "worldwide-tropical",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/seahorse.svg",
+  "colors": {
+    "primary": "#FBBF24",
+    "secondary": "#FDE68A",
+    "accent": "#D97706"
+  },
+  "facts": [
+    {
+      "text": "Dad has the babies, not Mom! Male seahorses have a special pouch where they carry eggs until they hatch.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a really bad swimmer! I use my tiny dorsal fin to move, fluttering it up to 35 times per second.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I don't have a stomach! Food goes straight through me, so I have to eat almost constantly to survive.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My tail works like a monkey's! I can grip onto seagrass and coral so I don't float away in currents.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "Seahorse couples do a special dance every morning! They swim side by side and change colors to say hello.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and coral reefs worldwide",
+    "diet": "Tiny shrimp and plankton",
+    "size": "0.5 to 14 inches depending on species",
+    "lifespan": "1-5 years"
+  }
+}

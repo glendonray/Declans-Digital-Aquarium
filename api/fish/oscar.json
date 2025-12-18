@@ -1,0 +1,56 @@
+{
+  "id": "oscar",
+  "name": "Oscar",
+  "scientificName": "Astronotus ocellatus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "black",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/oscar.svg",
+  "colors": {
+    "primary": "#1F2937",
+    "secondary": "#F97316",
+    "accent": "#FB923C"
+  },
+  "facts": [
+    {
+      "text": "I can recognize my human! I know who feeds me and get excited when I see them coming.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I like to redecorate! I move rocks, plants, and gravel around my tank to make it just how I like it.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm one of the smartest fish! I can learn tricks and solve simple puzzles to get treats.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a fake eye spot near my tail called an ocellus! It confuses predators about which end is my head.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow really fast! With lots of food, I can grow over an inch per month when I'm young.",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Amazon River basin, slow-moving rivers",
+    "diet": "Fish, insects, crustaceans",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "10-20 years"
+  }
+}

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 70" width="110" height="70">
+  <!-- Oscar - Chunky body with orange/black markings -->
+  <defs>
+    <linearGradient id="oscarBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#374151"/>
+      <stop offset="50%" style="stop-color:#1F2937"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <radialGradient id="oscarSpot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FB923C"/>
+      <stop offset="100%" style="stop-color:#EA580C"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Dorsal fin (long, running along back) -->
+  <path d="M25 20 Q40 10 70 12 Q80 15 85 20 Q70 22 50 22 Q35 22 25 20" 
+        fill="url(#oscarBody)" stroke="#0F172A" stroke-width="0.5"/>
+  
+  <!-- Anal fin -->
+  <path d="M35 55 Q50 65 75 60 Q85 55 85 50 Q70 52 50 52 Q40 53 35 55" 
+        fill="url(#oscarBody)" stroke="#0F172A" stroke-width="0.5"/>
+  
+  <!-- Tail fin -->
+  <path d="M12 35 Q2 25 5 18 Q10 28 15 35 Q10 42 5 52 Q2 45 12 35" 
+        fill="url(#oscarBody)" stroke="#0F172A" stroke-width="0.5"/>
+  <!-- Orange edge on tail -->
+  <path d="M5 20 Q8 28 5 35 Q8 42 5 50" stroke="#F97316" stroke-width="2" fill="none"/>
+  
+  <!-- Main body - chunky oval -->
+  <ellipse cx="55" cy="35" rx="40" ry="22" fill="url(#oscarBody)"/>
+  
+  <!-- Orange/red mottled pattern -->
+  <ellipse cx="30" cy="32" rx="8" ry="6" fill="url(#oscarSpot)" opacity="0.8"/>
+  <ellipse cx="45" cy="40" rx="10" ry="7" fill="url(#oscarSpot)" opacity="0.7"/>
+  <ellipse cx="60" cy="30" rx="7" ry="5" fill="url(#oscarSpot)" opacity="0.8"/>
+  <ellipse cx="70" cy="42" rx="6" ry="5" fill="url(#oscarSpot)" opacity="0.6"/>
+  
+  <!-- Eye ring/ocellus (characteristic of oscars) -->
+  <circle cx="22" cy="38" r="6" fill="#1E293B"/>
+  <circle cx="22" cy="38" r="4" fill="#F97316"/>
+  <circle cx="22" cy="38" r="2" fill="#1E293B"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="65" cy="42" rx="10" ry="6" fill="url(#oscarBody)" opacity="0.8"/>
+  
+  <!-- Eye (large, intelligent-looking) -->
+  <circle cx="82" cy="30" r="8" fill="#FFF"/>
+  <circle cx="84" cy="30" r="5" fill="#1E293B"/>
+  <circle cx="86" cy="28" r="2" fill="#FFF"/>
+  
+  <!-- Orange ring around eye -->
+  <circle cx="82" cy="30" r="9" fill="none" stroke="#F97316" stroke-width="1.5"/>
+  
+  <!-- Thick lips (oscar characteristic) -->
+  <path d="M92 36 Q100 34 98 40 Q95 42 92 40" fill="#4B5563" stroke="#1F2937" stroke-width="0.5"/>
+  
+  <!-- Mouth -->
+  <path d="M96 37 L100 37" stroke="#1F2937" stroke-width="1.5"/>
+  
+  <!-- Blush -->
+  <ellipse cx="86" cy="42" rx="4" ry="2" fill="#FB923C" opacity="0.4"/>
+</svg>

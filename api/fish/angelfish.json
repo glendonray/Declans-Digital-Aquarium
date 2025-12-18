@@ -1,0 +1,56 @@
+{
+  "id": "angelfish",
+  "name": "Angelfish",
+  "scientificName": "Pterophyllum scalare",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "tropical",
+    "region": "south-america",
+    "family": "Cichlidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "silver",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/angelfish.svg",
+  "colors": {
+    "primary": "#CBD5E1",
+    "secondary": "#1E293B",
+    "accent": "#94A3B8"
+  },
+  "facts": [
+    {
+      "text": "I change my outfit as I grow up! My color patterns look completely different when I'm a baby versus an adult.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Mom and Dad work together to raise us! Both my parents guard our eggs and take turns fanning them with their fins.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I come from the Amazon rainforest! I live in flooded areas with lots of plants to hide in.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My triangle shape helps me hide among tall water plants. Predators have trouble spotting me!",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "When I find a partner, we stay together! Angelfish couples form strong bonds and defend their territory together.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Amazon River basin, flooded forests",
+    "diet": "Small invertebrates and plant matter",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "10-15 years"
+  }
+}

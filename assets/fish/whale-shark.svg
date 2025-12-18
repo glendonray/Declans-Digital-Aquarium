@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 60" width="140" height="60">
+  <!-- Whale Shark - Wide body with spotted pattern, gentle giant -->
+  <defs>
+    <linearGradient id="whaleSharkBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#475569"/>
+      <stop offset="100%" style="stop-color:#334155"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Tail fin (vertical like sharks) -->
+  <path d="M5 30 Q0 15 8 10 Q10 22 12 30 Q10 38 8 50 Q0 45 5 30" 
+        fill="url(#whaleSharkBody)"/>
+  
+  <!-- Second dorsal fin -->
+  <path d="M35 22 Q40 18 45 22" fill="url(#whaleSharkBody)"/>
+  
+  <!-- First dorsal fin (larger) -->
+  <path d="M65 18 Q75 5 85 18 Q78 20 70 20 Z" fill="url(#whaleSharkBody)"/>
+  
+  <!-- Pectoral fins (large, wing-like) -->
+  <path d="M80 35 Q60 50 55 55 Q70 48 80 40" fill="url(#whaleSharkBody)"/>
+  <path d="M80 35 Q95 55 100 52 Q90 42 80 38" fill="url(#whaleSharkBody)" opacity="0.7"/>
+  
+  <!-- Main body - wide, streamlined -->
+  <path d="M12 30 Q20 18 60 15 Q100 12 130 25 Q135 30 130 35 Q100 48 60 45 Q20 42 12 30" 
+        fill="url(#whaleSharkBody)"/>
+  
+  <!-- White belly -->
+  <path d="M20 35 Q60 42 120 35 Q100 45 60 43 Q30 42 20 35" 
+        fill="#E2E8F0" opacity="0.6"/>
+  
+  <!-- Characteristic white spots pattern -->
+  <circle cx="25" cy="25" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="35" cy="22" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="32" cy="30" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="45" cy="20" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="42" cy="28" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="50" cy="24" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="55" cy="32" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="60" cy="22" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="65" cy="28" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="72" cy="20" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="75" cy="30" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="82" cy="24" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="88" cy="28" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="95" cy="22" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="92" cy="32" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="102" cy="26" r="2" fill="#FFF" opacity="0.8"/>
+  <circle cx="108" cy="30" r="1.5" fill="#FFF" opacity="0.8"/>
+  
+  <!-- Horizontal lines/ridges -->
+  <path d="M20 28 Q70 25 115 28" stroke="#64748B" stroke-width="0.5" fill="none"/>
+  <path d="M25 33 Q70 31 110 33" stroke="#64748B" stroke-width="0.5" fill="none"/>
+  
+  <!-- Wide mouth -->
+  <path d="M125 28 Q135 25 135 30 Q135 35 125 32" fill="#1E293B"/>
+  
+  <!-- Gill slits -->
+  <line x1="115" y1="26" x2="115" y2="34" stroke="#1E293B" stroke-width="1"/>
+  <line x1="118" y1="25" x2="118" y2="35" stroke="#1E293B" stroke-width="1"/>
+  <line x1="121" y1="26" x2="121" y2="34" stroke="#1E293B" stroke-width="1"/>
+  
+  <!-- Eye (small for body size) -->
+  <circle cx="122" cy="28" r="3" fill="#FFF"/>
+  <circle cx="123" cy="28" r="2" fill="#1E293B"/>
+  <circle cx="123.5" cy="27" r="0.7" fill="#FFF"/>
+</svg>

@@ -1,0 +1,56 @@
+{
+  "id": "goldfish",
+  "name": "Goldfish",
+  "scientificName": "Carassius auratus",
+  "taxonomy": {
+    "waterType": "freshwater",
+    "habitat": "temperate",
+    "region": "east-asia",
+    "family": "Cyprinidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "orange",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/goldfish.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#FFFFFF",
+    "accent": "#FCD34D"
+  },
+  "facts": [
+    {
+      "text": "My memory is way better than people think! I can remember things for months, not just 3 seconds. That's a myth!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can live for 30 years! With good care, I can be your friend for a really, really long time.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can grow almost 2 feet long if I have enough space! Most people don't know how big I can get.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super tough! I can survive in water with very little oxygen and even handle some pollution.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I've been a pet for over 1,000 years! People in ancient China first started keeping my ancestors as pets.",
+      "category": "history",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Ponds, lakes, and slow-moving rivers in East Asia",
+    "diet": "Plants, algae, insects, and small crustaceans",
+    "size": "Up to 19 inches (48 cm)",
+    "lifespan": "10-30 years"
+  }
+}

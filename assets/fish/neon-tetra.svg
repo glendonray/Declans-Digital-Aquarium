@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 35" width="70" height="35">
+  <!-- Neon Tetra - Small with glowing blue/red stripe -->
+  <defs>
+    <linearGradient id="tetraBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#64748B"/>
+      <stop offset="40%" style="stop-color:#94A3B8"/>
+      <stop offset="100%" style="stop-color:#CBD5E1"/>
+    </linearGradient>
+    <linearGradient id="neonBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06B6D4"/>
+      <stop offset="50%" style="stop-color:#22D3EE"/>
+      <stop offset="100%" style="stop-color:#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="neonRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#EF4444"/>
+      <stop offset="50%" style="stop-color:#F87171"/>
+      <stop offset="100%" style="stop-color:#DC2626"/>
+    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Tail fin -->
+  <path d="M8 17 Q2 12 5 8 Q8 14 10 17 Q8 20 5 27 Q2 23 8 17" 
+        fill="#F87171" opacity="0.8"/>
+  
+  <!-- Main body -->
+  <ellipse cx="35" cy="17" rx="25" ry="10" fill="url(#tetraBody)"/>
+  
+  <!-- Neon blue stripe (iridescent) -->
+  <path d="M12 14 Q35 12 55 14" stroke="url(#neonBlue)" stroke-width="4" fill="none" 
+        filter="url(#glow)" stroke-linecap="round"/>
+  
+  <!-- Red stripe (lower half, back portion) -->
+  <path d="M30 20 Q42 21 55 20" stroke="url(#neonRed)" stroke-width="4" fill="none"
+        stroke-linecap="round"/>
+  
+  <!-- Dorsal fin -->
+  <path d="M32 8 Q38 4 42 8" fill="#94A3B8" stroke="#64748B" stroke-width="0.5"/>
+  
+  <!-- Anal fin -->
+  <path d="M28 25 Q35 30 42 25" fill="#94A3B8" stroke="#64748B" stroke-width="0.5"/>
+  
+  <!-- Adipose fin (small) -->
+  <ellipse cx="48" cy="10" rx="3" ry="2" fill="#94A3B8"/>
+  
+  <!-- Eye -->
+  <circle cx="52" cy="15" r="4" fill="#FFF"/>
+  <circle cx="53" cy="15" r="2.5" fill="#1E293B"/>
+  <circle cx="54" cy="14" r="0.8" fill="#FFF"/>
+  
+  <!-- Eye ring (blue reflection) -->
+  <circle cx="52" cy="15" r="4" fill="none" stroke="#22D3EE" stroke-width="0.5" opacity="0.5"/>
+  
+  <!-- Mouth -->
+  <path d="M58 18 Q61 19 59 20" stroke="#475569" stroke-width="0.8" fill="none"/>
+</svg>

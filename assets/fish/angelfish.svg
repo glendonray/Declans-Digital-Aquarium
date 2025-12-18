@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 100" width="80" height="100">
+  <!-- Angelfish - Tall triangular body with flowing fins -->
+  <defs>
+    <linearGradient id="angelBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E2E8F0"/>
+      <stop offset="50%" style="stop-color:#CBD5E1"/>
+      <stop offset="100%" style="stop-color:#94A3B8"/>
+    </linearGradient>
+    <linearGradient id="angelStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1E293B"/>
+      <stop offset="100%" style="stop-color:#334155"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Long dorsal fin -->
+  <path d="M40 5 Q50 15 48 35 L40 30 Z" fill="url(#angelBody)" stroke="#64748B" stroke-width="0.5"/>
+  
+  <!-- Long ventral fin -->
+  <path d="M40 95 Q50 85 48 65 L40 70 Z" fill="url(#angelBody)" stroke="#64748B" stroke-width="0.5"/>
+  
+  <!-- Tail fin -->
+  <path d="M15 50 Q5 40 8 30 Q12 45 15 50 Q12 55 8 70 Q5 60 15 50" 
+        fill="url(#angelBody)" stroke="#64748B" stroke-width="0.5"/>
+  
+  <!-- Main body - tall diamond/triangle shape -->
+  <path d="M40 15 Q65 35 65 50 Q65 65 40 85 Q25 65 25 50 Q25 35 40 15" 
+        fill="url(#angelBody)" stroke="#64748B" stroke-width="1"/>
+  
+  <!-- Vertical stripes -->
+  <path d="M35 22 Q33 50 35 78" stroke="url(#angelStripe)" stroke-width="3" fill="none"/>
+  <path d="M48 28 Q50 50 48 72" stroke="url(#angelStripe)" stroke-width="2.5" fill="none"/>
+  <path d="M58 38 Q60 50 58 62" stroke="url(#angelStripe)" stroke-width="2" fill="none"/>
+  
+  <!-- Pectoral fin -->
+  <ellipse cx="50" cy="50" rx="8" ry="5" fill="url(#angelBody)" stroke="#64748B" stroke-width="0.5" 
+           transform="rotate(-20 50 50)"/>
+  
+  <!-- Eye -->
+  <circle cx="55" cy="45" r="6" fill="#FFF"/>
+  <circle cx="57" cy="45" r="3.5" fill="#1E293B"/>
+  <circle cx="58" cy="43" r="1.2" fill="#FFF"/>
+  
+  <!-- Mouth -->
+  <path d="M64 52 Q68 54 64 56" stroke="#475569" stroke-width="1" fill="none"/>
+  
+  <!-- Blush -->
+  <ellipse cx="58" cy="55" rx="4" ry="2" fill="#FDA4AF" opacity="0.4"/>
+</svg>

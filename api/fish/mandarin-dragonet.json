@@ -1,0 +1,56 @@
+{
+  "id": "mandarin-dragonet",
+  "name": "Mandarin Dragonet",
+  "scientificName": "Synchiropus splendidus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "western-pacific",
+    "family": "Callionymidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "swirled"
+  },
+  "image": "assets/fish/mandarin-dragonet.svg",
+  "colors": {
+    "primary": "#F97316",
+    "secondary": "#3B82F6",
+    "accent": "#22C55E"
+  },
+  "facts": [
+    {
+      "text": "I might be the most colorful fish in the ocean! My swirling blue, orange, and green patterns are one of a kind.",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "My blue color is super special! Instead of using pigments, my skin has tiny structures that create blue light.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have stinky, slimy skin! My mucus smells bad and tastes terrible, which keeps predators away.",
+      "category": "defense",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I'm really shy! During the day I hide in coral rubble and only come out at sunset to find food and friends.",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "We do a beautiful dance at sunset! Male and female mandarins swim up together in a spiral when it's time to have babies.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Western Pacific Ocean",
+    "diet": "Tiny crustaceans and worms",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "10-15 years"
+  }
+}

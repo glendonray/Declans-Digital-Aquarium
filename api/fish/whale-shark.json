@@ -1,0 +1,56 @@
+{
+  "id": "whale-shark",
+  "name": "Whale Shark",
+  "scientificName": "Rhincodon typus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "pelagic",
+    "region": "tropical-worldwide",
+    "family": "Rhincodontidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "giant",
+    "primaryColor": "silver",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/whale-shark.svg",
+  "colors": {
+    "primary": "#475569",
+    "secondary": "#FFFFFF",
+    "accent": "#334155"
+  },
+  "facts": [
+    {
+      "text": "I'm the biggest fish in the entire ocean! I can grow up to 60 feet long - that's as big as a school bus!",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "Even though I'm huge, I only eat tiny things! I filter plankton and small fish through my giant mouth.",
+      "category": "diet",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "My spots are like fingerprints! Every whale shark has a unique pattern that scientists use to identify us.",
+      "category": "biology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm super gentle! Divers can swim right next to me because I'm not dangerous to humans at all.",
+      "category": "behavior",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm a shark, not a whale! Even though I'm called a whale shark, I'm actually a fish with gills.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    }
+  ],
+  "profile": {
+    "habitat": "Warm tropical oceans worldwide",
+    "diet": "Plankton, fish eggs, and small fish",
+    "size": "Up to 60 feet (18 meters)",
+    "lifespan": "70-100 years"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "moorish-idol",
+  "name": "Moorish Idol",
+  "scientificName": "Zanclus cornutus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Zanclidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/moorish-idol.svg",
+  "colors": {
+    "primary": "#FDE047",
+    "secondary": "#FFFFFF",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "My long white fin is like a fancy flag! It trails behind me as I swim and can be longer than my body.",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the hardest fish to keep in an aquarium! I'm very picky about my food and get stressed easily.",
+      "category": "behavior",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to eat sponges! They're my favorite food, and I use my long snout to pick them out of tiny spaces.",
+      "category": "diet",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can dive really deep! I've been found swimming at depths of over 500 feet below the surface.",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I usually travel with a partner or small group. We stick together as we swim around the reef.",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific Ocean",
+    "diet": "Sponges, algae, and small invertebrates",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "5-7 years"
+  }
+}

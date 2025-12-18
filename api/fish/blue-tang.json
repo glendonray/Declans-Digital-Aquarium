@@ -1,0 +1,56 @@
+{
+  "id": "blue-tang",
+  "name": "Blue Tang",
+  "scientificName": "Paracanthurus hepatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/blue-tang.svg",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#FCD34D",
+    "accent": "#1E293B"
+  },
+  "facts": [
+    {
+      "text": "I'm a coral reef superhero! I eat algae that could smother the coral, helping keep the reef healthy.",
+      "category": "ecology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I have a sharp spine near my tail that pops out like a tiny sword when I'm scared! It's called a scalpel.",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My bright blue color comes from special cells in my skin. I can even change how bright I look!",
+      "category": "biology",
+      "sourceId": "eol"
+    },
+    {
+      "text": "I love to hang out in groups! We swim together in schools for safety and to find the best algae snacks.",
+      "category": "behavior",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "At night, I find a cozy spot in the coral and tuck myself in to sleep. I need my beauty rest!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs in the Indo-Pacific Ocean",
+    "diet": "Algae and plankton",
+    "size": "Up to 12 inches (31 cm)",
+    "lifespan": "8-20 years"
+  }
+}
