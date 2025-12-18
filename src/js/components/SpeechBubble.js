@@ -174,10 +174,25 @@ export class SpeechBubble {
   }
 
   /**
+   * Check if we're on a mobile device (based on viewport width)
+   * @returns {boolean}
+   */
+  isMobile() {
+    return window.innerWidth <= 600;
+  }
+
+  /**
    * Position the bubble near the fish
    * @param {Object} pos - Position {x, y}
    */
   position(pos) {
+    // On mobile, CSS handles positioning as a fixed bottom sheet
+    if (this.isMobile()) {
+      this.element.style.left = "";
+      this.element.style.top = "";
+      return;
+    }
+
     const bubbleRect = this.element.getBoundingClientRect();
     const containerRect = this.element.parentElement.getBoundingClientRect();
 

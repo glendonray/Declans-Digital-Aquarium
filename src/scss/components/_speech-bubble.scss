@@ -11,7 +11,7 @@
   padding: var(--spacing-md);
   max-width: 280px;
   min-width: 200px;
-  z-index: 100;
+  z-index: 300; // Above my-list-button (200)
   opacity: 0;
   transform: scale(0.8) translateY(10px);
   transition: opacity var(--duration-normal) ease-out, transform var(--duration-normal) ease-out;
@@ -25,7 +25,7 @@
     pointer-events: auto;
   }
 
-  // Speech bubble tail
+  // Speech bubble tail (hidden on mobile)
   &::before {
     content: "";
     position: absolute;
@@ -50,6 +50,54 @@
     border-top: 10px solid var(--color-speech-bg);
   }
 
+  // ==========================================
+  // MOBILE: Bottom sheet style
+  // ==========================================
+  @media (max-width: 600px) {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: auto;
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+    border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+    border-bottom: none;
+    padding: var(--spacing-lg);
+    padding-bottom: calc(var(--spacing-lg) + env(safe-area-inset-bottom, 0px));
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(100%);
+    max-height: 70vh;
+    max-height: 70dvh;
+    overflow-y: auto;
+
+    &--visible {
+      transform: translateY(0);
+    }
+
+    // Hide the tail on mobile
+    &::before,
+    &::after {
+      display: none;
+    }
+
+    // Add a drag handle indicator at top
+    &::before {
+      display: block;
+      content: "";
+      position: absolute;
+      top: var(--spacing-sm);
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 4px;
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: var(--radius-full);
+      border: none;
+    }
+  }
+
   &__header {
     display: flex;
     align-items: center;
@@ -57,6 +105,12 @@
     margin-bottom: var(--spacing-sm);
     padding-bottom: var(--spacing-sm);
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+    @media (max-width: 600px) {
+      margin-top: var(--spacing-sm); // Space for drag handle
+      padding-bottom: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+    }
   }
 
   &__name {
@@ -64,6 +118,10 @@
     font-size: var(--text-lg);
     color: var(--color-text-primary);
     flex: 1;
+
+    @media (max-width: 600px) {
+      font-size: var(--text-xl);
+    }
   }
 
   &__save {
@@ -96,6 +154,12 @@
     // Animation when saving
     &--saved {
       animation: heartPop var(--duration-normal) ease-out;
+    }
+
+    @media (max-width: 600px) {
+      width: 40px;
+      height: 40px;
+      font-size: 20px;
     }
   }
 
@@ -178,6 +242,14 @@
       background-color: rgba(0, 0, 0, 0.1);
       color: var(--color-text-primary);
     }
+
+    @media (max-width: 600px) {
+      top: var(--spacing-sm);
+      right: var(--spacing-sm);
+      width: 36px;
+      height: 36px;
+      font-size: var(--text-xl);
+    }
   }
 
   &__nav {
@@ -187,6 +259,12 @@
     margin-top: var(--spacing-sm);
     padding-top: var(--spacing-sm);
     border-top: 1px solid rgba(0, 0, 0, 0.1);
+
+    @media (max-width: 600px) {
+      gap: var(--spacing-sm);
+      padding-top: var(--spacing-md);
+      margin-top: var(--spacing-md);
+    }
   }
 
   &__dot {
@@ -196,10 +274,16 @@
     background: var(--color-text-secondary);
     opacity: 0.3;
     transition: opacity var(--duration-fast);
+    cursor: pointer;
 
     &--active {
       opacity: 1;
       background: var(--color-speech-border);
+    }
+
+    @media (max-width: 600px) {
+      width: 12px;
+      height: 12px;
     }
   }
 }
