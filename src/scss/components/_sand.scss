@@ -8,12 +8,11 @@
   bottom: 0;
   left: 0;
   right: 0;
-  height: 60px;
-  background: linear-gradient(
-    180deg,
-    var(--color-sand) 0%,
-    var(--color-sand-dark) 100%
-  );
+  // Extend sand height to account for mobile browser navigation bars
+  height: calc(60px + env(safe-area-inset-bottom, 0px));
+  // Add padding so content above the sand stays visible
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  background: linear-gradient(180deg, var(--color-sand) 0%, var(--color-sand-dark) 100%);
   border-radius: 50% 50% 0 0 / 20px 20px 0 0;
   z-index: 10;
 
@@ -22,31 +21,8 @@
     content: "";
     position: absolute;
     inset: 0;
-    background-image: radial-gradient(
-        circle at 10% 20%,
-        rgba(0, 0, 0, 0.1) 1px,
-        transparent 1px
-      ),
-      radial-gradient(
-        circle at 30% 60%,
-        rgba(0, 0, 0, 0.08) 1px,
-        transparent 1px
-      ),
-      radial-gradient(
-        circle at 50% 30%,
-        rgba(0, 0, 0, 0.1) 1px,
-        transparent 1px
-      ),
-      radial-gradient(
-        circle at 70% 70%,
-        rgba(0, 0, 0, 0.08) 1px,
-        transparent 1px
-      ),
-      radial-gradient(
-        circle at 90% 40%,
-        rgba(0, 0, 0, 0.1) 1px,
-        transparent 1px
-      );
+    background-image: radial-gradient(circle at 10% 20%, rgba(0, 0, 0, 0.1) 1px, transparent 1px), radial-gradient(circle at 30% 60%, rgba(0, 0, 0, 0.08) 1px, transparent 1px),
+      radial-gradient(circle at 50% 30%, rgba(0, 0, 0, 0.1) 1px, transparent 1px), radial-gradient(circle at 70% 70%, rgba(0, 0, 0, 0.08) 1px, transparent 1px), radial-gradient(circle at 90% 40%, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
     background-size: 100px 60px;
   }
 }

@@ -7,7 +7,8 @@
   position: fixed;
   inset: 0;
   width: 100vw;
-  height: 100vh;
+  height: 100vh; // Fallback for older browsers
+  height: 100dvh; // Dynamic viewport height - adjusts for mobile browser UI
   overflow: hidden;
 
   &__inner {
