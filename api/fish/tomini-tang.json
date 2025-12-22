@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Acanthuridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "orange",
-    "pattern": "solid"
+    "primaryColor": "brown",
+    "pattern": "spotted"
   },
   "image": "assets/fish/tomini-tang.svg",
   "colors": {
-    "primary": "#CD853F",
-    "secondary": "#FF6347",
-    "accent": "#4169E1"
+    "primary": "#8D6E63",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm one of the smallest tangs! I stay under 6 inches, making me perfect for smaller reef tanks.",
+      "text": "I'm brown with orange spots! I'm one of the best algae eaters!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My tail fin has a beautiful blue edge and orange center - like a tiny sunset!",
-      "category": "biology",
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm named after Tomini Bay in Indonesia where I was first discovered!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm perfect for smaller tanks! I'm one of the smallest tangs!",
+      "category": "biology",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Indonesia",
-    "diet": "Film algae and detritus",
-    "size": "Up to 6 inches (15 cm)",
-    "lifespan": "10+ years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and detritus",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "15-20 years"
   }
 }

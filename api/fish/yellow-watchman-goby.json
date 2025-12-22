@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/yellow-watchman-goby.svg",
   "colors": {
-    "primary": "#FDE047",
-    "secondary": "#38BDF8",
-    "accent": "#1E293B"
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I live with a shrimp roommate! The shrimp digs our burrow and I watch for danger.",
+      "text": "I share my burrow with a pistol shrimp! The shrimp digs while I stand guard - we're best friends!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I got my name because I stand guard like a watchman outside my burrow!",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "The shrimp is nearly blind, so I tap my tail to signal when it's safe to come out!",
-      "category": "behavior",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I have pretty blue spots on my face that sparkle in the light!",
+      "text": "I'm bright yellow with blue spots on my face - I look like I'm always ready for a party!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "When scared, my shrimp and I both dive into our burrow together!",
-      "category": "defense",
-      "sourceId": "fishbase"
+      "text": "I'm called a 'watchman' because I keep watch at the entrance of my burrow!",
+      "category": "behavior",
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy areas near coral reefs",
-    "diet": "Small invertebrates and plankton",
-    "size": "Up to 4 inches (10 cm)",
-    "lifespan": "3-5 years"
+    "habitat": "Coral reefs and sandy bottoms of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

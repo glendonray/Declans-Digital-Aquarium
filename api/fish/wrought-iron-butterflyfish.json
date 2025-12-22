@@ -1,0 +1,47 @@
+{
+  "id": "wrought-iron-butterflyfish",
+  "name": "Wrought Iron Butterflyfish",
+  "scientificName": "Chaetodon daedalma",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "japan",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/wrought-iron-butterflyfish.svg",
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm black with white stripes! I'm one of the rarest and most expensive butterflyfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Japan! I'm called wrought iron because I'm black like iron!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive fish in the hobby!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Japan",
+    "diet": "Small invertebrates and coral polyps",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-10 years"
+  }
+}
+

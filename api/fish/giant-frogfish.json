@@ -1,0 +1,47 @@
+{
+  "id": "giant-frogfish",
+  "name": "Giant Frogfish",
+  "scientificName": "Antennarius commerson",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Antennariidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "large",
+    "primaryColor": "brown",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/giant-frogfish.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm the largest frogfish! I can grow up to 15 inches!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a fishing rod on my head with a wiggly lure!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change my color to match my surroundings!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 15 inches (38 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

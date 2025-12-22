@@ -1,0 +1,47 @@
+{
+  "id": "rockmover-wrasse",
+  "name": "Rockmover Wrasse",
+  "scientificName": "Novaculichthys taeniourus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/rockmover-wrasse.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called rockmover because I flip over rocks looking for food!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm green with spots! Juveniles look like floating seaweed!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and love to rearrange the tank!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and invertebrates",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

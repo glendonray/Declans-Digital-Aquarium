@@ -1,7 +1,7 @@
 {
   "id": "peppermint-angelfish",
   "name": "Peppermint Angelfish",
-  "scientificName": "Centropyge boylei",
+  "scientificName": "Paracentropyge boylei",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
@@ -9,38 +9,38 @@
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
     "primaryColor": "red",
     "pattern": "striped"
   },
   "image": "assets/fish/peppermint-angelfish.svg",
   "colors": {
-    "primary": "#DC143C",
+    "primary": "#F44336",
     "secondary": "#FFFFFF",
-    "accent": "#FFD700"
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm the most expensive fish in the world! One sold for $30,000 because I'm so rare!",
-      "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have red and white stripes like a peppermint candy - festive and beautiful!",
+      "text": "I'm red and white like a peppermint candy! I'm one of the rarest and most expensive angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I live in very deep water around the Cook Islands - over 300 feet deep!",
+      "text": "I'm from deep waters in the Pacific! I'm super rare!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive fish in the hobby!",
       "category": "ecology",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Deep reef caves near Rarotonga, Cook Islands",
-    "diet": "Small invertebrates and algae",
-    "size": "Up to 3 inches (7 cm)",
-    "lifespan": "10+ years"
+    "habitat": "Deep coral reefs of the Pacific",
+    "diet": "Sponges and tunicates",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "10-15 years"
   }
 }

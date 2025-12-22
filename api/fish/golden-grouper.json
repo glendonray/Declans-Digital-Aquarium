@@ -1,0 +1,47 @@
+{
+  "id": "golden-grouper",
+  "name": "Golden Grouper",
+  "scientificName": "Epinephelus costae",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "mediterranean",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/golden-grouper.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm golden yellow with spots! I'm one of the most beautiful groupers!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Mediterranean! I'm super rare!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need a huge tank!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Mediterranean",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 20 inches (50 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "cyanogularis-fairy-wrasse",
+  "name": "Cyanogularis Fairy Wrasse",
+  "scientificName": "Cirrhilabrus cyanogularis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/cyanogularis-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with a blue throat! I'm called cyanogularis because I have a cyan (blue) throat!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Pacific! I'm super colorful!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

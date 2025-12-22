@@ -1,0 +1,47 @@
+{
+  "id": "porcupine-puffer",
+  "name": "Porcupine Puffer",
+  "scientificName": "Diodon hystrix",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Diodontidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "large",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/porcupine-puffer.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in sharp spines! When I puff up, they stick out like a porcupine!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can inflate myself to twice my normal size when I'm scared!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very intelligent and can recognize my owner!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas of the Indo-Pacific",
+    "diet": "Hard-shelled invertebrates and crustaceans",
+    "size": "Up to 20 inches (50 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

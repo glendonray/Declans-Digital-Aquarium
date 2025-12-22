@@ -11,46 +11,36 @@
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "large",
-    "primaryColor": "black",
+    "primaryColor": "multi",
     "pattern": "spotted"
   },
   "image": "assets/fish/clown-triggerfish.svg",
   "colors": {
-    "primary": "#1E293B",
-    "secondary": "#FFFFFF",
-    "accent": "#FBBF24"
+    "primary": "#000000",
+    "secondary": "#FFC107",
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I have big white polka dots on my belly! They make me look like a clown.",
+      "text": "I'm black with yellow spots and a white mouth - I look like a clown!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have super strong teeth that can crack open sea urchins and crabs!",
+      "text": "I'm one of the most beautiful triggerfish! I'm super colorful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My lips are bright orange like I'm wearing lipstick!",
-      "category": "biology",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I can lock my first spine to wedge myself into holes so predators can't pull me out!",
-      "category": "defense",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm known for having a grumpy personality! I guard my territory fiercely.",
+      "text": "I'm very aggressive and need a large tank! But I'm worth it!",
       "category": "behavior",
-      "sourceId": "fishbase"
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Indo-Pacific",
-    "diet": "Sea urchins, crabs, mollusks, and coral",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans, mollusks, and fish",
     "size": "Up to 20 inches (50 cm)",
-    "lifespan": "8-12 years"
+    "lifespan": "10-15 years"
   }
 }

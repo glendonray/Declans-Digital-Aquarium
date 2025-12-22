@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/royal-dottyback.svg",
   "colors": {
-    "primary": "#9333EA",
-    "secondary": "#FACC15",
-    "accent": "#1E293B"
+    "primary": "#9C27B0",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm half purple and half yellow, split right down the middle!",
+      "text": "I'm purple in the front and yellow in the back! I'm like a royal sunset!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm called royal because my colors look like a king's robe!",
+      "text": "I'm also called the Bicolor Dottyback because of my two colors!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm tiny but fierce! I'll defend my cave from much bigger fish.",
+      "text": "I'm very territorial but beautiful! I need my own space!",
       "category": "behavior",
       "sourceId": "eol"
-    },
-    {
-      "text": "I live in small caves and crevices in the reef!",
-      "category": "habitat",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I can change gender! If there's no male around, a female can become one.",
-      "category": "biology",
-      "sourceId": "fishbase"
     }
   ],
   "profile": {
-    "habitat": "Rocky caves in coral reefs",
+    "habitat": "Coral reefs of the Indo-Pacific",
     "diet": "Small crustaceans and zooplankton",
-    "size": "Up to 3 inches (7 cm)",
-    "lifespan": "5-7 years"
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

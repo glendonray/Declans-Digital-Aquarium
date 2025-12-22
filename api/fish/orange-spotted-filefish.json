@@ -1,0 +1,47 @@
+{
+  "id": "orange-spotted-filefish",
+  "name": "Orange Spotted Filefish",
+  "scientificName": "Oxymonacanthus longirostris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Monacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/orange-spotted-filefish.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#FF9800",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm green with orange spots! I'm super colorful and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a long pointy nose! I use it to pick food from tight spaces!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Coral polyps and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

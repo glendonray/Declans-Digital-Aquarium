@@ -1,0 +1,47 @@
+{
+  "id": "chalk-bass",
+  "name": "Chalk Bass",
+  "scientificName": "Serranus tortugarum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "purple",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/chalk-bass.svg",
+  "colors": {
+    "primary": "#9C27B0",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called chalk because I'm purple like chalk!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm purple with black spots - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

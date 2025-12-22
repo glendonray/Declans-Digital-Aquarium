@@ -1,0 +1,47 @@
+{
+  "id": "splendid-fairy-wrasse",
+  "name": "Splendid Fairy Wrasse",
+  "scientificName": "Cirrhilabrus jordani",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "hawaii",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/splendid-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red and yellow! I'm called splendid because I'm so splendid!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Hawaii! I'm one of the most beautiful fairy wrasses!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

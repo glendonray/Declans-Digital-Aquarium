@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/dragon-wrasse.svg",
   "colors": {
-    "primary": "#228B22",
-    "secondary": "#8B4513",
-    "accent": "#FFFFFF"
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#1B5E20"
   },
   "facts": [
     {
-      "text": "When I'm young, I look like a piece of floating seaweed - great camouflage!",
+      "text": "When I'm a baby, I look like a floating piece of seaweed with long fins that wave in the current!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I flip over rocks and coral rubble to find food - I'm very strong!",
+      "text": "I'm called a Dragon Wrasse because I can flip over rocks like a dragon searching for food!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Rockmover Wrasse because I actually move rocks around!",
+      "text": "I love to rearrange the sand and rocks in my tank - I'm like a little underwater landscaper!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Invertebrates found under rocks",
+    "habitat": "Coral reefs and rubble zones of the Indo-Pacific",
+    "diet": "Small invertebrates, crustaceans, and worms",
     "size": "Up to 12 inches (30 cm)",
-    "lifespan": "8-10 years"
+    "lifespan": "8-12 years"
   }
 }

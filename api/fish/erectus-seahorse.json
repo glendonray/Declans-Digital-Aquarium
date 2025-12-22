@@ -1,0 +1,47 @@
+{
+  "id": "erectus-seahorse",
+  "name": "Erectus Seahorse",
+  "scientificName": "Hippocampus erectus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/erectus-seahorse.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Lined Seahorse! I'm one of the most popular seahorses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change colors from green to yellow to brown!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very hardy and adapt well to aquarium life!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and coral reefs of the Caribbean",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

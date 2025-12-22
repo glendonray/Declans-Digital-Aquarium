@@ -1,0 +1,47 @@
+{
+  "id": "wheelers-watchman-goby",
+  "name": "Wheeler's Watchman Goby",
+  "scientificName": "Amblyeleotris wheeleri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "white",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/wheelers-watchman-goby.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#FFC107"
+  },
+  "facts": [
+    {
+      "text": "I'm white with black stripes! I'm named after the scientist who discovered me!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I form a symbiotic relationship with pistol shrimp!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and detritus",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

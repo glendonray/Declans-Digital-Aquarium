@@ -1,0 +1,47 @@
+{
+  "id": "scrawled-cowfish",
+  "name": "Scrawled Cowfish",
+  "scientificName": "Acanthostracion quadricornis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Ostraciidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/scrawled-cowfish.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#64B5F6",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called scrawled because I have scribbled patterns all over my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm blue with yellow patterns - I look like someone drew on me!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very slow and peaceful! I swim like I'm floating!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

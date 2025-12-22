@@ -1,0 +1,47 @@
+{
+  "id": "exquisite-wrasse",
+  "name": "Exquisite Wrasse",
+  "scientificName": "Cirrhilabrus exquisitus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/exquisite-wrasse.svg",
+  "colors": {
+    "primary": "#9C27B0",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm purple and yellow with amazing colors! I'm one of the most exquisite wrasses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called exquisite because I'm so beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

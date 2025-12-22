@@ -1,0 +1,47 @@
+{
+  "id": "tiger-tail-seahorse",
+  "name": "Tiger Tail Seahorse",
+  "scientificName": "Hippocampus comes",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/tiger-tail-seahorse.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called tiger tail because I have black stripes like a tiger!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm yellow with black stripes - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very popular in the hobby! I'm hardy and adapt well!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and seagrass beds of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "spotted-trunkfish",
+  "name": "Spotted Trunkfish",
+  "scientificName": "Lactophrys bicaudalis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Ostraciidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/spotted-trunkfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with black spots! I'm super colorful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm shaped like a trunk with a hard shell! I'm like a living safe!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very slow and peaceful! I swim like I'm floating!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

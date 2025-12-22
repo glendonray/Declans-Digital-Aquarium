@@ -1,0 +1,47 @@
+{
+  "id": "barbours-seahorse",
+  "name": "Barbour's Seahorse",
+  "scientificName": "Hippocampus barbouri",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/barbours-seahorse.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with black spots! I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm named after the scientist who discovered me!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very hardy and adapt well to aquarium life!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Gobiidae"
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "small",
-    "primaryColor": "silver",
-    "pattern": "fanged"
+    "sizeCategory": "tiny",
+    "primaryColor": "black",
+    "pattern": "striped"
   },
   "image": "assets/fish/dracula-goby.svg",
   "colors": {
-    "primary": "#F5F5F5",
-    "secondary": "#DC143C",
-    "accent": "#000000"
+    "primary": "#1A1A1A",
+    "secondary": "#FFFFFF",
+    "accent": "#8B0000"
   },
   "facts": [
     {
-      "text": "I have two fang-like teeth that stick out like vampire fangs - spooky!",
+      "text": "I'm named Dracula because of my dark colors and mysterious appearance! But I'm actually very friendly!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm white with red stripes and a face that would make Dracula proud!",
-      "category": "biology",
-      "sourceId": "fishbase"
+      "text": "I'm super rare and expensive - collectors love me for my unique look!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
     },
     {
-      "text": "Don't worry - I use my fangs for catching tiny prey, not biting people!",
+      "text": "I'm very shy and like to hide in my burrow most of the time!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Deep sandy areas near coral reefs",
-    "diet": "Small crustaceans and invertebrates",
-    "size": "Up to 3 inches (7.5 cm)",
+    "habitat": "Coral rubble zones of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 2 inches (5 cm)",
     "lifespan": "3-5 years"
   }
 }

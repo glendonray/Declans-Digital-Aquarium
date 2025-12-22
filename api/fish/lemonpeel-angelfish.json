@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
     "primaryColor": "yellow",
-    "pattern": "ringed"
+    "pattern": "solid"
   },
   "image": "assets/fish/lemonpeel-angelfish.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#4169E1",
-    "accent": "#000000"
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#2196F3"
   },
   "facts": [
     {
-      "text": "I'm bright yellow like a lemon! I have a beautiful blue ring around my eye and blue-edged fins.",
+      "text": "I'm bright yellow like a lemon peel! I'm one of the most colorful dwarf angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'flavissima' means 'very yellow' - that describes me perfectly!",
+      "text": "I'm called lemonpeel because I'm bright yellow!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm a sunshine fish that brightens up any reef tank with my glowing color!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Central and Western Pacific",
+    "habitat": "Coral reefs of the Indo-Pacific",
     "diet": "Algae and small invertebrates",
-    "size": "Up to 5.5 inches (14 cm)",
-    "lifespan": "10-12 years"
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10-15 years"
   }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "ocellatus-flasher-wrasse",
+  "name": "Ocellatus Flasher Wrasse",
+  "scientificName": "Paracheilinus ocellatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/ocellatus-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red with eye-like spots! I'm called ocellatus because I have eye-like spots!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called flasher because I flash my colors when I'm excited!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

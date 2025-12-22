@@ -1,0 +1,47 @@
+{
+  "id": "painted-frogfish",
+  "name": "Painted Frogfish",
+  "scientificName": "Antennarius pictus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Antennariidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/painted-frogfish.svg",
+  "colors": {
+    "primary": "#FF5722",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in beautiful spots and patterns that look like someone painted me! No two painted frogfish look exactly alike!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can 'walk' on the bottom using my modified fins that look like little feet!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My lure looks like a tiny worm or shrimp - fish can't resist checking it out!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and sandy bottoms of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

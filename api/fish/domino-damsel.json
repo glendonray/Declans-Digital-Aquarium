@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/domino-damsel.svg",
   "colors": {
-    "primary": "#1E293B",
+    "primary": "#000000",
     "secondary": "#FFFFFF",
-    "accent": "#000000"
+    "accent": "#9E9E9E"
   },
   "facts": [
     {
-      "text": "I have three white spots like dots on a domino! That's how I got my name.",
+      "text": "I'm called domino because I have three white spots like dominoes!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "When I'm young, I live inside sea anemones just like clownfish!",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "My spots fade as I grow up. Adult dominos are almost all black!",
+      "text": "I'm black with three white spots - I'm super distinctive!",
       "category": "biology",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I'm pretty feisty! I'll defend my territory against much bigger fish.",
-      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I make clicking sounds to communicate with other fish!",
+      "text": "I'm very hardy and great for beginners!",
       "category": "behavior",
-      "sourceId": "fishbase"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs and lagoons in the Indo-Pacific",
-    "diet": "Plankton, algae, and small invertebrates",
-    "size": "Up to 5 inches (13 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
     "lifespan": "5-8 years"
   }
 }

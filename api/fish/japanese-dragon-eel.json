@@ -1,0 +1,47 @@
+{
+  "id": "japanese-dragon-eel",
+  "name": "Japanese Dragon Eel",
+  "scientificName": "Enchelycore pardalis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "japan",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/japanese-dragon-eel.svg",
+  "colors": {
+    "primary": "#FF9800",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm orange and black with amazing patterns! I'm one of the rarest and most expensive eels!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Japan! I'm called dragon because I look like a dragon!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive eels in the hobby!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Japan",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 36 inches (90 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

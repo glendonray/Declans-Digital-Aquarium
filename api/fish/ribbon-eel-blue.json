@@ -1,0 +1,47 @@
+{
+  "id": "ribbon-eel-blue",
+  "name": "Ribbon Eel (Blue Phase)",
+  "scientificName": "Rhinomuraena quaesita",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/ribbon-eel-blue.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#64B5F6",
+    "accent": "#0D47A1"
+  },
+  "facts": [
+    {
+      "text": "I'm bright blue when I'm a male! I have a long, ribbon-like body that can grow up to 4 feet long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have flared nostrils that look like horns - they help me smell my prey in the water!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I spend most of my time with just my head sticking out of my burrow, waiting for a tasty fish to swim by!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and lagoons of the Indo-Pacific",
+    "diet": "Small fish",
+    "size": "Up to 4 feet (120 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

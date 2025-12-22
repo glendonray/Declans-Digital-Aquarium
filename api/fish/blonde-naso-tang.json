@@ -5,41 +5,41 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "indian-ocean",
+    "region": "indo-pacific",
     "family": "Acanthuridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "large",
     "primaryColor": "yellow",
-    "pattern": "solid"
+    "pattern": "striped"
   },
   "image": "assets/fish/blonde-naso-tang.svg",
   "colors": {
-    "primary": "#C9A227",
+    "primary": "#FFEB3B",
     "secondary": "#000000",
-    "accent": "#FF8C00"
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I'm called 'blonde' because I have a beautiful golden-tan body color!",
+      "text": "I'm yellow with black stripes! I'm the blonde version of the naso tang!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have bright orange lips that look like I'm wearing lipstick! Very stylish.",
+      "text": "I have a long nose that I use to pick food from tight spaces!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'elegans' means elegant - and I really am a graceful swimmer!",
-      "category": "biology",
+      "text": "I'm very active and need a huge tank!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Indian Ocean and Red Sea",
-    "diet": "Algae, especially brown macroalgae",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 18 inches (45 cm)",
     "lifespan": "20+ years"
   }

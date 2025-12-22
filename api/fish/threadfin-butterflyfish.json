@@ -10,37 +10,37 @@
   },
   "appearance": {
     "bodyShape": "disc",
-    "sizeCategory": "medium",
-    "primaryColor": "yellow",
-    "pattern": "chevron"
+    "sizeCategory": "small",
+    "primaryColor": "white",
+    "pattern": "striped"
   },
   "image": "assets/fish/threadfin-butterflyfish.svg",
   "colors": {
-    "primary": "#FFD700",
+    "primary": "#FFFFFF",
     "secondary": "#000000",
-    "accent": "#FFFFFF"
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "I have a long thread-like extension on my dorsal fin - my special banner!",
+      "text": "I have a long thread-like extension on my dorsal fin! It looks like I'm trailing a ribbon!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have diagonal lines across my body like a chevron pattern!",
+      "text": "I'm white with black diagonal stripes and a yellow tail - I'm very elegant!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the most common butterflyfish on Indo-Pacific reefs!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm one of the hardiest butterflyfish and great for beginners!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Coral polyps, anemones, and algae",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small invertebrates and coral polyps",
     "size": "Up to 9 inches (23 cm)",
-    "lifespan": "10-15 years"
+    "lifespan": "5-10 years"
   }
 }

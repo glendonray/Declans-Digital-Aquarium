@@ -1,0 +1,47 @@
+{
+  "id": "dwarf-seahorse",
+  "name": "Dwarf Seahorse",
+  "scientificName": "Hippocampus zosterae",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "tiny",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/dwarf-seahorse.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm the smallest seahorse! I'm only about 1 inch long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super tiny and cute! I'm perfect for nano tanks!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very delicate and need special care! But I'm worth it!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds of the Caribbean",
+    "diet": "Tiny crustaceans and zooplankton",
+    "size": "Up to 1 inch (2.5 cm)",
+    "lifespan": "2-3 years"
+  }
+}
+

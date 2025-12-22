@@ -1,0 +1,47 @@
+{
+  "id": "sixbar-grouper",
+  "name": "Sixbar Grouper",
+  "scientificName": "Epinephelus sexfasciatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "brown",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/sixbar-grouper.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with six black bars! I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called sixbar because I have six black bars!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need a huge tank!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

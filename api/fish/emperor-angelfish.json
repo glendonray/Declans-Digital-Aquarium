@@ -10,46 +10,36 @@
   },
   "appearance": {
     "bodyShape": "disc",
-    "sizeCategory": "medium",
+    "sizeCategory": "large",
     "primaryColor": "blue",
     "pattern": "striped"
   },
   "image": "assets/fish/emperor-angelfish.svg",
   "colors": {
-    "primary": "#1E40AF",
-    "secondary": "#FACC15",
+    "primary": "#2196F3",
+    "secondary": "#FFC107",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I look completely different as a baby! Young emperors have blue and white circles instead of stripes.",
+      "text": "I'm blue with yellow stripes! I'm one of the most regal angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm named after emperors because I look so royal with my beautiful stripes!",
+      "text": "I'm called emperor because I look like I'm wearing a royal crown!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "Juveniles look completely different from adults - they're black with white circles!",
       "category": "biology",
       "sourceId": "eol"
-    },
-    {
-      "text": "I make a thumping sound when I'm scared! It warns other fish that danger is near.",
-      "category": "defense",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I can live for over 20 years! That's a really long time for a fish.",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I love to eat sponges! They're my favorite food even though they don't taste good to other fish.",
-      "category": "diet",
-      "sourceId": "fishbase"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Indo-Pacific",
-    "diet": "Sponges, algae, and small invertebrates",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Sponges, tunicates, and small invertebrates",
     "size": "Up to 15 inches (38 cm)",
     "lifespan": "20+ years"
   }

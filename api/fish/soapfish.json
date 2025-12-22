@@ -1,0 +1,47 @@
+{
+  "id": "soapfish",
+  "name": "Soapfish",
+  "scientificName": "Rypticus saponaceus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/soapfish.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with spots! I'm called soapfish because I produce a soap-like substance when stressed!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean! I'm very unique!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

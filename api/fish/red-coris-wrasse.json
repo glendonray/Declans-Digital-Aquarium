@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/red-coris-wrasse.svg",
   "colors": {
-    "primary": "#DC143C",
-    "secondary": "#4169E1",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#000000",
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "When I'm young I'm bright orange-red with white spots - totally different from adults!",
+      "text": "I'm red with black spots! Juveniles look completely different - they're white with red spots!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "As an adult, I turn dark blue-green with colorful face markings!",
+      "text": "I'm also called the Clown Wrasse!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to flip over rocks and rubble looking for snails and crabs to eat!",
+      "text": "I'm very active and need lots of space!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Snails, crabs, and small invertebrates",
-    "size": "Up to 14 inches (35 cm)",
-    "lifespan": "8-10 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and pests",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "8-12 years"
   }
 }

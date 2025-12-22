@@ -1,46 +1,46 @@
 {
   "id": "mocha-clownfish",
   "name": "Mocha Clownfish",
-  "scientificName": "Amphiprion ocellaris (designer)",
+  "scientificName": "Amphiprion ocellaris",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "captive-bred",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "orange",
+    "primaryColor": "brown",
     "pattern": "banded"
   },
   "image": "assets/fish/mocha-clownfish.svg",
   "colors": {
-    "primary": "#8B4513",
+    "primary": "#8D6E63",
     "secondary": "#FFFFFF",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm named after mocha coffee because of my warm brown and orange tones. Sweet and beautiful!",
+      "text": "I'm a designer clownfish that's brown like mocha coffee! I'm super unique!",
       "category": "biology",
       "sourceId": "captive-bred"
     },
     {
-      "text": "My unique coloring is a blend between orange and black clownfish genetics. I'm like a delicious swirl!",
+      "text": "I'm named mocha because of my brown color!",
       "category": "biology",
       "sourceId": "captive-bred"
     },
     {
-      "text": "Mocha clownfish like me were first bred by Sea & Reef Aquaculture. Now we're loved by hobbyists worldwide!",
-      "category": "biology",
+      "text": "I'm very popular in the hobby! I'm super unique and beautiful!",
+      "category": "ecology",
       "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Captive-bred for home aquariums",
-    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
-    "size": "Up to 3 inches (7.5 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific (captive-bred)",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "6-10 years"
   }
 }

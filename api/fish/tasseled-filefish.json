@@ -1,0 +1,47 @@
+{
+  "id": "tasseled-filefish",
+  "name": "Tasseled Filefish",
+  "scientificName": "Chaetodermis penicilligerus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Monacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/tasseled-filefish.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have tassels all over my body! I look like a piece of seaweed!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm green with tassels - I'm perfect camouflage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very slow and peaceful! I blend in perfectly with my surroundings!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

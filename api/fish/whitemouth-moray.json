@@ -1,0 +1,47 @@
+{
+  "id": "whitemouth-moray",
+  "name": "Whitemouth Moray",
+  "scientificName": "Gymnothorax meleagris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/whitemouth-moray.svg",
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm called whitemouth because I have a white mouth!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm black with white spots - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and reef-safe! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

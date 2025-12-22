@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
     "primaryColor": "black",
     "pattern": "solid"
   },
   "image": "assets/fish/midnight-angelfish.svg",
   "colors": {
-    "primary": "#0D0D0D",
-    "secondary": "#1A1A1A",
-    "accent": "#4169E1"
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#9E9E9E"
   },
   "facts": [
     {
-      "text": "I'm completely black like the midnight sky - one of the darkest fish on the reef!",
+      "text": "I'm jet black like midnight! I'm one of the most unique dwarf angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'nox' means 'night' in Latin - I'm a creature of darkness!",
+      "text": "I'm called midnight because I'm black like the night!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm shy and like to hide in caves and crevices during the day!",
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Western Pacific",
+    "habitat": "Coral reefs of the Indo-Pacific",
     "diet": "Algae and small invertebrates",
-    "size": "Up to 4 inches (10 cm)",
-    "lifespan": "10+ years"
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "10-15 years"
   }
 }

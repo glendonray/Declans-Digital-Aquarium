@@ -1,7 +1,7 @@
 {
   "id": "half-black-angelfish",
   "name": "Half Black Angelfish",
-  "scientificName": "Centropyge vroliki",
+  "scientificName": "Centropyge vrolikii",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
@@ -9,38 +9,38 @@
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
-    "primaryColor": "silver",
-    "pattern": "half-dark"
+    "primaryColor": "multi",
+    "pattern": "gradient"
   },
   "image": "assets/fish/half-black-angelfish.svg",
   "colors": {
-    "primary": "#C0C0C0",
-    "secondary": "#1A1A1A",
-    "accent": "#FF8C00"
+    "primary": "#000000",
+    "secondary": "#FFEB3B",
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "My front half is pearly gray and my back half is black - I'm half and half!",
+      "text": "I'm half black and half yellow! My colors are split right down the middle!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have orange edges on my tail fin that add a pop of warm color!",
+      "text": "I'm called half black because I'm half black!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Pearlscale Angelfish because my front scales shimmer like pearls!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs from Indonesia to Fiji",
+    "habitat": "Coral reefs of the Indo-Pacific",
     "diet": "Algae and small invertebrates",
     "size": "Up to 4 inches (10 cm)",
-    "lifespan": "10+ years"
+    "lifespan": "10-15 years"
   }
 }

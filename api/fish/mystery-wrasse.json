@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/mystery-wrasse.svg",
   "colors": {
-    "primary": "#9370DB",
-    "secondary": "#FFD700",
-    "accent": "#FF69B4"
+    "primary": "#9C27B0",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm called the Mystery Wrasse because I hide in rocks and am hard to find!",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have beautiful purple and pink coloring with golden speckles!",
+      "text": "I'm purple with yellow spots! I'm called mystery because I'm so mysterious!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm a secretive fish who peeks out from rocky hiding spots!",
+      "text": "I'm one of the most popular wrasses! I'm super colorful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Pacific Islands",
-    "diet": "Small invertebrates and crustaceans",
-    "size": "Up to 4 inches (10 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "dragon-moray",
+  "name": "Dragon Moray",
+  "scientificName": "Enchelycore pardalis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/dragon-moray.svg",
+  "colors": {
+    "primary": "#FF9800",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called dragon because I look like a dragon with my patterns!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm orange and black with amazing patterns - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive and beautiful moray eels!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 36 inches (90 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

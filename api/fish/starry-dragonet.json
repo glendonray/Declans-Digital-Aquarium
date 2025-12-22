@@ -5,20 +5,20 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "indian-ocean",
+    "region": "indo-pacific",
     "family": "Callionymidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "unusual",
     "sizeCategory": "small",
-    "primaryColor": "red",
+    "primaryColor": "blue",
     "pattern": "spotted"
   },
   "image": "assets/fish/starry-dragonet.svg",
   "colors": {
-    "primary": "#CD5C5C",
+    "primary": "#2196F3",
     "secondary": "#FFFFFF",
-    "accent": "#4169E1"
+    "accent": "#000000"
   },
   "facts": [
     {
@@ -27,20 +27,20 @@
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'stellatus' means 'starry' - perfectly named!",
+      "text": "I'm blue with white starry spots - I'm like a galaxy swimming in the tank!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I come from the Indian Ocean and I'm a rare find in aquariums!",
-      "category": "ecology",
+      "text": "I'm peaceful and get along well with other small fish!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Indian Ocean",
-    "diet": "Tiny copepods and amphipods",
-    "size": "Up to 3 inches (7 cm)",
+    "habitat": "Coral rubble and sandy areas of the Indo-Pacific",
+    "diet": "Small copepods and amphipods",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

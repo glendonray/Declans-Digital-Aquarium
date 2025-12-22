@@ -1,0 +1,47 @@
+{
+  "id": "two-barred-rabbitfish",
+  "name": "Two Barred Rabbitfish",
+  "scientificName": "Siganus doliatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Siganidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/two-barred-rabbitfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called two barred because I have two black bars!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm yellow with two black bars - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a great algae eater! I help keep tanks clean!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

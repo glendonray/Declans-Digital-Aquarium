@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/pink-watchman-goby.svg",
   "colors": {
-    "primary": "#FFB6C1",
-    "secondary": "#FF69B4",
-    "accent": "#4169E1"
+    "primary": "#F8BBD0",
+    "secondary": "#F48FB1",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I live with a pistol shrimp! The shrimp digs our burrow and I watch for danger.",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm pink with beautiful blue spots - one of the prettiest watchman gobies!",
+      "text": "I'm pink with white spots! I'm the softer, gentler cousin of the yellow watchman goby!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I touch my shrimp friend with my tail to signal when predators are near!",
+      "text": "I also team up with pistol shrimp - together we make an unbeatable team!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other small fish in the tank!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy areas near coral reefs",
-    "diet": "Meaty foods and small invertebrates",
-    "size": "Up to 4 inches (10 cm)",
+    "habitat": "Coral reefs and sandy areas of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

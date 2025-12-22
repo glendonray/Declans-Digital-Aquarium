@@ -1,0 +1,47 @@
+{
+  "id": "arc-eye-hawkfish",
+  "name": "Arc-Eye Hawkfish",
+  "scientificName": "Paracirrhites arcatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Cirrhitidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/arc-eye-hawkfish.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have a curved arc above my eye! That's how I got my name!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm green and yellow with spots - I blend in perfectly with coral!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful for a hawkfish and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "masked-rabbitfish",
+  "name": "Masked Rabbitfish",
+  "scientificName": "Siganus puellus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Siganidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/masked-rabbitfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called masked because I have a black mask around my eyes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm yellow with a black mask - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a great algae eater! I help keep tanks clean!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

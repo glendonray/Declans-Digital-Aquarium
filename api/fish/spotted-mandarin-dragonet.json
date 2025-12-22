@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Callionymidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "unusual",
     "sizeCategory": "small",
-    "primaryColor": "green",
+    "primaryColor": "multi",
     "pattern": "spotted"
   },
   "image": "assets/fish/spotted-mandarin-dragonet.svg",
   "colors": {
-    "primary": "#228B22",
-    "secondary": "#FF8C00",
+    "primary": "#4CAF50",
+    "secondary": "#FFC107",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm covered in psychedelic spots instead of swirls - like a polka-dot masterpiece!",
+      "text": "I'm covered in beautiful spots and swirls of green, blue, and orange! I'm like a living work of art!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Picturesque Dragonet because I look like a painting!",
+      "text": "I'm the spotted cousin of the mandarin dragonet - we're both super colorful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "Like my cousin the Green Mandarin, I produce smelly slime to keep predators away!",
-      "category": "defense",
+      "text": "I spend my days picking tiny copepods off the rocks and sand!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral rubble and lagoons",
-    "diet": "Tiny copepods and amphipods",
-    "size": "Up to 3 inches (7 cm)",
-    "lifespan": "10-15 years"
+    "habitat": "Coral rubble and sandy areas of the Indo-Pacific",
+    "diet": "Small copepods and amphipods",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "yellow-stingray",
+  "name": "Yellow Stingray",
+  "scientificName": "Urobatis jamaicensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Urotrygonidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/yellow-stingray.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with spots! I'm one of the most beautiful rays!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean! I'm one of the few rays that can live in home aquariums!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a venomous stinger on my tail! Don't touch me!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs of the Caribbean",
+    "diet": "Small crustaceans and mollusks",
+    "size": "Up to 10 inches (25 cm) disc width",
+    "lifespan": "15-20 years"
+  }
+}
+

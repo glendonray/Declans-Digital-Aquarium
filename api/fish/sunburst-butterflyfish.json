@@ -1,0 +1,47 @@
+{
+  "id": "sunburst-butterflyfish",
+  "name": "Sunburst Butterflyfish",
+  "scientificName": "Chaetodon kleinii",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/sunburst-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow with orange spots - I look like a little sunburst!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called Klein's Butterflyfish! I'm small but full of color!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm peaceful and get along well with other fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small invertebrates and coral polyps",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-10 years"
+  }
+}
+

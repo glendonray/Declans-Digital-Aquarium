@@ -1,0 +1,47 @@
+{
+  "id": "yellow-multibanded-pipefish",
+  "name": "Yellow Multibanded Pipefish",
+  "scientificName": "Dunckerocampus pessuliferus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/yellow-multibanded-pipefish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with black bands! I'm super colorful and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm related to seahorses! I have a long snout like them!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

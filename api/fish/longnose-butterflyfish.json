@@ -1,7 +1,7 @@
 {
   "id": "longnose-butterflyfish",
   "name": "Longnose Butterflyfish",
-  "scientificName": "Forcipiger flavissimus",
+  "scientificName": "Forcipiger longirostris",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
@@ -12,35 +12,35 @@
     "bodyShape": "disc",
     "sizeCategory": "small",
     "primaryColor": "yellow",
-    "pattern": "masked"
+    "pattern": "solid"
   },
   "image": "assets/fish/longnose-butterflyfish.svg",
   "colors": {
-    "primary": "#FFD700",
+    "primary": "#FFEB3B",
     "secondary": "#000000",
     "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I have a super long nose that helps me reach into cracks for tiny snacks!",
+      "text": "I have the longest nose of any butterflyfish! I use it like tweezers to pick food from tight spaces!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I use my long snout like tweezers to pick out tiny invertebrates!",
+      "text": "I'm bright yellow with a black mask - I look like a little superhero!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm bright yellow with a black mask - like a superhero fish!",
-      "category": "biology",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Tiny invertebrates and coral polyps",
-    "size": "Up to 9 inches (22 cm)",
-    "lifespan": "10-15 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small invertebrates and coral polyps",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "5-10 years"
   }
 }

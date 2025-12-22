@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "hawaii",
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
     "primaryColor": "orange",
-    "pattern": "marbled"
+    "pattern": "mottled"
   },
   "image": "assets/fish/potters-angelfish.svg",
   "colors": {
-    "primary": "#FF4500",
-    "secondary": "#4169E1",
-    "accent": "#000000"
+    "primary": "#FF9800",
+    "secondary": "#000000",
+    "accent": "#2196F3"
   },
   "facts": [
     {
-      "text": "I have beautiful swirling patterns of orange and blue - like a living painting!",
+      "text": "I'm orange with blue spots! I'm from Hawaii!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm endemic to Hawaii - you can only find me in Hawaiian waters!",
+      "text": "I'm named after the scientist who discovered me!",
       "category": "ecology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm named after Frederick Potter, a director of the Steinhart Aquarium!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
     "habitat": "Coral reefs of Hawaii",
     "diet": "Algae and small invertebrates",
     "size": "Up to 4 inches (10 cm)",
-    "lifespan": "10+ years"
+    "lifespan": "10-15 years"
   }
 }

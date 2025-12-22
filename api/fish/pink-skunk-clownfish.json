@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/pink-skunk-clownfish.svg",
   "colors": {
-    "primary": "#FFB6C1",
+    "primary": "#F8BBD0",
     "secondary": "#FFFFFF",
-    "accent": "#FF69B4"
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm called a skunk clownfish because I have a white stripe running down my back, just like a skunk!",
+      "text": "I'm pink with a white stripe down my back! I'm super cute!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the most peaceful clownfish! I get along well with other fish and rarely pick fights.",
+      "text": "I'm called skunk because of my stripe! I'm very peaceful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most peaceful clownfish! Perfect for community tanks!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "My pink color comes from the food I eat! If I don't get the right diet, I might turn more orange.",
-      "category": "biology",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs from Thailand to Samoa",
-    "diet": "Algae, zooplankton, and small crustaceans",
-    "size": "Up to 4 inches (10 cm)",
-    "lifespan": "8-12 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "6-10 years"
   }
 }

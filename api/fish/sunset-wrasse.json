@@ -1,0 +1,47 @@
+{
+  "id": "sunset-wrasse",
+  "name": "Sunset Wrasse",
+  "scientificName": "Thalassoma lutescens",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "orange",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/sunset-wrasse.svg",
+  "colors": {
+    "primary": "#FF9800",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm orange and yellow like a sunset! I'm one of the most beautiful wrasses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called sunset because I'm orange and yellow like a sunset!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need lots of space!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

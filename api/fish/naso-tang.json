@@ -11,46 +11,36 @@
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "large",
-    "primaryColor": "silver",
-    "pattern": "solid"
+    "primaryColor": "gray",
+    "pattern": "striped"
   },
   "image": "assets/fish/naso-tang.svg",
   "colors": {
-    "primary": "#94A3B8",
-    "secondary": "#F97316",
-    "accent": "#FACC15"
+    "primary": "#9E9E9E",
+    "secondary": "#000000",
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "I have bright orange lips like I'm wearing lipstick! It's my signature look.",
+      "text": "I'm gray with black stripes and a yellow tail! I'm one of the largest tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Blonde Naso because of my yellow forehead!",
+      "text": "I have a long nose that I use to pick food from tight spaces!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have two orange scalpels near my tail that are super sharp!",
-      "category": "defense",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I love hanging out in groups with my tang friends!",
+      "text": "I'm very active and need a huge tank!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have a small horn on my forehead that gets bigger as I age!",
-      "category": "biology",
-      "sourceId": "fishbase"
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reef slopes in the Indo-Pacific",
-    "diet": "Brown algae and zooplankton",
-    "size": "Up to 18 inches (46 cm)",
-    "lifespan": "30+ years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "20+ years"
   }
 }

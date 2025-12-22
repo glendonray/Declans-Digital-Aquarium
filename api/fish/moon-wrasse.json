@@ -12,35 +12,35 @@
     "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "green",
-    "pattern": "gradient"
+    "pattern": "mottled"
   },
   "image": "assets/fish/moon-wrasse.svg",
   "colors": {
-    "primary": "#32CD32",
-    "secondary": "#4169E1",
-    "accent": "#FF69B4"
+    "primary": "#4CAF50",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a crescent moon shape on my tail - that's how I got my name!",
+      "text": "I'm green with yellow fins! I'm called moon because of my crescent-shaped tail!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm green and blue with pink face markings - a real rainbow fish!",
+      "text": "I'm one of the most popular wrasses! I'm super colorful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the most common wrasses you'll see on Indo-Pacific reefs!",
-      "category": "ecology",
+      "text": "I'm very active and need lots of space!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Small invertebrates and crustaceans",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 10 inches (25 cm)",
-    "lifespan": "8-10 years"
+    "lifespan": "8-12 years"
   }
 }

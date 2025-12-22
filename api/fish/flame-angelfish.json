@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/flame-angelfish.svg",
   "colors": {
-    "primary": "#DC2626",
-    "secondary": "#F97316",
-    "accent": "#1E3A8A"
+    "primary": "#F44336",
+    "secondary": "#000000",
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "I look like a little ball of fire! My bright red and orange colors make me one of the prettiest fish.",
+      "text": "I'm bright red with black stripes and a yellow tail! I'm like a living flame!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm a dwarf angelfish! I stay small and cute my whole life.",
+      "text": "I'm one of the most popular dwarf angelfish! I'm super colorful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to hide in coral and rocks! You might see me peeking out from my favorite spot.",
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I eat algae and tiny animals called tunicates. I'm always nibbling on something!",
-      "category": "diet",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm shy at first, but once I feel safe, I'll swim around exploring everywhere!",
-      "category": "behavior",
-      "sourceId": "fishbase"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Pacific Ocean",
-    "diet": "Algae, small invertebrates, and tunicates",
+    "habitat": "Coral reefs of the Pacific",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 4 inches (10 cm)",
-    "lifespan": "5-7 years"
+    "lifespan": "10-15 years"
   }
 }

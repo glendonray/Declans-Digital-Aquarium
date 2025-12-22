@@ -1,46 +1,46 @@
 {
   "id": "ruby-head-fairy-wrasse",
   "name": "Ruby Head Fairy Wrasse",
-  "scientificName": "Cirrhilabrus rubricephalus",
+  "scientificName": "Cirrhilabrus rubrimarginatus",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "red",
-    "pattern": "capped"
+    "pattern": "gradient"
   },
   "image": "assets/fish/ruby-head-fairy-wrasse.svg",
   "colors": {
-    "primary": "#E0115F",
-    "secondary": "#FF69B4",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#E91E63",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a brilliant ruby-red head that glows like a precious gem!",
+      "text": "I'm red with a ruby-red head! I'm one of the most beautiful fairy wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name means 'red head' - it's perfectly fitting!",
+      "text": "I'm called ruby head because I have a ruby-red head!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm from Papua New Guinea and the Solomon Islands!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Papua New Guinea",
-    "diet": "Zooplankton and small crustaceans",
-    "size": "Up to 4 inches (10 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

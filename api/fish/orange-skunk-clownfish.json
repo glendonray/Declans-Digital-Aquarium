@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/orange-skunk-clownfish.svg",
   "colors": {
-    "primary": "#FFA500",
+    "primary": "#FF6B35",
     "secondary": "#FFFFFF",
-    "accent": "#FFD700"
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I only have one white stripe - it runs from my nose all the way down my back like a racing stripe!",
+      "text": "I'm orange with a white stripe down my back! I'm the orange version of the skunk clownfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm bright orange all over and one of the smallest clownfish species. Good things come in small packages!",
+      "text": "I'm called skunk because of my stripe! I'm very peaceful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm super shy and gentle! I prefer calm tankmates and peaceful anemone homes.",
+      "text": "I'm one of the most peaceful clownfish! Perfect for community tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs from the Philippines to Australia",
-    "diet": "Algae, plankton, and tiny invertebrates",
-    "size": "Up to 3.5 inches (9 cm)",
-    "lifespan": "8-12 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "6-10 years"
   }
 }

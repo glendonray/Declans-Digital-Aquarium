@@ -1,0 +1,47 @@
+{
+  "id": "warty-frogfish",
+  "name": "Warty Frogfish",
+  "scientificName": "Antennarius maculatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Antennariidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/warty-frogfish.svg",
+  "colors": {
+    "primary": "#FFC107",
+    "secondary": "#FFEB3B",
+    "accent": "#F57C00"
+  },
+  "facts": [
+    {
+      "text": "I have a fishing rod on my head with a wiggly lure! I wave it to attract curious fish, then gulp them down!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change my color and texture to match coral, sponges, or rocks - I'm a master of disguise!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can swallow fish almost as big as me! My mouth can expand to 12 times its normal size!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rubble zones of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

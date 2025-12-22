@@ -1,0 +1,47 @@
+{
+  "id": "interruptus-angelfish",
+  "name": "Interruptus Angelfish",
+  "scientificName": "Centropyge interruptus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/interruptus-angelfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#2196F3"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with black stripes! I'm one of the rarest and most expensive angelfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Japan! I'm super rare!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive fish in the hobby!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Japan",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

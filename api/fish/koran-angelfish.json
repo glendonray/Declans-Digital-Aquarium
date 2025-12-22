@@ -11,36 +11,36 @@
   "appearance": {
     "bodyShape": "disc",
     "sizeCategory": "large",
-    "primaryColor": "green",
-    "pattern": "spotted"
+    "primaryColor": "blue",
+    "pattern": "mottled"
   },
   "image": "assets/fish/koran-angelfish.svg",
   "colors": {
-    "primary": "#2E8B57",
-    "secondary": "#4169E1",
-    "accent": "#FFD700"
+    "primary": "#2196F3",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "When I'm young, I have curved white lines that look like Arabic writing from the Koran!",
+      "text": "I'm blue and yellow with semicircle patterns! I'm one of the most beautiful angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "As I grow up, I transform from blue and white stripes to green and gold spots - totally different!",
+      "text": "I'm called koran because my patterns look like Arabic script!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Semicircle Angelfish because of the curved markings on juvenile fish!",
+      "text": "Juveniles look completely different from adults!",
       "category": "biology",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Sponges, algae, and tunicates",
-    "size": "Up to 15 inches (40 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Sponges, tunicates, and small invertebrates",
+    "size": "Up to 16 inches (40 cm)",
     "lifespan": "20+ years"
   }
 }

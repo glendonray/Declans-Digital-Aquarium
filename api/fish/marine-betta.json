@@ -1,0 +1,47 @@
+{
+  "id": "marine-betta",
+  "name": "Marine Betta",
+  "scientificName": "Calloplesiops altivelis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Plesiopidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/marine-betta.svg",
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#FFC107"
+  },
+  "facts": [
+    {
+      "text": "I'm called marine betta because I look like a betta fish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm black with white spots and a yellow tail - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "tiger-angelfish",
+  "name": "Tiger Angelfish",
+  "scientificName": "Apolemichthys kingi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indian-ocean",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/tiger-angelfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with black stripes like a tiger! I'm one of the rarest and most expensive angelfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Indian Ocean! I'm super rare!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive fish in the hobby!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Sponges and tunicates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

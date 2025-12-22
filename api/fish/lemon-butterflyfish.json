@@ -1,0 +1,47 @@
+{
+  "id": "lemon-butterflyfish",
+  "name": "Lemon Butterflyfish",
+  "scientificName": "Chaetodon miliaris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "hawaii",
+    "family": "Chaetodontidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/lemon-butterflyfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow like a lemon! I'm one of the most common butterflyfish in Hawaii!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have tiny black spots all over my body - I look like I'm covered in polka dots!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and love to explore every corner of the reef!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Hawaii",
+    "diet": "Small invertebrates and coral polyps",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-10 years"
+  }
+}
+

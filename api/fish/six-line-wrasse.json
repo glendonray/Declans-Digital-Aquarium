@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/six-line-wrasse.svg",
   "colors": {
-    "primary": "#7C3AED",
-    "secondary": "#F97316",
-    "accent": "#1E293B"
+    "primary": "#9C27B0",
+    "secondary": "#000000",
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "I have exactly six horizontal lines on my body! That's how I got my name.",
+      "text": "I'm purple with six horizontal lines! I'm one of the most popular wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm a pest controller! I eat flatworms and tiny parasites that bug other fish.",
-      "category": "ecology",
+      "text": "I'm called six line because I have six horizontal lines!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm super fast and zip around the reef all day exploring every nook and cranny!",
+      "text": "I'm great at eating pests like flatworms and pyramid snails!",
       "category": "behavior",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I have a fake eye spot on my tail to confuse predators about which end is which!",
-      "category": "defense",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "At night, I make a mucus sleeping bag to hide my scent from predators!",
-      "category": "defense",
-      "sourceId": "fishbase"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Indo-Pacific",
-    "diet": "Small invertebrates, parasites, and worms",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and pests",
     "size": "Up to 3 inches (8 cm)",
-    "lifespan": "4-6 years"
+    "lifespan": "5-8 years"
   }
 }

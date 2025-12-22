@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Blenniidae"
   },
   "appearance": {
-    "bodyShape": "elongated",
+    "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "orange",
+    "primaryColor": "blue",
     "pattern": "spotted"
   },
   "image": "assets/fish/tailspot-blenny.svg",
   "colors": {
-    "primary": "#FF8C00",
-    "secondary": "#000000",
-    "accent": "#4169E1"
+    "primary": "#2196F3",
+    "secondary": "#64B5F6",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a distinctive black spot at the base of my tail - my signature mark!",
+      "text": "I have a bright spot on my tail! It's like I'm wearing a little badge!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm peachy orange with a cute face and big eyes!",
+      "text": "I'm blue with a yellow tail spot - I'm super cute and full of personality!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to perch on rocks and peek out at what's happening in the tank!",
+      "text": "I'm peaceful and great for reef tanks! I love to perch on rocks and watch the world!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Philippines",
-    "diet": "Algae and small invertebrates",
-    "size": "Up to 2.5 inches (6 cm)",
-    "lifespan": "4-6 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

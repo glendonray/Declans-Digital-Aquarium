@@ -1,0 +1,47 @@
+{
+  "id": "powder-brown-tang",
+  "name": "Powder Brown Tang",
+  "scientificName": "Acanthurus japonicus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Acanthuridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "brown",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/powder-brown-tang.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with a white face! I'm the brown cousin of the powder blue tang!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and love to swim around! I need lots of space!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm prone to ich, so I need good water quality!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 9 inches (23 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

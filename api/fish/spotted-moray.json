@@ -1,0 +1,47 @@
+{
+  "id": "spotted-moray",
+  "name": "Spotted Moray",
+  "scientificName": "Gymnothorax moringa",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/spotted-moray.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with white spots! I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean! I'm one of the most common moray eels!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and reef-safe! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

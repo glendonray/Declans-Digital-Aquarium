@@ -10,37 +10,37 @@
   },
   "appearance": {
     "bodyShape": "disc",
-    "sizeCategory": "large",
-    "primaryColor": "silver",
-    "pattern": "barred"
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "striped"
   },
   "image": "assets/fish/six-bar-angelfish.svg",
   "colors": {
-    "primary": "#C0C0C0",
+    "primary": "#FFEB3B",
     "secondary": "#000000",
-    "accent": "#FFD700"
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I have six bold black bars running down my silver body - easy to count!",
+      "text": "I'm yellow with six black bars! I'm super distinctive!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My tail is bright yellow with a blue edge - a beautiful contrast to my striped body!",
+      "text": "I'm called six-bar because I have six black bars on my body!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'sexstriatus' means 'six stripes' - scientists named me after my bars!",
-      "category": "biology",
+      "text": "I'm very active and need a huge tank!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs from Australia to Japan",
-    "diet": "Sponges, tunicates, and algae",
-    "size": "Up to 18 inches (46 cm)",
-    "lifespan": "20+ years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Sponges, tunicates, and small invertebrates",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "15-20 years"
   }
 }

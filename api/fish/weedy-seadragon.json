@@ -1,0 +1,47 @@
+{
+  "id": "weedy-seadragon",
+  "name": "Weedy Seadragon",
+  "scientificName": "Phyllopteryx taeniolatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "australia",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "medium",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/weedy-seadragon.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#FFC107",
+    "accent": "#8BC34A"
+  },
+  "facts": [
+    {
+      "text": "I have smaller leaf-like decorations than my cousin the Leafy Seadragon, but I'm still amazing at hiding!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change colors to match my surroundings - from green to yellow to purple!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a slow swimmer, so I rely on my camouflage to stay safe from predators!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Kelp forests and rocky reefs of southern Australia",
+    "diet": "Small crustaceans and mysid shrimp",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "5-10 years"
+  }
+}
+

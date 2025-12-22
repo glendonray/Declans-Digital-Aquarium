@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "indian-ocean",
+    "region": "indo-pacific",
     "family": "Acanthuridae"
   },
   "appearance": {
@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/powder-blue-tang.svg",
   "colors": {
-    "primary": "#38BDF8",
-    "secondary": "#FACC15",
-    "accent": "#1E293B"
+    "primary": "#2196F3",
+    "secondary": "#64B5F6",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm one of the most beautiful fish in the sea! My powder blue color looks like the sky.",
+      "text": "I'm bright powder blue with a white face! I'm one of the most beautiful tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a sharp scalpel near my tail! I use it to defend myself from bullies.",
-      "category": "defense",
+      "text": "I'm very active and love to swim around! I need lots of space!",
+      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I come from the Indian Ocean, where the water is nice and warm!",
-      "category": "habitat",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm a picky eater! I need to munch on algae all day long to stay healthy.",
-      "category": "diet",
-      "sourceId": "eol"
-    },
-    {
-      "text": "My face is dark blue, like I'm wearing a mask! It makes me look mysterious.",
+      "text": "I'm prone to ich, so I need good water quality!",
       "category": "biology",
-      "sourceId": "fishbase"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Indian Ocean",
-    "diet": "Algae and seaweed",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 9 inches (23 cm)",
-    "lifespan": "10-15 years"
+    "lifespan": "15-20 years"
   }
 }

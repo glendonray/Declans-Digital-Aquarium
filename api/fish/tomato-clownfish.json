@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/tomato-clownfish.svg",
   "colors": {
-    "primary": "#FF4136",
+    "primary": "#F44336",
     "secondary": "#FFFFFF",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm called the Tomato clownfish because I'm bright red like a ripe tomato! I only have one white stripe behind my eye.",
+      "text": "I'm bright red like a tomato! I have one white band behind my head!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "When I'm young, I have three stripes. But as I grow up, two of them fade away!",
-      "category": "biology",
+      "text": "I'm more aggressive than other clownfish, but I'm still beautiful!",
+      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the hardiest clownfish! I can adapt to different types of anemones and aquarium conditions.",
-      "category": "ecology",
+      "text": "I form a symbiotic relationship with bubble tip anemones!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs from Japan to Indonesia",
-    "diet": "Algae, zooplankton, and small crustaceans",
-    "size": "Up to 5 inches (13 cm)",
-    "lifespan": "10-15 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "6-10 years"
   }
 }

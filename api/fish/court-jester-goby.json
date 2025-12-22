@@ -5,41 +5,41 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Gobiidae"
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "small",
-    "primaryColor": "green",
+    "sizeCategory": "tiny",
+    "primaryColor": "multi",
     "pattern": "striped"
   },
   "image": "assets/fish/court-jester-goby.svg",
   "colors": {
-    "primary": "#32CD32",
-    "secondary": "#FF8C00",
-    "accent": "#4169E1"
+    "primary": "#FF5722",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm covered in colorful stripes like a jester's costume - very festive!",
+      "text": "I'm named after a court jester because of my colorful stripes - red, orange, and yellow!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I eat algae! I'm one of the few gobies that helps clean up green stuff.",
-      "category": "diet",
+      "text": "I'm super active and always darting around the tank looking for food!",
+      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called Rainford's Goby after the scientist who discovered me!",
-      "category": "ecology",
+      "text": "I love to perch on rocks and coral, watching everything that happens in the tank!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Western Pacific",
-    "diet": "Filamentous algae and small organisms",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 2.5 inches (6 cm)",
     "lifespan": "3-5 years"
   }

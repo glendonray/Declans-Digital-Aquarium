@@ -1,18 +1,18 @@
 {
   "id": "picasso-clownfish",
   "name": "Picasso Clownfish",
-  "scientificName": "Amphiprion ocellaris (designer)",
+  "scientificName": "Amphiprion percula",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "captive-bred",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "orange",
-    "pattern": "mottled"
+    "pattern": "banded"
   },
   "image": "assets/fish/picasso-clownfish.svg",
   "colors": {
@@ -22,25 +22,25 @@
   },
   "facts": [
     {
-      "text": "I'm a designer clownfish! Breeders carefully selected my parents to create my unique Picasso pattern - no two of us look exactly alike!",
+      "text": "I'm a designer clownfish with unique patterns! My black outlines look like abstract art!",
       "category": "biology",
       "sourceId": "captive-bred"
     },
     {
-      "text": "My name comes from the famous artist Pablo Picasso because my white markings look like abstract art splashed across my body!",
+      "text": "I'm named after Picasso because my patterns look like his paintings!",
       "category": "biology",
       "sourceId": "captive-bred"
     },
     {
-      "text": "I'm 100% captive-bred, which means I was born in an aquarium, not caught from the ocean. This helps protect wild reefs!",
+      "text": "I'm very popular in the hobby! I'm super unique and beautiful!",
       "category": "ecology",
       "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Captive-bred for home aquariums",
-    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
-    "size": "Up to 3 inches (7.5 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific (captive-bred)",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "6-10 years"
   }
 }

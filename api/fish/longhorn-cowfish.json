@@ -1,0 +1,47 @@
+{
+  "id": "longhorn-cowfish",
+  "name": "Longhorn Cowfish",
+  "scientificName": "Lactoria cornuta",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Ostraciidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/longhorn-cowfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I have two long horns on my head that look like a cow's horns! They help protect me from predators!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm covered in a hard, box-like shell instead of scales! I'm like a living tank!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "If I get really scared, I can release a toxic substance into the water to protect myself!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and lagoons of the Indo-Pacific",
+    "diet": "Algae, small invertebrates, and worms",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

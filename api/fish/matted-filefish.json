@@ -1,0 +1,47 @@
+{
+  "id": "matted-filefish",
+  "name": "Matted Filefish",
+  "scientificName": "Acreichthys tomentosus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Monacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/matted-filefish.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called matted because I have a matted, fuzzy appearance!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm green with a fuzzy texture - I blend in perfectly with algae!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

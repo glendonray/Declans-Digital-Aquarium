@@ -1,0 +1,47 @@
+{
+  "id": "formosa-wrasse",
+  "name": "Formosa Wrasse",
+  "scientificName": "Halichoeres marginatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/formosa-wrasse.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#000000",
+    "accent": "#FFC107"
+  },
+  "facts": [
+    {
+      "text": "I'm green with black stripes! I'm one of the most beautiful wrasses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Dusky Wrasse!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

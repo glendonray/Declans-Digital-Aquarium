@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/lawnmower-blenny.svg",
   "colors": {
-    "primary": "#84CC16",
-    "secondary": "#A16207",
-    "accent": "#1E293B"
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm called a lawnmower because I mow down algae all day long!",
-      "category": "diet",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have fuzzy eyebrows called cirri! They make me look like a wise old fish.",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I can change my color to blend in with the rocks I'm sitting on!",
-      "category": "defense",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I'm not a strong swimmer, so I prefer hopping from rock to rock!",
+      "text": "I'm called a lawnmower because I eat algae all day long - I'm like a living lawnmower!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have comb-like teeth that are perfect for scraping algae off rocks!",
+      "text": "I'm covered in spots and patterns that help me blend in with algae-covered rocks!",
       "category": "biology",
       "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the best algae eaters in the hobby! Reef keepers love me!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Rocky areas and coral reefs",
-    "diet": "Algae and microorganisms",
+    "habitat": "Coral reefs and rocky areas of the Indo-Pacific",
+    "diet": "Algae and detritus",
     "size": "Up to 5 inches (13 cm)",
-    "lifespan": "2-4 years"
+    "lifespan": "5-8 years"
   }
 }

@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Pseudochromidae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "pink",
+    "primaryColor": "red",
     "pattern": "solid"
   },
   "image": "assets/fish/strawberry-dottyback.svg",
   "colors": {
-    "primary": "#FF1493",
-    "secondary": "#DC143C",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#E91E63",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm bright magenta-pink like a ripe strawberry!",
+      "text": "I'm bright red like a strawberry! I'm super colorful and beautiful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Magenta Dottyback because of my vivid color!",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm small but mighty - I'll protect my territory fiercely!",
+      "text": "I'm very territorial and will defend my space! But I'm worth it because I'm so pretty!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm hardy and adapt well to aquarium life!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Pacific",
-    "diet": "Small invertebrates and meaty foods",
-    "size": "Up to 3 inches (7 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

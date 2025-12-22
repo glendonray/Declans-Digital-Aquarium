@@ -1,0 +1,47 @@
+{
+  "id": "stars-and-stripes-puffer",
+  "name": "Stars and Stripes Puffer",
+  "scientificName": "Arothron hispidus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Tetraodontidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "large",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/stars-and-stripes-puffer.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called stars and stripes because I have white spots and stripes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm brown with white spots and stripes - I look like the American flag!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very intelligent and can recognize my owner!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Hard-shelled invertebrates and crustaceans",
+    "size": "Up to 20 inches (50 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

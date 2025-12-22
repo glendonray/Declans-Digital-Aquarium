@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/longnose-hawkfish.svg",
   "colors": {
-    "primary": "#EF4444",
+    "primary": "#F44336",
     "secondary": "#FFFFFF",
-    "accent": "#1E293B"
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a super long pointy snout! It helps me pick tiny prey from coral crevices.",
+      "text": "I have a long pointy nose! I use it to pick food from tight spaces!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love sitting on sea fans and black coral! I blend in with my red stripes.",
-      "category": "habitat",
+      "text": "I'm red with white stripes - I look like a little candy cane!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I look like I'm wearing a red checkered shirt!",
-      "category": "biology",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I stay very still, then suddenly POUNCE on tiny shrimp!",
+      "text": "I love to perch on gorgonians and sea fans, waiting for food!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I can change from male to female! Most hawkfish start as females.",
-      "category": "biology",
-      "sourceId": "fishbase"
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Deep coral reefs with sea fans",
-    "diet": "Small crustaceans and zooplankton",
-    "size": "Up to 5 inches (13 cm)",
-    "lifespan": "5-7 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
   }
 }

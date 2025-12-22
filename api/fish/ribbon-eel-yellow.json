@@ -1,0 +1,47 @@
+{
+  "id": "ribbon-eel-yellow",
+  "name": "Ribbon Eel (Yellow Phase)",
+  "scientificName": "Rhinomuraena quaesita",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/ribbon-eel-yellow.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFF59D",
+    "accent": "#F57F17"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow when I'm a juvenile! As I grow up, I'll turn blue if I become a male, or black if I become a female!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the same species as the blue ribbon eel, just at a different life stage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "My long, flowing body looks like a ribbon dancing in the water current!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and lagoons of the Indo-Pacific",
+    "diet": "Small fish",
+    "size": "Up to 4 feet (120 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

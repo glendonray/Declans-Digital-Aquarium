@@ -1,0 +1,46 @@
+{
+  "id": "sharknose-goby",
+  "name": "Sharknose Goby",
+  "scientificName": "Elacatinus evelynae",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/sharknose-goby.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with a black stripe! I'm called sharknose because I have a shark-like nose!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a cleaner fish that eats parasites!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Parasites and small crustaceans",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "3-5 years"
+  }
+}

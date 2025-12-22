@@ -1,0 +1,47 @@
+{
+  "id": "polleni-grouper",
+  "name": "Polleni Grouper",
+  "scientificName": "Cephalopholis polleni",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/polleni-grouper.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm red with black spots! I'm named after the scientist who discovered me!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm very peaceful for a grouper!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

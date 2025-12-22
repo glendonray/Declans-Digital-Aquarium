@@ -1,0 +1,47 @@
+{
+  "id": "sanguine-fairy-wrasse",
+  "name": "Sanguine Fairy Wrasse",
+  "scientificName": "Cirrhilabrus sanguineus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/sanguine-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#E91E63",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red like blood! I'm called sanguine because I'm blood-red!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most beautiful fairy wrasses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "african-flame-fairy-wrasse",
+  "name": "African Flame Fairy Wrasse",
+  "scientificName": "Cirrhilabrus africanus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "africa",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/african-flame-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red like a flame! I'm from Africa!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most beautiful fairy wrasses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Africa",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

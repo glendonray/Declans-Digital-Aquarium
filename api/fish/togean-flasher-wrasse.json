@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "pink",
+    "primaryColor": "red",
     "pattern": "gradient"
   },
   "image": "assets/fish/togean-flasher-wrasse.svg",
   "colors": {
-    "primary": "#FF69B4",
-    "secondary": "#FFD700",
-    "accent": "#DC143C"
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm named after the Togean Islands in Indonesia where I was discovered!",
-      "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have pink and yellow coloring that's perfect for my coral reef home!",
+      "text": "I'm red and yellow! I'm from the Togean Islands!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of many flasher wrasses found only in Indonesian waters!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm called flasher because I flash my colors when I'm excited!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Togean Islands, Indonesia",
-    "diet": "Zooplankton",
-    "size": "Up to 3 inches (7.5 cm)",
-    "lifespan": "5-7 years"
+    "habitat": "Coral reefs of the Togean Islands",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "ornate-ghost-pipefish",
+  "name": "Ornate Ghost Pipefish",
+  "scientificName": "Solenostomus paradoxus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Solenostomidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "tiny",
+    "primaryColor": "red",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/ornate-ghost-pipefish.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FF9800",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm covered in beautiful red and orange spots that make me look like a piece of coral!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I float almost motionless in the water, looking like a piece of debris - perfect for ambushing tiny prey!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm so well camouflaged that divers often swim right past me without noticing!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and seagrass beds of the Indo-Pacific",
+    "diet": "Small crustaceans",
+    "size": "Up to 2.5 inches (6 cm)",
+    "lifespan": "2-3 years"
+  }
+}
+

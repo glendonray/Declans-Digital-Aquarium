@@ -1,0 +1,47 @@
+{
+  "id": "coral-catshark",
+  "name": "Coral Catshark",
+  "scientificName": "Atelomycterus marmoratus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Scyliorhinidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "small",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/coral-catshark.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with spots! I'm one of the smallest sharks!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called catshark because I have cat-like eyes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful for a shark! Perfect for home aquariums!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 2 feet (60 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

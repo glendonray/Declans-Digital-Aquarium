@@ -1,0 +1,47 @@
+{
+  "id": "dragonface-pipefish",
+  "name": "Dragonface Pipefish",
+  "scientificName": "Corythoichthys haematopterus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/dragonface-pipefish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called dragonface because my face looks like a dragon!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm yellow with black stripes - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

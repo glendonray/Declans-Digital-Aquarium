@@ -12,35 +12,35 @@
     "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "yellow",
-    "pattern": "mimic"
+    "pattern": "solid"
   },
   "image": "assets/fish/mimic-tang.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#4169E1",
-    "accent": "#000000"
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "When I'm young, I'm a master of disguise! I look exactly like dwarf angelfish to fool predators.",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I can mimic Lemonpeel, Herald's, or Eibli Angelfish depending on where I live!",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "As I grow up, I transform into a chocolate-brown colored adult - totally different look!",
+      "text": "I'm called mimic because I can change my color to mimic other fish!",
       "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm usually yellow, but I can change to orange or brown!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and love to swim around!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Algae and plant matter",
-    "size": "Up to 10 inches (25 cm)",
-    "lifespan": "15+ years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "15-20 years"
   }
 }

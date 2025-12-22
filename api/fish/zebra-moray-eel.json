@@ -1,0 +1,47 @@
+{
+  "id": "zebra-moray-eel",
+  "name": "Zebra Moray Eel",
+  "scientificName": "Gymnomuraena zebra",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "large",
+    "primaryColor": "white",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/zebra-moray-eel.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm called zebra because I have black and white stripes like a zebra!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most peaceful eels! I only eat crustaceans!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm reef-safe and won't bother fish! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Crustaceans and mollusks",
+    "size": "Up to 36 inches (90 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

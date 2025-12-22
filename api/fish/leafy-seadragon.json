@@ -1,0 +1,47 @@
+{
+  "id": "leafy-seadragon",
+  "name": "Leafy Seadragon",
+  "scientificName": "Phycodurus eques",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "australia",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/leafy-seadragon.svg",
+  "colors": {
+    "primary": "#66BB6A",
+    "secondary": "#81C784",
+    "accent": "#2E7D32"
+  },
+  "facts": [
+    {
+      "text": "I look exactly like a piece of floating seaweed! My leaf-like appendages are perfect camouflage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the official marine emblem of South Australia! People travel from all over to see me!",
+      "category": "ecology",
+      "sourceId": "noaa"
+    },
+    {
+      "text": "I'm related to seahorses, but I'm much bigger and more elaborate with my leafy decorations!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Kelp beds and seagrass meadows of southern Australia",
+    "diet": "Small crustaceans and plankton",
+    "size": "Up to 14 inches (35 cm)",
+    "lifespan": "5-10 years"
+  }
+}
+

@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/banana-wrasse.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#32CD32",
-    "accent": "#FF69B4"
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm bright yellow like a banana - and I'm shaped a bit like one too!",
+      "text": "I'm bright yellow like a banana! I'm one of the most colorful wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm a super active swimmer - I zoom around the reef all day long!",
+      "text": "I'm called banana because I'm bright yellow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need lots of space!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I can change from female to male if there's no male in my group!",
-      "category": "biology",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Small invertebrates and fish eggs",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 10 inches (25 cm)",
-    "lifespan": "8-10 years"
+    "lifespan": "8-12 years"
   }
 }

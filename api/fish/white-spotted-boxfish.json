@@ -1,0 +1,47 @@
+{
+  "id": "white-spotted-boxfish",
+  "name": "White Spotted Boxfish",
+  "scientificName": "Ostracion meleagris",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Ostraciidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/white-spotted-boxfish.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with white spots! I'm also called the Spotted Boxfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm shaped like a box with a hard shell! I'm like a living tank!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very slow and peaceful! I swim like I'm floating!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

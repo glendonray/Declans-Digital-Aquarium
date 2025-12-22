@@ -1,0 +1,47 @@
+{
+  "id": "flame-cardinalfish",
+  "name": "Flame Cardinalfish",
+  "scientificName": "Apogon maculatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Apogonidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/flame-cardinalfish.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright red like a flame! I'm super colorful and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean! I'm one of the most colorful cardinalfish!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm peaceful and love to hide in caves and crevices!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

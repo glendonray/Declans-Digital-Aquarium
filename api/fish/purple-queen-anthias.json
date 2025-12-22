@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/purple-queen-anthias.svg",
   "colors": {
-    "primary": "#9370DB",
-    "secondary": "#FFD700",
-    "accent": "#4169E1"
+    "primary": "#9C27B0",
+    "secondary": "#E91E63",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm royal purple and yellow - truly fit for a queen!",
+      "text": "I'm regal purple like a queen! I'm one of the most beautiful anthias!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a beautiful purple body with a yellow streak along my back!",
+      "text": "I have a yellow stripe on my side that makes me look even more royal!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I need to eat many times a day because I have such a fast metabolism!",
-      "category": "diet",
+      "text": "I'm very active and love to school with other anthias!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Outer reef slopes of the Indo-Pacific",
-    "diet": "Zooplankton - needs frequent feeding",
-    "size": "Up to 5 inches (12 cm)",
-    "lifespan": "5-7 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

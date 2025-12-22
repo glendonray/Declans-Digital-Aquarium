@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "australia",
     "family": "Plesiopidae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/yellow-assessor.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#FFA500",
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm bright canary yellow and I swim upside down like my blue cousin!",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm a rare fish from the Great Barrier Reef and Lord Howe Island!",
-      "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "My scientific name means 'very yellow' - and I really am!",
+      "text": "I'm bright yellow! I'm one of the rarest and most expensive basslets!",
       "category": "biology",
-      "sourceId": "eol"
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Australia! I'm the yellow version of the blue assessor!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive basslets in the hobby!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Caves and ledges on Australian reefs",
-    "diet": "Zooplankton and small invertebrates",
-    "size": "Up to 2.5 inches (6 cm)",
+    "habitat": "Coral reefs of Australia",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

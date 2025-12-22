@@ -1,0 +1,47 @@
+{
+  "id": "bicolor-cleaner-wrasse",
+  "name": "Bicolor Cleaner Wrasse",
+  "scientificName": "Labroides bicolor",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/bicolor-cleaner-wrasse.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm blue and yellow! I'm a cleaner fish that eats parasites!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called bicolor because I have two colors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I set up cleaning stations where bigger fish come to get cleaned!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Parasites and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

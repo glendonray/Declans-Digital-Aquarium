@@ -5,41 +5,41 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Gobiidae"
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "small",
-    "primaryColor": "silver",
+    "sizeCategory": "tiny",
+    "primaryColor": "white",
     "pattern": "striped"
   },
   "image": "assets/fish/yasha-goby.svg",
   "colors": {
     "primary": "#FFFFFF",
-    "secondary": "#DC143C",
-    "accent": "#FF8C00"
+    "secondary": "#FFD700",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm white with beautiful red and orange stripes - very elegant!",
+      "text": "I'm tiny but beautiful! I have white and yellow stripes that make me look like a candy cane!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I live with pistol shrimps and we're best friends who share a burrow!",
+      "text": "I'm one of the most sought-after gobies in the hobby because I'm so pretty and peaceful!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I form a symbiotic relationship with pistol shrimp - we're inseparable!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have a tall dorsal fin that I raise like a flag when I'm excited!",
-      "category": "biology",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy and rubble areas of coral reefs",
-    "diet": "Small invertebrates and meaty foods",
+    "habitat": "Coral rubble and sandy areas of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 2 inches (5 cm)",
     "lifespan": "3-5 years"
   }

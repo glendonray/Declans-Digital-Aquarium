@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Cirrhitidae"
   },
   "appearance": {
@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/flame-hawkfish.svg",
   "colors": {
-    "primary": "#DC2626",
-    "secondary": "#000000",
-    "accent": "#1E293B"
+    "primary": "#F44336",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I perch on coral and rocks like a hawk watching for prey!",
+      "text": "I'm bright red like a flame! I'm one of the most popular hawkfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I love to perch on rocks and coral, watching for food like a hawk!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm bright red like a little flame sitting on the reef!",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I don't have a swim bladder, so I can't float! I hop from perch to perch instead.",
-      "category": "biology",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I have black rings around my eyes like I'm wearing cool sunglasses!",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "When I spot a tasty shrimp, I pounce on it super fast!",
-      "category": "diet",
-      "sourceId": "fishbase"
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Pacific Ocean",
-    "diet": "Small shrimp and invertebrates",
-    "size": "Up to 4 inches (10 cm)",
-    "lifespan": "5-7 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

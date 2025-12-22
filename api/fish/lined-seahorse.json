@@ -1,0 +1,47 @@
+{
+  "id": "lined-seahorse",
+  "name": "Lined Seahorse",
+  "scientificName": "Hippocampus erectus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/lined-seahorse.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called lined because I have lines running down my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change colors to match my surroundings! I'm a master of disguise!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "The male carries the babies in his pouch until they're ready to hatch!",
+      "category": "reproduction",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and coral reefs of the Caribbean",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

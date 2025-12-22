@@ -6,39 +6,39 @@
     "waterType": "saltwater",
     "habitat": "reef",
     "region": "pacific",
-    "family": "Gobiidae"
+    "family": "Microdesmidae"
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "small",
-    "primaryColor": "pink",
+    "sizeCategory": "tiny",
+    "primaryColor": "purple",
     "pattern": "gradient"
   },
   "image": "assets/fish/helfrichi-firefish.svg",
   "colors": {
-    "primary": "#FF69B4",
-    "secondary": "#FFD700",
-    "accent": "#9370DB"
+    "primary": "#9C27B0",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm one of the rarest and most beautiful firefish! I'm lavender and gold.",
+      "text": "I'm purple and yellow! I'm one of the rarest and most expensive firefish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I live in deep water around 100 feet down - that's why I'm so rare!",
-      "category": "ecology",
+      "text": "I'm from the Pacific! I'm named after the scientist who discovered me!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm named after Philip Helfrich, a famous marine researcher!",
+      "text": "I'm one of the most expensive firefish in the hobby!",
       "category": "ecology",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Deep outer reef slopes of the Pacific",
+    "habitat": "Coral reefs of the Pacific",
     "diet": "Zooplankton and small crustaceans",
     "size": "Up to 2.5 inches (6 cm)",
     "lifespan": "5-7 years"

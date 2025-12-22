@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
@@ -22,25 +22,25 @@
   },
   "facts": [
     {
-      "text": "I'm the 'true' clownfish! I look a lot like my cousin the Ocellaris, but my black bands are thicker and bolder.",
+      "text": "I'm the original Nemo! I'm bright orange with white bands and black outlines!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm Nemo's species! The famous movie fish was actually a Percula clownfish from the Great Barrier Reef.",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm almost identical to the Ocellaris clownfish, but I have thicker black outlines!",
+      "category": "biology",
+      "sourceId": "fishbase"
     },
     {
-      "text": "I live in a sea anemone! Its stinging tentacles don't hurt me because I have a special slimy coating on my skin.",
+      "text": "I form a symbiotic relationship with anemones - they protect me and I clean them!",
       "category": "behavior",
-      "sourceId": "fishbase"
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Papua New Guinea and Great Barrier Reef",
-    "diet": "Algae, zooplankton, and small invertebrates",
-    "size": "Up to 4 inches (10 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "6-10 years"
   }
 }

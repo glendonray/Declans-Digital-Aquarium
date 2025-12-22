@@ -9,37 +9,37 @@
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
-    "primaryColor": "purple",
-    "pattern": "bicolor"
+    "primaryColor": "blue",
+    "pattern": "gradient"
   },
   "image": "assets/fish/coral-beauty-angelfish.svg",
   "colors": {
-    "primary": "#9370DB",
-    "secondary": "#FF8C00",
-    "accent": "#4169E1"
+    "primary": "#2196F3",
+    "secondary": "#F44336",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm one of the most popular dwarf angelfish! My purple and orange colors are stunning.",
+      "text": "I'm blue with orange and red! I'm one of the most beautiful dwarf angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm called the Two-spined Angelfish because of the two spines on my gill cover!",
+      "text": "I'm called coral beauty because I'm so beautiful!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to graze on algae and pick at live rock all day long!",
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Algae, small invertebrates, and detritus",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 4 inches (10 cm)",
     "lifespan": "10-15 years"
   }

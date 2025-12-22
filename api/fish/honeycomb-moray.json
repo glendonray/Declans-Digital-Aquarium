@@ -1,0 +1,47 @@
+{
+  "id": "honeycomb-moray",
+  "name": "Honeycomb Moray",
+  "scientificName": "Gymnothorax favagineus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "large",
+    "primaryColor": "white",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/honeycomb-moray.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm called honeycomb because my spots look like a honeycomb!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm white with black honeycomb patterns - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and reef-safe! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 36 inches (90 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

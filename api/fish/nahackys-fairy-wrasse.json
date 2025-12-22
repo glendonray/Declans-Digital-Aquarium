@@ -1,0 +1,47 @@
+{
+  "id": "nahackys-fairy-wrasse",
+  "name": "Nahacky's Fairy Wrasse",
+  "scientificName": "Cirrhilabrus nahackyi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/nahackys-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red and yellow! I'm named after the scientist who discovered me!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Pacific! I'm one of the most expensive fairy wrasses!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

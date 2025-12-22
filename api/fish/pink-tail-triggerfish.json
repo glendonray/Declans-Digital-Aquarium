@@ -1,0 +1,47 @@
+{
+  "id": "pink-tail-triggerfish",
+  "name": "Pink Tail Triggerfish",
+  "scientificName": "Melichthys vidua",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Balistidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/pink-tail-triggerfish.svg",
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#E91E63",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm black with a pink tail! I'm super elegant and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm more peaceful than other triggerfish! I'm reef-safe!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and love to swim around!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

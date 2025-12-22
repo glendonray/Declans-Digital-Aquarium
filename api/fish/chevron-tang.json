@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "hawaii",
     "family": "Acanthuridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "orange",
-    "pattern": "chevron"
+    "pattern": "striped"
   },
   "image": "assets/fish/chevron-tang.svg",
   "colors": {
-    "primary": "#FF4500",
-    "secondary": "#8B0000",
-    "accent": "#000000"
+    "primary": "#FF9800",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "When I'm young, I'm bright orange with V-shaped chevron stripes - super colorful!",
+      "text": "I'm orange with chevron patterns! I'm one of the most beautiful tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "As I grow up, I change to a dark olive color. Juveniles and adults look totally different!",
-      "category": "biology",
+      "text": "I'm from Hawaii! I'm also called the Hawaiian Bristletooth!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called the Hawaiian Bristletooth because I live around Hawaii!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Hawaii and the Central Pacific",
-    "diet": "Detritus and film algae",
-    "size": "Up to 11 inches (28 cm)",
-    "lifespan": "15+ years"
+    "habitat": "Coral reefs of Hawaii",
+    "diet": "Algae and detritus",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "15-20 years"
   }
 }

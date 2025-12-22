@@ -9,37 +9,37 @@
     "family": "Callionymidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "unusual",
     "sizeCategory": "small",
-    "primaryColor": "pink",
-    "pattern": "mottled"
+    "primaryColor": "red",
+    "pattern": "spotted"
   },
   "image": "assets/fish/scooter-dragonet.svg",
   "colors": {
-    "primary": "#DEB887",
-    "secondary": "#8B4513",
-    "accent": "#4169E1"
+    "primary": "#F44336",
+    "secondary": "#FF9800",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I scoot along the bottom of the tank looking for tiny food - zoom zoom!",
+      "text": "I'm called a scooter because I scoot along the bottom looking for food!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm mottled brown and pink which helps me blend into coral rubble!",
+      "text": "I'm red with orange spots - I'm like a little fire engine scooting around!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have big eyes on top of my head to watch for predators while I scoot!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm easier to feed than mandarins because I'll eat frozen food!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral rubble and sandy areas",
-    "diet": "Tiny copepods and amphipods",
+    "habitat": "Sandy and rubble areas of the Indo-Pacific",
+    "diet": "Small crustaceans and frozen foods",
     "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }

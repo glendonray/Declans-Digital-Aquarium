@@ -1,0 +1,47 @@
+{
+  "id": "banded-pipefish",
+  "name": "Banded Pipefish",
+  "scientificName": "Dunckerocampus dactyliophorus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "banded"
+  },
+  "image": "assets/fish/banded-pipefish.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red with white bands! I'm super colorful and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm related to seahorses! I have a long snout like them!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

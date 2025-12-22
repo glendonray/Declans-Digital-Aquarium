@@ -1,0 +1,47 @@
+{
+  "id": "blue-spotted-rabbitfish",
+  "name": "Blue Spotted Rabbitfish",
+  "scientificName": "Siganus corallinus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Siganidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/blue-spotted-rabbitfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#2196F3",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with blue spots! I'm super colorful and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a great algae eater! I help keep tanks clean!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

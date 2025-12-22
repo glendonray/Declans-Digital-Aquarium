@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "orange",
-    "pattern": "striped"
+    "primaryColor": "red",
+    "pattern": "gradient"
   },
   "image": "assets/fish/carpenters-flasher-wrasse.svg",
   "colors": {
-    "primary": "#FF4500",
-    "secondary": "#4169E1",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I 'flash' my fins open like fireworks to impress females - it's my special dance!",
-      "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "My red-orange color with blue stripes makes me one of the most colorful flasher wrasses!",
+      "text": "I'm red and yellow! I'm called flasher because I flash my colors when I'm excited!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "Males flash at sunset when the light is dim - that's prime showing-off time!",
+      "text": "I'm named after the scientist who discovered me!",
+      "category": "ecology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Philippines",
-    "diet": "Zooplankton",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 3 inches (8 cm)",
-    "lifespan": "5-7 years"
+    "lifespan": "5-8 years"
   }
 }

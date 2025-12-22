@@ -1,0 +1,47 @@
+{
+  "id": "yellowfin-flasher-wrasse",
+  "name": "Yellowfin Flasher Wrasse",
+  "scientificName": "Paracheilinus flavianalis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/yellowfin-flasher-wrasse.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with yellow fins! I'm called yellowfin because I have yellow fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called flasher because I flash my colors when I'm excited!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

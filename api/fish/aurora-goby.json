@@ -1,0 +1,47 @@
+{
+  "id": "aurora-goby",
+  "name": "Aurora Goby",
+  "scientificName": "Amblyeleotris aurora",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/aurora-goby.svg",
+  "colors": {
+    "primary": "#FF9800",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm orange with black stripes! I'm called aurora because I'm colorful like the aurora!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I form a symbiotic relationship with pistol shrimp!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and detritus",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

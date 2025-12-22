@@ -9,38 +9,38 @@
     "family": "Acanthuridae"
   },
   "appearance": {
-    "bodyShape": "disc",
+    "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "black",
     "pattern": "solid"
   },
   "image": "assets/fish/black-tang.svg",
   "colors": {
-    "primary": "#1A1A1A",
-    "secondary": "#333333",
-    "accent": "#FFFFFF"
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#9E9E9E"
   },
   "facts": [
     {
-      "text": "I'm jet black like a shadow! I'm one of the only completely black tangs in the ocean.",
+      "text": "I'm jet black! I'm one of the rarest and most expensive tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a long snout compared to other tangs, which helps me reach algae in tight spots!",
-      "category": "biology",
+      "text": "I'm from the Pacific! I'm super rare and beautiful!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm rare and come from remote Pacific islands like Christmas Island and the Line Islands.",
+      "text": "I'm one of the most sought-after tangs in the hobby!",
       "category": "ecology",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Remote coral reefs of the Central Pacific",
-    "diet": "Filamentous algae",
-    "size": "Up to 8 inches (21 cm)",
-    "lifespan": "20+ years"
+    "habitat": "Coral reefs of the Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "15-20 years"
   }
 }

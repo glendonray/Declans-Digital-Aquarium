@@ -11,36 +11,36 @@
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "medium",
-    "primaryColor": "blue",
+    "primaryColor": "green",
     "pattern": "solid"
   },
   "image": "assets/fish/bird-wrasse.svg",
   "colors": {
-    "primary": "#00CED1",
-    "secondary": "#228B22",
-    "accent": "#FFD700"
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a long snout like a bird's beak - that's why I'm called Bird Wrasse!",
+      "text": "I'm green with a long bird-like snout! I'm called bird because of my snout!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "Males are blue-green while females are brown - we look like different species!",
+      "text": "I use my long snout to pick food from tight spaces!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I use my long nose to pick tiny invertebrates from cracks in the reef!",
+      "text": "I'm very active and need lots of space!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "habitat": "Coral reefs of the Indo-Pacific",
     "diet": "Small crustaceans and invertebrates",
-    "size": "Up to 11 inches (28 cm)",
-    "lifespan": "8-10 years"
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-12 years"
   }
 }

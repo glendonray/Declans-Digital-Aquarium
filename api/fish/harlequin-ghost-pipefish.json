@@ -1,0 +1,47 @@
+{
+  "id": "harlequin-ghost-pipefish",
+  "name": "Harlequin Ghost Pipefish",
+  "scientificName": "Solenostomus paradoxus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Solenostomidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "tiny",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/harlequin-ghost-pipefish.svg",
+  "colors": {
+    "primary": "#E91E63",
+    "secondary": "#9C27B0",
+    "accent": "#FFC107"
+  },
+  "facts": [
+    {
+      "text": "I look like a floating piece of coral or seaweed! My body is covered in leaf-like appendages for perfect camouflage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super tiny - only about 2 inches long! You have to look really carefully to spot me in the reef!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm related to seahorses and pipefish, but I have a different body shape with my big fins!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and seagrass beds of the Indo-Pacific",
+    "diet": "Small crustaceans",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "2-3 years"
+  }
+}
+

@@ -9,48 +9,38 @@
     "family": "Acanthuridae"
   },
   "appearance": {
-    "bodyShape": "disc",
+    "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "purple",
     "pattern": "solid"
   },
   "image": "assets/fish/purple-tang.svg",
   "colors": {
-    "primary": "#7C3AED",
-    "secondary": "#FACC15",
-    "accent": "#1E293B"
+    "primary": "#9C27B0",
+    "secondary": "#BA68C8",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm a beautiful deep purple with a bright yellow tail!",
+      "text": "I'm bright purple with a yellow tail! I'm one of the most beautiful tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I come from the Red Sea and the Arabian Gulf!",
+      "text": "I'm from the Red Sea! I'm also called the Yellowtail Tang!",
       "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a sharp scalpel near my tail for self-defense!",
-      "category": "defense",
+      "text": "I'm very active and love to swim around! I need lots of space!",
+      "category": "behavior",
       "sourceId": "eol"
-    },
-    {
-      "text": "I love to graze on algae all day like a little underwater cow!",
-      "category": "diet",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "My color gets more intense as I grow older!",
-      "category": "biology",
-      "sourceId": "fishbase"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Red Sea and Arabian Gulf",
-    "diet": "Algae and seaweed",
+    "habitat": "Coral reefs of the Red Sea",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 10 inches (25 cm)",
-    "lifespan": "30+ years"
+    "lifespan": "15-20 years"
   }
 }

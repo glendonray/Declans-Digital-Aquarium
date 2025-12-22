@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "indo-pacific",
+    "region": "indian-ocean",
     "family": "Serranidae"
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "medium",
-    "primaryColor": "yellow",
+    "sizeCategory": "small",
+    "primaryColor": "orange",
     "pattern": "gradient"
   },
   "image": "assets/fish/borbonius-anthias.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#FF69B4",
-    "accent": "#DC143C"
+    "primary": "#FF9800",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm one of the rarest and most expensive anthias - a true collector's fish!",
-      "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm golden yellow and pink with beautiful flowing fins!",
+      "text": "I'm orange and yellow! I'm one of the rarest and most expensive anthias!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I live in very deep water - over 300 feet down - which makes me rare!",
+      "text": "I'm from the Indian Ocean! I'm super rare!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive anthias in the hobby!",
       "category": "ecology",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Deep reef slopes of the Indo-Pacific",
-    "diet": "Meaty foods and zooplankton",
-    "size": "Up to 6 inches (15 cm)",
-    "lifespan": "5-10 years"
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

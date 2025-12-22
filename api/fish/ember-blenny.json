@@ -9,38 +9,38 @@
     "family": "Blenniidae"
   },
   "appearance": {
-    "bodyShape": "elongated",
+    "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "red",
-    "pattern": "gradient"
+    "pattern": "mottled"
   },
   "image": "assets/fish/ember-blenny.svg",
   "colors": {
-    "primary": "#DC143C",
-    "secondary": "#FF4500",
+    "primary": "#F44336",
+    "secondary": "#FF6B35",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I glow like a burning ember - red and orange like a tiny flame!",
+      "text": "I'm red and orange like a glowing ember! I'm super colorful and active!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have fuzzy cirri on my head that make me look like I have eyebrows!",
+      "text": "I have little tentacles above my eyes that look like eyebrows!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to eat hair algae - I'm a great tank cleaner!",
-      "category": "ecology",
+      "text": "I'm a great algae eater and very peaceful! Perfect for reef tanks!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Algae - especially filamentous algae",
-    "size": "Up to 5 inches (12 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

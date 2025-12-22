@@ -1,46 +1,46 @@
 {
   "id": "christmas-wrasse",
   "name": "Christmas Wrasse",
-  "scientificName": "Halichoeres ornatissimus",
+  "scientificName": "Halichoeres claudia",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "red",
-    "pattern": "striped"
+    "pattern": "spotted"
   },
   "image": "assets/fish/christmas-wrasse.svg",
   "colors": {
-    "primary": "#DC143C",
-    "secondary": "#228B22",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#4CAF50",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm red and green like Christmas decorations - festive all year round!",
+      "text": "I'm red and green like Christmas! I'm super festive!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'ornatissimus' means 'most ornate' - I'm fancy!",
+      "text": "I'm called Christmas because I'm red and green!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I live in Hawaii and other Pacific islands - a tropical Christmas fish!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Hawaii and the Pacific",
-    "diet": "Small invertebrates and crustaceans",
-    "size": "Up to 6 inches (15 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 4 inches (10 cm)",
     "lifespan": "5-8 years"
   }
 }

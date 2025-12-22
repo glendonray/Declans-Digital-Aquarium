@@ -9,38 +9,38 @@
     "family": "Acanthuridae"
   },
   "appearance": {
-    "bodyShape": "disc",
+    "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "black",
     "pattern": "spotted"
   },
   "image": "assets/fish/gem-tang.svg",
   "colors": {
-    "primary": "#1A1A1A",
+    "primary": "#000000",
     "secondary": "#FFFFFF",
-    "accent": "#FFD700"
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "I'm covered in white spots that look like precious gems - that's why I'm called the Gem Tang!",
+      "text": "I'm black with white spots that look like gems! I'm one of the most expensive tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the rarest and most expensive tangs in the world! I only live near Madagascar and Mauritius.",
+      "text": "I'm from the Indian Ocean! I'm super rare and beautiful!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most sought-after tangs in the hobby!",
       "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "My spots are actually tiny white dots all over my jet black body - like a starry night sky!",
-      "category": "biology",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Deep reefs of the Western Indian Ocean",
-    "diet": "Algae and marine plants",
-    "size": "Up to 9 inches (22 cm)",
-    "lifespan": "20+ years"
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "15-20 years"
   }
 }

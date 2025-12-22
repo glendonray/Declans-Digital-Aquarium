@@ -1,0 +1,47 @@
+{
+  "id": "spotted-garden-eel",
+  "name": "Spotted Garden Eel",
+  "scientificName": "Heteroconger hassi",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Congridae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "small",
+    "primaryColor": "white",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/spotted-garden-eel.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm white with black spots! I'm the spotted version of the garden eel!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in huge colonies with hundreds of other garden eels!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I dig a burrow in the sand and spend my whole life with just my head sticking out!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Plankton and small particles",
+    "size": "Up to 16 inches (40 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

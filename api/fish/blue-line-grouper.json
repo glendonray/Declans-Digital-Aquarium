@@ -1,0 +1,47 @@
+{
+  "id": "blue-line-grouper",
+  "name": "Blue Line Grouper",
+  "scientificName": "Cephalopholis formosa",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/blue-line-grouper.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with blue lines! I'm one of the most beautiful groupers!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm very peaceful for a grouper!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

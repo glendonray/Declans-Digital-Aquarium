@@ -1,0 +1,47 @@
+{
+  "id": "whitespotted-bamboo-shark",
+  "name": "Whitespotted Bamboo Shark",
+  "scientificName": "Chiloscyllium plagiosum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Hemiscylliidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "medium",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/whitespotted-bamboo-shark.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with white spots! I'm one of the few sharks that can live in home aquariums!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called bamboo because I'm long and thin like bamboo!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful for a shark!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 3 feet (90 cm)",
+    "lifespan": "20-25 years"
+  }
+}
+

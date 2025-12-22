@@ -1,0 +1,47 @@
+{
+  "id": "juvenile-emperor-angelfish",
+  "name": "Juvenile Emperor Angelfish",
+  "scientificName": "Pomacanthus imperator",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "small",
+    "primaryColor": "black",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/juvenile-emperor-angelfish.svg",
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#2196F3"
+  },
+  "facts": [
+    {
+      "text": "I'm black with white and blue circles! I look completely different from adult emperors!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'll change my colors as I grow up to look like a royal emperor!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm super cute as a baby! I'm one of the most beautiful juvenile fish!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Sponges, tunicates, and small invertebrates",
+    "size": "Up to 4 inches (10 cm) as juvenile",
+    "lifespan": "20+ years"
+  }
+}
+

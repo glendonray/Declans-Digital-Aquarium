@@ -1,0 +1,47 @@
+{
+  "id": "tangaroa-goby",
+  "name": "Tangaroa Goby",
+  "scientificName": "Bryaninops tangaroai",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "transparent",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/tangaroa-goby.svg",
+  "colors": {
+    "primary": "#E0E0E0",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm almost transparent! I'm super tiny and live on gorgonians!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Indo-Pacific! I'm super unique!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm perfect for nano tanks! I'm super tiny!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Gorgonians and soft corals of the Indo-Pacific",
+    "diet": "Tiny crustaceans and zooplankton",
+    "size": "Up to 1 inch (2.5 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

@@ -12,35 +12,35 @@
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "red",
-    "pattern": "striped"
+    "pattern": "gradient"
   },
   "image": "assets/fish/red-sea-flasher-wrasse.svg",
   "colors": {
-    "primary": "#DC143C",
-    "secondary": "#FFD700",
-    "accent": "#4169E1"
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have eight beautiful stripes running along my body - 'octotaenia' means eight bands!",
+      "text": "I'm red and yellow! I'm from the Red Sea!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm only found in the Red Sea - a special fish from a special place!",
-      "category": "ecology",
+      "text": "I'm called flasher because I flash my colors when I'm excited!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My red and yellow stripes make me one of the most striking flasher wrasses!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
     "habitat": "Coral reefs of the Red Sea",
-    "diet": "Zooplankton",
-    "size": "Up to 3.5 inches (9 cm)",
-    "lifespan": "5-7 years"
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

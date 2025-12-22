@@ -1,0 +1,47 @@
+{
+  "id": "yellow-seahorse",
+  "name": "Yellow Seahorse",
+  "scientificName": "Hippocampus kuda",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/yellow-seahorse.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright yellow like gold! I'm one of the most beautiful seahorses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change colors to match my surroundings!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very popular in the hobby! I'm hardy and adapt well!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

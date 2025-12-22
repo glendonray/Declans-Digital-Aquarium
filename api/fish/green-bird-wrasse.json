@@ -1,0 +1,47 @@
+{
+  "id": "green-bird-wrasse",
+  "name": "Green Bird Wrasse",
+  "scientificName": "Gomphosus caeruleus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "green",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/green-bird-wrasse.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm bright green with a long bird-like snout! I'm the green version of the bird wrasse!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I use my long snout to pick food from tight spaces!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need lots of space!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and invertebrates",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

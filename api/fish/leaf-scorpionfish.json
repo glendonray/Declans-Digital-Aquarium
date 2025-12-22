@@ -1,0 +1,47 @@
+{
+  "id": "leaf-scorpionfish",
+  "name": "Leaf Scorpionfish",
+  "scientificName": "Taenianotus triacanthus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Scorpaenidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "small",
+    "primaryColor": "multi",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/leaf-scorpionfish.svg",
+  "colors": {
+    "primary": "#FF9800",
+    "secondary": "#F44336",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I look exactly like a dead leaf floating in the water! My flat body and leaf-like fins are perfect camouflage!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change my color from yellow to red to brown to match different types of leaves!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I sway back and forth in the current, just like a leaf drifting in the water!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

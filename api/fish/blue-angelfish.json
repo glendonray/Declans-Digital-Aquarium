@@ -1,0 +1,47 @@
+{
+  "id": "blue-angelfish",
+  "name": "Blue Angelfish",
+  "scientificName": "Holacanthus bermudensis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Pomacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "disc",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/blue-angelfish.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm blue and yellow! I'm the blue cousin of the queen angelfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean! I'm one of the most beautiful angelfish!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need a huge tank!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Sponges, tunicates, and small invertebrates",
+    "size": "Up to 18 inches (45 cm)",
+    "lifespan": "20+ years"
+  }
+}
+

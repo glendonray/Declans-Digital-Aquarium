@@ -1,0 +1,47 @@
+{
+  "id": "crosshatch-triggerfish",
+  "name": "Crosshatch Triggerfish",
+  "scientificName": "Xanthichthys mento",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Balistidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/crosshatch-triggerfish.svg",
+  "colors": {
+    "primary": "#1976D2",
+    "secondary": "#64B5F6",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called crosshatch because I have crisscrossing lines on my body!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most expensive and beautiful triggerfish!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    },
+    {
+      "text": "I'm more peaceful than other triggerfish! I'm reef-safe!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

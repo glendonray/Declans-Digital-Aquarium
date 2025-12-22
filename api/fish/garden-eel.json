@@ -11,46 +11,36 @@
   "appearance": {
     "bodyShape": "elongated",
     "sizeCategory": "small",
-    "primaryColor": "silver",
+    "primaryColor": "white",
     "pattern": "spotted"
   },
   "image": "assets/fish/garden-eel.svg",
   "colors": {
-    "primary": "#E2E8F0",
-    "secondary": "#1E293B",
-    "accent": "#F97316"
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#9E9E9E"
   },
   "facts": [
     {
-      "text": "I live in a burrow in the sand! Only my head pokes out.",
-      "category": "habitat",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "When hundreds of us live together, we look like a garden of swaying plants!",
+      "text": "I live in a colony with hundreds of other garden eels - we look like a field of grass swaying in the current!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I catch plankton floating by in the current! I never leave my burrow.",
-      "category": "diet",
-      "sourceId": "eol"
+      "text": "I dig a burrow in the sand and spend my whole life with just my head and upper body sticking out!",
+      "category": "behavior",
+      "sourceId": "fishbase"
     },
     {
-      "text": "If you get too close, I disappear into my hole super fast!",
+      "text": "If something scary comes near, I quickly zip backwards into my burrow and disappear!",
       "category": "defense",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I sway back and forth to catch food floating past!",
-      "category": "behavior",
-      "sourceId": "fishbase"
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy bottoms near coral reefs",
-    "diet": "Plankton and tiny crustaceans",
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Plankton and small particles",
     "size": "Up to 16 inches (40 cm)",
-    "lifespan": "Unknown"
+    "lifespan": "10-15 years"
   }
 }

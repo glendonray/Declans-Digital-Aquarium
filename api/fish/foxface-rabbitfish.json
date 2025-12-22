@@ -5,52 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Siganidae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "medium",
     "primaryColor": "yellow",
-    "pattern": "solid"
+    "pattern": "mottled"
   },
   "image": "assets/fish/foxface-rabbitfish.svg",
   "colors": {
-    "primary": "#FDE047",
-    "secondary": "#1E293B",
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
     "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I'm called foxface because my face looks like a fox! See my pointy snout?",
+      "text": "I'm called foxface because my face looks like a fox!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My spines are venomous! If a predator tries to eat me, they get a painful poke.",
-      "category": "defense",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I change color when I'm stressed or sleeping! I turn blotchy brown to hide.",
-      "category": "biology",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I'm an algae-eating machine! I help keep the reef clean and healthy.",
-      "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I have a cute rabbit-like mouth that's perfect for nibbling on plants!",
+      "text": "I'm yellow with black patterns - I'm super distinctive!",
       "category": "biology",
       "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a great algae eater! I help keep tanks clean!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Western Pacific",
-    "diet": "Algae, seaweed, and marine plants",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 10 inches (25 cm)",
-    "lifespan": "5-10 years"
+    "lifespan": "8-12 years"
   }
 }

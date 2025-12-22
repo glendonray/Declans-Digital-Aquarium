@@ -9,38 +9,38 @@
     "family": "Pomacanthidae"
   },
   "appearance": {
-    "bodyShape": "oval",
+    "bodyShape": "disc",
     "sizeCategory": "small",
-    "primaryColor": "yellow",
-    "pattern": "bicolor"
+    "primaryColor": "multi",
+    "pattern": "gradient"
   },
   "image": "assets/fish/bicolor-angelfish.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#000080",
-    "accent": "#4169E1"
+    "primary": "#2196F3",
+    "secondary": "#FFEB3B",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm split right down the middle - my front half is yellow and my back half is deep blue!",
+      "text": "I'm half blue and half yellow! My colors are split right down the middle!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I look like two different fish joined together - nature's coolest color block design!",
+      "text": "I'm called bicolor because I have two colors!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a blue mask over my eyes that makes me look mysterious!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm reef-safe and won't bother corals! Perfect for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
+    "habitat": "Coral reefs of the Indo-Pacific",
     "diet": "Algae and small invertebrates",
-    "size": "Up to 6 inches (15 cm)",
-    "lifespan": "10-12 years"
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "10-15 years"
   }
 }

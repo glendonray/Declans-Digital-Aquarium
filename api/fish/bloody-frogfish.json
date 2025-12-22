@@ -1,0 +1,47 @@
+{
+  "id": "bloody-frogfish",
+  "name": "Bloody Frogfish",
+  "scientificName": "Antennarius sanguineus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Antennariidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/bloody-frogfish.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm bright red like blood! I'm called bloody because I'm so red!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a fishing rod on my head with a wiggly lure!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change my color to match my surroundings!",
+      "category": "defense",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 5 inches (13 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

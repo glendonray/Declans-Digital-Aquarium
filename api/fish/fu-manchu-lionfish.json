@@ -1,0 +1,47 @@
+{
+  "id": "fu-manchu-lionfish",
+  "name": "Fu Manchu Lionfish",
+  "scientificName": "Dendrochirus biocellatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Scorpaenidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/fu-manchu-lionfish.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called Fu Manchu because I have long whiskers like a Fu Manchu mustache!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm red with black spots - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the smallest lionfish! I'm perfect for smaller tanks!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

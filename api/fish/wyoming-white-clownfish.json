@@ -1,46 +1,46 @@
 {
   "id": "wyoming-white-clownfish",
   "name": "Wyoming White Clownfish",
-  "scientificName": "Amphiprion ocellaris (designer)",
+  "scientificName": "Amphiprion ocellaris",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "captive-bred",
+    "region": "indo-pacific",
     "family": "Pomacentridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "silver",
-    "pattern": "solid"
+    "primaryColor": "white",
+    "pattern": "banded"
   },
   "image": "assets/fish/wyoming-white-clownfish.svg",
   "colors": {
-    "primary": "#FFFAFA",
-    "secondary": "#FFFFFF",
-    "accent": "#FFA500"
+    "primary": "#FFFFFF",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I was first bred in Wyoming, USA - that's how I got my name! I'm a true American designer fish.",
+      "text": "I'm a designer clownfish that's mostly white! I'm super rare and beautiful!",
       "category": "biology",
       "sourceId": "captive-bred"
     },
     {
-      "text": "Wyoming Whites are one of the original designer clownfish varieties, starting the whole trend!",
-      "category": "biology",
+      "text": "I'm named Wyoming White because I was first bred in Wyoming!",
+      "category": "ecology",
       "sourceId": "captive-bred"
     },
     {
-      "text": "I still have a tiny bit of orange on my face and fins - like I'm blushing! It's my signature look.",
-      "category": "biology",
+      "text": "I'm one of the most expensive designer clownfish!",
+      "category": "ecology",
       "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Captive-bred for home aquariums",
-    "diet": "Pellets, frozen mysis shrimp, and brine shrimp",
-    "size": "Up to 3 inches (7.5 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific (captive-bred)",
+    "diet": "Zooplankton and small crustaceans",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "6-10 years"
   }
 }

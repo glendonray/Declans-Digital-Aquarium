@@ -12,35 +12,35 @@
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "red",
-    "pattern": "velvet"
+    "pattern": "gradient"
   },
   "image": "assets/fish/red-velvet-fairy-wrasse.svg",
   "colors": {
-    "primary": "#B22222",
-    "secondary": "#FFD700",
-    "accent": "#DC143C"
+    "primary": "#F44336",
+    "secondary": "#E91E63",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm covered in deep red scales that look like soft velvet fabric!",
+      "text": "I'm red like velvet! I'm one of the most beautiful fairy wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I come from the Maldives and surrounding Indian Ocean waters!",
-      "category": "ecology",
+      "text": "I'm from the Indian Ocean! I'm super colorful!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "My red color gets even more intense when I'm displaying for females!",
+      "text": "I'm very peaceful and great for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Maldives",
-    "diet": "Zooplankton and small crustaceans",
-    "size": "Up to 3 inches (7.5 cm)",
+    "habitat": "Coral reefs of the Indian Ocean",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

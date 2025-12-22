@@ -1,0 +1,47 @@
+{
+  "id": "dwarf-frogfish",
+  "name": "Dwarf Frogfish",
+  "scientificName": "Antennarius pauciradiatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Antennariidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "tiny",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/dwarf-frogfish.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm the smallest frogfish! I'm only about 2 inches long!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a fishing rod on my head with a wiggly lure!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm perfect for nano tanks! I'm super tiny!",
+      "category": "biology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "epaulette-shark",
+  "name": "Epaulette Shark",
+  "scientificName": "Hemiscyllium ocellatum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "australia",
+    "family": "Hemiscylliidae"
+  },
+  "appearance": {
+    "bodyShape": "streamlined",
+    "sizeCategory": "small",
+    "primaryColor": "brown",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/epaulette-shark.svg",
+  "colors": {
+    "primary": "#8D6E63",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm brown with black spots! I'm called epaulette because I have epaulette-like spots!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can walk on my fins! I'm like a walking shark!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the few sharks that can live in home aquariums!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of Australia",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 3 feet (90 cm)",
+    "lifespan": "20-25 years"
+  }
+}
+

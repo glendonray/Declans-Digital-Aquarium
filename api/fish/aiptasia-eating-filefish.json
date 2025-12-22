@@ -1,0 +1,47 @@
+{
+  "id": "aiptasia-eating-filefish",
+  "name": "Aiptasia-Eating Filefish",
+  "scientificName": "Acreichthys tomentosus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Monacanthidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "green",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/aiptasia-eating-filefish.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#8BC34A",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called the Aiptasia-eating filefish because I eat Aiptasia anemones! Reef keepers love me!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm green with spots - I blend in perfectly with algae!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I help keep tanks clean by eating pest anemones!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Aiptasia anemones and small invertebrates",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

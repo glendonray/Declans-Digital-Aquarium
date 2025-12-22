@@ -11,36 +11,36 @@
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "pink",
-    "pattern": "filaments"
+    "primaryColor": "red",
+    "pattern": "gradient"
   },
   "image": "assets/fish/filamented-flasher-wrasse.svg",
   "colors": {
-    "primary": "#FF69B4",
-    "secondary": "#DC143C",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have long, thread-like extensions on my fins called filaments - they trail behind me!",
+      "text": "I'm red and yellow with long filaments on my fins! I'm super distinctive!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My filaments get longer as I get older - old males have the longest trailing fins!",
+      "text": "I'm called filamented because I have long filaments on my fins!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I spread my filaments wide during my flashing display - it's quite a show!",
+      "text": "I'm very peaceful and great for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Indonesia",
-    "diet": "Zooplankton",
-    "size": "Up to 3.5 inches (9 cm)",
-    "lifespan": "5-7 years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
   }
 }

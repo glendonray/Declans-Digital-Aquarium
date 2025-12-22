@@ -1,0 +1,46 @@
+{
+  "id": "blue-spot-watchman-goby",
+  "name": "Blue Spot Watchman Goby",
+  "scientificName": "Cryptocentrus pavoninoides",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/blue-spot-watchman-goby.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#2196F3",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm yellow with blue spots! I'm called watchman because I watch over my burrow!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I form a symbiotic relationship with pistol shrimp!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and detritus",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}

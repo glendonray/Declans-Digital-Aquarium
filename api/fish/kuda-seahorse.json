@@ -1,0 +1,47 @@
+{
+  "id": "kuda-seahorse",
+  "name": "Kuda Seahorse",
+  "scientificName": "Hippocampus kuda",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
+    "pattern": "mottled"
+  },
+  "image": "assets/fish/kuda-seahorse.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm also called the Common Seahorse! I'm one of the most popular seahorses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can change colors to match my surroundings! I'm a master of disguise!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "The male carries the babies in his pouch until they're ready to hatch!",
+      "category": "reproduction",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 7 inches (18 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

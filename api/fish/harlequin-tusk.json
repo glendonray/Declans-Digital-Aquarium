@@ -10,37 +10,37 @@
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "large",
-    "primaryColor": "blue",
-    "pattern": "barred"
+    "sizeCategory": "medium",
+    "primaryColor": "multi",
+    "pattern": "banded"
   },
   "image": "assets/fish/harlequin-tusk.svg",
   "colors": {
-    "primary": "#4169E1",
-    "secondary": "#FF4500",
-    "accent": "#FFFFFF"
+    "primary": "#FF1744",
+    "secondary": "#00E5FF",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have bright blue teeth that stick out like tusks - pretty cool, right?",
+      "text": "I have bright blue teeth that look like tusks! They help me crunch through hard shells of crabs and snails.",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm covered in bold orange, blue, and white bars - like a colorful prison uniform!",
+      "text": "My body has amazing orange and blue stripes - I'm one of the most colorful wrasses in the ocean!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I use my tusks to flip over urchins and crunch through shells!",
+      "text": "I'm a bit shy at first, but once I get comfortable, I become the star of the tank!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Australia and the Western Pacific",
-    "diet": "Sea urchins, crustaceans, and mollusks",
-    "size": "Up to 12 inches (30 cm)",
-    "lifespan": "10+ years"
+    "habitat": "Coral reefs of the Western Pacific",
+    "diet": "Crustaceans, mollusks, and small fish",
+    "size": "Up to 10 inches (25 cm)",
+    "lifespan": "10-15 years"
   }
 }

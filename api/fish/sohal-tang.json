@@ -11,35 +11,35 @@
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "large",
-    "primaryColor": "silver",
+    "primaryColor": "blue",
     "pattern": "striped"
   },
   "image": "assets/fish/sohal-tang.svg",
   "colors": {
-    "primary": "#C0C0C0",
+    "primary": "#2196F3",
     "secondary": "#000000",
-    "accent": "#FF6600"
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I'm the king of Red Sea tangs! My bold black and white stripes command respect.",
+      "text": "I'm blue with white stripes and orange fins! I'm one of the most beautiful tangs!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a bright orange patch around my tail spine that warns other fish to stay away!",
-      "category": "defense",
+      "text": "I'm from the Red Sea! I'm also called the Red Sea Sailfin Tang!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm super territorial and will chase away fish much bigger than me from my area!",
+      "text": "I'm very aggressive and need a huge tank!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Red Sea coral reefs and surge zones",
-    "diet": "Algae and seaweed",
+    "habitat": "Coral reefs of the Red Sea",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 16 inches (40 cm)",
     "lifespan": "20+ years"
   }

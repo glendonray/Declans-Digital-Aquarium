@@ -1,0 +1,47 @@
+{
+  "id": "clown-goby-black",
+  "name": "Clown Goby Black",
+  "scientificName": "Gobiodon unicolor",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "black",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/clown-goby-black.svg",
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm black! I'm super tiny and cute!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in coral branches! I'm perfect for nano tanks!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral branches of the Indo-Pacific",
+    "diet": "Tiny crustaceans and zooplankton",
+    "size": "Up to 1.5 inches (4 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

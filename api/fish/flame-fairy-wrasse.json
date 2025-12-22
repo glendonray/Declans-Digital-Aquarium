@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "hawaii",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "red",
-    "pattern": "flame"
+    "pattern": "gradient"
   },
   "image": "assets/fish/flame-fairy-wrasse.svg",
   "colors": {
-    "primary": "#DC143C",
-    "secondary": "#FF4500",
-    "accent": "#FFD700"
+    "primary": "#F44336",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm bright red like a flame! I'm one of the most intensely colored fairy wrasses.",
+      "text": "I'm bright red like a flame! I'm one of the most beautiful fairy wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm endemic to Hawaii - you can only find me in Hawaiian waters!",
-      "category": "ecology",
+      "text": "I'm from Hawaii! I'm super colorful!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm also called Jordan's Fairy Wrasse after the famous scientist David Starr Jordan!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Deep reef slopes of Hawaii",
-    "diet": "Zooplankton and small invertebrates",
-    "size": "Up to 4 inches (10 cm)",
+    "habitat": "Coral reefs of Hawaii",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

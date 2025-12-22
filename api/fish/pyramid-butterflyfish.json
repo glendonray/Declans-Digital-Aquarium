@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Chaetodontidae"
   },
   "appearance": {
     "bodyShape": "disc",
     "sizeCategory": "small",
     "primaryColor": "yellow",
-    "pattern": "pyramid"
+    "pattern": "solid"
   },
   "image": "assets/fish/pyramid-butterflyfish.svg",
   "colors": {
-    "primary": "#FFD700",
+    "primary": "#FFEB3B",
     "secondary": "#FFFFFF",
-    "accent": "#8B4513"
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a white pyramid shape on my side - nature's geometry!",
+      "text": "I'm bright yellow with a white pyramid shape on my side! I'm super distinctive!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the best butterflyfish for reef tanks - I eat plankton, not coral!",
-      "category": "ecology",
+      "text": "I love to school in huge groups! We look like a golden cloud swimming together!",
+      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to swim in big schools above the reef picking plankton from the water!",
+      "text": "I'm reef-safe and won't eat corals! Perfect for reef tanks!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Outer reef slopes of the Pacific",
-    "diet": "Zooplankton - reef safe!",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Zooplankton",
     "size": "Up to 7 inches (18 cm)",
-    "lifespan": "10-15 years"
+    "lifespan": "5-10 years"
   }
 }

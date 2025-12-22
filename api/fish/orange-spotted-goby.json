@@ -1,46 +1,46 @@
 {
   "id": "orange-spotted-goby",
   "name": "Orange Spotted Goby",
-  "scientificName": "Amblyeleotris guttata",
+  "scientificName": "Valenciennea puellaris",
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Gobiidae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "silver",
+    "primaryColor": "orange",
     "pattern": "spotted"
   },
   "image": "assets/fish/orange-spotted-goby.svg",
   "colors": {
-    "primary": "#C0C0C0",
-    "secondary": "#FF8C00",
-    "accent": "#4169E1"
+    "primary": "#FF9800",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm also called the Diamond Goby because I sparkle like a gem!",
+      "text": "I'm also called the Diamond Goby because of my beautiful orange spots that sparkle like gems!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I sift through the sand looking for food - I'm like a living vacuum cleaner!",
+      "text": "I sift through sand all day looking for food - I'm like a little underwater vacuum cleaner!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I help keep the aquarium sand clean and stirred up!",
+      "text": "I help keep the sand bed clean by constantly filtering it through my gills!",
       "category": "ecology",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy bottoms near coral reefs",
-    "diet": "Microorganisms and detritus in sand",
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Small invertebrates and detritus from sand",
     "size": "Up to 4 inches (10 cm)",
-    "lifespan": "5-7 years"
+    "lifespan": "5-8 years"
   }
 }

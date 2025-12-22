@@ -11,36 +11,36 @@
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "medium",
-    "primaryColor": "black",
+    "primaryColor": "brown",
     "pattern": "solid"
   },
   "image": "assets/fish/chocolate-tang.svg",
   "colors": {
-    "primary": "#3D2314",
-    "secondary": "#FF8C00",
+    "primary": "#8D6E63",
+    "secondary": "#000000",
     "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I'm the adult form of the Mimic Tang! I've changed from yellow to rich chocolate brown.",
+      "text": "I'm brown like chocolate! I'm the brown phase of the mimic tang!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My orange spot near my eye and white tail spine make me easy to recognize!",
-      "category": "biology",
+      "text": "I can change my color to mimic other fish!",
+      "category": "defense",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm named for my delicious chocolate-brown color - but I'm definitely not edible!",
-      "category": "biology",
+      "text": "I'm very active and love to swim around!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Algae and plant matter",
-    "size": "Up to 10 inches (25 cm)",
-    "lifespan": "15+ years"
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
+    "size": "Up to 8 inches (20 cm)",
+    "lifespan": "15-20 years"
   }
 }

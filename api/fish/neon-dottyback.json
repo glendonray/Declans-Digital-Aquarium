@@ -5,41 +5,41 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "indian-ocean",
+    "region": "indo-pacific",
     "family": "Pseudochromidae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "blue",
-    "pattern": "striped"
+    "pattern": "solid"
   },
   "image": "assets/fish/neon-dottyback.svg",
   "colors": {
-    "primary": "#00BFFF",
-    "secondary": "#FF8C00",
+    "primary": "#2196F3",
+    "secondary": "#64B5F6",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have an electric blue stripe that glows like neon!",
+      "text": "I'm bright blue like a neon sign! I glow in the tank!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm orange with a brilliant blue racing stripe down my body!",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm feisty and will defend my cave from fish much bigger than me!",
+      "text": "I'm super active and always exploring! I have tons of personality!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm hardy and great for beginners! I adapt well to aquarium life!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Indian Ocean",
-    "diet": "Small invertebrates and zooplankton",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }

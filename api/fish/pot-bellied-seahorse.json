@@ -1,0 +1,47 @@
+{
+  "id": "pot-bellied-seahorse",
+  "name": "Pot-Bellied Seahorse",
+  "scientificName": "Hippocampus abdominalis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "australia",
+    "family": "Syngnathidae"
+  },
+  "appearance": {
+    "bodyShape": "unusual",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/pot-bellied-seahorse.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm called pot-bellied because I have a big round belly!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm the largest seahorse! I can grow up to 12 inches!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from Australia! I'm one of the most popular seahorses!",
+      "category": "habitat",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Seagrass beds and rocky reefs of Australia",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

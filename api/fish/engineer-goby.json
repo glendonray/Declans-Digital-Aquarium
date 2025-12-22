@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Pholidichthyidae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/engineer-goby.svg",
   "colors": {
-    "primary": "#1A1A1A",
+    "primary": "#000000",
     "secondary": "#FFFFFF",
-    "accent": "#4169E1"
+    "accent": "#9E9E9E"
   },
   "facts": [
     {
-      "text": "I dig elaborate tunnel systems under the sand - I'm an engineering expert!",
+      "text": "I'm called an engineer because I dig complex tunnel systems under the sand!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "When young, I look like a sea snake with black and white stripes!",
+      "text": "I have black and white stripes like a zebra! I look completely different as a baby!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm not actually a true goby, but I got the name because I look like one!",
-      "category": "biology",
+      "text": "I live in huge colonies with hundreds of other engineer gobies in our tunnel city!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy and muddy reef areas",
-    "diet": "Small invertebrates and detritus",
-    "size": "Up to 13 inches (33 cm)",
-    "lifespan": "8-10 years"
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and detritus",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "8-12 years"
   }
 }

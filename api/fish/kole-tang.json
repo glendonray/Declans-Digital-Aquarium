@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "hawaii",
     "family": "Acanthuridae"
   },
   "appearance": {
     "bodyShape": "oval",
-    "sizeCategory": "medium",
-    "primaryColor": "yellow",
-    "pattern": "lined"
+    "sizeCategory": "small",
+    "primaryColor": "brown",
+    "pattern": "spotted"
   },
   "image": "assets/fish/kole-tang.svg",
   "colors": {
-    "primary": "#8B4513",
-    "secondary": "#FFD700",
-    "accent": "#1E90FF"
+    "primary": "#8D6E63",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm also called the Yellow Eye Tang because of my bright golden-yellow eye ring!",
+      "text": "I'm brown with yellow spots and a yellow eye! I'm also called the Yellow Eye Tang!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have special comb-like teeth that help me scrape algae off rocks - nature's toothbrush!",
-      "category": "biology",
+      "text": "I'm from Hawaii! I'm one of the best algae eaters!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm a bristletooth tang - my teeth are flexible bristles, not hard like other tangs!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Hawaii and the Pacific",
-    "diet": "Detritus and film algae",
-    "size": "Up to 7 inches (18 cm)",
-    "lifespan": "15+ years"
+    "habitat": "Coral reefs of Hawaii",
+    "diet": "Algae and detritus",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "15-20 years"
   }
 }

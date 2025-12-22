@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "indian-ocean",
+    "region": "indo-pacific",
     "family": "Blenniidae"
   },
   "appearance": {
-    "bodyShape": "elongated",
+    "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "yellow",
     "pattern": "solid"
   },
   "image": "assets/fish/midas-blenny.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#FFA500",
-    "accent": "#4169E1"
+    "primary": "#FFC107",
+    "secondary": "#FFEB3B",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm golden yellow like the mythical King Midas's gold touch!",
+      "text": "I'm bright golden yellow like King Midas's gold! I'm one of the most beautiful blennies!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I swim in the water column mimicking anthias fish - unusual for a blenny!",
+      "text": "I love to swim in the water column like a wrasse, not just perch on rocks!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a cute forked tail and swim with an undulating motion!",
-      "category": "biology",
+      "text": "I'm very active and always exploring my tank! I have tons of personality!",
+      "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Indian Ocean and Red Sea",
-    "diet": "Plankton and small invertebrates",
-    "size": "Up to 5 inches (13 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small crustaceans",
+    "size": "Up to 4 inches (10 cm)",
     "lifespan": "5-8 years"
   }
 }

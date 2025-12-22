@@ -1,0 +1,47 @@
+{
+  "id": "dwarf-lionfish",
+  "name": "Dwarf Lionfish",
+  "scientificName": "Dendrochirus brachypterus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Scorpaenidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/dwarf-lionfish.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm the smallest lionfish! I'm perfect for smaller tanks!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm red with white stripes - I'm super cute and colorful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Fuzzy Lionfish because of my fuzzy fins!",
+      "category": "biology",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

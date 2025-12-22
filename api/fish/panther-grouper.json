@@ -1,0 +1,47 @@
+{
+  "id": "panther-grouper",
+  "name": "Panther Grouper",
+  "scientificName": "Cromileptes altivelis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Serranidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "large",
+    "primaryColor": "white",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/panther-grouper.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm white with black spots like a panther! I'm one of the most beautiful groupers!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm also called the Humpback Grouper!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need a huge tank!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

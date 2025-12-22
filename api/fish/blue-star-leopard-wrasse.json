@@ -1,0 +1,47 @@
+{
+  "id": "blue-star-leopard-wrasse",
+  "name": "Blue Star Leopard Wrasse",
+  "scientificName": "Macropharyngodon bipartitus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/blue-star-leopard-wrasse.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with black spots! I'm the blue version of the leopard wrasse!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm called blue star because I have blue star-like spots!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very difficult to keep because I need live food!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and live food",
+    "size": "Up to 4 inches (10 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

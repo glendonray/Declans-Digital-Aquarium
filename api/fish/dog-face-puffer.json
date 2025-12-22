@@ -1,0 +1,47 @@
+{
+  "id": "dog-face-puffer",
+  "name": "Dog Face Puffer",
+  "scientificName": "Arothron nigropunctatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Tetraodontidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "yellow",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/dog-face-puffer.svg",
+  "colors": {
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm called a dog face because my face looks like a dog's face!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm yellow with black spots - I'm super cute and friendly!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very intelligent and can learn tricks!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Hard-shelled invertebrates and crustaceans",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

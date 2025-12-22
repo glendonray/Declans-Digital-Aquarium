@@ -1,0 +1,46 @@
+{
+  "id": "clown-goby-green",
+  "name": "Clown Goby Green",
+  "scientificName": "Gobiodon histrio",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "green",
+    "pattern": "solid"
+  },
+  "image": "assets/fish/clown-goby-green.svg",
+  "colors": {
+    "primary": "#4CAF50",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm bright green! I'm super tiny and cute!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I live in coral branches! I'm perfect for nano tanks!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral branches of the Indo-Pacific",
+    "diet": "Tiny crustaceans and zooplankton",
+    "size": "Up to 1.5 inches (4 cm)",
+    "lifespan": "3-5 years"
+  }
+}

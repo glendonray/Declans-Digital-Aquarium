@@ -5,41 +5,41 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Gobiidae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "tiny",
     "primaryColor": "red",
-    "pattern": "flame"
+    "pattern": "spotted"
   },
   "image": "assets/fish/flaming-prawn-goby.svg",
   "colors": {
-    "primary": "#DC143C",
-    "secondary": "#FF4500",
-    "accent": "#FFFFFF"
+    "primary": "#FF1744",
+    "secondary": "#FF6B35",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm tiny but I have a huge dorsal fin that looks like a flaming sail!",
+      "text": "I'm super tiny and super rare! I'm bright red with white spots - I look like a little fire!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm red and orange like fire - my name is perfect!",
-      "category": "biology",
-      "sourceId": "fishbase"
+      "text": "I'm one of the smallest and most expensive gobies in the hobby!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
     },
     {
-      "text": "I live with snapping shrimps in their burrows - we're roommates!",
+      "text": "I'm very secretive and like to hide in tiny crevices!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Sandy bottoms near coral reefs",
-    "diet": "Tiny invertebrates",
+    "habitat": "Coral rubble and crevices of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 1 inch (2.5 cm)",
     "lifespan": "2-4 years"
   }

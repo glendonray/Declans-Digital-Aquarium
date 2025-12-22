@@ -1,0 +1,47 @@
+{
+  "id": "blue-spotted-puffer",
+  "name": "Blue Spotted Puffer",
+  "scientificName": "Arothron caeruleopunctatus",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Tetraodontidae"
+  },
+  "appearance": {
+    "bodyShape": "round",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/blue-spotted-puffer.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with black spots! I'm super colorful and beautiful!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I can inflate myself to twice my normal size when I'm scared!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very intelligent and can recognize my owner!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Hard-shelled invertebrates and crustaceans",
+    "size": "Up to 12 inches (30 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "id": "bluehead-wrasse",
+  "name": "Bluehead Wrasse",
+  "scientificName": "Thalassoma bifasciatum",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/bluehead-wrasse.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with black and white stripes! I'm called bluehead because I have a blue head!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm from the Caribbean! I'm one of the most common wrasses!",
+      "category": "habitat",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very active and need lots of space!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 6 inches (15 cm)",
+    "lifespan": "8-12 years"
+  }
+}
+

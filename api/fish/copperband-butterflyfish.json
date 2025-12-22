@@ -10,47 +10,37 @@
   },
   "appearance": {
     "bodyShape": "disc",
-    "sizeCategory": "medium",
-    "primaryColor": "orange",
+    "sizeCategory": "small",
+    "primaryColor": "yellow",
     "pattern": "banded"
   },
   "image": "assets/fish/copperband-butterflyfish.svg",
   "colors": {
-    "primary": "#F97316",
-    "secondary": "#FFFFFF",
+    "primary": "#FFC107",
+    "secondary": "#FFEB3B",
     "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I have a super long snout! It helps me reach into tiny cracks to find yummy food.",
+      "text": "I have a long, pointy snout that I use like tweezers to pick tiny food out of tight spaces!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a fake eye spot near my tail! Predators think my tail is my head.",
-      "category": "defense",
-      "sourceId": "fishbase"
+      "text": "I'm famous for eating Aiptasia anemones - reef keepers love me for keeping their tanks clean!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     },
     {
-      "text": "I'm one of the few fish that eats aiptasia anemones! They're a pesky reef pest.",
-      "category": "diet",
+      "text": "My copper-colored bands make me look like I'm wearing stripes! I'm one of the most elegant butterflyfish!",
+      "category": "biology",
       "sourceId": "eol"
-    },
-    {
-      "text": "My copper stripes shine like pennies! That's how I got my name.",
-      "category": "biology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I mate for life! Once I find my partner, we swim together forever.",
-      "category": "reproduction",
-      "sourceId": "fishbase"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Indo-Pacific",
-    "diet": "Small invertebrates, worms, and anemones",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small invertebrates, Aiptasia anemones, and worms",
     "size": "Up to 8 inches (20 cm)",
-    "lifespan": "10+ years"
+    "lifespan": "5-10 years"
   }
 }

@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "blue",
+    "primaryColor": "green",
     "pattern": "striped"
   },
   "image": "assets/fish/melanurus-wrasse.svg",
   "colors": {
-    "primary": "#4169E1",
-    "secondary": "#32CD32",
-    "accent": "#FFD700"
+    "primary": "#4CAF50",
+    "secondary": "#000000",
+    "accent": "#FFC107"
   },
   "facts": [
     {
-      "text": "I'm also called the Tail Spot Wrasse because of the dark spot on my tail fin!",
+      "text": "I'm green with black stripes and a yellow tail! I'm one of the most popular wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I help keep aquariums clean by eating pest flatworms and bristleworms!",
-      "category": "ecology",
+      "text": "I'm also called the Tailspot Wrasse!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have beautiful horizontal stripes of blue, green, and yellow!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm great at eating pests! I'm very helpful!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Western Pacific",
-    "diet": "Small invertebrates, worms, and pests",
-    "size": "Up to 5 inches (12 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and pests",
+    "size": "Up to 4 inches (10 cm)",
     "lifespan": "5-8 years"
   }
 }

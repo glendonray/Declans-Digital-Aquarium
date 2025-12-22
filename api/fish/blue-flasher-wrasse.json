@@ -5,7 +5,7 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "western-pacific",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
@@ -16,31 +16,31 @@
   },
   "image": "assets/fish/blue-flasher-wrasse.svg",
   "colors": {
-    "primary": "#4169E1",
-    "secondary": "#FF4500",
-    "accent": "#FFD700"
+    "primary": "#2196F3",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm one of the most brilliantly blue flasher wrasses - I glow like neon!",
+      "text": "I'm blue and yellow! I'm called flasher because I flash my colors when I'm excited!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My scientific name 'cyaneus' means blue - scientists knew my best feature!",
+      "text": "I'm one of the most beautiful flasher wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I come from Indonesia and I'm highly prized for my electric blue color!",
-      "category": "ecology",
-      "sourceId": "eol"
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Indonesia",
-    "diet": "Zooplankton",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 3 inches (8 cm)",
-    "lifespan": "5-7 years"
+    "lifespan": "5-8 years"
   }
 }

@@ -9,38 +9,38 @@
     "family": "Acanthuridae"
   },
   "appearance": {
-    "bodyShape": "disc",
+    "bodyShape": "oval",
     "sizeCategory": "medium",
-    "primaryColor": "yellow",
-    "pattern": "solid"
+    "primaryColor": "brown",
+    "pattern": "striped"
   },
   "image": "assets/fish/scopas-tang.svg",
   "colors": {
-    "primary": "#6B8E23",
-    "secondary": "#808000",
+    "primary": "#8D6E63",
+    "secondary": "#000000",
     "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I'm sometimes called the Brown Tang, but I'm actually a beautiful olive-brown color that can change!",
+      "text": "I'm brown with black stripes! I'm also called the Brown Tang!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the hardiest tangs and great for beginner reef keepers!",
-      "category": "ecology",
+      "text": "I'm very hardy and great for beginners!",
+      "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love eating algae so much, I help keep aquarium tanks super clean!",
+      "text": "I'm very active and love to swim around!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Algae - I'm a great algae cleaner!",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Algae and small invertebrates",
     "size": "Up to 8 inches (20 cm)",
-    "lifespan": "20+ years"
+    "lifespan": "15-20 years"
   }
 }

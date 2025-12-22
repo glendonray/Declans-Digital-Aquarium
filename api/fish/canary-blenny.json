@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "pacific",
+    "region": "indo-pacific",
     "family": "Blenniidae"
   },
   "appearance": {
-    "bodyShape": "elongated",
+    "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "yellow",
     "pattern": "solid"
   },
   "image": "assets/fish/canary-blenny.svg",
   "colors": {
-    "primary": "#FFFF00",
-    "secondary": "#FFD700",
-    "accent": "#4169E1"
+    "primary": "#FFEB3B",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I'm bright canary yellow - like a little swimming songbird!",
+      "text": "I'm bright yellow like a canary! I'm one of the most colorful blennies!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have venomous fangs! But don't worry - I only bite predators, not people.",
+      "text": "I have venomous fangs! But I only use them for defense - I'm actually very peaceful!",
       "category": "defense",
       "sourceId": "fishbase"
     },
     {
-      "text": "My venom makes fish spit me out after they try to eat me!",
-      "category": "defense",
+      "text": "I'm a fang blenny - I have special teeth that can deliver a mild venom!",
+      "category": "biology",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of Fiji and the Pacific",
-    "diet": "Zooplankton and small invertebrates",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
     "size": "Up to 4 inches (10 cm)",
-    "lifespan": "4-6 years"
+    "lifespan": "5-8 years"
   }
 }

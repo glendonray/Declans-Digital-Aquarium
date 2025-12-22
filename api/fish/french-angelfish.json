@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "atlantic",
+    "region": "caribbean",
     "family": "Pomacanthidae"
   },
   "appearance": {
     "bodyShape": "disc",
     "sizeCategory": "large",
     "primaryColor": "black",
-    "pattern": "scaled"
+    "pattern": "spotted"
   },
   "image": "assets/fish/french-angelfish.svg",
   "colors": {
-    "primary": "#1A1A1A",
-    "secondary": "#FFD700",
+    "primary": "#000000",
+    "secondary": "#FFC107",
     "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "Each of my black scales has a golden yellow edge - I look like I'm wearing golden chainmail!",
+      "text": "I'm black with yellow spots! I'm one of the most distinctive angelfish!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "When I'm young, I have bright yellow stripes! I change completely as I grow up.",
-      "category": "biology",
+      "text": "I'm from the Caribbean! I'm also called the French Pomacanthus!",
+      "category": "habitat",
       "sourceId": "fishbase"
     },
     {
-      "text": "French angelfish mate for life! Pairs stay together and defend their territory as a team.",
+      "text": "I'm very active and need a huge tank!",
       "category": "behavior",
       "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Caribbean and Gulf of Mexico",
-    "diet": "Sponges, algae, and soft corals",
-    "size": "Up to 16 inches (41 cm)",
-    "lifespan": "15+ years"
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Sponges, tunicates, and small invertebrates",
+    "size": "Up to 16 inches (40 cm)",
+    "lifespan": "20+ years"
   }
 }

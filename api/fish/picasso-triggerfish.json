@@ -16,41 +16,31 @@
   },
   "image": "assets/fish/picasso-triggerfish.svg",
   "colors": {
-    "primary": "#F5DEB3",
-    "secondary": "#1E40AF",
-    "accent": "#FACC15"
+    "primary": "#FFC107",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I look like a painting by the artist Picasso! My patterns are wild and colorful.",
+      "text": "I'm named after Picasso because my patterns look like abstract art!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I have a special spine that locks into place when I hide in holes! Predators can't pull me out.",
-      "category": "defense",
+      "text": "I have a trigger on my dorsal fin that I can lock to wedge myself in crevices!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "My Hawaiian name is 'humuhumunukunukuapua'a'! It's one of the longest fish names ever.",
-      "category": "biology",
-      "sourceId": "eol"
-    },
-    {
-      "text": "I blow jets of water at the sand to uncover hidden snacks like crabs and urchins!",
+      "text": "I'm very intelligent and can recognize my owner!",
       "category": "behavior",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm the state fish of Hawaii! The locals love me.",
-      "category": "ecology",
-      "sourceId": "fishbase"
+      "sourceId": "eol"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs in the Indo-Pacific and Hawaii",
-    "diet": "Crustaceans, sea urchins, and mollusks",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans, mollusks, and fish",
     "size": "Up to 10 inches (25 cm)",
-    "lifespan": "8-10 years"
+    "lifespan": "10-15 years"
   }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "neon-goby",
+  "name": "Neon Goby",
+  "scientificName": "Elacatinus oceanops",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "caribbean",
+    "family": "Gobiidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "tiny",
+    "primaryColor": "blue",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/neon-goby.svg",
+  "colors": {
+    "primary": "#00E5FF",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm a cleaner fish! Bigger fish come to me so I can eat parasites off their skin - I'm like a fish doctor!",
+      "category": "behavior",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a bright blue stripe running down my body - I glow like a neon sign!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I set up cleaning stations on the reef where other fish line up to get cleaned!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Caribbean",
+    "diet": "Parasites and small crustaceans",
+    "size": "Up to 2 inches (5 cm)",
+    "lifespan": "3-5 years"
+  }
+}
+

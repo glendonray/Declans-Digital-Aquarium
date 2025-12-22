@@ -10,37 +10,37 @@
   },
   "appearance": {
     "bodyShape": "disc",
-    "sizeCategory": "medium",
+    "sizeCategory": "small",
     "primaryColor": "yellow",
-    "pattern": "masked"
+    "pattern": "banded"
   },
   "image": "assets/fish/raccoon-butterflyfish.svg",
   "colors": {
-    "primary": "#FFD700",
+    "primary": "#FFEB3B",
     "secondary": "#000000",
     "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I have a black mask over my eyes like a raccoon - sneaky looking!",
+      "text": "I'm named after a raccoon because I have a black mask around my eyes!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm one of the hardiest butterflyfish and eat many different foods!",
-      "category": "ecology",
+      "text": "I'm yellow with black stripes and a mask - I look like a little bandit!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm active at night - a nocturnal butterfly!",
+      "text": "I'm very hardy and great for beginners! I adapt well to aquarium life!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Anemones, coral polyps, and algae",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small invertebrates and coral polyps",
     "size": "Up to 8 inches (20 cm)",
-    "lifespan": "10-15 years"
+    "lifespan": "5-10 years"
   }
 }

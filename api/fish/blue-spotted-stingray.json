@@ -1,0 +1,47 @@
+{
+  "id": "blue-spotted-stingray",
+  "name": "Blue Spotted Stingray",
+  "scientificName": "Taeniura lymma",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Dasyatidae"
+  },
+  "appearance": {
+    "bodyShape": "flat",
+    "sizeCategory": "medium",
+    "primaryColor": "blue",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/blue-spotted-stingray.svg",
+  "colors": {
+    "primary": "#2196F3",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "facts": [
+    {
+      "text": "I'm blue with blue spots! I'm one of the most beautiful rays!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have a venomous stinger on my tail! Don't touch me!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the few rays that can live in home aquariums!",
+      "category": "ecology",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Sandy bottoms near coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and mollusks",
+    "size": "Up to 14 inches (35 cm) disc width",
+    "lifespan": "15-20 years"
+  }
+}
+

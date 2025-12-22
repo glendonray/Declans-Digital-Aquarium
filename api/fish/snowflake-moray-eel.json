@@ -1,0 +1,47 @@
+{
+  "id": "snowflake-moray-eel",
+  "name": "Snowflake Moray Eel",
+  "scientificName": "Echidna nebulosa",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Muraenidae"
+  },
+  "appearance": {
+    "bodyShape": "elongated",
+    "sizeCategory": "medium",
+    "primaryColor": "white",
+    "pattern": "spotted"
+  },
+  "image": "assets/fish/snowflake-moray-eel.svg",
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "accent": "#9E9E9E"
+  },
+  "facts": [
+    {
+      "text": "I'm called snowflake because I have white spots that look like snowflakes!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm white with black spots - I'm super distinctive!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful for an eel! I'm reef-safe!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs and rocky areas of the Indo-Pacific",
+    "diet": "Small crustaceans and fish",
+    "size": "Up to 24 inches (60 cm)",
+    "lifespan": "15-20 years"
+  }
+}
+

@@ -5,42 +5,42 @@
   "taxonomy": {
     "waterType": "saltwater",
     "habitat": "reef",
-    "region": "red-sea",
+    "region": "indo-pacific",
     "family": "Labridae"
   },
   "appearance": {
     "bodyShape": "oval",
     "sizeCategory": "small",
-    "primaryColor": "pink",
+    "primaryColor": "red",
     "pattern": "gradient"
   },
   "image": "assets/fish/social-fairy-wrasse.svg",
   "colors": {
-    "primary": "#FF69B4",
-    "secondary": "#FFD700",
-    "accent": "#FF4500"
+    "primary": "#F44336",
+    "secondary": "#FFC107",
+    "accent": "#000000"
   },
   "facts": [
     {
-      "text": "I love hanging out with friends! I swim in large groups with other fairy wrasses.",
+      "text": "I'm red and yellow! I'm called social because I love to be with other fish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and get along well with other fish!",
       "category": "behavior",
       "sourceId": "fishbase"
     },
     {
-      "text": "I'm from the Red Sea and have beautiful pink and yellow coloring!",
-      "category": "ecology",
-      "sourceId": "fishbase"
-    },
-    {
-      "text": "I'm also called the Long-fin Fairy Wrasse because of my flowing fins!",
-      "category": "biology",
-      "sourceId": "eol"
+      "text": "I'm great for reef tanks! I'm super social!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs of the Red Sea",
-    "diet": "Zooplankton and tiny crustaceans",
-    "size": "Up to 3 inches (7.5 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
     "lifespan": "5-8 years"
   }
 }

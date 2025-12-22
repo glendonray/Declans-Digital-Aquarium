@@ -1,0 +1,47 @@
+{
+  "id": "red-finned-fairy-wrasse",
+  "name": "Red-Finned Fairy Wrasse",
+  "scientificName": "Cirrhilabrus rubripinnis",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Labridae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "small",
+    "primaryColor": "red",
+    "pattern": "gradient"
+  },
+  "image": "assets/fish/red-finned-fairy-wrasse.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#E91E63",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red with red fins! I'm called red-finned because I have red fins!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm one of the most beautiful fairy wrasses!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm very peaceful and great for reef tanks!",
+      "category": "behavior",
+      "sourceId": "captive-bred"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and zooplankton",
+    "size": "Up to 3 inches (8 cm)",
+    "lifespan": "5-8 years"
+  }
+}
+

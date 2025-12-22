@@ -12,35 +12,35 @@
     "bodyShape": "oval",
     "sizeCategory": "small",
     "primaryColor": "yellow",
-    "pattern": "solid"
+    "pattern": "spotted"
   },
   "image": "assets/fish/yellow-coris-wrasse.svg",
   "colors": {
-    "primary": "#FFD700",
-    "secondary": "#32CD32",
-    "accent": "#000000"
+    "primary": "#FFEB3B",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
   },
   "facts": [
     {
-      "text": "I'm bright canary yellow - like a swimming piece of sunshine!",
+      "text": "I'm bright yellow with black spots! I'm one of the most popular wrasses!",
       "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "I love to hunt for pests like pyramidellid snails and bristleworms!",
-      "category": "behavior",
+      "text": "I'm also called the Canary Wrasse!",
+      "category": "biology",
       "sourceId": "fishbase"
     },
     {
-      "text": "At night, I bury myself in the sand to sleep - cozy and safe!",
+      "text": "I'm great at eating pests! I'm very helpful!",
       "category": "behavior",
-      "sourceId": "eol"
+      "sourceId": "captive-bred"
     }
   ],
   "profile": {
-    "habitat": "Coral reefs throughout the Indo-Pacific",
-    "diet": "Small invertebrates and worms",
-    "size": "Up to 5 inches (12 cm)",
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small crustaceans and pests",
+    "size": "Up to 4 inches (10 cm)",
     "lifespan": "5-8 years"
   }
 }

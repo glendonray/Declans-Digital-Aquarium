@@ -1,0 +1,47 @@
+{
+  "id": "volitan-lionfish-red",
+  "name": "Volitan Lionfish (Red)",
+  "scientificName": "Pterois volitans",
+  "taxonomy": {
+    "waterType": "saltwater",
+    "habitat": "reef",
+    "region": "indo-pacific",
+    "family": "Scorpaenidae"
+  },
+  "appearance": {
+    "bodyShape": "oval",
+    "sizeCategory": "medium",
+    "primaryColor": "red",
+    "pattern": "striped"
+  },
+  "image": "assets/fish/volitan-lionfish-red.svg",
+  "colors": {
+    "primary": "#F44336",
+    "secondary": "#FFFFFF",
+    "accent": "#000000"
+  },
+  "facts": [
+    {
+      "text": "I'm red with white stripes! I'm one of the most beautiful lionfish!",
+      "category": "biology",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I have venomous spines on my fins! Don't touch me!",
+      "category": "defense",
+      "sourceId": "fishbase"
+    },
+    {
+      "text": "I'm a master hunter! I use my fins to corner prey!",
+      "category": "behavior",
+      "sourceId": "eol"
+    }
+  ],
+  "profile": {
+    "habitat": "Coral reefs of the Indo-Pacific",
+    "diet": "Small fish and crustaceans",
+    "size": "Up to 15 inches (38 cm)",
+    "lifespan": "10-15 years"
+  }
+}
+
